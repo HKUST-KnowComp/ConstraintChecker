@@ -1,4 +1,6 @@
-# README
+# Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data
+
+[Original repo](https://github.com/SHUMKASHUN/Automate-CoT)
 
 ## 代码结构
 - datasets: 数据集。数据集格式如下。其中prompt是一个要被填空的句子，每个空（大括号）按照targets被填。

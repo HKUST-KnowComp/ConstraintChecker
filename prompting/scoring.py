@@ -9,7 +9,7 @@ def parse():
   import argparse
   parser = argparse.ArgumentParser()
   parser.add_argument('-s', '--split', type=str, required=False,
-    default='dev', choices=['dev', 'tst'])
+    default='tst', choices=['dev', 'tst'])
   parser.add_argument('-q', '--question', type=str, required=False,
     default='0', choices=['moe', 'l2m', '0', '1', '2', '3'])
   parser.add_argument('-p', '--prediction_file', type=str, required=False,
@@ -229,7 +229,7 @@ if __name__ == '__main__':
   analyze_l2m_result()
 
 '''
-python prompting/scoring.py -q 0 \
+python prompting/scoring.py -s dev -q 0 \
   -p gpt3.5-turbo_template1.txt
 
 

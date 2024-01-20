@@ -1,0 +1,9 @@
+torch==1.7.1
+openai
+pandas
+transformers==4.18.0
+accelerate
+datasets
+scikit-learn
+nltk
+tqdm
