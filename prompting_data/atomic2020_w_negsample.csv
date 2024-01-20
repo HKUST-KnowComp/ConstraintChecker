@@ -1,0 +1,1001 @@
+head,relation,tail,label,modification,assertion
+PersonX pries open,xAttr,PersonX tools,0,2,"PersonX pries open, thus it can be seen about PersonX's attribute that PersonX tools"
+PersonX sees a snake,xAttr,PersonX be frightened,1,0,"PersonX sees a snake, thus it can be seen about PersonX's attribute that PersonX be frightened"
+PersonX pulls ___ out of the water,xNeed,PersonX swim in the water,1,0,The event PersonX pulls ___ out of the water will not happen unless PersonX swim in the water
+PersonX makes PersonY smile,xIntent,PersonX feel loved,0,2,"PersonX makes PersonY smile, thus it can be seen about PersonX's intention that PersonX feel loved"
+PersonX can play with PersonY,xReact,PersonX decide to play a game,0,1,"PersonX can play with PersonY, thus as a result on PersonX's emotion, PersonX decide to play a game"
+PersonX wants to sleep,xReact,PersonX feel more rested for the next day,1,0,"PersonX wants to sleep, thus as a result on PersonX's emotion, PersonX feel more rested for the next day"
+PersonX meets PersonY for lunch,xAttr,PersonX be entertainment,1,0,"PersonX meets PersonY for lunch, thus it can be seen about PersonX's attribute that PersonX be entertainment"
+PersonX does n't want to waste it,xIntent,PersonX make a budget,0,2,"PersonX does n't want to waste it, thus it can be seen about PersonX's intention that PersonX make a budget"
+PersonX evaluates the patient 's ___,xIntent,PersonX intended to take care of the patient,1,0,"PersonX evaluates the patient 's ___, thus it can be seen about PersonX's intention that PersonX intended to take care of the patient"
+PersonX looks like men,xReact,PersonX wear sunglasses,0,2,"PersonX looks like men, thus as a result on PersonX's emotion, PersonX wear sunglasses"
+PersonX throws the ball,xIntent,PersonX intended to play catch,1,0,"PersonX throws the ball, thus it can be seen about PersonX's intention that PersonX intended to play catch"
+PersonX throws PersonX's hat in the ring,xNeed,PersonX challenge someone to a fight,1,0,The event PersonX throws PersonX's hat in the ring will not happen unless PersonX challenge someone to a fight
+PersonX looks like a fool,xReact,PersonX fall,0,2,"PersonX looks like a fool, thus as a result on PersonX's emotion, PersonX fall"
+PersonX gets a manicure,xNeed,PersonX wait for the manicurist,1,0,The event PersonX gets a manicure will not happen unless PersonX wait for the manicurist
+PersonX has trouble falling asleep,xNeed,PersonX be under covers,1,0,The event PersonX has trouble falling asleep will not happen unless PersonX be under covers
+PersonX gets a call ___,xNeed,PersonX feel happy,0,1,The event PersonX gets a call ___ will not happen unless PersonX feel happy
+PersonX asks the doctor,xNeed,PersonX be inquisitive,0,2,The event PersonX asks the doctor will not happen unless PersonX be inquisitive
+PersonX goes about PersonX's work,xIntent,PersonX intended to finish their job,1,0,"PersonX goes about PersonX's work, thus it can be seen about PersonX's intention that PersonX intended to finish their job"
+PersonX pays ___ late,xNeed,PersonX be stressed,0,2,The event PersonX pays ___ late will not happen unless PersonX be stressed
+PersonX comes into PersonX's own,xNeed,PersonX feel independent,0,1,The event PersonX comes into PersonX's own will not happen unless PersonX feel independent
+PersonX exceeds ___ in value,xAttr,PersonX be valuable,1,0,"PersonX exceeds ___ in value, thus it can be seen about PersonX's attribute that PersonX be valuable"
+PersonX brings down the house,xNeed,PersonX intended to give a great performance,0,1,The event PersonX brings down the house will not happen unless PersonX intended to give a great performance
+PersonX gives PersonY help,xAttr,PersonX feel helpful,0,2,"PersonX gives PersonY help, thus it can be seen about PersonX's attribute that PersonX feel helpful"
+PersonX finds a good spot,xIntent,PersonX look for what they want,0,1,"PersonX finds a good spot, thus it can be seen about PersonX's intention that PersonX look for what they want"
+PersonX stands on PersonX's head,oReact,PersonX intended to show off,0,1,"PersonX stands on PersonX's head, thus as a result on PersonY's emotion, PersonX intended to show off"
+PersonX sees all of the animals,oReact,PersonX visits a zoo,0,1,"PersonX sees all of the animals, thus as a result on PersonY's emotion, PersonX visits a zoo"
+PersonX throws the baby out with the bathwater,xIntent,PersonX feel a sense of loss,0,1,"PersonX throws the baby out with the bathwater, thus it can be seen about PersonX's intention that PersonX feel a sense of loss"
+PersonX meets the love of PersonX's life,xAttr,PersonX be hopeful,1,0,"PersonX meets the love of PersonX's life, thus it can be seen about PersonX's attribute that PersonX be hopeful"
+PersonX takes ___ out for a ride,xReact,PersonX feel glad,1,0,"PersonX takes ___ out for a ride, thus as a result on PersonX's emotion, PersonX feel glad"
+PersonX changes ___ frequently,xNeed,PersonX be free-spirited,0,2,The event PersonX changes ___ frequently will not happen unless PersonX be free-spirited
+PersonX confronts PersonY's roommate,xAttr,PersonX be honest,1,0,"PersonX confronts PersonY's roommate, thus it can be seen about PersonX's attribute that PersonX be honest"
+PersonX tries sushi before,xIntent,PersonX intended to eat something,1,0,"PersonX tries sushi before, thus it can be seen about PersonX's intention that PersonX intended to eat something"
+PersonX sings PersonX's heart,xNeed,PersonX be full of life,0,1,The event PersonX sings PersonX's heart will not happen unless PersonX be full of life
+PersonX takes PersonY up on the offer,xIntent,PersonX intended to do something with person y,1,0,"PersonX takes PersonY up on the offer, thus it can be seen about PersonX's intention that PersonX intended to do something with person y"
+PersonX blows PersonY's mind,xAttr,PersonX feel cool,0,2,"PersonX blows PersonY's mind, thus it can be seen about PersonX's attribute that PersonX feel cool"
+PersonX enters PersonX's office,xNeed,PersonX go to the office,1,0,The event PersonX enters PersonX's office will not happen unless PersonX go to the office
+PersonX watches PersonY go,xAttr,PersonX intended to see where person goes ,0,1,"PersonX watches PersonY go, thus it can be seen about PersonX's attribute that PersonX intended to see where person goes "
+PersonX helps ___ with problems,xIntent,PersonX intended to see his company's success,1,0,"PersonX helps ___ with problems, thus it can be seen about PersonX's intention that PersonX intended to see his company's success"
+PersonX is PersonY's boyfriend,xAttr,PersonX feel love towards persony,0,2,"PersonX is PersonY's boyfriend, thus it can be seen about PersonX's attribute that PersonX feel love towards persony"
+PersonX drives all the way,xNeed,PersonX get in the car,1,0,The event PersonX drives all the way will not happen unless PersonX get in the car
+PersonX wipes PersonX's forehead,xIntent,PersonX intended to be clean ,1,0,"PersonX wipes PersonX's forehead, thus it can be seen about PersonX's intention that PersonX intended to be clean "
+PersonX commits another ___,xNeed,PersonX have done it before,1,0,The event PersonX commits another ___ will not happen unless PersonX have done it before
+PersonX comes ___ from school,xAttr,PersonX feel happy to go home,0,1,"PersonX comes ___ from school, thus it can be seen about PersonX's attribute that PersonX feel happy to go home"
+PersonX feels terrible,xReact,PersonX feel mad,1,0,"PersonX feels terrible, thus as a result on PersonX's emotion, PersonX feel mad"
+PersonX pulls PersonY's car over,xAttr,PersonX catch up and pull behind them,0,2,"PersonX pulls PersonY's car over, thus it can be seen about PersonX's attribute that PersonX catch up and pull behind them"
+PersonX stands on stage,xAttr,PersonX be confident,1,0,"PersonX stands on stage, thus it can be seen about PersonX's attribute that PersonX be confident"
+PersonX gives PersonY what-for,xNeed,PersonX be angry,1,0,The event PersonX gives PersonY what-for will not happen unless PersonX be angry
+have extreme enthusiasm,xNeed,PersonX have zeal,1,0,The event have extreme enthusiasm will not happen unless PersonX have zeal
+PersonX gets dressed,xIntent,PersonX intended to look nice,1,0,"PersonX gets dressed, thus it can be seen about PersonX's intention that PersonX intended to look nice"
+PersonX throws the food,xIntent,PersonX intended to show disatisfaction,1,0,"PersonX throws the food, thus it can be seen about PersonX's intention that PersonX intended to show disatisfaction"
+PersonX goes down the toilet,xIntent,PersonX be untalented,0,1,"PersonX goes down the toilet, thus it can be seen about PersonX's intention that PersonX be untalented"
+PersonX lights a candle,xNeed,PersonX be thoughtful,0,2,The event PersonX lights a candle will not happen unless PersonX be thoughtful
+PersonX kisses PersonY cheek,oReact,PersonX be expressive,0,1,"PersonX kisses PersonY cheek, thus as a result on PersonY's emotion, PersonX be expressive"
+PersonX employs another ___,xAttr,PersonX intended to watch something interesting,0,1,"PersonX employs another ___, thus it can be seen about PersonX's attribute that PersonX intended to watch something interesting"
+PersonX watches one with PersonY,oReact,PersonX intended to be entertained,0,2,"PersonX watches one with PersonY, thus as a result on PersonY's emotion, PersonX intended to be entertained"
+PersonX calls god 's ___,xAttr,PersonX be biblical,1,0,"PersonX calls god 's ___, thus it can be seen about PersonX's attribute that PersonX be biblical"
+PersonX possesses PersonY knowledge,xNeed,PersonX learn from persony,1,0,The event PersonX possesses PersonY knowledge will not happen unless PersonX learn from persony
+PersonX spends a ___ working,xNeed,PersonX intended to earn money,0,1,The event PersonX spends a ___ working will not happen unless PersonX intended to earn money
+PersonX finds a gold ring,xReact,PersonX feel curious whos ring it is,1,0,"PersonX finds a gold ring, thus as a result on PersonX's emotion, PersonX feel curious whos ring it is"
+PersonX links together ___,xNeed,PersonX do research,1,0,The event PersonX links together ___ will not happen unless PersonX do research
+PersonX decides to order pizza instead,xNeed,PersonX feel satsified,0,2,The event PersonX decides to order pizza instead will not happen unless PersonX feel satsified
+PersonX takes a bow,xIntent,PersonX intended to take the heat,1,0,"PersonX takes a bow, thus it can be seen about PersonX's intention that PersonX intended to take the heat"
+PersonX puts the top,xNeed,PersonX find a top,1,0,The event PersonX puts the top will not happen unless PersonX find a top
+PersonX encourages PersonX,xIntent,PersonX intended to be motivated,1,0,"PersonX encourages PersonX, thus it can be seen about PersonX's intention that PersonX intended to be motivated"
+PersonX loves the meal,xReact,PersonX be appreciative,0,2,"PersonX loves the meal, thus as a result on PersonX's emotion, PersonX be appreciative"
+PersonX lasts all day,xNeed,PersonX sleep all night,1,0,The event PersonX lasts all day will not happen unless PersonX sleep all night
+PersonX makes PersonY change,oReact,PersonX be aggressive,0,1,"PersonX makes PersonY change, thus as a result on PersonY's emotion, PersonX be aggressive"
+PersonX leaves PersonY ___ alone,xAttr,PersonX walk away,0,1,"PersonX leaves PersonY ___ alone, thus it can be seen about PersonX's attribute that PersonX walk away"
+PersonX feels ___ better,xNeed,PersonX take medicine,1,0,The event PersonX feels ___ better will not happen unless PersonX take medicine
+PersonX finishes ___ last night,oReact,PersonX have to do it,0,1,"PersonX finishes ___ last night, thus as a result on PersonY's emotion, PersonX have to do it"
+PersonX sees PersonY ago,xReact,PersonX intended to meet old friend,0,2,"PersonX sees PersonY ago, thus as a result on PersonX's emotion, PersonX intended to meet old friend"
+PersonX continues driving,xNeed,PersonX see car incident,1,0,The event PersonX continues driving will not happen unless PersonX see car incident
+PersonX organizes and ___ collectively,xAttr,PersonX be responsible,1,0,"PersonX organizes and ___ collectively, thus it can be seen about PersonX's attribute that PersonX be responsible"
+PersonX walks to PersonY's room,xAttr,PersonX go up the stairs,0,1,"PersonX walks to PersonY's room, thus it can be seen about PersonX's attribute that PersonX go up the stairs"
+PersonX has a test tomorrow,xNeed,PersonX show up for class,1,0,The event PersonX has a test tomorrow will not happen unless PersonX show up for class
+PersonX finally meet PersonY,xAttr,PersonX ask friend to be introduced to persony,0,1,"PersonX finally meet PersonY, thus it can be seen about PersonX's attribute that PersonX ask friend to be introduced to persony"
+PersonX takes matters,xIntent,PersonX intended to do a perfect job,1,0,"PersonX takes matters, thus it can be seen about PersonX's intention that PersonX intended to do a perfect job"
+PersonX needs a shot,xNeed,PersonX feel annoyed,0,1,The event PersonX needs a shot will not happen unless PersonX feel annoyed
+PersonX walks in front of PersonY,xIntent,PersonX intended to be in front of the line,1,0,"PersonX walks in front of PersonY, thus it can be seen about PersonX's intention that PersonX intended to be in front of the line"
+PersonX eats less,xReact,PersonX read a book about healthy eating,0,1,"PersonX eats less, thus as a result on PersonX's emotion, PersonX read a book about healthy eating"
+PersonX beats around the bush,xIntent,PersonX intended to not talk about something,1,0,"PersonX beats around the bush, thus it can be seen about PersonX's intention that PersonX intended to not talk about something"
+PersonX knows much,xIntent,PersonX intended to be intimidating,1,0,"PersonX knows much, thus it can be seen about PersonX's intention that PersonX intended to be intimidating"
+PersonX gets a replacement,xNeed,PersonX turn in his keys,1,0,The event PersonX gets a replacement will not happen unless PersonX turn in his keys
+PersonX accidentally poured,xReact,PersonX feel clumsy,1,0,"PersonX accidentally poured, thus as a result on PersonX's emotion, PersonX feel clumsy"
+PersonX learns a new skill,xIntent,PersonX feel skillful,0,1,"PersonX learns a new skill, thus it can be seen about PersonX's intention that PersonX feel skillful"
+PersonX fills PersonY's lungs,xNeed,PersonX know cpr,1,0,The event PersonX fills PersonY's lungs will not happen unless PersonX know cpr
+PersonX gives PersonY instruction,xNeed,PersonX know what to do,1,0,The event PersonX gives PersonY instruction will not happen unless PersonX know what to do
+PersonX gets PersonX's hands dirty,xIntent,PersonX intended to do some labor intensive work,1,0,"PersonX gets PersonX's hands dirty, thus it can be seen about PersonX's intention that PersonX intended to do some labor intensive work"
+PersonX is also nervous,oReact,PersonX buys plane ticket,0,1,"PersonX is also nervous, thus as a result on PersonY's emotion, PersonX buys plane ticket"
+PersonX scars ___ away,xIntent,PersonX intended to get rid of him,1,0,"PersonX scars ___ away, thus it can be seen about PersonX's intention that PersonX intended to get rid of him"
+PersonX apprehends PersonY,xNeed,PersonX get close,1,0,The event PersonX apprehends PersonY will not happen unless PersonX get close
+PersonX discerns the lord 's ___,xNeed,PersonX be holy,0,2,The event PersonX discerns the lord 's ___ will not happen unless PersonX be holy
+PersonX rests PersonY's chin,xAttr,PersonX hold person y,0,2,"PersonX rests PersonY's chin, thus it can be seen about PersonX's attribute that PersonX hold person y"
+PersonX stops at the store,xIntent,PersonX intended to pick up some broccoli,1,0,"PersonX stops at the store, thus it can be seen about PersonX's intention that PersonX intended to pick up some broccoli"
+PersonX romps home,xNeed,PersonX notice the bad weather,1,0,The event PersonX romps home will not happen unless PersonX notice the bad weather
+PersonX decides to purchase it,xIntent,PersonX save up for something,0,2,"PersonX decides to purchase it, thus it can be seen about PersonX's intention that PersonX save up for something"
+PersonX buys PersonY,oReact,PersonX find someone selling people,0,1,"PersonX buys PersonY, thus as a result on PersonY's emotion, PersonX find someone selling people"
+PersonX makes the team,xNeed,PersonX practice,1,0,The event PersonX makes the team will not happen unless PersonX practice
+PersonX eats it,xNeed,PersonX feel happy,0,1,The event PersonX eats it will not happen unless PersonX feel happy
+PersonX chooses one 's ___,xIntent,PersonX ask friends,0,2,"PersonX chooses one 's ___, thus it can be seen about PersonX's intention that PersonX ask friends"
+PersonX starts working out every day,xIntent,PersonX intended to be in shape,1,0,"PersonX starts working out every day, thus it can be seen about PersonX's intention that PersonX intended to be in shape"
+PersonX spills PersonX's coffee,xNeed,PersonX feel clumsy,0,1,The event PersonX spills PersonX's coffee will not happen unless PersonX feel clumsy
+PersonX stops being friends,xAttr,PersonX feel upset,0,2,"PersonX stops being friends, thus it can be seen about PersonX's attribute that PersonX feel upset"
+PersonX considers briefly the ___,xAttr,PersonX be pensive,1,0,"PersonX considers briefly the ___, thus it can be seen about PersonX's attribute that PersonX be pensive"
+PersonX wants to fly,oReact,PersonX feel eager,0,1,"PersonX wants to fly, thus as a result on PersonY's emotion, PersonX feel eager"
+PersonX wins every ___,xNeed,PersonX practice their skills,1,0,The event PersonX wins every ___ will not happen unless PersonX practice their skills
+PersonX is happy for PersonY,xReact,PersonX get to know persony,0,2,"PersonX is happy for PersonY, thus as a result on PersonX's emotion, PersonX get to know persony"
+PersonX interprets the ___ in ways,xNeed,PersonX feel proud,0,2,The event PersonX interprets the ___ in ways will not happen unless PersonX feel proud
+PersonX believes also in PersonY,xAttr,PersonX be supportive,1,0,"PersonX believes also in PersonY, thus it can be seen about PersonX's attribute that PersonX be supportive"
+PersonX runs full speed,xIntent,PersonX start moving and gaining speed,0,2,"PersonX runs full speed, thus it can be seen about PersonX's intention that PersonX start moving and gaining speed"
+write story,xNeed,PersonX write about what know,1,0,The event write story will not happen unless PersonX write about what know
+PersonX would work,xAttr,PersonX be diligent,1,0,"PersonX would work, thus it can be seen about PersonX's attribute that PersonX be diligent"
+PersonX gives PersonY name,xIntent,PersonX be kind,0,2,"PersonX gives PersonY name, thus it can be seen about PersonX's intention that PersonX be kind"
+PersonX obeys every ___,xNeed,PersonX be a good listener,1,0,The event PersonX obeys every ___ will not happen unless PersonX be a good listener
+PersonX breaks PersonY heart,xAttr,PersonX talk,0,2,"PersonX breaks PersonY heart, thus it can be seen about PersonX's attribute that PersonX talk"
+PersonX gets to PersonY's feet,oReact,PersonX be understanding,0,1,"PersonX gets to PersonY's feet, thus as a result on PersonY's emotion, PersonX be understanding"
+PersonX does an amazing job,xNeed,PersonX meet all demands,1,0,The event PersonX does an amazing job will not happen unless PersonX meet all demands
+PersonX comes and see PersonY,xAttr,PersonX a car,0,1,"PersonX comes and see PersonY, thus it can be seen about PersonX's attribute that PersonX a car"
+PersonX keeps PersonY from starving,oReact,PersonX be compassionate,0,1,"PersonX keeps PersonY from starving, thus as a result on PersonY's emotion, PersonX be compassionate"
+PersonX gets a second job,xNeed,PersonX get in the car,1,0,The event PersonX gets a second job will not happen unless PersonX get in the car
+PersonX lays PersonY on the bed,xAttr,PersonX carry persony from the couch,0,2,"PersonX lays PersonY on the bed, thus it can be seen about PersonX's attribute that PersonX carry persony from the couch"
+PersonX gives the children ___,oReact,PersonX be friendly,0,1,"PersonX gives the children ___, thus as a result on PersonY's emotion, PersonX be friendly"
+PersonX burns PersonX's arm,xAttr,PersonX be violent,1,0,"PersonX burns PersonX's arm, thus it can be seen about PersonX's attribute that PersonX be violent"
+PersonX links ___ together,xNeed,PersonX find the parts,1,0,The event PersonX links ___ together will not happen unless PersonX find the parts
+PersonX buys a computer,oReact,PersonX intended to learn how to use a computer,0,1,"PersonX buys a computer, thus as a result on PersonY's emotion, PersonX intended to learn how to use a computer"
+PersonX prevents ___ from accessing,xIntent,PersonX intended to save the important thing from others,1,0,"PersonX prevents ___ from accessing, thus it can be seen about PersonX's intention that PersonX intended to save the important thing from others"
+PersonX plays PersonY's favorite song,xIntent,PersonX be musical,0,1,"PersonX plays PersonY's favorite song, thus it can be seen about PersonX's intention that PersonX be musical"
+PersonX puts everything,xNeed,PersonX have grocery shopping,1,0,The event PersonX puts everything will not happen unless PersonX have grocery shopping
+PersonX begs PersonY's parents for one,xAttr,PersonX be whingeing,1,0,"PersonX begs PersonY's parents for one, thus it can be seen about PersonX's attribute that PersonX be whingeing"
+get exercise,xNeed,PersonX train,1,0,The event get exercise will not happen unless PersonX train
+PersonX manages PersonY's ___ well,xNeed,PersonX be efficient,0,2,The event PersonX manages PersonY's ___ well will not happen unless PersonX be efficient
+PersonX is able to find it,xNeed,PersonX feel relieved,0,1,The event PersonX is able to find it will not happen unless PersonX feel relieved
+PersonX enjoys each other 's company,xNeed,PersonX some friends,1,0,The event PersonX enjoys each other 's company will not happen unless PersonX some friends
+PersonX mixes it up,xAttr,PersonX be bizzare,1,0,"PersonX mixes it up, thus it can be seen about PersonX's attribute that PersonX be bizzare"
+PersonX would n't fit,xAttr,PersonX be regretful,1,0,"PersonX would n't fit, thus it can be seen about PersonX's attribute that PersonX be regretful"
+PersonX takes place on the day,xReact,PersonX feel nervous,1,0,"PersonX takes place on the day, thus as a result on PersonX's emotion, PersonX feel nervous"
+PersonX plays for PersonX,xReact,PersonX be narcissistic,0,1,"PersonX plays for PersonX, thus as a result on PersonX's emotion, PersonX be narcissistic"
+PersonX lays on PersonY's bed,xAttr,PersonX feel refreshed,0,1,"PersonX lays on PersonY's bed, thus it can be seen about PersonX's attribute that PersonX feel refreshed"
+PersonX learns new things,xAttr,PersonX intended to gain knowledge,0,1,"PersonX learns new things, thus it can be seen about PersonX's attribute that PersonX intended to gain knowledge"
+PersonX brings the puppy home,xNeed,PersonX adopt puppy,1,0,The event PersonX brings the puppy home will not happen unless PersonX adopt puppy
+PersonX grants a ___ by the ccc,xIntent,PersonX intended to have something ,1,0,"PersonX grants a ___ by the ccc, thus it can be seen about PersonX's intention that PersonX intended to have something "
+PersonX tastes the food,xAttr,PersonX intended to make sure it tastes okay,0,2,"PersonX tastes the food, thus it can be seen about PersonX's attribute that PersonX intended to make sure it tastes okay"
+PersonX goes ___ to dinner,xNeed,PersonX freshen up,1,0,The event PersonX goes ___ to dinner will not happen unless PersonX freshen up
+PersonX passes ___ around,xAttr,PersonX be open,1,0,"PersonX passes ___ around, thus it can be seen about PersonX's attribute that PersonX be open"
+PersonX leaves ___ on the table,xNeed,PersonX cook things,1,0,The event PersonX leaves ___ on the table will not happen unless PersonX cook things
+PersonX finds ___ to play with,xNeed,PersonX shoes,1,0,The event PersonX finds ___ to play with will not happen unless PersonX shoes
+PersonX finds gold,xReact,PersonX feel elated,1,0,"PersonX finds gold, thus as a result on PersonX's emotion, PersonX feel elated"
+PersonX tunes PersonX's guitar,xAttr,PersonX intended to play a song on the guitar,0,2,"PersonX tunes PersonX's guitar, thus it can be seen about PersonX's attribute that PersonX intended to play a song on the guitar"
+PersonX dates for years,xNeed,PersonX be content,0,2,The event PersonX dates for years will not happen unless PersonX be content
+PersonX covers the ___ completely,xIntent,PersonX intended to protect something,1,0,"PersonX covers the ___ completely, thus it can be seen about PersonX's intention that PersonX intended to protect something"
+PersonX waits for PersonY,xAttr,PersonX feel happy to wait,0,1,"PersonX waits for PersonY, thus it can be seen about PersonX's attribute that PersonX feel happy to wait"
+PersonX feels closer,xAttr,PersonX feel loving,0,2,"PersonX feels closer, thus it can be seen about PersonX's attribute that PersonX feel loving"
+PersonX hangs PersonY's head,xNeed,PersonX confront persony,1,0,The event PersonX hangs PersonY's head will not happen unless PersonX confront persony
+PersonX escorts PersonY back,xIntent,PersonX have asked persony to go with them,0,2,"PersonX escorts PersonY back, thus it can be seen about PersonX's intention that PersonX have asked persony to go with them"
+PersonX uses ___ regularly,xReact,PersonX feel normal,1,0,"PersonX uses ___ regularly, thus as a result on PersonX's emotion, PersonX feel normal"
+PersonX looks into PersonY's face,xAttr,PersonX intended to express affection for person y,0,2,"PersonX looks into PersonY's face, thus it can be seen about PersonX's attribute that PersonX intended to express affection for person y"
+PersonX has fun playing,xNeed,PersonX feel excited with the activities,0,2,The event PersonX has fun playing will not happen unless PersonX feel excited with the activities
+PersonX buys ___ one,xAttr,PersonX be kind,1,0,"PersonX buys ___ one, thus it can be seen about PersonX's attribute that PersonX be kind"
+PersonX feels relief,xIntent,PersonX feel like pain has been lessened,0,1,"PersonX feels relief, thus it can be seen about PersonX's intention that PersonX feel like pain has been lessened"
+PersonX loves the experience,xIntent,PersonX think about it,0,1,"PersonX loves the experience, thus it can be seen about PersonX's intention that PersonX think about it"
+PersonX spends ___ on the beach,xNeed,PersonX feel satisfied,0,2,The event PersonX spends ___ on the beach will not happen unless PersonX feel satisfied
+PersonX revenges PersonX's father 's ___,xNeed,PersonX feel bad,0,2,The event PersonX revenges PersonX's father 's ___ will not happen unless PersonX feel bad
+PersonX knows how to dance,xNeed,PersonX feel good,0,2,The event PersonX knows how to dance will not happen unless PersonX feel good
+PersonX spits nails,xNeed,PersonX find out a bad thing,1,0,The event PersonX spits nails will not happen unless PersonX find out a bad thing
+PersonX drops PersonY off at home,oReact,PersonX be alone,0,1,"PersonX drops PersonY off at home, thus as a result on PersonY's emotion, PersonX be alone"
+PersonX wears PersonX's boots,xIntent,PersonX intended to rush for the tennis court,1,0,"PersonX wears PersonX's boots, thus it can be seen about PersonX's intention that PersonX intended to rush for the tennis court"
+PersonX goes ___ at the lake,oReact,PersonX intended to relax,0,1,"PersonX goes ___ at the lake, thus as a result on PersonY's emotion, PersonX intended to relax"
+PersonX brings the puppy,xIntent,PersonX intended to entertain his children ,1,0,"PersonX brings the puppy, thus it can be seen about PersonX's intention that PersonX intended to entertain his children "
+get fit,xIntent,PersonX eat less,0,1,"get fit, thus it can be seen about PersonX's intention that PersonX eat less"
+PersonX puts PersonY to death,xAttr,PersonX be scary,1,0,"PersonX puts PersonY to death, thus it can be seen about PersonX's attribute that PersonX be scary"
+PersonX gets PersonX's belly button pierced,xIntent,PersonX intended to look cool,1,0,"PersonX gets PersonX's belly button pierced, thus it can be seen about PersonX's intention that PersonX intended to look cool"
+PersonX covers every aspect,xReact,PersonX learn information,0,1,"PersonX covers every aspect, thus as a result on PersonX's emotion, PersonX learn information"
+"PersonX buys ___ , though",xNeed,PersonX cash,1,0,"The event PersonX buys ___ , though will not happen unless PersonX cash"
+PersonX splashes ___ on PersonY's face,xAttr,PersonX see person y,0,1,"PersonX splashes ___ on PersonY's face, thus it can be seen about PersonX's attribute that PersonX see person y"
+PersonX falls on PersonY's neck,xAttr,PersonX feel still angry,0,2,"PersonX falls on PersonY's neck, thus it can be seen about PersonX's attribute that PersonX feel still angry"
+PersonX rises to the challenge,xAttr,PersonX be boasting,1,0,"PersonX rises to the challenge, thus it can be seen about PersonX's attribute that PersonX be boasting"
+PersonX wants to play outside,xReact,PersonX feel relaxed and refreshed,1,0,"PersonX wants to play outside, thus as a result on PersonX's emotion, PersonX feel relaxed and refreshed"
+PersonX makes a deal,xIntent,PersonX intended to cooperate with someone,1,0,"PersonX makes a deal, thus it can be seen about PersonX's intention that PersonX intended to cooperate with someone"
+PersonX plays ___ anymore,xNeed,PersonX be socially conscious,0,1,The event PersonX plays ___ anymore will not happen unless PersonX be socially conscious
+PersonX inflicts ___ on others,xAttr,PersonX be mean,1,0,"PersonX inflicts ___ on others, thus it can be seen about PersonX's attribute that PersonX be mean"
+PersonX gets the book,xIntent,PersonX feel satisfied,0,2,"PersonX gets the book, thus it can be seen about PersonX's intention that PersonX feel satisfied"
+PersonX eats quickly,xIntent,PersonX feel eager,0,2,"PersonX eats quickly, thus it can be seen about PersonX's intention that PersonX feel eager"
+PersonX breaks PersonX's hip,xReact,PersonX be old,0,2,"PersonX breaks PersonX's hip, thus as a result on PersonX's emotion, PersonX be old"
+PersonX cheats on PersonY,oReact,PersonY feel upset,1,0,"PersonX cheats on PersonY, thus as a result on PersonY's emotion, PersonY feel upset"
+PersonX prevents ___ from engaging,xNeed,PersonX help the children,1,0,The event PersonX prevents ___ from engaging will not happen unless PersonX help the children
+PersonX cuts swathes,xNeed,PersonX feel happy,0,2,The event PersonX cuts swathes will not happen unless PersonX feel happy
+PersonX puts ___ in a box,xIntent,PersonX intended to throw it out,1,0,"PersonX puts ___ in a box, thus it can be seen about PersonX's intention that PersonX intended to throw it out"
+PersonX sees wood,oReact,PersonX be aware,0,1,"PersonX sees wood, thus as a result on PersonY's emotion, PersonX be aware"
+PersonX gets a call from PersonY,xAttr,PersonX feel happy,0,2,"PersonX gets a call from PersonY, thus it can be seen about PersonX's attribute that PersonX feel happy"
+PersonX hits a telephone pole,xReact,PersonX feel shocked,1,0,"PersonX hits a telephone pole, thus as a result on PersonX's emotion, PersonX feel shocked"
+PersonX goes white water rafting,xNeed,PersonX pack supplies,1,0,The event PersonX goes white water rafting will not happen unless PersonX pack supplies
+PersonX disposes of PersonX's property,xReact,PersonX grab their property,0,1,"PersonX disposes of PersonX's property, thus as a result on PersonX's emotion, PersonX grab their property"
+PersonX shares ___ equally,xAttr,PersonX feel ecstatic,0,2,"PersonX shares ___ equally, thus it can be seen about PersonX's attribute that PersonX feel ecstatic"
+PersonX builds a ___ on the site,xNeed,PersonX buy land,1,0,The event PersonX builds a ___ on the site will not happen unless PersonX buy land
+PersonX begins to eat it,xNeed,PersonX prepare for consumption,1,0,The event PersonX begins to eat it will not happen unless PersonX prepare for consumption
+PersonX makes ___ every morning,xNeed,PersonX feel good for getting it done,0,2,The event PersonX makes ___ every morning will not happen unless PersonX feel good for getting it done
+PersonX owes PersonX's ___ to the fact,xReact,PersonX intended to take an opportunity,0,2,"PersonX owes PersonX's ___ to the fact, thus as a result on PersonX's emotion, PersonX intended to take an opportunity"
+PersonX surmounts every ___,xAttr,PersonX move forward with a plan,0,2,"PersonX surmounts every ___, thus it can be seen about PersonX's attribute that PersonX move forward with a plan"
+PersonX revises every ___,xNeed,PersonX intended to be nice,0,1,The event PersonX revises every ___ will not happen unless PersonX intended to be nice
+PersonX thinks would happen,xIntent,PersonX intended to feel positive ,1,0,"PersonX thinks would happen, thus it can be seen about PersonX's intention that PersonX intended to feel positive "
+PersonX calls the fire department,xIntent,PersonX intended to save a house,1,0,"PersonX calls the fire department, thus it can be seen about PersonX's intention that PersonX intended to save a house"
+PersonX visits PersonY friend,xAttr,PersonX be excitement,1,0,"PersonX visits PersonY friend, thus it can be seen about PersonX's attribute that PersonX be excitement"
+PersonX goes down the pan,xReact,PersonX feel like a failure,1,0,"PersonX goes down the pan, thus as a result on PersonX's emotion, PersonX feel like a failure"
+PersonX wipes PersonY's forehead,xIntent,PersonX intended to help their friend,1,0,"PersonX wipes PersonY's forehead, thus it can be seen about PersonX's intention that PersonX intended to help their friend"
+PersonX puts PersonY's phone,xNeed,PersonX take the phone,1,0,The event PersonX puts PersonY's phone will not happen unless PersonX take the phone
+PersonX waves ___ around,xIntent,PersonX send out signal,0,1,"PersonX waves ___ around, thus it can be seen about PersonX's intention that PersonX send out signal"
+PersonX studies for PersonX's math test,xNeed,PersonX study,1,0,The event PersonX studies for PersonX's math test will not happen unless PersonX study
+PersonX pulls PersonX's car over,xIntent,PersonX feel guilty,0,2,"PersonX pulls PersonX's car over, thus it can be seen about PersonX's intention that PersonX feel guilty"
+PersonX looks PersonY ___ in the face,xNeed,PersonX intended to see another person,0,2,The event PersonX looks PersonY ___ in the face will not happen unless PersonX intended to see another person
+PersonX is someone else 's ___,xIntent,PersonX ask for turn,0,2,"PersonX is someone else 's ___, thus it can be seen about PersonX's intention that PersonX ask for turn"
+PersonX finally got home,xIntent,PersonX intended to fix dinner,1,0,"PersonX finally got home, thus it can be seen about PersonX's intention that PersonX intended to fix dinner"
+PersonX enjoys life,xReact,PersonX be amiable,0,2,"PersonX enjoys life, thus as a result on PersonX's emotion, PersonX be amiable"
+PersonX wants to play an instrument,xIntent,PersonX feel accomplished,0,2,"PersonX wants to play an instrument, thus it can be seen about PersonX's intention that PersonX feel accomplished"
+PersonX loves cake,xReact,PersonX feel eager to eat it,1,0,"PersonX loves cake, thus as a result on PersonX's emotion, PersonX feel eager to eat it"
+PersonX feels elated,xReact,PersonX feel excited,1,0,"PersonX feels elated, thus as a result on PersonX's emotion, PersonX feel excited"
+PersonX taketh PersonY's ___ in vain,xIntent,PersonX intended to insult person y,1,0,"PersonX taketh PersonY's ___ in vain, thus it can be seen about PersonX's intention that PersonX intended to insult person y"
+PersonX helps PersonX's brother,xIntent,PersonX intended to them to have things a bit easier ,1,0,"PersonX helps PersonX's brother, thus it can be seen about PersonX's intention that PersonX intended to them to have things a bit easier "
+PersonX sees PersonY brother,xIntent,PersonX intended to play with y's brother,1,0,"PersonX sees PersonY brother, thus it can be seen about PersonX's intention that PersonX intended to play with y's brother"
+PersonX is watching a scary movie,xNeed,PersonX feel frightened,0,2,The event PersonX is watching a scary movie will not happen unless PersonX feel frightened
+PersonX sees PersonY's wife,xReact,PersonX be out shopping,0,2,"PersonX sees PersonY's wife, thus as a result on PersonX's emotion, PersonX be out shopping"
+PersonX makes bread,xIntent,PersonX an oven,0,2,"PersonX makes bread, thus it can be seen about PersonX's intention that PersonX an oven"
+PersonX catches the bus to work,xIntent,PersonX intended to make money,1,0,"PersonX catches the bus to work, thus it can be seen about PersonX's intention that PersonX intended to make money"
+PersonX thinks of a solution,xAttr,PersonX be well-educated,1,0,"PersonX thinks of a solution, thus it can be seen about PersonX's attribute that PersonX be well-educated"
+PersonX runs for class president,xNeed,PersonX apply to run,1,0,The event PersonX runs for class president will not happen unless PersonX apply to run
+PersonX is hard to find,xReact,PersonX be running,0,2,"PersonX is hard to find, thus as a result on PersonX's emotion, PersonX be running"
+PersonX asks PersonX's doctor,xAttr,PersonX be confused,1,0,"PersonX asks PersonX's doctor, thus it can be seen about PersonX's attribute that PersonX be confused"
+PersonX eats oatmeal,xNeed,PersonX measure out scoops,1,0,The event PersonX eats oatmeal will not happen unless PersonX measure out scoops
+PersonX leaves the library,xNeed,PersonX intended to get some dinner,0,1,The event PersonX leaves the library will not happen unless PersonX intended to get some dinner
+PersonX always beat ___,xNeed,PersonX intended to be a winner,0,2,The event PersonX always beat ___ will not happen unless PersonX intended to be a winner
+PersonX wants a car,xIntent,PersonX intended to be able to have transportation,1,0,"PersonX wants a car, thus it can be seen about PersonX's intention that PersonX intended to be able to have transportation"
+PersonX dances the night away,xNeed,PersonX feel fun,0,2,The event PersonX dances the night away will not happen unless PersonX feel fun
+PersonX searches PersonY,xNeed,PersonX be caring,0,1,The event PersonX searches PersonY will not happen unless PersonX be caring
+PersonX has lost PersonY's phone,xAttr,PersonX be careless,1,0,"PersonX has lost PersonY's phone, thus it can be seen about PersonX's attribute that PersonX be careless"
+PersonX comes to PersonY's house,xNeed,"PersonX feel happy, friendly towards person",0,2,"The event PersonX comes to PersonY's house will not happen unless PersonX feel happy, friendly towards person"
+PersonX has seen PersonX's day,xAttr,PersonX be perceptive,1,0,"PersonX has seen PersonX's day, thus it can be seen about PersonX's attribute that PersonX be perceptive"
+wait on line,xNeed,PersonX feel determined,0,2,The event wait on line will not happen unless PersonX feel determined
+PersonX is feeling sick,xReact,PersonX feel exhausted,1,0,"PersonX is feeling sick, thus as a result on PersonX's emotion, PersonX feel exhausted"
+PersonX makes a speech,xAttr,PersonX have a topic to speak on,0,1,"PersonX makes a speech, thus it can be seen about PersonX's attribute that PersonX have a topic to speak on"
+PersonX turns PersonY's life around,xIntent,PersonX intended to be helpful,1,0,"PersonX turns PersonY's life around, thus it can be seen about PersonX's intention that PersonX intended to be helpful"
+PersonX puts ___ to PersonY's lips,xIntent,PersonX intended to seduce someone,1,0,"PersonX puts ___ to PersonY's lips, thus it can be seen about PersonX's intention that PersonX intended to seduce someone"
+PersonX gets PersonY's mother,xNeed,PersonX go to the room,1,0,The event PersonX gets PersonY's mother will not happen unless PersonX go to the room
+PersonX visits PersonX's daughter,xIntent,PersonX be motherly,0,1,"PersonX visits PersonX's daughter, thus it can be seen about PersonX's intention that PersonX be motherly"
+PersonX offer PersonY opinion,xReact,PersonX be helpful,0,1,"PersonX offer PersonY opinion, thus as a result on PersonX's emotion, PersonX be helpful"
+PersonX catches PersonY's eye,oReact,PersonY feel good about themselves,1,0,"PersonX catches PersonY's eye, thus as a result on PersonY's emotion, PersonY feel good about themselves"
+PersonX meets the band,oReact,PersonX be fun to be around,0,1,"PersonX meets the band, thus as a result on PersonY's emotion, PersonX be fun to be around"
+PersonX watches the kids,xNeed,PersonX intended to make sure they are okay,0,2,The event PersonX watches the kids will not happen unless PersonX intended to make sure they are okay
+PersonX dies peacefully,xAttr,PersonX be old,1,0,"PersonX dies peacefully, thus it can be seen about PersonX's attribute that PersonX be old"
+PersonX pumps PersonX's gas,xNeed,PersonX feel broke,0,2,The event PersonX pumps PersonX's gas will not happen unless PersonX feel broke
+PersonX avoids every ___,xNeed,PersonX intended to remain neutral,0,1,The event PersonX avoids every ___ will not happen unless PersonX intended to remain neutral
+PersonX tans PersonY's hide,xIntent,PersonX intended to hurt persony,1,0,"PersonX tans PersonY's hide, thus it can be seen about PersonX's intention that PersonX intended to hurt persony"
+PersonX achieves PersonY level,xNeed,PersonX intended to be the best he can be,0,2,The event PersonX achieves PersonY level will not happen unless PersonX intended to be the best he can be
+PersonX sets PersonY up,xAttr,PersonX be mean,1,0,"PersonX sets PersonY up, thus it can be seen about PersonX's attribute that PersonX be mean"
+PersonX expresses PersonX's belief,xAttr,PersonX be talkative,1,0,"PersonX expresses PersonX's belief, thus it can be seen about PersonX's attribute that PersonX be talkative"
+PersonX prevents ___ from working,xAttr,PersonX have negative motives,0,2,"PersonX prevents ___ from working, thus it can be seen about PersonX's attribute that PersonX have negative motives"
+PersonX wants PersonY to come,xAttr,PersonX invite,0,1,"PersonX wants PersonY to come, thus it can be seen about PersonX's attribute that PersonX invite"
+PersonX keeps the peace,xAttr,PersonX work with both sides,0,1,"PersonX keeps the peace, thus it can be seen about PersonX's attribute that PersonX work with both sides"
+PersonX lies to PersonY,xIntent,PersonX intended to be dishonest,1,0,"PersonX lies to PersonY, thus it can be seen about PersonX's intention that PersonX intended to be dishonest"
+PersonX describes every ___,xIntent,PersonX intended to teach something,1,0,"PersonX describes every ___, thus it can be seen about PersonX's intention that PersonX intended to teach something"
+"PersonX eats , drank",xAttr,PersonX preparing food,0,2,"PersonX eats , drank, thus it can be seen about PersonX's attribute that PersonX preparing food"
+PersonX considers the ___ carefully,xNeed,PersonX intended to make sure he fully understands ,0,2,The event PersonX considers the ___ carefully will not happen unless PersonX intended to make sure he fully understands 
+PersonX stops calling PersonY,xReact,PersonX feel guilty,1,0,"PersonX stops calling PersonY, thus as a result on PersonX's emotion, PersonX feel guilty"
+PersonX earns money,xIntent,PersonX do work,0,1,"PersonX earns money, thus it can be seen about PersonX's intention that PersonX do work"
+PersonX wants to learn how to swim,xNeed,PersonX get to a pool,1,0,The event PersonX wants to learn how to swim will not happen unless PersonX get to a pool
+PersonX gets ___ on the paper,xNeed,PersonX think about what to write,1,0,The event PersonX gets ___ on the paper will not happen unless PersonX think about what to write
+PersonX visits my friend,xAttr,PersonX feel companionship,0,2,"PersonX visits my friend, thus it can be seen about PersonX's attribute that PersonX feel companionship"
+PersonX wears PersonX's clothes,oReact,PersonX intended to be clothed ,0,1,"PersonX wears PersonX's clothes, thus as a result on PersonY's emotion, PersonX intended to be clothed "
+PersonX is on PersonY's school 's basketball team,xNeed,PersonX practice,1,0,The event PersonX is on PersonY's school 's basketball team will not happen unless PersonX practice
+PersonX prevents ___ from coming,xAttr,PersonX be angry,1,0,"PersonX prevents ___ from coming, thus it can be seen about PersonX's attribute that PersonX be angry"
+PersonX sees what had happened,xReact,PersonX be interested,0,2,"PersonX sees what had happened, thus as a result on PersonX's emotion, PersonX be interested"
+take stand,oReact,PersonX willing to testify,0,1,"take stand, thus as a result on PersonY's emotion, PersonX willing to testify"
+PersonX leans back in PersonY's chair,xIntent,PersonX feel relaxed,0,2,"PersonX leans back in PersonY's chair, thus it can be seen about PersonX's intention that PersonX feel relaxed"
+PersonX shouts PersonY's name,xIntent,PersonX intended to get persons attention,1,0,"PersonX shouts PersonY's name, thus it can be seen about PersonX's intention that PersonX intended to get persons attention"
+PersonX gives it PersonY's name,xNeed,PersonX intended to it to not easily be forgotten,0,1,The event PersonX gives it PersonY's name will not happen unless PersonX intended to it to not easily be forgotten
+PersonX needs a lot of work,xAttr,PersonX feel downtrodden,0,2,"PersonX needs a lot of work, thus it can be seen about PersonX's attribute that PersonX feel downtrodden"
+PersonX wants ___ badly,xAttr,PersonX be wanting,1,0,"PersonX wants ___ badly, thus it can be seen about PersonX's attribute that PersonX be wanting"
+PersonX passes gas,xReact,PersonX be embarrassed,0,2,"PersonX passes gas, thus as a result on PersonX's emotion, PersonX be embarrassed"
+PersonX finds PersonY another ___,xNeed,PersonX get divorced,1,0,The event PersonX finds PersonY another ___ will not happen unless PersonX get divorced
+PersonX walks behind PersonY,xNeed,PersonX go to school,1,0,The event PersonX walks behind PersonY will not happen unless PersonX go to school
+PersonX has to take care of PersonY,xAttr,PersonX be responsible,1,0,"PersonX has to take care of PersonY, thus it can be seen about PersonX's attribute that PersonX be responsible"
+PersonX goes golfing,xReact,PersonX feel relaxed,1,0,"PersonX goes golfing, thus as a result on PersonX's emotion, PersonX feel relaxed"
+PersonX takes PersonX's watch off,xAttr,PersonX wear a watch,0,2,"PersonX takes PersonX's watch off, thus it can be seen about PersonX's attribute that PersonX wear a watch"
+PersonX knocks PersonY's socks off,xNeed,PersonX feel like a boss,0,2,The event PersonX knocks PersonY's socks off will not happen unless PersonX feel like a boss
+PersonX is well prepared,xAttr,PersonX feel ready,0,1,"PersonX is well prepared, thus it can be seen about PersonX's attribute that PersonX feel ready"
+PersonX leans back in PersonY's seat,xAttr,PersonX feel tired,0,2,"PersonX leans back in PersonY's seat, thus it can be seen about PersonX's attribute that PersonX feel tired"
+PersonX says grace,xAttr,PersonX intended to pray,0,2,"PersonX says grace, thus it can be seen about PersonX's attribute that PersonX intended to pray"
+PersonX understands the ___ in terms,oReact,PersonX analyze,0,1,"PersonX understands the ___ in terms, thus as a result on PersonY's emotion, PersonX analyze"
+PersonX takes as PersonY example,xNeed,PersonX intended to like the way ,0,2,The event PersonX takes as PersonY example will not happen unless PersonX intended to like the way 
+PersonX gives PersonX's name,xIntent,PersonX communicate,0,1,"PersonX gives PersonX's name, thus it can be seen about PersonX's intention that PersonX communicate"
+PersonX pays ___ at a rate,xNeed,PersonX pay off their debt,1,0,The event PersonX pays ___ at a rate will not happen unless PersonX pay off their debt
+PersonX finds ___ PersonY wanted,xIntent,PersonX be smart,0,1,"PersonX finds ___ PersonY wanted, thus it can be seen about PersonX's intention that PersonX be smart"
+PersonX tells PersonY it was okay,xIntent,PersonX feel good,0,2,"PersonX tells PersonY it was okay, thus it can be seen about PersonX's intention that PersonX feel good"
+PersonX orders ___ at a restaurant,xNeed,PersonX get the attention of the waiter,1,0,The event PersonX orders ___ at a restaurant will not happen unless PersonX get the attention of the waiter
+PersonX sits down across from PersonY,xIntent,PersonX intended to sit with person,1,0,"PersonX sits down across from PersonY, thus it can be seen about PersonX's intention that PersonX intended to sit with person"
+PersonX does n't know what to expect,xAttr,PersonX be confused,1,0,"PersonX does n't know what to expect, thus it can be seen about PersonX's attribute that PersonX be confused"
+PersonX is mad at PersonX,xNeed,PersonX do something wrong,1,0,The event PersonX is mad at PersonX will not happen unless PersonX do something wrong
+PersonX fudges the issue,xAttr,PersonX think of consequences of actions,0,1,"PersonX fudges the issue, thus it can be seen about PersonX's attribute that PersonX think of consequences of actions"
+PersonX communicates ___ to others,xNeed,PersonX feel knowlegeable,0,2,The event PersonX communicates ___ to others will not happen unless PersonX feel knowlegeable
+PersonX breaks PersonY's heart,xNeed,PersonX date,1,0,The event PersonX breaks PersonY's heart will not happen unless PersonX date
+PersonX is really disappointed,xNeed,PersonX have something fail,1,0,The event PersonX is really disappointed will not happen unless PersonX have something fail
+PersonX practices for weeks,xIntent,PersonX intended to get better,1,0,"PersonX practices for weeks, thus it can be seen about PersonX's intention that PersonX intended to get better"
+PersonX is on vacation in mexico,xIntent,PersonX plan for their vaccation,0,2,"PersonX is on vacation in mexico, thus it can be seen about PersonX's intention that PersonX plan for their vaccation"
+PersonX falls off the back of a truck,xNeed,PersonX lose their balance or slip while on the truck,1,0,The event PersonX falls off the back of a truck will not happen unless PersonX lose their balance or slip while on the truck
+PersonX washes the car,xAttr,PersonX gets a bucket of water,0,1,"PersonX washes the car, thus it can be seen about PersonX's attribute that PersonX gets a bucket of water"
+PersonX drives ___ in PersonY's new car,xIntent,PersonX be jealous,0,2,"PersonX drives ___ in PersonY's new car, thus it can be seen about PersonX's intention that PersonX be jealous"
+PersonX forces PersonY's way,xIntent,PersonX control persony,0,1,"PersonX forces PersonY's way, thus it can be seen about PersonX's intention that PersonX control persony"
+PersonX plays dodgeball,xReact,PersonX be athletic,0,1,"PersonX plays dodgeball, thus as a result on PersonX's emotion, PersonX be athletic"
+PersonX meets PersonY need,xAttr,PersonX be caring,1,0,"PersonX meets PersonY need, thus it can be seen about PersonX's attribute that PersonX be caring"
+PersonX finds PersonX's daughter,xAttr,PersonX be caring,1,0,"PersonX finds PersonX's daughter, thus it can be seen about PersonX's attribute that PersonX be caring"
+PersonX suits PersonY's purposes,xNeed,PersonX get to know persony,1,0,The event PersonX suits PersonY's purposes will not happen unless PersonX get to know persony
+PersonX holds ___ in place,xNeed,PersonX be helpful,0,2,The event PersonX holds ___ in place will not happen unless PersonX be helpful
+PersonX gives a small smile,xAttr,PersonX be self assured,1,0,"PersonX gives a small smile, thus it can be seen about PersonX's attribute that PersonX be self assured"
+PersonX buys ___ for PersonX's house,xAttr,PersonX be adventurous,1,0,"PersonX buys ___ for PersonX's house, thus it can be seen about PersonX's attribute that PersonX be adventurous"
+PersonX smells something foul,oReact,PersonX be appalled,0,1,"PersonX smells something foul, thus as a result on PersonY's emotion, PersonX be appalled"
+PersonX lets PersonY's guard,xNeed,PersonX intended to be caring,0,2,The event PersonX lets PersonY's guard will not happen unless PersonX intended to be caring
+PersonX studies extra,xReact,PersonX have asked the teacher about the next study,0,1,"PersonX studies extra, thus as a result on PersonX's emotion, PersonX have asked the teacher about the next study"
+PersonX minces words,xReact,PersonX be not articulate,0,1,"PersonX minces words, thus as a result on PersonX's emotion, PersonX be not articulate"
+PersonX takes place in the course,xNeed,PersonX study,1,0,The event PersonX takes place in the course will not happen unless PersonX study
+PersonX always asked ___,xNeed,PersonX feel uneasy about it,0,2,The event PersonX always asked ___ will not happen unless PersonX feel uneasy about it
+PersonX sees PersonY wife,xIntent,PersonX intended to see his wife,1,0,"PersonX sees PersonY wife, thus it can be seen about PersonX's intention that PersonX intended to see his wife"
+PersonX arches PersonY's body,xReact,PersonX be athletic,0,1,"PersonX arches PersonY's body, thus as a result on PersonX's emotion, PersonX be athletic"
+PersonX misses PersonY a lot,xAttr,PersonX be desolate,1,0,"PersonX misses PersonY a lot, thus it can be seen about PersonX's attribute that PersonX be desolate"
+PersonX turns PersonY's life,xNeed,PersonX be related to y,1,0,The event PersonX turns PersonY's life will not happen unless PersonX be related to y
+PersonX makes ___ more often,xAttr,PersonX be prepared,1,0,"PersonX makes ___ more often, thus it can be seen about PersonX's attribute that PersonX be prepared"
+PersonX finally worked up,xReact,PersonX make a decision,0,2,"PersonX finally worked up, thus as a result on PersonX's emotion, PersonX make a decision"
+PersonX increases PersonX's knowledge,xIntent,PersonX intended to gain more knowledge,1,0,"PersonX increases PersonX's knowledge, thus it can be seen about PersonX's intention that PersonX intended to gain more knowledge"
+PersonX falls from the tree,xNeed,PersonX feel hurt,0,2,The event PersonX falls from the tree will not happen unless PersonX feel hurt
+PersonX eats ___ quickly,xIntent,PersonX intended to be doing something else,1,0,"PersonX eats ___ quickly, thus it can be seen about PersonX's intention that PersonX intended to be doing something else"
+PersonX visits every ___,xNeed,PersonX be responsible,0,2,The event PersonX visits every ___ will not happen unless PersonX be responsible
+PersonX rides ___ without training wheels,xReact,PersonX feel excited,1,0,"PersonX rides ___ without training wheels, thus as a result on PersonX's emotion, PersonX feel excited"
+PersonX assigns ___ to groups,xIntent,PersonX make choices,0,2,"PersonX assigns ___ to groups, thus it can be seen about PersonX's intention that PersonX make choices"
+PersonX faces the ___ alone,xReact,PersonX feel overwhelmed,1,0,"PersonX faces the ___ alone, thus as a result on PersonX's emotion, PersonX feel overwhelmed"
+PersonX takes PersonY's watch off,xNeed,PersonX intended to y cannot do it on their own so they ask x ,0,2,The event PersonX takes PersonY's watch off will not happen unless PersonX intended to y cannot do it on their own so they ask x 
+PersonX finds a good job,xNeed,PersonX search for it,1,0,The event PersonX finds a good job will not happen unless PersonX search for it
+debate,xNeed,PersonX come up with subject,1,0,The event debate will not happen unless PersonX come up with subject
+PersonX starts crying,xReact,PersonX be pitiful,0,2,"PersonX starts crying, thus as a result on PersonX's emotion, PersonX be pitiful"
+PersonX forms PersonY opinion as,xNeed,PersonX intended to know all the information,0,2,The event PersonX forms PersonY opinion as will not happen unless PersonX intended to know all the information
+PersonX never lost,xReact,PersonX feel unbeatable,1,0,"PersonX never lost, thus as a result on PersonX's emotion, PersonX feel unbeatable"
+PersonX takes ___ in stride,xIntent,PersonX be strong,0,2,"PersonX takes ___ in stride, thus it can be seen about PersonX's intention that PersonX be strong"
+PersonX receives ___ based,oReact,PersonX intended to the market ,0,1,"PersonX receives ___ based, thus as a result on PersonY's emotion, PersonX intended to the market "
+PersonX walks humbly with PersonY's god,xNeed,PersonX be modest,0,2,The event PersonX walks humbly with PersonY's god will not happen unless PersonX be modest
+PersonX sees ___ every day,xNeed,PersonX feel happy to have the same routine every day,0,2,The event PersonX sees ___ every day will not happen unless PersonX feel happy to have the same routine every day
+PersonX gets ___ right,xNeed,PersonX learn,1,0,The event PersonX gets ___ right will not happen unless PersonX learn
+PersonX slides PersonY's tongue,xAttr,PersonX be unctuous,1,0,"PersonX slides PersonY's tongue, thus it can be seen about PersonX's attribute that PersonX be unctuous"
+PersonX restores the ___ to PersonY's condition,xAttr,PersonX be brave,1,0,"PersonX restores the ___ to PersonY's condition, thus it can be seen about PersonX's attribute that PersonX be brave"
+PersonX curls PersonX's hair,xIntent,PersonX switch on curler,0,1,"PersonX curls PersonX's hair, thus it can be seen about PersonX's intention that PersonX switch on curler"
+PersonX helps the ___ along,xNeed,PersonX be helpful,0,1,The event PersonX helps the ___ along will not happen unless PersonX be helpful
+PersonX grabs a gun,xIntent,PersonX intended to protect themselves,1,0,"PersonX grabs a gun, thus it can be seen about PersonX's intention that PersonX intended to protect themselves"
+PersonX goes work,xNeed,PersonX ate breakfast,1,0,The event PersonX goes work will not happen unless PersonX ate breakfast
+PersonX can not believe PersonX's eyes,xReact,PersonX be shocked,0,2,"PersonX can not believe PersonX's eyes, thus as a result on PersonX's emotion, PersonX be shocked"
+PersonX goes ___ for the first time,xNeed,PersonX feel amazed,0,2,The event PersonX goes ___ for the first time will not happen unless PersonX feel amazed
+PersonX blows this popsicle stand,xAttr,PersonX be reckless,1,0,"PersonX blows this popsicle stand, thus it can be seen about PersonX's attribute that PersonX be reckless"
+PersonX does well in school,xAttr,PersonX enter the tesating room,0,2,"PersonX does well in school, thus it can be seen about PersonX's attribute that PersonX enter the tesating room"
+PersonX meets someone new,oReact,PersonX be out somewhere where people are,0,1,"PersonX meets someone new, thus as a result on PersonY's emotion, PersonX be out somewhere where people are"
+PersonX lets PersonY explain,xIntent,PersonX intended to listen,1,0,"PersonX lets PersonY explain, thus it can be seen about PersonX's intention that PersonX intended to listen"
+PersonX knows PersonY from a can of paint,xNeed,PersonX be investigating,1,0,The event PersonX knows PersonY from a can of paint will not happen unless PersonX be investigating
+PersonX evens gave ___,xNeed,PersonX talk to the daughter,1,0,The event PersonX evens gave ___ will not happen unless PersonX talk to the daughter
+PersonX makes up the numbers,oReact,PersonX feel ashamed,0,1,"PersonX makes up the numbers, thus as a result on PersonY's emotion, PersonX feel ashamed"
+PersonX lays on top of PersonY,xNeed,PersonX wake up in crib,1,0,The event PersonX lays on top of PersonY will not happen unless PersonX wake up in crib
+PersonX dresses in PersonY's clothes,xAttr,PersonX be curious,1,0,"PersonX dresses in PersonY's clothes, thus it can be seen about PersonX's attribute that PersonX be curious"
+PersonX cuts PersonX's leg,xReact,PersonX be unaware,0,2,"PersonX cuts PersonX's leg, thus as a result on PersonX's emotion, PersonX be unaware"
+PersonX meets someone,xIntent,PersonX be caring,0,2,"PersonX meets someone, thus it can be seen about PersonX's intention that PersonX be caring"
+PersonX gives PersonY account,xIntent,PersonX be expressive,0,2,"PersonX gives PersonY account, thus it can be seen about PersonX's intention that PersonX be expressive"
+wrestle,xReact,PersonX learn rules of wrestling,0,1,"wrestle, thus as a result on PersonX's emotion, PersonX learn rules of wrestling"
+PersonX finds PersonY's car,xNeed,PersonX click the alarm button,1,0,The event PersonX finds PersonY's car will not happen unless PersonX click the alarm button
+PersonX catches PersonY red-handed,xIntent,PersonX intended to society to be by the rules ,1,0,"PersonX catches PersonY red-handed, thus it can be seen about PersonX's intention that PersonX intended to society to be by the rules "
+PersonX displays ___ proudly,xReact,PersonX feel proud,1,0,"PersonX displays ___ proudly, thus as a result on PersonX's emotion, PersonX feel proud"
+PersonX takes PersonY to the er,xReact,PersonX intended to help a friend,0,1,"PersonX takes PersonY to the er, thus as a result on PersonX's emotion, PersonX intended to help a friend"
+PersonX sends PersonY's home,xIntent,PersonX feel angry,0,2,"PersonX sends PersonY's home, thus it can be seen about PersonX's intention that PersonX feel angry"
+PersonX gazes upon PersonY,xReact,PersonX intended to be noticed by person,0,1,"PersonX gazes upon PersonY, thus as a result on PersonX's emotion, PersonX intended to be noticed by person"
+PersonX curls PersonY's hair,xIntent,PersonX intended to groom person y,1,0,"PersonX curls PersonY's hair, thus it can be seen about PersonX's intention that PersonX intended to groom person y"
+PersonX pulls PersonY's hand back,xIntent,PersonX intended to keep the person from doing something dangerous,1,0,"PersonX pulls PersonY's hand back, thus it can be seen about PersonX's intention that PersonX intended to keep the person from doing something dangerous"
+PersonX sees PersonX's crush,xNeed,PersonX get out of the house,1,0,The event PersonX sees PersonX's crush will not happen unless PersonX get out of the house
+PersonX has PersonX's fingers in many pies,oReact,PersonX intended to play around with the pie,0,1,"PersonX has PersonX's fingers in many pies, thus as a result on PersonY's emotion, PersonX intended to play around with the pie"
+PersonX bosses ___ around,xIntent,PersonX intended to be in charge,1,0,"PersonX bosses ___ around, thus it can be seen about PersonX's intention that PersonX intended to be in charge"
+PersonX sends PersonY to the showers,xReact,PersonX feel in charge,1,0,"PersonX sends PersonY to the showers, thus as a result on PersonX's emotion, PersonX feel in charge"
+PersonX is a waste of money,xNeed,PersonX be incompetent,0,2,The event PersonX is a waste of money will not happen unless PersonX be incompetent
+PersonX broadens PersonX's ___ to include,xReact,PersonX read books,0,1,"PersonX broadens PersonX's ___ to include, thus as a result on PersonX's emotion, PersonX read books"
+PersonX owns a dog,xIntent,PersonX intended to a friend ,1,0,"PersonX owns a dog, thus it can be seen about PersonX's intention that PersonX intended to a friend "
+PersonX passionately rucked PersonY,xNeed,PersonX be screwed,0,2,The event PersonX passionately rucked PersonY will not happen unless PersonX be screwed
+PersonX buys a house,xNeed,PersonX savings his salary,1,0,The event PersonX buys a house will not happen unless PersonX savings his salary
+PersonX likes the movie,xAttr,PersonX buy a ticket,0,1,"PersonX likes the movie, thus it can be seen about PersonX's attribute that PersonX buy a ticket"
+PersonX gets beer,xIntent,PersonX intended to drink it,1,0,"PersonX gets beer, thus it can be seen about PersonX's intention that PersonX intended to drink it"
+PersonX starts early,xNeed,PersonX wake up early,1,0,The event PersonX starts early will not happen unless PersonX wake up early
+PersonX stops but PersonY did n't listen,oReact,PersonX get attention,0,1,"PersonX stops but PersonY did n't listen, thus as a result on PersonY's emotion, PersonX get attention"
+PersonX wins the match,xAttr,PersonX be strong,1,0,"PersonX wins the match, thus it can be seen about PersonX's attribute that PersonX be strong"
+PersonX takes matters into PersonX's own hands,xIntent,PersonX intended to handle their business ,1,0,"PersonX takes matters into PersonX's own hands, thus it can be seen about PersonX's intention that PersonX intended to handle their business "
+PersonX increases PersonX's ___ at the expense,xNeed,PersonX know math,1,0,The event PersonX increases PersonX's ___ at the expense will not happen unless PersonX know math
+PersonX buys PersonY's one,xNeed,PersonX go to the store,1,0,The event PersonX buys PersonY's one will not happen unless PersonX go to the store
+PersonX wins money,xReact,PersonX feel excited,1,0,"PersonX wins money, thus as a result on PersonX's emotion, PersonX feel excited"
+PersonX falls off the back of a lorry,xAttr,PersonX be clumsy,1,0,"PersonX falls off the back of a lorry, thus it can be seen about PersonX's attribute that PersonX be clumsy"
+PersonX makes that mistake again,xIntent,PersonX feel mad,0,2,"PersonX makes that mistake again, thus it can be seen about PersonX's intention that PersonX feel mad"
+PersonX prevents ___ from entering,xNeed,PersonX notice it,1,0,The event PersonX prevents ___ from entering will not happen unless PersonX notice it
+PersonX looks like fun,xReact,PersonX be confident,0,1,"PersonX looks like fun, thus as a result on PersonX's emotion, PersonX be confident"
+PersonX puts PersonY's lights out,xAttr,PersonX be thrifty,1,0,"PersonX puts PersonY's lights out, thus it can be seen about PersonX's attribute that PersonX be thrifty"
+PersonX finds ___ anywhere,xIntent,PersonX intended to investigate,1,0,"PersonX finds ___ anywhere, thus it can be seen about PersonX's intention that PersonX intended to investigate"
+PersonX meets ___ for lunch,xNeed,PersonX set a date,1,0,The event PersonX meets ___ for lunch will not happen unless PersonX set a date
+PersonX forms PersonY opinion,xAttr,PersonX event,0,1,"PersonX forms PersonY opinion, thus it can be seen about PersonX's attribute that PersonX event"
+PersonX looks like an idiot,xIntent,PersonX have their hair cut like a badly mowed lawn,0,1,"PersonX looks like an idiot, thus it can be seen about PersonX's intention that PersonX have their hair cut like a badly mowed lawn"
+PersonX loves ___ than anything,xAttr,PersonX be admiring,1,0,"PersonX loves ___ than anything, thus it can be seen about PersonX's attribute that PersonX be admiring"
+PersonX protects the ___ from harm,xNeed,PersonX assess the situation,1,0,The event PersonX protects the ___ from harm will not happen unless PersonX assess the situation
+see story,oReact,PersonX look at tv,0,1,"see story, thus as a result on PersonY's emotion, PersonX look at tv"
+PersonX sees all the animals,xAttr,PersonX feel alert,0,1,"PersonX sees all the animals, thus it can be seen about PersonX's attribute that PersonX feel alert"
+PersonX dyes PersonX's hair pink,xNeed,PersonX buy product,1,0,The event PersonX dyes PersonX's hair pink will not happen unless PersonX buy product
+PersonX unbeknownst to PersonY,xAttr,PersonX be duplicitous,1,0,"PersonX unbeknownst to PersonY, thus it can be seen about PersonX's attribute that PersonX be duplicitous"
+PersonX goes to bed early,xNeed,PersonX turn off the lights,1,0,The event PersonX goes to bed early will not happen unless PersonX turn off the lights
+PersonX tells ___ it was okay,xIntent,PersonX listen to persony,0,2,"PersonX tells ___ it was okay, thus it can be seen about PersonX's intention that PersonX listen to persony"
+PersonX donates plasma,xAttr,PersonX be desperate,1,0,"PersonX donates plasma, thus it can be seen about PersonX's attribute that PersonX be desperate"
+PersonX studies for PersonX's exam,oReact,PersonX intended to get a good grade,0,1,"PersonX studies for PersonX's exam, thus as a result on PersonY's emotion, PersonX intended to get a good grade"
+PersonX makes pasta for dinner,xIntent,PersonX feel happy,0,2,"PersonX makes pasta for dinner, thus it can be seen about PersonX's intention that PersonX feel happy"
+PersonX shrugs PersonY's shoulders,xNeed,PersonX intended to show they are unsure,0,2,The event PersonX shrugs PersonY's shoulders will not happen unless PersonX intended to show they are unsure
+PersonX looks like,oReact,PersonX be similar,0,1,"PersonX looks like, thus as a result on PersonY's emotion, PersonX be similar"
+PersonX offer to teach PersonY,xAttr,PersonX be helpful,1,0,"PersonX offer to teach PersonY, thus it can be seen about PersonX's attribute that PersonX be helpful"
+PersonX rents an apartment,xNeed,PersonX put down a deposit,1,0,The event PersonX rents an apartment will not happen unless PersonX put down a deposit
+PersonX makes PersonX's arrangements,xReact,PersonX intended to be prepared,0,2,"PersonX makes PersonX's arrangements, thus as a result on PersonX's emotion, PersonX intended to be prepared"
+PersonX watches old movies,xAttr,PersonX be old-fashioned,1,0,"PersonX watches old movies, thus it can be seen about PersonX's attribute that PersonX be old-fashioned"
+PersonX prevents PersonY's escape,xIntent,PersonX intended to stop person y,1,0,"PersonX prevents PersonY's escape, thus it can be seen about PersonX's intention that PersonX intended to stop person y"
+PersonX grants a ___ by ccc,xNeed,PersonX intended to approve,0,1,The event PersonX grants a ___ by ccc will not happen unless PersonX intended to approve
+PersonX invites people,xIntent,PersonX intended to social content ,1,0,"PersonX invites people, thus it can be seen about PersonX's intention that PersonX intended to social content "
+PersonX invites ___ over to play,xAttr,PersonX intended to enjoy,0,1,"PersonX invites ___ over to play, thus it can be seen about PersonX's attribute that PersonX intended to enjoy"
+PersonX dies on the vine,xNeed,PersonX climb the plant,1,0,The event PersonX dies on the vine will not happen unless PersonX climb the plant
+PersonX makes pasta,xIntent,PersonX feel better,0,2,"PersonX makes pasta, thus it can be seen about PersonX's intention that PersonX feel better"
+PersonX enters PersonX's car,xIntent,PersonX grab keys,0,1,"PersonX enters PersonX's car, thus it can be seen about PersonX's intention that PersonX grab keys"
+PersonX shows PersonY's mother,xNeed,PersonX be great,0,2,The event PersonX shows PersonY's mother will not happen unless PersonX be great
+PersonX builds castles in the air,xAttr,PersonX use his hands,0,1,"PersonX builds castles in the air, thus it can be seen about PersonX's attribute that PersonX use his hands"
+PersonX practices really hard,oReact,PersonX feel strong,0,1,"PersonX practices really hard, thus as a result on PersonY's emotion, PersonX feel strong"
+PersonX gives PersonY PersonX's name,xAttr,PersonX be emotional,1,0,"PersonX gives PersonY PersonX's name, thus it can be seen about PersonX's attribute that PersonX be emotional"
+PersonX gives bob ___,xNeed,PersonX intended to help bob,0,1,The event PersonX gives bob ___ will not happen unless PersonX intended to help bob
+PersonX smells nice,oReact,PersonX put on parfume,0,1,"PersonX smells nice, thus as a result on PersonY's emotion, PersonX put on parfume"
+PersonX wants money,xIntent,PersonX provide some help,0,2,"PersonX wants money, thus it can be seen about PersonX's intention that PersonX provide some help"
+PersonX finally got around,xReact,PersonX find a way to get there,0,1,"PersonX finally got around, thus as a result on PersonX's emotion, PersonX find a way to get there"
+PersonX persuades the ___ to allow,xNeed,PersonX convince the officer,1,0,The event PersonX persuades the ___ to allow will not happen unless PersonX convince the officer
+PersonX affects PersonY deeply,xNeed,PersonX know persony well,1,0,The event PersonX affects PersonY deeply will not happen unless PersonX know persony well
+PersonX takes ___ sitting down,xNeed,PersonX grab a chair,1,0,The event PersonX takes ___ sitting down will not happen unless PersonX grab a chair
+PersonX slips PersonY's tongue,xNeed,PersonX be hurtful,0,2,The event PersonX slips PersonY's tongue will not happen unless PersonX be hurtful
+PersonX gives PersonY the slip,oReact,PersonY feel angry,1,0,"PersonX gives PersonY the slip, thus as a result on PersonY's emotion, PersonY feel angry"
+PersonX can n't believe PersonX's luck,xIntent,PersonX feel elated,0,1,"PersonX can n't believe PersonX's luck, thus it can be seen about PersonX's intention that PersonX feel elated"
+PersonX goes to the library to study,xReact,PersonX starts car to drive to library,0,2,"PersonX goes to the library to study, thus as a result on PersonX's emotion, PersonX starts car to drive to library"
+PersonX finds PersonX's shoes,xNeed,PersonX feel satisfied,0,2,The event PersonX finds PersonX's shoes will not happen unless PersonX feel satisfied
+PersonX sees if could make,xReact,PersonX looks up how to make,0,1,"PersonX sees if could make, thus as a result on PersonX's emotion, PersonX looks up how to make"
+PersonX exchanges numbers,xNeed,PersonX intended to call each other,0,2,The event PersonX exchanges numbers will not happen unless PersonX intended to call each other
+PersonX puts ___ in PersonX's backpack,xNeed,PersonX take persons backpack,1,0,The event PersonX puts ___ in PersonX's backpack will not happen unless PersonX take persons backpack
+PersonX pulls PersonY's hand away,xNeed,PersonX catch hold of person y' hand,1,0,The event PersonX pulls PersonY's hand away will not happen unless PersonX catch hold of person y' hand
+PersonX puts it in the oven,oReact,PersonX intended to make dinner,0,1,"PersonX puts it in the oven, thus as a result on PersonY's emotion, PersonX intended to make dinner"
+PersonX meets PersonY's husband,xReact,"PersonX feel satisfied, happy, good about themselves",1,0,"PersonX meets PersonY's husband, thus as a result on PersonX's emotion, PersonX feel satisfied, happy, good about themselves"
+PersonX gets everything together,xNeed,PersonX be organized,1,0,The event PersonX gets everything together will not happen unless PersonX be organized
+PersonX enjoys ___ together,xIntent,PersonX intended to be happy and take in the moment,1,0,"PersonX enjoys ___ together, thus it can be seen about PersonX's intention that PersonX intended to be happy and take in the moment"
+PersonX maintains PersonY equilibrium,xNeed,PersonX intended to keep persony on their feet ,0,1,The event PersonX maintains PersonY equilibrium will not happen unless PersonX intended to keep persony on their feet 
+PersonX finds PersonX's car keys,xIntent,PersonX feel relieved,0,2,"PersonX finds PersonX's car keys, thus it can be seen about PersonX's intention that PersonX feel relieved"
+PersonX gets it to work,xNeed,PersonX be smart,0,2,The event PersonX gets it to work will not happen unless PersonX be smart
+PersonX wants to learn how to cook,xIntent,PersonX buy cook books,0,2,"PersonX wants to learn how to cook, thus it can be seen about PersonX's intention that PersonX buy cook books"
+PersonX argues with PersonX's boyfriend,xNeed,PersonX get mad,1,0,The event PersonX argues with PersonX's boyfriend will not happen unless PersonX get mad
+PersonX is short on money,xNeed,PersonX be nervous,0,2,The event PersonX is short on money will not happen unless PersonX be nervous
+PersonX speaks with PersonY,xIntent,PersonX intended to communicate something,1,0,"PersonX speaks with PersonY, thus it can be seen about PersonX's intention that PersonX intended to communicate something"
+PersonX needs a good grade,xReact,PersonX feel anxious,1,0,"PersonX needs a good grade, thus as a result on PersonX's emotion, PersonX feel anxious"
+PersonX sits across from PersonY,xIntent,PersonX shoes,0,1,"PersonX sits across from PersonY, thus it can be seen about PersonX's intention that PersonX shoes"
+PersonX calls PersonY ambulance,xAttr,PersonX be worried,1,0,"PersonX calls PersonY ambulance, thus it can be seen about PersonX's attribute that PersonX be worried"
+PersonX buys PersonY a dog,oReact,PersonX be properous,0,1,"PersonX buys PersonY a dog, thus as a result on PersonY's emotion, PersonX be properous"
+PersonX uses the ___ as a means,xNeed,PersonX figure out a plan,1,0,The event PersonX uses the ___ as a means will not happen unless PersonX figure out a plan
+PersonX does not have a lot of money,xReact,PersonX feel like they need to be in a better financial situation,1,0,"PersonX does not have a lot of money, thus as a result on PersonX's emotion, PersonX feel like they need to be in a better financial situation"
+PersonX finds ___ in PersonX's attic,xIntent,PersonX feel relieved,0,1,"PersonX finds ___ in PersonX's attic, thus it can be seen about PersonX's intention that PersonX feel relieved"
+PersonX attends PersonY's father 's ___,xAttr,PersonX be remorseful,1,0,"PersonX attends PersonY's father 's ___, thus it can be seen about PersonX's attribute that PersonX be remorseful"
+PersonX feels better than ever,xAttr,PersonX intended to go to the movies,0,2,"PersonX feels better than ever, thus it can be seen about PersonX's attribute that PersonX intended to go to the movies"
+PersonX gets the shot,xIntent,PersonX intended to be healthy,1,0,"PersonX gets the shot, thus it can be seen about PersonX's intention that PersonX intended to be healthy"
+PersonX drops ___ off at home,xIntent,PersonX drive,0,2,"PersonX drops ___ off at home, thus it can be seen about PersonX's intention that PersonX drive"
+PersonX uses ___ anyway,xNeed,PersonX be resistant,0,2,The event PersonX uses ___ anyway will not happen unless PersonX be resistant
+PersonX smells something burning,xNeed,PersonX drink some water,1,0,The event PersonX smells something burning will not happen unless PersonX drink some water
+PersonX likes a girl,xReact,PersonX feel caring,1,0,"PersonX likes a girl, thus as a result on PersonX's emotion, PersonX feel caring"
+PersonX has done something wrong,xAttr,PersonX feel awful,0,2,"PersonX has done something wrong, thus it can be seen about PersonX's attribute that PersonX feel awful"
+PersonX unlocks the door,xIntent,PersonX feel normal,0,2,"PersonX unlocks the door, thus it can be seen about PersonX's intention that PersonX feel normal"
+PersonX saves PersonY's ___ from PersonX's sins,xNeed,PersonX be careful,0,2,The event PersonX saves PersonY's ___ from PersonX's sins will not happen unless PersonX be careful
+PersonX looks like a man,xNeed,PersonX dress masculine,1,0,The event PersonX looks like a man will not happen unless PersonX dress masculine
+PersonX extends PersonX's knowledge,xIntent,PersonX intended to help other's by sharing,1,0,"PersonX extends PersonX's knowledge, thus it can be seen about PersonX's intention that PersonX intended to help other's by sharing"
+PersonX dyes PersonY's hair blonde,xAttr,PersonX put a smock on person y,0,2,"PersonX dyes PersonY's hair blonde, thus it can be seen about PersonX's attribute that PersonX put a smock on person y"
+PersonX misses class,xAttr,PersonX feel sorry  for it,0,2,"PersonX misses class, thus it can be seen about PersonX's attribute that PersonX feel sorry  for it"
+PersonX determines one 's ___,xNeed,PersonX pass judgement,1,0,The event PersonX determines one 's ___ will not happen unless PersonX pass judgement
+PersonX graduates ___ at the university,xReact,PersonX attend classes,0,2,"PersonX graduates ___ at the university, thus as a result on PersonX's emotion, PersonX attend classes"
+PersonX uses PersonX's skills,xNeed,PersonX maintain his skills,1,0,The event PersonX uses PersonX's skills will not happen unless PersonX maintain his skills
+PersonX keeps ___ at bay,oReact,PersonX feel heroic,0,1,"PersonX keeps ___ at bay, thus as a result on PersonY's emotion, PersonX feel heroic"
+PersonX tips PersonY's head,xNeed,PersonX touch persony,1,0,The event PersonX tips PersonY's head will not happen unless PersonX touch persony
+PersonX rests on PersonX's laurels,xNeed,PersonX not to need anything else in your life,1,0,The event PersonX rests on PersonX's laurels will not happen unless PersonX not to need anything else in your life
+PersonX misses ___ to school,xIntent,PersonX be late,0,1,"PersonX misses ___ to school, thus it can be seen about PersonX's intention that PersonX be late"
+PersonX asks PersonY to read,xNeed,PersonX think persony might read it for them,1,0,The event PersonX asks PersonY to read will not happen unless PersonX think persony might read it for them
+PersonX feels so sad,xNeed,PersonX be disappointed by something,1,0,The event PersonX feels so sad will not happen unless PersonX be disappointed by something
+PersonX breaks the mold,xIntent,PersonX feel glad,0,1,"PersonX breaks the mold, thus it can be seen about PersonX's intention that PersonX feel glad"
+PersonX gives ___ a small smile,xReact,PersonX be nice,0,2,"PersonX gives ___ a small smile, thus as a result on PersonX's emotion, PersonX be nice"
+PersonX takes PersonY view,xNeed,PersonX go home,1,0,The event PersonX takes PersonY view will not happen unless PersonX go home
+PersonX throws some bread,xNeed,PersonX take the bread from package,1,0,The event PersonX throws some bread will not happen unless PersonX take the bread from package
+PersonX looks ___ in the face,oReact,PersonX feel satisfied,0,1,"PersonX looks ___ in the face, thus as a result on PersonY's emotion, PersonX feel satisfied"
+PersonX waves PersonY,xNeed,PersonX feel happy,0,2,The event PersonX waves PersonY will not happen unless PersonX feel happy
+PersonX speaks ___ fluently,xNeed,PersonX practice,1,0,The event PersonX speaks ___ fluently will not happen unless PersonX practice
+PersonX is a long drive,xNeed,PersonX turn on the car,1,0,The event PersonX is a long drive will not happen unless PersonX turn on the car
+PersonX rewards every ___ according,xIntent,PersonX balance life,0,2,"PersonX rewards every ___ according, thus it can be seen about PersonX's intention that PersonX balance life"
+PersonX comes to PersonY house,xAttr,PersonX intended to visit them,0,1,"PersonX comes to PersonY house, thus it can be seen about PersonX's attribute that PersonX intended to visit them"
+PersonX prevents PersonY from coming,xIntent,PersonX intended to be alone,1,0,"PersonX prevents PersonY from coming, thus it can be seen about PersonX's intention that PersonX intended to be alone"
+PersonX wants to come back,xIntent,PersonX feel satisfied,0,2,"PersonX wants to come back, thus it can be seen about PersonX's intention that PersonX feel satisfied"
+PersonX takes a ride,xIntent,PersonX be in a train,0,2,"PersonX takes a ride, thus it can be seen about PersonX's intention that PersonX be in a train"
+PersonX puts PersonY's ___ into execution,xAttr,PersonX feel motivated,0,1,"PersonX puts PersonY's ___ into execution, thus it can be seen about PersonX's attribute that PersonX feel motivated"
+PersonX loves another ___,xAttr,PersonX be unhappy,1,0,"PersonX loves another ___, thus it can be seen about PersonX's attribute that PersonX be unhappy"
+PersonX costs the earth,xNeed,PersonX be hurtful,0,2,The event PersonX costs the earth will not happen unless PersonX be hurtful
+PersonX purchases a lottery ticket,xNeed,PersonX intended to be a millionaire,0,1,The event PersonX purchases a lottery ticket will not happen unless PersonX intended to be a millionaire
+PersonX knits PersonX's eyebrows,xIntent,PersonX want to show their opinion on it,0,1,"PersonX knits PersonX's eyebrows, thus it can be seen about PersonX's intention that PersonX want to show their opinion on it"
+PersonX looks at PersonY like that,xAttr,PersonX look at persony,0,2,"PersonX looks at PersonY like that, thus it can be seen about PersonX's attribute that PersonX look at persony"
+PersonX plays PersonX's new game,xAttr,PersonX intended to escape for awhile,0,1,"PersonX plays PersonX's new game, thus it can be seen about PersonX's attribute that PersonX intended to escape for awhile"
+PersonX gives PersonY a name,xAttr,PersonX be helpful,1,0,"PersonX gives PersonY a name, thus it can be seen about PersonX's attribute that PersonX be helpful"
+PersonX hearts beat as PersonX,xNeed,PersonX have been running,1,0,The event PersonX hearts beat as PersonX will not happen unless PersonX have been running
+PersonX starts with a clean slate,xNeed,PersonX get a new job,1,0,The event PersonX starts with a clean slate will not happen unless PersonX get a new job
+PersonX fears PersonY,xReact,PersonX feel anxious,1,0,"PersonX fears PersonY, thus as a result on PersonX's emotion, PersonX feel anxious"
+PersonX turns PersonX's nose up,xIntent,PersonX intended to show disapproval,1,0,"PersonX turns PersonX's nose up, thus it can be seen about PersonX's intention that PersonX intended to show disapproval"
+PersonX improves PersonY's appearance,xIntent,PersonX intended to person y to be confident ,1,0,"PersonX improves PersonY's appearance, thus it can be seen about PersonX's intention that PersonX intended to person y to be confident "
+PersonX drops PersonY's head,xReact,PersonX be clumsy,0,2,"PersonX drops PersonY's head, thus as a result on PersonX's emotion, PersonX be clumsy"
+PersonX buys dog food,xNeed,PersonX intended to feed their dog,0,2,The event PersonX buys dog food will not happen unless PersonX intended to feed their dog
+PersonX adores PersonY,xIntent,PersonX be admiring,0,1,"PersonX adores PersonY, thus it can be seen about PersonX's intention that PersonX be admiring"
+PersonX loses PersonX's ___ in the war,xIntent,PersonX feel good feeling,0,2,"PersonX loses PersonX's ___ in the war, thus it can be seen about PersonX's intention that PersonX feel good feeling"
+PersonX tells PersonY to give,oReact,PersonX approach someone,0,1,"PersonX tells PersonY to give, thus as a result on PersonY's emotion, PersonX approach someone"
+PersonX puts it together,xNeed,PersonX feel good,0,2,The event PersonX puts it together will not happen unless PersonX feel good
+PersonX reduces the ___ to levels,xNeed,PersonX intended to make an accomplishment,0,2,The event PersonX reduces the ___ to levels will not happen unless PersonX intended to make an accomplishment
+PersonX sends home ___,oReact,PersonX compose a letter in their mind,0,1,"PersonX sends home ___, thus as a result on PersonY's emotion, PersonX compose a letter in their mind"
+PersonX blows PersonX's load,xReact,PersonX feel relieved,1,0,"PersonX blows PersonX's load, thus as a result on PersonX's emotion, PersonX feel relieved"
+PersonX orders ___ from the restaurant,xNeed,PersonX decide what he wants to eat,1,0,The event PersonX orders ___ from the restaurant will not happen unless PersonX decide what he wants to eat
+PersonX has a lot of money,xAttr,PersonX feel powerful,0,2,"PersonX has a lot of money, thus it can be seen about PersonX's attribute that PersonX feel powerful"
+PersonX packs heat,xAttr,PersonX apply for a gun permit,0,2,"PersonX packs heat, thus it can be seen about PersonX's attribute that PersonX apply for a gun permit"
+PersonX creates the ___ in days,xIntent,PersonX be skillful,0,1,"PersonX creates the ___ in days, thus it can be seen about PersonX's intention that PersonX be skillful"
+PersonX finishes PersonY's homework,xAttr,PersonX be competent,1,0,"PersonX finishes PersonY's homework, thus it can be seen about PersonX's attribute that PersonX be competent"
+PersonX uses ___ anymore,xNeed,PersonX  want to give it away,1,0,The event PersonX uses ___ anymore will not happen unless PersonX  want to give it away
+PersonX walks to the car,xNeed,PersonX feel relieved,0,2,The event PersonX walks to the car will not happen unless PersonX feel relieved
+PersonX does n't want to fight,xAttr,PersonX intended to avoid injury,0,1,"PersonX does n't want to fight, thus it can be seen about PersonX's attribute that PersonX intended to avoid injury"
+PersonX gets PersonY's license,xIntent,PersonX be committed,0,1,"PersonX gets PersonY's license, thus it can be seen about PersonX's intention that PersonX be committed"
+PersonX puts PersonY's ___ together,xIntent,PersonX be focused,0,2,"PersonX puts PersonY's ___ together, thus it can be seen about PersonX's intention that PersonX be focused"
+PersonX doeth all ___ well,xAttr,PersonX feel good,0,2,"PersonX doeth all ___ well, thus it can be seen about PersonX's attribute that PersonX feel good"
+PersonX drives all the way back,oReact,PersonX get into the car,0,1,"PersonX drives all the way back, thus as a result on PersonY's emotion, PersonX get into the car"
+PersonX loves to garden,xAttr,PersonX be creative,1,0,"PersonX loves to garden, thus it can be seen about PersonX's attribute that PersonX be creative"
+PersonX takes a hike in the woods,xNeed,PersonX put on boots,1,0,The event PersonX takes a hike in the woods will not happen unless PersonX put on boots
+PersonX lives next door,xAttr,PersonX be responsible,1,0,"PersonX lives next door, thus it can be seen about PersonX's attribute that PersonX be responsible"
+PersonX knows which end is up,xAttr,PersonX feel intrigued,0,2,"PersonX knows which end is up, thus it can be seen about PersonX's attribute that PersonX feel intrigued"
+PersonX prevents PersonY from taking,xIntent,PersonX feel to have helped the person,0,2,"PersonX prevents PersonY from taking, thus it can be seen about PersonX's intention that PersonX feel to have helped the person"
+PersonX burns ___ badly,xNeed,PersonX be cooking,1,0,The event PersonX burns ___ badly will not happen unless PersonX be cooking
+PersonX nurses it back to health,xIntent,PersonX intended to his dog to live longer,1,0,"PersonX nurses it back to health, thus it can be seen about PersonX's intention that PersonX intended to his dog to live longer"
+PersonX drops ___ on the floor,xReact,PersonX grab something,0,2,"PersonX drops ___ on the floor, thus as a result on PersonX's emotion, PersonX grab something"
+PersonX gets detention,xNeed,PersonX intended to be rebellious,0,1,The event PersonX gets detention will not happen unless PersonX intended to be rebellious
+PersonX falls ill,xIntent,PersonX be tense,0,1,"PersonX falls ill, thus it can be seen about PersonX's intention that PersonX be tense"
+PersonX throws the book,xReact,PersonX feel frustrated,1,0,"PersonX throws the book, thus as a result on PersonX's emotion, PersonX feel frustrated"
+PersonX finds another gear,oReact,PersonX decide to change the gear,0,1,"PersonX finds another gear, thus as a result on PersonY's emotion, PersonX decide to change the gear"
+PersonX publishes ___ in cooperation,xAttr,PersonX be popular,1,0,"PersonX publishes ___ in cooperation, thus it can be seen about PersonX's attribute that PersonX be popular"
+PersonX swings for the fences,xAttr,PersonX receive a pitch,0,1,"PersonX swings for the fences, thus it can be seen about PersonX's attribute that PersonX receive a pitch"
+PersonX grabs PersonY's gun,xIntent,PersonX intended to kill the snake to save his friend,1,0,"PersonX grabs PersonY's gun, thus it can be seen about PersonX's intention that PersonX intended to kill the snake to save his friend"
+PersonX leads PersonY expedition,xNeed,PersonX he goes with him,1,0,The event PersonX leads PersonY expedition will not happen unless PersonX he goes with him
+PersonX sneaks around,xIntent,PersonX feel sneaky,0,2,"PersonX sneaks around, thus it can be seen about PersonX's intention that PersonX feel sneaky"
+PersonX french kisses,xIntent,PersonX intended to feel tongue,1,0,"PersonX french kisses, thus it can be seen about PersonX's intention that PersonX intended to feel tongue"
+PersonX alters PersonY's course,xNeed,PersonX get to know about it,1,0,The event PersonX alters PersonY's course will not happen unless PersonX get to know about it
+PersonX is right next,xAttr,PersonX feel curious,0,2,"PersonX is right next, thus it can be seen about PersonX's attribute that PersonX feel curious"
+PersonX dances all night,xIntent,PersonX have some drinks,0,1,"PersonX dances all night, thus it can be seen about PersonX's intention that PersonX have some drinks"
+PersonX protects ___ from harm,xAttr,PersonX be curageous,1,0,"PersonX protects ___ from harm, thus it can be seen about PersonX's attribute that PersonX be curageous"
+PersonX pays ___ to the king,xAttr,PersonX be dutiful,1,0,"PersonX pays ___ to the king, thus it can be seen about PersonX's attribute that PersonX be dutiful"
+PersonX pumps iron,xNeed,PersonX goes to gym,1,0,The event PersonX pumps iron will not happen unless PersonX goes to gym
+PersonX pulls faces,xReact,"PersonX feel like a murderer, a soldier, stressed",1,0,"PersonX pulls faces, thus as a result on PersonX's emotion, PersonX feel like a murderer, a soldier, stressed"
+PersonX leaves the class,xAttr,PersonX be distracted,1,0,"PersonX leaves the class, thus it can be seen about PersonX's attribute that PersonX be distracted"
+PersonX buys one for PersonY,xReact,PersonX be sponsoring for person y,0,1,"PersonX buys one for PersonY, thus as a result on PersonX's emotion, PersonX be sponsoring for person y"
+PersonX prevents the ___ from breaking,xAttr,PersonX be careful,1,0,"PersonX prevents the ___ from breaking, thus it can be seen about PersonX's attribute that PersonX be careful"
+PersonX gives PersonX's presentation,xNeed,PersonX feel accomplished,0,2,The event PersonX gives PersonX's presentation will not happen unless PersonX feel accomplished
+PersonX makes a salad,xNeed,PersonX get the ingredients,1,0,The event PersonX makes a salad will not happen unless PersonX get the ingredients
+PersonX gains PersonY's confidence,xNeed,PersonX keep persony's secrets,1,0,The event PersonX gains PersonY's confidence will not happen unless PersonX keep persony's secrets
+PersonX is a quick learner,xReact,PersonX feel proud and happy,1,0,"PersonX is a quick learner, thus as a result on PersonX's emotion, PersonX feel proud and happy"
+PersonX includes another ___,xAttr,PersonX be accomodating,1,0,"PersonX includes another ___, thus it can be seen about PersonX's attribute that PersonX be accomodating"
+PersonX spills PersonX's guts,xAttr,PersonX be gulity,1,0,"PersonX spills PersonX's guts, thus it can be seen about PersonX's attribute that PersonX be gulity"
+PersonX is PersonY's mother,xReact,PersonX intended to a child ,0,1,"PersonX is PersonY's mother, thus as a result on PersonX's emotion, PersonX intended to a child "
+PersonX studies ___ in college,xNeed,PersonX intended to prepare for a career after graduation,0,2,The event PersonX studies ___ in college will not happen unless PersonX intended to prepare for a career after graduation
+PersonX wipes PersonY's hands,xIntent,PersonX intended to person's hands to be clean ,1,0,"PersonX wipes PersonY's hands, thus it can be seen about PersonX's intention that PersonX intended to person's hands to be clean "
+PersonX pulls the car,xNeed,PersonX be muscular,0,1,The event PersonX pulls the car will not happen unless PersonX be muscular
+PersonX exercises every ___,xNeed,PersonX read all manuals,1,0,The event PersonX exercises every ___ will not happen unless PersonX read all manuals
+PersonX bits PersonX's lip,xIntent,PersonX intended to calm himself down,1,0,"PersonX bits PersonX's lip, thus it can be seen about PersonX's intention that PersonX intended to calm himself down"
+PersonX really love PersonY,xNeed,PersonX a relationship,1,0,The event PersonX really love PersonY will not happen unless PersonX a relationship
+PersonX is still angry,xReact,PersonX gets angry with situation,0,1,"PersonX is still angry, thus as a result on PersonX's emotion, PersonX gets angry with situation"
+PersonX sells PersonX's jewelry,xIntent,PersonX feel better off financially,0,2,"PersonX sells PersonX's jewelry, thus it can be seen about PersonX's intention that PersonX feel better off financially"
+PersonX brings people together,oReact,PersonX intended to  live in peace,0,1,"PersonX brings people together, thus as a result on PersonY's emotion, PersonX intended to  live in peace"
+PersonX puts PersonX's phone,xNeed,PersonX take a phone,1,0,The event PersonX puts PersonX's phone will not happen unless PersonX take a phone
+PersonX wants ___ very badly,xReact,PersonX research video game systems,0,2,"PersonX wants ___ very badly, thus as a result on PersonX's emotion, PersonX research video game systems"
+PersonX plays a ___ in the movement,xNeed,PersonX determine the need within the movement,1,0,The event PersonX plays a ___ in the movement will not happen unless PersonX determine the need within the movement
+PersonX sees a boy,xAttr,PersonX feel excited by the boy,0,2,"PersonX sees a boy, thus it can be seen about PersonX's attribute that PersonX feel excited by the boy"
+PersonX plays a ___ in the system,xNeed,PersonX follow orders,1,0,The event PersonX plays a ___ in the system will not happen unless PersonX follow orders
+PersonX gets PersonX's hands on ___,xNeed,PersonX rush for something in a sale,1,0,The event PersonX gets PersonX's hands on ___ will not happen unless PersonX rush for something in a sale
+PersonX smells something terrible,xReact,PersonX feel grossed out,1,0,"PersonX smells something terrible, thus as a result on PersonX's emotion, PersonX feel grossed out"
+PersonX gives PersonY opinion,xIntent,PersonX make a decision,0,2,"PersonX gives PersonY opinion, thus it can be seen about PersonX's intention that PersonX make a decision"
+PersonX helps PersonY's move,xNeed,PersonX agree to help persony,1,0,The event PersonX helps PersonY's move will not happen unless PersonX agree to help persony
+PersonX tips PersonY's head back,xAttr,PersonX intended to move person's head,0,2,"PersonX tips PersonY's head back, thus it can be seen about PersonX's attribute that PersonX intended to move person's head"
+PersonX splashes ___ on PersonX's face,xAttr,PersonX intended to play joyfully,0,1,"PersonX splashes ___ on PersonX's face, thus it can be seen about PersonX's attribute that PersonX intended to play joyfully"
+PersonX wants to come,xAttr,PersonX be outgoing,1,0,"PersonX wants to come, thus it can be seen about PersonX's attribute that PersonX be outgoing"
+PersonX recently graduated,oReact,PersonX have passed all of their classes,0,1,"PersonX recently graduated, thus as a result on PersonY's emotion, PersonX have passed all of their classes"
+PersonX is walking to the store,xIntent,PersonX intended to buy something,1,0,"PersonX is walking to the store, thus it can be seen about PersonX's intention that PersonX intended to buy something"
+PersonX meets PersonY's customers ' ___,xNeed,PersonX get a job at persony's business,1,0,The event PersonX meets PersonY's customers ' ___ will not happen unless PersonX get a job at persony's business
+PersonX loves riding PersonX's bike,xReact,PersonX intended to travel,0,2,"PersonX loves riding PersonX's bike, thus as a result on PersonX's emotion, PersonX intended to travel"
+PersonX gets ___ to make,xNeed,PersonX be quite,1,0,The event PersonX gets ___ to make will not happen unless PersonX be quite
+PersonX pierces PersonX's ears,xReact,PersonX intended to show off,0,1,"PersonX pierces PersonX's ears, thus as a result on PersonX's emotion, PersonX intended to show off"
+PersonX attends PersonX's father 's ___,xNeed,PersonX buy an airline ticket,1,0,The event PersonX attends PersonX's father 's ___ will not happen unless PersonX buy an airline ticket
+hairdressing salon,xIntent,PersonX intended to gossip ,1,0,"hairdressing salon, thus it can be seen about PersonX's intention that PersonX intended to gossip "
+PersonX tries again next year,xNeed,PersonX feel proud about his non stop efforts,0,2,The event PersonX tries again next year will not happen unless PersonX feel proud about his non stop efforts
+PersonX loves the ___ with PersonX's heart,xReact,PersonX feel joyous,1,0,"PersonX loves the ___ with PersonX's heart, thus as a result on PersonX's emotion, PersonX feel joyous"
+PersonX helps PersonY stay awake,xAttr,PersonX be thoughful,1,0,"PersonX helps PersonY stay awake, thus it can be seen about PersonX's attribute that PersonX be thoughful"
+PersonX buys a used car,xAttr,PersonX look on craigs list,0,1,"PersonX buys a used car, thus it can be seen about PersonX's attribute that PersonX look on craigs list"
+PersonX gains confidence,xNeed,PersonX adjust themself well mentally,1,0,The event PersonX gains confidence will not happen unless PersonX adjust themself well mentally
+PersonX links together the ___,xNeed,PersonX feel enlightened,0,2,The event PersonX links together the ___ will not happen unless PersonX feel enlightened
+PersonX has a fit,xIntent,PersonX intended to they are imature ,1,0,"PersonX has a fit, thus it can be seen about PersonX's intention that PersonX intended to they are imature "
+PersonX gets ___ at the store,xNeed,PersonX see what they need,1,0,The event PersonX gets ___ at the store will not happen unless PersonX see what they need
+PersonX agrees to disagree,xIntent,PersonX intended to conclude the argument/discussion and move on ,1,0,"PersonX agrees to disagree, thus it can be seen about PersonX's intention that PersonX intended to conclude the argument/discussion and move on "
+PersonX does better in school,oReact,PersonX intended to succeed,0,1,"PersonX does better in school, thus as a result on PersonY's emotion, PersonX intended to succeed"
+PersonX gives ___ a warning,xNeed,PersonX walk up to them,1,0,The event PersonX gives ___ a warning will not happen unless PersonX walk up to them
+PersonX has to take PersonY to the hospital,xNeed,PersonX stop the bleeding,1,0,The event PersonX has to take PersonY to the hospital will not happen unless PersonX stop the bleeding
+PersonX replaces the tire,xIntent,PersonX intended to fix a flat,1,0,"PersonX replaces the tire, thus it can be seen about PersonX's intention that PersonX intended to fix a flat"
+PersonX rings PersonY,xAttr,PersonX be friendly,1,0,"PersonX rings PersonY, thus it can be seen about PersonX's attribute that PersonX be friendly"
+PersonX comes of age,oReact,PersonX be successful,0,1,"PersonX comes of age, thus as a result on PersonY's emotion, PersonX be successful"
+PersonX loves PersonY's work,oReact,PersonX see y work,0,2,"PersonX loves PersonY's work, thus as a result on PersonY's emotion, PersonX see y work"
+PersonX makes thanksgiving dinner,xIntent,PersonX intended to family and friends to come,1,0,"PersonX makes thanksgiving dinner, thus it can be seen about PersonX's intention that PersonX intended to family and friends to come"
+PersonX sends a letter,xAttr,PersonX write a letter,0,2,"PersonX sends a letter, thus it can be seen about PersonX's attribute that PersonX write a letter"
+friendship,xNeed,PersonX communication,1,0,The event friendship will not happen unless PersonX communication
+PersonX gets PersonX's nails done,xIntent,PersonX intended to pretty ,1,0,"PersonX gets PersonX's nails done, thus it can be seen about PersonX's intention that PersonX intended to pretty "
+PersonX scrambles eggs for breakfast,xAttr,PersonX be skilled,1,0,"PersonX scrambles eggs for breakfast, thus it can be seen about PersonX's attribute that PersonX be skilled"
+PersonX shows schematically in fig,xReact,PersonX be analytical,0,1,"PersonX shows schematically in fig, thus as a result on PersonX's emotion, PersonX be analytical"
+PersonX forms PersonY impression,xNeed,PersonX guide persony,1,0,The event PersonX forms PersonY impression will not happen unless PersonX guide persony
+PersonX follows the instructions,xIntent,PersonX listen to the instructions,0,2,"PersonX follows the instructions, thus it can be seen about PersonX's intention that PersonX listen to the instructions"
+PersonX loves reading books,xAttr,PersonX be nerdy,1,0,"PersonX loves reading books, thus it can be seen about PersonX's attribute that PersonX be nerdy"
+PersonX sits and watch ___,xAttr,PersonX feel refreshed,0,1,"PersonX sits and watch ___, thus it can be seen about PersonX's attribute that PersonX feel refreshed"
+PersonX makes PersonY part,xReact,PersonX be generous,0,1,"PersonX makes PersonY part, thus as a result on PersonX's emotion, PersonX be generous"
+PersonX says PersonY's goodbyes,xAttr,PersonX be talkative,1,0,"PersonX says PersonY's goodbyes, thus it can be seen about PersonX's attribute that PersonX be talkative"
+PersonX not knows which end is up,xIntent,PersonX feel confused,0,1,"PersonX not knows which end is up, thus it can be seen about PersonX's intention that PersonX feel confused"
+PersonX takes things,xIntent,PersonX be a thief,0,1,"PersonX takes things, thus it can be seen about PersonX's intention that PersonX be a thief"
+PersonX plays many games,xAttr,PersonX turn on game station,0,1,"PersonX plays many games, thus it can be seen about PersonX's attribute that PersonX turn on game station"
+PersonX makes the cookies,xIntent,PersonX intended to reveal his cooking skills,1,0,"PersonX makes the cookies, thus it can be seen about PersonX's intention that PersonX intended to reveal his cooking skills"
+PersonX closes that day,xAttr,PersonX feel responsible,0,1,"PersonX closes that day, thus it can be seen about PersonX's attribute that PersonX feel responsible"
+PersonX lifts PersonY's leg,xIntent,PersonX intended to move,1,0,"PersonX lifts PersonY's leg, thus it can be seen about PersonX's intention that PersonX intended to move"
+PersonX puts on PersonX's hat,xNeed,PersonX put it on their head,1,0,The event PersonX puts on PersonX's hat will not happen unless PersonX put it on their head
+PersonX asks PersonY to sit down,oReact,PersonX be polite,0,1,"PersonX asks PersonY to sit down, thus as a result on PersonY's emotion, PersonX be polite"
+PersonX gets a second opinion,xAttr,PersonX be friendly,1,0,"PersonX gets a second opinion, thus it can be seen about PersonX's attribute that PersonX be friendly"
+thaw roast,xNeed,PersonX remove from freezer,1,0,The event thaw roast will not happen unless PersonX remove from freezer
+PersonX loses PersonX's sense,oReact,PersonX feel out of control,0,1,"PersonX loses PersonX's sense, thus as a result on PersonY's emotion, PersonX feel out of control"
+PersonX makes the shot,xIntent,PersonX practices for the game,0,2,"PersonX makes the shot, thus it can be seen about PersonX's intention that PersonX practices for the game"
+PersonX gives PersonY warning,xAttr,PersonX be caring,1,0,"PersonX gives PersonY warning, thus it can be seen about PersonX's attribute that PersonX be caring"
+PersonX goes to work in the morning,xNeed,PersonX get ready for work,1,0,The event PersonX goes to work in the morning will not happen unless PersonX get ready for work
+PersonX hides under the covers,xIntent,PersonX intended to be hidden,1,0,"PersonX hides under the covers, thus it can be seen about PersonX's intention that PersonX intended to be hidden"
+PersonX spends hours,xIntent,PersonX be tolerant,0,2,"PersonX spends hours, thus it can be seen about PersonX's intention that PersonX be tolerant"
+PersonX wants to learn to swim,xNeed,PersonX buy a bathing suit,1,0,The event PersonX wants to learn to swim will not happen unless PersonX buy a bathing suit
+PersonX takes down a peg,xAttr,PersonX feel superior,0,2,"PersonX takes down a peg, thus it can be seen about PersonX's attribute that PersonX feel superior"
+PersonX bullies in school,xNeed,PersonX feel satisfied,0,2,The event PersonX bullies in school will not happen unless PersonX feel satisfied
+PersonX starts a band,xReact,PersonX feel satisfied,1,0,"PersonX starts a band, thus as a result on PersonX's emotion, PersonX feel satisfied"
+PersonX congratulates PersonY,xAttr,PersonX feel happy,0,2,"PersonX congratulates PersonY, thus it can be seen about PersonX's attribute that PersonX feel happy"
+PersonX rides PersonY's bikes,xReact,PersonX be strong,0,1,"PersonX rides PersonY's bikes, thus as a result on PersonX's emotion, PersonX be strong"
+PersonX finds ___ that PersonY liked,oReact,PersonX intended to show they care,0,1,"PersonX finds ___ that PersonY liked, thus as a result on PersonY's emotion, PersonX intended to show they care"
+PersonX talks to people,xNeed,PersonX have communication skills,1,0,The event PersonX talks to people will not happen unless PersonX have communication skills
+PersonX eats ___ very quickly,xIntent,PersonX feel rushed,0,2,"PersonX eats ___ very quickly, thus it can be seen about PersonX's intention that PersonX feel rushed"
+PersonX walks to the bathroom,xNeed,PersonX have eaten breakfast,1,0,The event PersonX walks to the bathroom will not happen unless PersonX have eaten breakfast
+PersonX sits next to PersonY,xReact,PersonX intended to eat food with the person,0,1,"PersonX sits next to PersonY, thus as a result on PersonX's emotion, PersonX intended to eat food with the person"
+PersonX catches PersonY eye,xAttr,PersonX be interesting,1,0,"PersonX catches PersonY eye, thus it can be seen about PersonX's attribute that PersonX be interesting"
+PersonX visits PersonX's mother,xNeed,PersonX call her first,1,0,The event PersonX visits PersonX's mother will not happen unless PersonX call her first
+PersonX murders PersonY,xAttr,PersonX be insane,1,0,"PersonX murders PersonY, thus it can be seen about PersonX's attribute that PersonX be insane"
+PersonX pays ___ to the government,xNeed,PersonX intended to extra fine ,0,2,The event PersonX pays ___ to the government will not happen unless PersonX intended to extra fine 
+PersonX grinds for a week,xReact,PersonX intended to finish work,0,1,"PersonX grinds for a week, thus as a result on PersonX's emotion, PersonX intended to finish work"
+PersonX meets PersonX's customers ' ___,xAttr,PersonX be dutiful,1,0,"PersonX meets PersonX's customers ' ___, thus it can be seen about PersonX's attribute that PersonX be dutiful"
+PersonX follows the recipe exactly,xAttr,PersonX intended to tasty food ,0,1,"PersonX follows the recipe exactly, thus it can be seen about PersonX's attribute that PersonX intended to tasty food "
+PersonX asks PersonY for money,xAttr,PersonX notice they are out of money,0,1,"PersonX asks PersonY for money, thus it can be seen about PersonX's attribute that PersonX notice they are out of money"
+PersonX drives to the beach,xAttr,PersonX be fun,1,0,"PersonX drives to the beach, thus it can be seen about PersonX's attribute that PersonX be fun"
+PersonX rejects PersonY,xAttr,PersonX intended to be exclusive,0,2,"PersonX rejects PersonY, thus it can be seen about PersonX's attribute that PersonX intended to be exclusive"
+PersonX puts it in PersonX's purse,xReact,PersonX feel organized,1,0,"PersonX puts it in PersonX's purse, thus as a result on PersonX's emotion, PersonX feel organized"
+eat pie,xAttr,PersonX bake one,0,1,"eat pie, thus it can be seen about PersonX's attribute that PersonX bake one"
+PersonX has a wonderful time on PersonX's trip,xIntent,PersonX intended to have fun,1,0,"PersonX has a wonderful time on PersonX's trip, thus it can be seen about PersonX's intention that PersonX intended to have fun"
+PersonX brings ___ to a head,xIntent,PersonX intended to resolve all issues,1,0,"PersonX brings ___ to a head, thus it can be seen about PersonX's intention that PersonX intended to resolve all issues"
+PersonX leaves it at that,xNeed,PersonX not have anything else to say,1,0,The event PersonX leaves it at that will not happen unless PersonX not have anything else to say
+PersonX quickly fell,xNeed,PersonX feel pain,0,2,The event PersonX quickly fell will not happen unless PersonX feel pain
+PersonX throws ___ at the tv,xIntent,PersonX feel guilty,0,2,"PersonX throws ___ at the tv, thus it can be seen about PersonX's intention that PersonX feel guilty"
+PersonX hears a scary noise,xAttr,PersonX feel worried,0,2,"PersonX hears a scary noise, thus it can be seen about PersonX's attribute that PersonX feel worried"
+PersonX touches every ___,xNeed,PersonX decide what personx needs to touch,1,0,The event PersonX touches every ___ will not happen unless PersonX decide what personx needs to touch
+PersonX watches scary movies,xIntent,PersonX intended to be scared ,1,0,"PersonX watches scary movies, thus it can be seen about PersonX's intention that PersonX intended to be scared "
+PersonX pumps PersonY's gas,oReact,PersonX be nice,0,1,"PersonX pumps PersonY's gas, thus as a result on PersonY's emotion, PersonX be nice"
+PersonX drops a log,xNeed,PersonX be bound up,1,0,The event PersonX drops a log will not happen unless PersonX be bound up
+PersonX hits the headlines,xNeed,PersonX of done something good,1,0,The event PersonX hits the headlines will not happen unless PersonX of done something good
+compute sum,xReact,PersonX enter summands into calculator,0,1,"compute sum, thus as a result on PersonX's emotion, PersonX enter summands into calculator"
+PersonX loves the dog,oReact,PersonX feel happy,0,1,"PersonX loves the dog, thus as a result on PersonY's emotion, PersonX feel happy"
+PersonX arches PersonY's back,xNeed,PersonX intended to help someone work out,0,2,The event PersonX arches PersonY's back will not happen unless PersonX intended to help someone work out
+PersonX sets ___ to rights,oReact,PersonX figure it out,0,1,"PersonX sets ___ to rights, thus as a result on PersonY's emotion, PersonX figure it out"
+PersonX rains on PersonX's parade,xNeed,PersonX be conniving,0,1,The event PersonX rains on PersonX's parade will not happen unless PersonX be conniving
+PersonX calls PersonY this morning,xAttr,PersonX be caring,1,0,"PersonX calls PersonY this morning, thus it can be seen about PersonX's attribute that PersonX be caring"
+PersonX gets a call from PersonY's boss,xIntent,PersonX hear the phone ring,0,1,"PersonX gets a call from PersonY's boss, thus it can be seen about PersonX's intention that PersonX hear the phone ring"
+PersonX improves PersonX's appearance,xIntent,PersonX intended to feel better about themselves ,1,0,"PersonX improves PersonX's appearance, thus it can be seen about PersonX's intention that PersonX intended to feel better about themselves "
+PersonX catches my eye,xReact,PersonX feel feel pain and unhappy,1,0,"PersonX catches my eye, thus as a result on PersonX's emotion, PersonX feel feel pain and unhappy"
+PersonX decides to order pizza,xReact,PersonX intended to not be hungry,0,2,"PersonX decides to order pizza, thus as a result on PersonX's emotion, PersonX intended to not be hungry"
+PersonX turns the tables,xNeed,PersonX be fair,0,2,The event PersonX turns the tables will not happen unless PersonX be fair
+PersonX stretches out PersonX's hand,xAttr,PersonX intended to stretch,0,2,"PersonX stretches out PersonX's hand, thus it can be seen about PersonX's attribute that PersonX intended to stretch"
+PersonX fails to even go platinum,xReact,PersonX feel disappointed,1,0,"PersonX fails to even go platinum, thus as a result on PersonX's emotion, PersonX feel disappointed"
+PersonX brings ___ to PersonX's eyes,xReact,PersonX intended to cry,0,1,"PersonX brings ___ to PersonX's eyes, thus as a result on PersonX's emotion, PersonX intended to cry"
+PersonX shaves every ___,xNeed,PersonX grow hair,1,0,The event PersonX shaves every ___ will not happen unless PersonX grow hair
+PersonX skates around,xIntent,PersonX intended to exlore,1,0,"PersonX skates around, thus it can be seen about PersonX's intention that PersonX intended to exlore"
+PersonX becomes a pilot,xIntent,PersonX study hard,0,2,"PersonX becomes a pilot, thus it can be seen about PersonX's intention that PersonX study hard"
+remember,xNeed,PersonX hire sharp secretary,1,0,The event remember will not happen unless PersonX hire sharp secretary
+PersonX takes a hike,xNeed,PersonX bring foods and drink,1,0,The event PersonX takes a hike will not happen unless PersonX bring foods and drink
+PersonX changes PersonY's lives,xNeed,PersonX intended to ease difficulty,0,2,The event PersonX changes PersonY's lives will not happen unless PersonX intended to ease difficulty
+PersonX reads PersonX's diary,xReact,PersonX intended to remind himself of his past,0,1,"PersonX reads PersonX's diary, thus as a result on PersonX's emotion, PersonX intended to remind himself of his past"
+PersonX visits PersonY's daughter,oReact,PersonX be caring,0,1,"PersonX visits PersonY's daughter, thus as a result on PersonY's emotion, PersonX be caring"
+PersonX is losing weight,xNeed,PersonX be overweight,1,0,The event PersonX is losing weight will not happen unless PersonX be overweight
+PersonX makes PersonY assault,xAttr,PersonX have a reason why,0,1,"PersonX makes PersonY assault, thus it can be seen about PersonX's attribute that PersonX have a reason why"
+PersonX dyes PersonX's hair red,xNeed,PersonX go to the salon,1,0,The event PersonX dyes PersonX's hair red will not happen unless PersonX go to the salon
+PersonX holds on for dear life,xNeed,PersonX be a passenger in a vehicle,1,0,The event PersonX holds on for dear life will not happen unless PersonX be a passenger in a vehicle
+PersonX finds PersonX's father,xReact,PersonX be helpful,0,1,"PersonX finds PersonX's father, thus as a result on PersonX's emotion, PersonX be helpful"
+PersonX buys PersonX's one,xNeed,PersonX a pair of shoes,1,0,The event PersonX buys PersonX's one will not happen unless PersonX a pair of shoes
+PersonX gives PersonY the impression,xNeed,PersonX communicate with persony,1,0,The event PersonX gives PersonY the impression will not happen unless PersonX communicate with persony
+PersonX knows PersonY's opinion,xAttr,PersonX be articulate,1,0,"PersonX knows PersonY's opinion, thus it can be seen about PersonX's attribute that PersonX be articulate"
+drive to work,xReact,PersonX put car keys in pocket,0,1,"drive to work, thus as a result on PersonX's emotion, PersonX put car keys in pocket"
+PersonX goes down the tubes,xReact,PersonX a drink,0,1,"PersonX goes down the tubes, thus as a result on PersonX's emotion, PersonX a drink"
+PersonX takes a step back,xIntent,PersonX feel cautious,0,2,"PersonX takes a step back, thus it can be seen about PersonX's intention that PersonX feel cautious"
+PersonX pays PersonY well,xAttr,PersonX be caring,1,0,"PersonX pays PersonY well, thus it can be seen about PersonX's attribute that PersonX be caring"
+PersonX catches the bus,xReact,PersonX check the schedule,0,1,"PersonX catches the bus, thus as a result on PersonX's emotion, PersonX check the schedule"
+PersonX thinks it was beautiful,xReact,PersonX intended to show appreciation,0,2,"PersonX thinks it was beautiful, thus as a result on PersonX's emotion, PersonX intended to show appreciation"
+PersonX waits all day,xIntent,PersonX intended to have his car fixed,1,0,"PersonX waits all day, thus it can be seen about PersonX's intention that PersonX intended to have his car fixed"
+PersonX sees 's going on,xIntent,PersonX intended to spy ,1,0,"PersonX sees 's going on, thus it can be seen about PersonX's intention that PersonX intended to spy "
+PersonX starves the ___ into submission,xNeed,PersonX love people,1,0,The event PersonX starves the ___ into submission will not happen unless PersonX love people
+PersonX catches some rays,xIntent,PersonX go in the sun,0,1,"PersonX catches some rays, thus it can be seen about PersonX's intention that PersonX go in the sun"
+PersonX takes PersonY decision,xNeed,PersonX talk to persony,1,0,The event PersonX takes PersonY decision will not happen unless PersonX talk to persony
+PersonX feels unhappy,xNeed,PersonX be depressed,0,1,The event PersonX feels unhappy will not happen unless PersonX be depressed
+PersonX spends PersonX's ___ working,xIntent,PersonX he gets on a ship,0,2,"PersonX spends PersonX's ___ working, thus it can be seen about PersonX's intention that PersonX he gets on a ship"
+PersonX would like PersonY,xNeed,PersonX express his needs,1,0,The event PersonX would like PersonY will not happen unless PersonX express his needs
+PersonX lets PersonY see,xNeed,PersonX be generous,0,2,The event PersonX lets PersonY see will not happen unless PersonX be generous
+PersonX keeps PersonX's fingers crossed,xReact,PersonX be faithful,0,2,"PersonX keeps PersonX's fingers crossed, thus as a result on PersonX's emotion, PersonX be faithful"
+PersonX grants women the ___,xAttr,PersonX intended to power ,0,1,"PersonX grants women the ___, thus it can be seen about PersonX's attribute that PersonX intended to power "
+PersonX grants PersonY request,oReact,PersonX intended to persony to be happy ,0,1,"PersonX grants PersonY request, thus as a result on PersonY's emotion, PersonX intended to persony to be happy "
+PersonX flies across the room,xNeed,PersonX run really fast,1,0,The event PersonX flies across the room will not happen unless PersonX run really fast
+PersonX takes PersonY's toll,xIntent,PersonX go to work,0,2,"PersonX takes PersonY's toll, thus it can be seen about PersonX's intention that PersonX go to work"
+PersonX skateboards with PersonY's friends,xAttr,PersonX intended to skateboard with people ,0,2,"PersonX skateboards with PersonY's friends, thus it can be seen about PersonX's attribute that PersonX intended to skateboard with people "
+PersonX tells my mother,xNeed,PersonX intended to get me in trouble,0,1,The event PersonX tells my mother will not happen unless PersonX intended to get me in trouble
+PersonX conveys PersonY impression,xAttr,PersonX know what y is trying to convey,0,1,"PersonX conveys PersonY impression, thus it can be seen about PersonX's attribute that PersonX know what y is trying to convey"
+PersonX crosses the ___ to get,xNeed,PersonX be in a rush,1,0,The event PersonX crosses the ___ to get will not happen unless PersonX be in a rush
+PersonX puts PersonX's ___ together,xNeed,PersonX learn how to make something,1,0,The event PersonX puts PersonX's ___ together will not happen unless PersonX learn how to make something
+PersonX wins any money,xNeed,PersonX gamble,1,0,The event PersonX wins any money will not happen unless PersonX gamble
+PersonX sits at PersonY's feet,xIntent,PersonX be sorry,0,2,"PersonX sits at PersonY's feet, thus it can be seen about PersonX's intention that PersonX be sorry"
+PersonX forms PersonX's opinion,xIntent,PersonX intended to notice ,1,0,"PersonX forms PersonX's opinion, thus it can be seen about PersonX's intention that PersonX intended to notice "
+PersonX puts it in PersonY's purse,xNeed,PersonX get item to put,1,0,The event PersonX puts it in PersonY's purse will not happen unless PersonX get item to put
+PersonX takes the stage,xIntent,PersonX intended to perform,1,0,"PersonX takes the stage, thus it can be seen about PersonX's intention that PersonX intended to perform"
+PersonX hurts like hell,xReact,PersonX feel achy,1,0,"PersonX hurts like hell, thus as a result on PersonX's emotion, PersonX feel achy"
+PersonX has a dream last night,xNeed,PersonX go to sleep,1,0,The event PersonX has a dream last night will not happen unless PersonX go to sleep
+PersonX sends PersonY off,xNeed,PersonX locate y,1,0,The event PersonX sends PersonY off will not happen unless PersonX locate y
+PersonX returns to PersonX's state,xAttr,PersonX want to be back,0,1,"PersonX returns to PersonX's state, thus it can be seen about PersonX's attribute that PersonX want to be back"
+PersonX smells terrible,xAttr,PersonX be sweaty,1,0,"PersonX smells terrible, thus it can be seen about PersonX's attribute that PersonX be sweaty"
+PersonX asks PersonX's dad for help,xAttr,PersonX be emotional,1,0,"PersonX asks PersonX's dad for help, thus it can be seen about PersonX's attribute that PersonX be emotional"
+PersonX throws PersonX's hat over the fence,xNeed,PersonX go to the fence,1,0,The event PersonX throws PersonX's hat over the fence will not happen unless PersonX go to the fence
+PersonX has a say,xReact,PersonX feel like they mean something,1,0,"PersonX has a say, thus as a result on PersonX's emotion, PersonX feel like they mean something"
+PersonX seems better,xReact,PersonX be hopeful,0,2,"PersonX seems better, thus as a result on PersonX's emotion, PersonX be hopeful"
+PersonX pays ___ at the rate,xIntent,PersonX feel empty,0,2,"PersonX pays ___ at the rate, thus it can be seen about PersonX's intention that PersonX feel empty"
+PersonX earns PersonY income,xNeed,PersonX feel happy,0,2,The event PersonX earns PersonY income will not happen unless PersonX feel happy
+PersonX shows schematically in figure,xReact,PersonX be smart,0,1,"PersonX shows schematically in figure, thus as a result on PersonX's emotion, PersonX be smart"
+PersonX gets a surprise,xReact,PersonX feel surprised,1,0,"PersonX gets a surprise, thus as a result on PersonX's emotion, PersonX feel surprised"
+PersonX finds PersonY's ring,xNeed,PersonX be clear-sighted,0,1,The event PersonX finds PersonY's ring will not happen unless PersonX be clear-sighted
+PersonX shakes the ___ to PersonY's foundations,xAttr,PersonX be mad at persony,0,2,"PersonX shakes the ___ to PersonY's foundations, thus it can be seen about PersonX's attribute that PersonX be mad at persony"
+PersonX wraps PersonY's hand,xReact,PersonX get a bandage,0,1,"PersonX wraps PersonY's hand, thus as a result on PersonX's emotion, PersonX get a bandage"
+PersonX delivers PersonY address,xAttr,PersonX be dutiful,1,0,"PersonX delivers PersonY address, thus it can be seen about PersonX's attribute that PersonX be dutiful"
+PersonX copies PersonY,xAttr,PersonX feel happy,0,2,"PersonX copies PersonY, thus it can be seen about PersonX's attribute that PersonX feel happy"
+PersonX gets paint,xNeed,PersonX feel excited,0,2,The event PersonX gets paint will not happen unless PersonX feel excited
+PersonX wipes the slate clean,xNeed,PersonX gather cleaning materials,1,0,The event PersonX wipes the slate clean will not happen unless PersonX gather cleaning materials
+PersonX gets everything ready,xNeed,PersonX intended to they are going on vacation ,0,1,The event PersonX gets everything ready will not happen unless PersonX intended to they are going on vacation 
+PersonX buys PersonY a car,xAttr,PersonX take persony to pick out a car,0,2,"PersonX buys PersonY a car, thus it can be seen about PersonX's attribute that PersonX take persony to pick out a car"
+PersonX loses track of time,xReact,PersonX feel lost,1,0,"PersonX loses track of time, thus as a result on PersonX's emotion, PersonX feel lost"
+PersonX puts ___ in the oven,xIntent,PersonX intended to cook,1,0,"PersonX puts ___ in the oven, thus it can be seen about PersonX's intention that PersonX intended to cook"
+PersonX fails all of PersonX's classes,xNeed,PersonX be lazy,1,0,The event PersonX fails all of PersonX's classes will not happen unless PersonX be lazy
+PersonX falls into the wrong hands,xReact,PersonX be cautious,0,2,"PersonX falls into the wrong hands, thus as a result on PersonX's emotion, PersonX be cautious"
+PersonX brings the ___ into disrepute,oReact,PersonX tell lies,0,1,"PersonX brings the ___ into disrepute, thus as a result on PersonY's emotion, PersonX tell lies"
+stand up,xNeed,PersonX not sitting down,1,0,The event stand up will not happen unless PersonX not sitting down
+PersonX gets close,xNeed,PersonX have a map,1,0,The event PersonX gets close will not happen unless PersonX have a map
+PersonX practices together,xNeed,PersonX feel determined,0,2,The event PersonX practices together will not happen unless PersonX feel determined
+PersonX cuts the crap,xIntent,PersonX intended to directly come to point,1,0,"PersonX cuts the crap, thus it can be seen about PersonX's intention that PersonX intended to directly come to point"
+PersonX enters PersonY's car,xAttr,PersonX be attentive,1,0,"PersonX enters PersonY's car, thus it can be seen about PersonX's attribute that PersonX be attentive"
+PersonX invites people over,xReact,PersonX intended to be around friends ,0,1,"PersonX invites people over, thus as a result on PersonX's emotion, PersonX intended to be around friends "
+PersonX fears would lose,xNeed,PersonX pump yourself up,1,0,The event PersonX fears would lose will not happen unless PersonX pump yourself up
+PersonX takes a step forward,xIntent,PersonX intended to claim that they're spartacus,1,0,"PersonX takes a step forward, thus it can be seen about PersonX's intention that PersonX intended to claim that they're spartacus"
+PersonX sets things right,xNeed,PersonX intended to feel guilt free,0,2,The event PersonX sets things right will not happen unless PersonX intended to feel guilt free
+PersonX provides PersonY analysis,xAttr,PersonX be invested,1,0,"PersonX provides PersonY analysis, thus it can be seen about PersonX's attribute that PersonX be invested"
+PersonX replaces PersonX's old one,xReact,PersonX intended to a new one ,0,2,"PersonX replaces PersonX's old one, thus as a result on PersonX's emotion, PersonX intended to a new one "
+PersonX leaves the table,xIntent,PersonX intended to show personx's frustrations with colleagues,1,0,"PersonX leaves the table, thus it can be seen about PersonX's intention that PersonX intended to show personx's frustrations with colleagues"
+PersonX wants to play baseball,xNeed,PersonX practice with a team,1,0,The event PersonX wants to play baseball will not happen unless PersonX practice with a team
+PersonX wants to learn a new language,xNeed,PersonX feel thirsty for knowledge,0,2,The event PersonX wants to learn a new language will not happen unless PersonX feel thirsty for knowledge
+PersonX leaves PersonY's ___ alone,xIntent,PersonX feel good,0,1,"PersonX leaves PersonY's ___ alone, thus it can be seen about PersonX's intention that PersonX feel good"
+PersonX bites the dust,xAttr,PersonX be sad,1,0,"PersonX bites the dust, thus it can be seen about PersonX's attribute that PersonX be sad"
+PersonX practices hard,oReact,PersonX get the instrument ready,0,1,"PersonX practices hard, thus as a result on PersonY's emotion, PersonX get the instrument ready"
+PersonX sees PersonY every ___,oReact,PersonX be friendly,0,1,"PersonX sees PersonY every ___, thus as a result on PersonY's emotion, PersonX be friendly"
+PersonX looks a ___ in the face,xAttr,PersonX be confident,1,0,"PersonX looks a ___ in the face, thus it can be seen about PersonX's attribute that PersonX be confident"
+PersonX pierces PersonY's ears,xAttr,PersonX be skilled,1,0,"PersonX pierces PersonY's ears, thus it can be seen about PersonX's attribute that PersonX be skilled"
+PersonX finds the shoes,xNeed,PersonX intended to she is barefoot ,0,1,The event PersonX finds the shoes will not happen unless PersonX intended to she is barefoot 
+PersonX orders delivery food,xIntent,PersonX intended to be hungry ,1,0,"PersonX orders delivery food, thus it can be seen about PersonX's intention that PersonX intended to be hungry "
+PersonX uses the ___ to describe,oReact,PersonX be brave enough to deal the problems,0,1,"PersonX uses the ___ to describe, thus as a result on PersonY's emotion, PersonX be brave enough to deal the problems"
+PersonX weeps like a PersonY,xNeed,PersonX be compassionate,0,2,The event PersonX weeps like a PersonY will not happen unless PersonX be compassionate
+PersonX contains PersonY number,xNeed,PersonX be hopeful,0,2,The event PersonX contains PersonY number will not happen unless PersonX be hopeful
+PersonX gets burned,xReact,PersonX feel pain,1,0,"PersonX gets burned, thus as a result on PersonX's emotion, PersonX feel pain"
+PersonX catches PersonX's bus,xIntent,PersonX feel relief,0,2,"PersonX catches PersonX's bus, thus it can be seen about PersonX's intention that PersonX feel relief"
+PersonX wears PersonY's boots,xAttr,PersonX be thoughtful,1,0,"PersonX wears PersonY's boots, thus it can be seen about PersonX's attribute that PersonX be thoughtful"
+PersonX quickly went,xIntent,PersonX feel good,0,2,"PersonX quickly went, thus it can be seen about PersonX's intention that PersonX feel good"
+PersonX makes contact with PersonY,xAttr,PersonX be friendly,1,0,"PersonX makes contact with PersonY, thus it can be seen about PersonX's attribute that PersonX be friendly"
+PersonX realizes that PersonY was lost,xNeed,PersonX of watched persony,1,0,The event PersonX realizes that PersonY was lost will not happen unless PersonX of watched persony
+PersonX is in a good mood,oReact,PersonX feel happy,0,1,"PersonX is in a good mood, thus as a result on PersonY's emotion, PersonX feel happy"
+PersonX pulls PersonY's hand,xNeed,PersonX he goes to the store,1,0,The event PersonX pulls PersonY's hand will not happen unless PersonX he goes to the store
+PersonX picks blueberries,xReact,PersonX feel full,1,0,"PersonX picks blueberries, thus as a result on PersonX's emotion, PersonX feel full"
+PersonX wouldnt hurts a fly,xAttr,PersonX be kind,1,0,"PersonX wouldnt hurts a fly, thus it can be seen about PersonX's attribute that PersonX be kind"
+PersonX pisses up a rope,xNeed,PersonX exercise,1,0,The event PersonX pisses up a rope will not happen unless PersonX exercise
+PersonX hits PersonY's friend,xAttr,PersonX intended to injure the friend,0,2,"PersonX hits PersonY's friend, thus it can be seen about PersonX's attribute that PersonX intended to injure the friend"
+PersonX offer ___ to god,xAttr,PersonX intended to try to get students' ,0,1,"PersonX offer ___ to god, thus it can be seen about PersonX's attribute that PersonX intended to try to get students' "
+PersonX enjoys swimming,xReact,PersonX feel happy,1,0,"PersonX enjoys swimming, thus as a result on PersonX's emotion, PersonX feel happy"
+PersonX starts walking,xIntent,PersonX intended to exercise,1,0,"PersonX starts walking, thus it can be seen about PersonX's intention that PersonX intended to exercise"
+PersonX rests ___ on PersonY's shoulder,xAttr,PersonX feel relaxed,0,2,"PersonX rests ___ on PersonY's shoulder, thus it can be seen about PersonX's attribute that PersonX feel relaxed"
+PersonX provides PersonY account,xNeed,PersonX login information,1,0,The event PersonX provides PersonY account will not happen unless PersonX login information
+PersonX gets the shoes,xIntent,PersonX feel good,0,2,"PersonX gets the shoes, thus it can be seen about PersonX's intention that PersonX feel good"
+PersonX pours PersonX's heart,oReact,PersonX open his mouth,0,1,"PersonX pours PersonX's heart, thus as a result on PersonY's emotion, PersonX open his mouth"
+PersonX exercises every day,xIntent,PersonX wake up early,0,2,"PersonX exercises every day, thus it can be seen about PersonX's intention that PersonX wake up early"
+PersonX acts upon PersonY,xAttr,PersonX learn the skills,0,1,"PersonX acts upon PersonY, thus it can be seen about PersonX's attribute that PersonX learn the skills"
+PersonX would n't like PersonY,xIntent,PersonX intended to hold opposing views,1,0,"PersonX would n't like PersonY, thus it can be seen about PersonX's intention that PersonX intended to hold opposing views"
+PersonX works PersonY's way up,oReact,PersonX be knowledgable,0,1,"PersonX works PersonY's way up, thus as a result on PersonY's emotion, PersonX be knowledgable"
+PersonX feels unappreciated,xReact,PersonX feel sad,1,0,"PersonX feels unappreciated, thus as a result on PersonX's emotion, PersonX feel sad"
+PersonX gets the stain,xNeed,PersonX be sloppy,0,1,The event PersonX gets the stain will not happen unless PersonX be sloppy
+PersonX takes ___ everywhere,xNeed,PersonX be prepared,0,1,The event PersonX takes ___ everywhere will not happen unless PersonX be prepared
+PersonX feels so nervous,xAttr,PersonX be edgy,1,0,"PersonX feels so nervous, thus it can be seen about PersonX's attribute that PersonX be edgy"
+PersonX takes things as they come,xNeed,PersonX feel satisfied,0,1,The event PersonX takes things as they come will not happen unless PersonX feel satisfied
+PersonX wants to learn to cook,xNeed,PersonX read a cookbook,1,0,The event PersonX wants to learn to cook will not happen unless PersonX read a cookbook
+PersonX teaches PersonY ___ tricks,xAttr,PersonX be knowing tricks,0,1,"PersonX teaches PersonY ___ tricks, thus it can be seen about PersonX's attribute that PersonX be knowing tricks"
+PersonX buys a parrot,xIntent,PersonX buy a cage,0,1,"PersonX buys a parrot, thus it can be seen about PersonX's intention that PersonX buy a cage"
+PersonX produces PersonY results,xNeed,PersonX be caring,0,2,The event PersonX produces PersonY results will not happen unless PersonX be caring
+PersonX loses sight of PersonY,xAttr,PersonX be forgetful,1,0,"PersonX loses sight of PersonY, thus it can be seen about PersonX's attribute that PersonX be forgetful"
+PersonX knows the ___ from the dance,xNeed,PersonX sit and watch the dance,1,0,The event PersonX knows the ___ from the dance will not happen unless PersonX sit and watch the dance
+PersonX swings the bat,xAttr,PersonX be strong,1,0,"PersonX swings the bat, thus it can be seen about PersonX's attribute that PersonX be strong"
+PersonX shields PersonY's eyes,xNeed,PersonX creep up behind persony,1,0,The event PersonX shields PersonY's eyes will not happen unless PersonX creep up behind persony
+PersonX loves riding PersonY's bike,xIntent,PersonX intended to go fast on a bike,1,0,"PersonX loves riding PersonY's bike, thus it can be seen about PersonX's intention that PersonX intended to go fast on a bike"
+survival,xNeed,PersonX prioritizing many decisions and actions,1,0,The event survival will not happen unless PersonX prioritizing many decisions and actions
+PersonX meets PersonX's standards,oReact,PersonX establish standards,0,1,"PersonX meets PersonX's standards, thus as a result on PersonY's emotion, PersonX establish standards"
+PersonX tickles the dragons tail,xNeed,PersonX intended to make thw dragon giggle ,0,1,The event PersonX tickles the dragons tail will not happen unless PersonX intended to make thw dragon giggle 
+PersonX sees what happened,xIntent,PersonX think it's worth finding out,0,1,"PersonX sees what happened, thus it can be seen about PersonX's intention that PersonX think it's worth finding out"
+PersonX cooks spaghetti,xIntent,PersonX intended to make dinner,1,0,"PersonX cooks spaghetti, thus it can be seen about PersonX's intention that PersonX intended to make dinner"
+PersonX begins to eat,xIntent,PersonX intended to eat mom's cooking,1,0,"PersonX begins to eat, thus it can be seen about PersonX's intention that PersonX intended to eat mom's cooking"
+PersonX repels ___ by force,xNeed,PersonX intended to make a point,0,2,The event PersonX repels ___ by force will not happen unless PersonX intended to make a point
+PersonX puts it in a box,xIntent,PersonX intended to keep it safe,1,0,"PersonX puts it in a box, thus it can be seen about PersonX's intention that PersonX intended to keep it safe"
+PersonX looks ___ like PersonY,oReact,PersonX feel unoriginal,0,1,"PersonX looks ___ like PersonY, thus as a result on PersonY's emotion, PersonX feel unoriginal"
+PersonX puts the moves on ___,xIntent,PersonX feel amorous,0,2,"PersonX puts the moves on ___, thus it can be seen about PersonX's intention that PersonX feel amorous"
+PersonX calls an ambulance,xNeed,PersonX notice an emergency,1,0,The event PersonX calls an ambulance will not happen unless PersonX notice an emergency
+PersonX looks in the pantry,xNeed,PersonX leave his room,1,0,The event PersonX looks in the pantry will not happen unless PersonX leave his room
+PersonX opens PersonX's legs,xAttr,PersonX be relaxed,1,0,"PersonX opens PersonX's legs, thus it can be seen about PersonX's attribute that PersonX be relaxed"
+PersonX becomes scared,xAttr,PersonX be confused,1,0,"PersonX becomes scared, thus it can be seen about PersonX's attribute that PersonX be confused"
+PersonX draws PersonX's sword,xIntent,PersonX gets a reason to draw it,0,2,"PersonX draws PersonX's sword, thus it can be seen about PersonX's intention that PersonX gets a reason to draw it"
+PersonX does not believe PersonY,xReact,PersonX be suspicious,0,1,"PersonX does not believe PersonY, thus as a result on PersonX's emotion, PersonX be suspicious"
+PersonX sends ___ home,oReact,PersonX love their parents,0,1,"PersonX sends ___ home, thus as a result on PersonY's emotion, PersonX love their parents"
+PersonX finds PersonY at home,oReact,PersonX get dressed,0,1,"PersonX finds PersonY at home, thus as a result on PersonY's emotion, PersonX get dressed"
+PersonX is working at a diner,xNeed,PersonX get a job at a diner,1,0,The event PersonX is working at a diner will not happen unless PersonX get a job at a diner
+PersonX visits PersonX's mother 's ___,xNeed,PersonX plan a trip,1,0,The event PersonX visits PersonX's mother 's ___ will not happen unless PersonX plan a trip
+PersonX wears a cast,xNeed,PersonX goes for a bike ride,1,0,The event PersonX wears a cast will not happen unless PersonX goes for a bike ride
+PersonX broadens PersonY's ___ to include,xIntent,PersonX be knowledgeable,0,2,"PersonX broadens PersonY's ___ to include, thus it can be seen about PersonX's intention that PersonX be knowledgeable"
+PersonX makes the team though,xReact,PersonX intended to prove themself,0,1,"PersonX makes the team though, thus as a result on PersonX's emotion, PersonX intended to prove themself"
+PersonX divides the ___ into groups,xIntent,PersonX be care giver,0,1,"PersonX divides the ___ into groups, thus it can be seen about PersonX's intention that PersonX be care giver"
+PersonX alters PersonX's course,xIntent,PersonX feel satisfied,0,2,"PersonX alters PersonX's course, thus it can be seen about PersonX's intention that PersonX feel satisfied"
+PersonX uses the card,xIntent,PersonX feel efficient,0,2,"PersonX uses the card, thus it can be seen about PersonX's intention that PersonX feel efficient"
+PersonX sits patiently,xAttr,PersonX be patient,1,0,"PersonX sits patiently, thus it can be seen about PersonX's attribute that PersonX be patient"
+PersonX leaves ___ in PersonX's car,xNeed,PersonX be driving near persony's car,1,0,The event PersonX leaves ___ in PersonX's car will not happen unless PersonX be driving near persony's car
+PersonX would n't work,xAttr,PersonX be slothful,1,0,"PersonX would n't work, thus it can be seen about PersonX's attribute that PersonX be slothful"
+PersonX would like it,xAttr,PersonX be desiring,1,0,"PersonX would like it, thus it can be seen about PersonX's attribute that PersonX be desiring"
+PersonX makes a mistake,xReact,PersonX feel dumb,1,0,"PersonX makes a mistake, thus as a result on PersonX's emotion, PersonX feel dumb"
+PersonX dyes PersonY's hair blue,xNeed,PersonX feel glad for having done a wonderful job,0,2,The event PersonX dyes PersonY's hair blue will not happen unless PersonX feel glad for having done a wonderful job
+PersonX comes see PersonY,xNeed,PersonX be social,0,2,The event PersonX comes see PersonY will not happen unless PersonX be social
+PersonX wants to kiss PersonY,xReact,PersonX flirt with person y,0,1,"PersonX wants to kiss PersonY, thus as a result on PersonX's emotion, PersonX flirt with person y"
+PersonX goes to PersonY,xIntent,PersonX get in the car,0,1,"PersonX goes to PersonY, thus it can be seen about PersonX's intention that PersonX get in the car"
+PersonX calls PersonY in,xAttr,PersonX make a reason,0,2,"PersonX calls PersonY in, thus it can be seen about PersonX's attribute that PersonX make a reason"
+PersonX sees PersonY in PersonX's office,xIntent,PersonX intended to meet person y,1,0,"PersonX sees PersonY in PersonX's office, thus it can be seen about PersonX's intention that PersonX intended to meet person y"
+PersonX gets the part,xAttr,PersonX be talented,1,0,"PersonX gets the part, thus it can be seen about PersonX's attribute that PersonX be talented"
+PersonX flies to PersonY,xReact,PersonX intended to communicative ,0,1,"PersonX flies to PersonY, thus as a result on PersonX's emotion, PersonX intended to communicative "
+PersonX puts upon PersonY,oReact,PersonX be close to persony,0,1,"PersonX puts upon PersonY, thus as a result on PersonY's emotion, PersonX be close to persony"
+PersonX rears PersonY's children,oReact,PersonX get custody,0,1,"PersonX rears PersonY's children, thus as a result on PersonY's emotion, PersonX get custody"
+PersonX joins ___ for the protection,xNeed,"PersonX feel happy,strong,secure",0,2,"The event PersonX joins ___ for the protection will not happen unless PersonX feel happy,strong,secure"
+PersonX teaches ___ in schools,xNeed,PersonX get hired at a school,1,0,The event PersonX teaches ___ in schools will not happen unless PersonX get hired at a school
+PersonX shakes PersonY's heads,xIntent,PersonX intended to be friendly,1,0,"PersonX shakes PersonY's heads, thus it can be seen about PersonX's intention that PersonX intended to be friendly"
+PersonX practices hard every day,oReact,PersonX intended to excel,0,1,"PersonX practices hard every day, thus as a result on PersonY's emotion, PersonX intended to excel"
+PersonX has never been on one before,xReact,PersonX be young,0,2,"PersonX has never been on one before, thus as a result on PersonX's emotion, PersonX be young"
+PersonX hits by lightning,xReact,PersonX feel shocked,1,0,"PersonX hits by lightning, thus as a result on PersonX's emotion, PersonX feel shocked"
+PersonX provides ___ for the poor,oReact,PersonY feel thankful,1,0,"PersonX provides ___ for the poor, thus as a result on PersonY's emotion, PersonY feel thankful"
+PersonX finds it anywhere,xNeed,PersonX be talented,0,2,The event PersonX finds it anywhere will not happen unless PersonX be talented
+PersonX starts early in the morning,xReact,PersonX set an alarm,0,1,"PersonX starts early in the morning, thus as a result on PersonX's emotion, PersonX set an alarm"
+PersonX makes friendship bracelets,xAttr,PersonX be artistic,1,0,"PersonX makes friendship bracelets, thus it can be seen about PersonX's attribute that PersonX be artistic"
+PersonX builds muscle,xIntent,PersonX intended to be strong,1,0,"PersonX builds muscle, thus it can be seen about PersonX's intention that PersonX intended to be strong"
+PersonX gets on PersonX's feet,oReact,PersonX feel neutral,0,1,"PersonX gets on PersonX's feet, thus as a result on PersonY's emotion, PersonX feel neutral"
+PersonX visits PersonY's friend,xIntent,PersonX intended to be sociable,1,0,"PersonX visits PersonY's friend, thus it can be seen about PersonX's intention that PersonX intended to be sociable"
+PersonX gets to work on time,xNeed,PersonX be working,1,0,The event PersonX gets to work on time will not happen unless PersonX be working
+PersonX researches ___ online,xIntent,PersonX intended to make a good grade,1,0,"PersonX researches ___ online, thus it can be seen about PersonX's intention that PersonX intended to make a good grade"
+PersonX advertises PersonY's business,xAttr,PersonX have a place to advertise it,0,2,"PersonX advertises PersonY's business, thus it can be seen about PersonX's attribute that PersonX have a place to advertise it"
+PersonX gets second place,xNeed,PersonX compete,1,0,The event PersonX gets second place will not happen unless PersonX compete
+PersonX puts the phone,xNeed,PersonX make a call,1,0,The event PersonX puts the phone will not happen unless PersonX make a call
+PersonX begs PersonY's parents,xAttr,PersonX be convincing,1,0,"PersonX begs PersonY's parents, thus it can be seen about PersonX's attribute that PersonX be convincing"
+PersonX rains cats and dogs,xIntent,PersonX intended to the othe rperosn to know hes very angry ,1,0,"PersonX rains cats and dogs, thus it can be seen about PersonX's intention that PersonX intended to the othe rperosn to know hes very angry "
+PersonX learns how to bake a cake,oReact,PersonX go to culinary school,0,1,"PersonX learns how to bake a cake, thus as a result on PersonY's emotion, PersonX go to culinary school"
+learn about linguistics,xAttr,PersonX read chomsky,0,1,"learn about linguistics, thus it can be seen about PersonX's attribute that PersonX read chomsky"
+PersonX replaces PersonY's old one,xIntent,PersonX intended to express gratitude for the past,1,0,"PersonX replaces PersonY's old one, thus it can be seen about PersonX's intention that PersonX intended to express gratitude for the past"
+PersonX sees PersonY every day,xIntent,PersonX be disciplined,0,1,"PersonX sees PersonY every day, thus it can be seen about PersonX's intention that PersonX be disciplined"
+PersonX argues with PersonY's boyfriend,xAttr,PersonX be hard-headed,1,0,"PersonX argues with PersonY's boyfriend, thus it can be seen about PersonX's attribute that PersonX be hard-headed"
+PersonX makes every ___,xIntent,PersonX intended to make every test ,1,0,"PersonX makes every ___, thus it can be seen about PersonX's intention that PersonX intended to make every test "
+PersonX has anger problems,xReact,PersonX be immature,0,2,"PersonX has anger problems, thus as a result on PersonX's emotion, PersonX be immature"
+PersonX gets dressed for work,xNeed,PersonX intended to earn money,0,1,The event PersonX gets dressed for work will not happen unless PersonX intended to earn money
+PersonX provides PersonY estimate,xAttr,PersonX be consistent,1,0,"PersonX provides PersonY estimate, thus it can be seen about PersonX's attribute that PersonX be consistent"
+PersonX sits down next to PersonY,xReact,PersonX be social,0,1,"PersonX sits down next to PersonY, thus as a result on PersonX's emotion, PersonX be social"
+PersonX pulls PersonY out,xAttr,PersonX be helpful,1,0,"PersonX pulls PersonY out, thus it can be seen about PersonX's attribute that PersonX be helpful"
+PersonX takes PersonY step,xAttr,PersonX be aggressive,1,0,"PersonX takes PersonY step, thus it can be seen about PersonX's attribute that PersonX be aggressive"
+PersonX tells ___ PersonY had a surprise,xReact,PersonX be informative,0,1,"PersonX tells ___ PersonY had a surprise, thus as a result on PersonX's emotion, PersonX be informative"
+PersonX leaves PersonX's car,xIntent,PersonX go somewhere,0,2,"PersonX leaves PersonX's car, thus it can be seen about PersonX's intention that PersonX go somewhere"
+PersonX shares PersonY experience,xIntent,PersonX intended to tell a story,1,0,"PersonX shares PersonY experience, thus it can be seen about PersonX's intention that PersonX intended to tell a story"
+PersonX catches PersonY attention,xNeed,PersonX talk to persony's friend,1,0,The event PersonX catches PersonY attention will not happen unless PersonX talk to persony's friend
+PersonX shoves PersonY back,xAttr,PersonX be arms length away from y,0,2,"PersonX shoves PersonY back, thus it can be seen about PersonX's attribute that PersonX be arms length away from y"
+PersonX meets PersonY's standards,xNeed,PersonX prepare himself,1,0,The event PersonX meets PersonY's standards will not happen unless PersonX prepare himself
+PersonX sifts out ___,xAttr,PersonX be artistic,1,0,"PersonX sifts out ___, thus it can be seen about PersonX's attribute that PersonX be artistic"
+PersonX lit another ___,xIntent,PersonX intended to relationship ,1,0,"PersonX lit another ___, thus it can be seen about PersonX's intention that PersonX intended to relationship "
+PersonX reads PersonY's diary,xIntent,PersonX intended to be nosey,1,0,"PersonX reads PersonY's diary, thus it can be seen about PersonX's intention that PersonX intended to be nosey"
+have physical exam,xIntent,PersonX kill yourself,0,1,"have physical exam, thus it can be seen about PersonX's intention that PersonX kill yourself"
+PersonX camps with PersonY's family,xAttr,PersonX pack camping gear in car,0,2,"PersonX camps with PersonY's family, thus it can be seen about PersonX's attribute that PersonX pack camping gear in car"
+PersonX loves PersonY more than anything,xIntent,PersonX intended to be affectionate,1,0,"PersonX loves PersonY more than anything, thus it can be seen about PersonX's intention that PersonX intended to be affectionate"
+PersonX takes liberties,xIntent,PersonX be strong,0,2,"PersonX takes liberties, thus it can be seen about PersonX's intention that PersonX be strong"
+PersonX wins several awards,xIntent,PersonX practice,0,1,"PersonX wins several awards, thus it can be seen about PersonX's intention that PersonX practice"
+PersonX steps up PersonX's game,xNeed,PersonX practice,1,0,The event PersonX steps up PersonX's game will not happen unless PersonX practice
+PersonX would not work,xNeed,PersonX have an injury,1,0,The event PersonX would not work will not happen unless PersonX have an injury
+PersonX gets something to drink,xNeed,PersonX be thirsty,1,0,The event PersonX gets something to drink will not happen unless PersonX be thirsty
+PersonX takes ___ in the campaign,xNeed,PersonX ask permisssion,1,0,The event PersonX takes ___ in the campaign will not happen unless PersonX ask permisssion
+PersonX gets hurt,xReact,PersonX feel pain,1,0,"PersonX gets hurt, thus as a result on PersonX's emotion, PersonX feel pain"
+PersonX kisses PersonY on the cheek,xIntent,PersonX intended to be kiss,1,0,"PersonX kisses PersonY on the cheek, thus it can be seen about PersonX's intention that PersonX intended to be kiss"
+PersonX lit another cigarette,xIntent,PersonX take lighter,0,2,"PersonX lit another cigarette, thus it can be seen about PersonX's intention that PersonX take lighter"
+loose weight,xReact,PersonX not put butter on popcorn,0,1,"loose weight, thus as a result on PersonX's emotion, PersonX not put butter on popcorn"
+PersonX gets there early,xAttr,PersonX be curious,1,0,"PersonX gets there early, thus it can be seen about PersonX's attribute that PersonX be curious"
+PersonX sees a rabbit,xAttr,PersonX looks around,0,1,"PersonX sees a rabbit, thus it can be seen about PersonX's attribute that PersonX looks around"
+PersonX puts PersonX's ___ to death,xNeed,PersonX feel hateful,0,2,The event PersonX puts PersonX's ___ to death will not happen unless PersonX feel hateful
+PersonX is excited and nervous,xReact,PersonX hear some good news,0,2,"PersonX is excited and nervous, thus as a result on PersonX's emotion, PersonX hear some good news"
+PersonX wants to learn how to sing,xNeed,PersonX get music,1,0,The event PersonX wants to learn how to sing will not happen unless PersonX get music
+PersonX is a web developer,xNeed,PersonX feel productive,0,2,The event PersonX is a web developer will not happen unless PersonX feel productive
+PersonX bites PersonX's ___ to keep,xReact,PersonX feel frustrated,1,0,"PersonX bites PersonX's ___ to keep, thus as a result on PersonX's emotion, PersonX feel frustrated"
+PersonX is much cheaper,xNeed,PersonX intended to save money,0,2,The event PersonX is much cheaper will not happen unless PersonX intended to save money
+PersonX gives PersonX's all,xReact,PersonX feel happy,1,0,"PersonX gives PersonX's all, thus as a result on PersonX's emotion, PersonX feel happy"
+PersonX works really hard,xNeed,PersonX intended to good,0,1,The event PersonX works really hard will not happen unless PersonX intended to good
+PersonX tells PersonY a little,xAttr,PersonX be talkative,1,0,"PersonX tells PersonY a little, thus it can be seen about PersonX's attribute that PersonX be talkative"
+PersonX gives PersonY the courage,xNeed,PersonX be influential,0,1,The event PersonX gives PersonY the courage will not happen unless PersonX be influential
+PersonX meets customers ' ___,xIntent,PersonX know about their tastes,0,1,"PersonX meets customers ' ___, thus it can be seen about PersonX's intention that PersonX know about their tastes"
+PersonX finally got ___,xNeed,PersonX get hired,1,0,The event PersonX finally got ___ will not happen unless PersonX get hired
+PersonX goes to a doctor 's appointment,xAttr,PersonX feel scared,0,1,"PersonX goes to a doctor 's appointment, thus it can be seen about PersonX's attribute that PersonX feel scared"
+PersonX peers inside,xNeed,PersonX feel curious,0,2,The event PersonX peers inside will not happen unless PersonX feel curious
+PersonX does a wonderful job,xIntent,PersonX intended to want to be a good employee ,1,0,"PersonX does a wonderful job, thus it can be seen about PersonX's intention that PersonX intended to want to be a good employee "
+PersonX leaves it be,xNeed,PersonX think it will be ok,1,0,The event PersonX leaves it be will not happen unless PersonX think it will be ok
+PersonX makes ___ instead,xAttr,PersonX be hungry,1,0,"PersonX makes ___ instead, thus it can be seen about PersonX's attribute that PersonX be hungry"
+PersonX has a dinner party,xAttr,PersonX be social,1,0,"PersonX has a dinner party, thus it can be seen about PersonX's attribute that PersonX be social"
+PersonX appoints a ___ to investigate,xAttr,PersonX have the responsibility,0,1,"PersonX appoints a ___ to investigate, thus it can be seen about PersonX's attribute that PersonX have the responsibility"
+PersonX shares the ___ equally,xNeed,PersonX he works with a co-worker,1,0,The event PersonX shares the ___ equally will not happen unless PersonX he works with a co-worker
+PersonX owes PersonY,xIntent,PersonX borrow from persony,0,2,"PersonX owes PersonY, thus it can be seen about PersonX's intention that PersonX borrow from persony"
+PersonX wants to play hockey,xAttr,PersonX feel friendly,0,1,"PersonX wants to play hockey, thus it can be seen about PersonX's attribute that PersonX feel friendly"
+PersonX gives the ___ PersonY's name,xIntent,PersonX go there,0,2,"PersonX gives the ___ PersonY's name, thus it can be seen about PersonX's intention that PersonX go there"
+PersonX lands the job,xReact,PersonX be dedicated,0,1,"PersonX lands the job, thus as a result on PersonX's emotion, PersonX be dedicated"
+PersonX drops the phone,xReact,PersonX call someone,0,2,"PersonX drops the phone, thus as a result on PersonX's emotion, PersonX call someone"
+PersonX opens the lid,xNeed,PersonX look for the jar they need,1,0,The event PersonX opens the lid will not happen unless PersonX look for the jar they need
+PersonX visits PersonX's cousin,xIntent,PersonX know where cousin lives,0,1,"PersonX visits PersonX's cousin, thus it can be seen about PersonX's intention that PersonX know where cousin lives"
+PersonX blows PersonX's wad,xNeed,PersonX become intimate with a woman,1,0,The event PersonX blows PersonX's wad will not happen unless PersonX become intimate with a woman
+PersonX notices a wallet,xAttr,PersonX feel hopeful,0,2,"PersonX notices a wallet, thus it can be seen about PersonX's attribute that PersonX feel hopeful"
+PersonX stays clean,xAttr,PersonX be hygienic,1,0,"PersonX stays clean, thus it can be seen about PersonX's attribute that PersonX be hygienic"
+PersonX takes place in the century,xNeed,PersonX be brave,0,1,The event PersonX takes place in the century will not happen unless PersonX be brave
+PersonX convinces PersonX's parents,xReact,PersonX feel relieved,1,0,"PersonX convinces PersonX's parents, thus as a result on PersonX's emotion, PersonX feel relieved"
+PersonX arrives at PersonX's destination,xIntent,PersonX decide what her destination is,0,1,"PersonX arrives at PersonX's destination, thus it can be seen about PersonX's intention that PersonX decide what her destination is"
+PersonX sets the thames on fire,xNeed,PersonX be at the thames,1,0,The event PersonX sets the thames on fire will not happen unless PersonX be at the thames
+PersonX offers ___ on this book when ordered,xNeed,PersonX paper,1,0,The event PersonX offers ___ on this book when ordered will not happen unless PersonX paper
+PersonX draws ___ to the need,xReact,PersonX put up big posters,0,1,"PersonX draws ___ to the need, thus as a result on PersonX's emotion, PersonX put up big posters"
+PersonX practices all day,xIntent,PersonX intended to be good at it,1,0,"PersonX practices all day, thus it can be seen about PersonX's intention that PersonX intended to be good at it"
+PersonX meets the company 's ___,xNeed,PersonX feel successful,0,2,The event PersonX meets the company 's ___ will not happen unless PersonX feel successful
+PersonX provides PersonY description,xIntent,PersonX know persony,0,2,"PersonX provides PersonY description, thus it can be seen about PersonX's intention that PersonX know persony"
+PersonX spends ___ at PersonY's house,xAttr,PersonX intended to be a good friend,0,2,"PersonX spends ___ at PersonY's house, thus it can be seen about PersonX's attribute that PersonX intended to be a good friend"
+PersonX spends the ___ working,xReact,PersonX feel exhausted and tired,1,0,"PersonX spends the ___ working, thus as a result on PersonX's emotion, PersonX feel exhausted and tired"
+PersonX arrives ___ from work,xAttr,PersonX be tired,1,0,"PersonX arrives ___ from work, thus it can be seen about PersonX's attribute that PersonX be tired"
+PersonX uses ___ as a means,xNeed,PersonX make a plan,1,0,The event PersonX uses ___ as a means will not happen unless PersonX make a plan
+PersonX goes from zero to hero,xAttr,PersonX be capable,1,0,"PersonX goes from zero to hero, thus it can be seen about PersonX's attribute that PersonX be capable"
+PersonX watches for PersonY opportunity,xNeed,PersonX feel eager,0,2,The event PersonX watches for PersonY opportunity will not happen unless PersonX feel eager
+PersonX sprains PersonX's leg,xNeed,PersonX be athletic,0,2,The event PersonX sprains PersonX's leg will not happen unless PersonX be athletic
+PersonX takes ___ to the grave,xIntent,PersonX be stubborn,0,1,"PersonX takes ___ to the grave, thus it can be seen about PersonX's intention that PersonX be stubborn"
+PersonX makes PersonY concessions,xAttr,PersonX be helpful,1,0,"PersonX makes PersonY concessions, thus it can be seen about PersonX's attribute that PersonX be helpful"
+PersonX puts ___ into the oven,xIntent,PersonX prepare item for cooking,0,1,"PersonX puts ___ into the oven, thus it can be seen about PersonX's intention that PersonX prepare item for cooking"
+PersonX turns PersonX's music down,xIntent,PersonX intended to let his wife sleep soundly,1,0,"PersonX turns PersonX's music down, thus it can be seen about PersonX's intention that PersonX intended to let his wife sleep soundly"
+PersonX wears gloves,xIntent,PersonX intended to protect hands,1,0,"PersonX wears gloves, thus it can be seen about PersonX's intention that PersonX intended to protect hands"
+PersonX talks to PersonY again,xAttr,PersonX be social,1,0,"PersonX talks to PersonY again, thus it can be seen about PersonX's attribute that PersonX be social"
+PersonX buys one,xNeed,PersonX find item to buy,1,0,The event PersonX buys one will not happen unless PersonX find item to buy
+PersonX goes ___ to bed,xAttr,PersonX set their alarm,0,1,"PersonX goes ___ to bed, thus it can be seen about PersonX's attribute that PersonX set their alarm"
+howl with laughter,xNeed,PersonX funny story,1,0,The event howl with laughter will not happen unless PersonX funny story
+PersonX eats it quickly,xIntent,PersonX feel hungry,0,2,"PersonX eats it quickly, thus it can be seen about PersonX's intention that PersonX feel hungry"
+PersonX meets friends,xIntent,PersonX be friendly,0,2,"PersonX meets friends, thus it can be seen about PersonX's intention that PersonX be friendly"
+PersonX increases women 's ___,xIntent,PersonX intended to be helpful,1,0,"PersonX increases women 's ___, thus it can be seen about PersonX's intention that PersonX intended to be helpful"
+PersonX gets PersonX's makeup done,xIntent,PersonX intended to be noticed,1,0,"PersonX gets PersonX's makeup done, thus it can be seen about PersonX's intention that PersonX intended to be noticed"
+PersonX goes downhill,xReact,PersonX feel bad,1,0,"PersonX goes downhill, thus as a result on PersonX's emotion, PersonX feel bad"
+PersonX pulls out all the stops,xNeed,PersonX be determined,0,1,The event PersonX pulls out all the stops will not happen unless PersonX be determined
+PersonX makes that mistake,xReact,PersonX of done something,0,1,"PersonX makes that mistake, thus as a result on PersonX's emotion, PersonX of done something"
+PersonX sees PersonY's crush,oReact,PersonX feel happy,0,1,"PersonX sees PersonY's crush, thus as a result on PersonY's emotion, PersonX feel happy"
+PersonX fits the ___ best,oReact,PersonX be mellow,0,1,"PersonX fits the ___ best, thus as a result on PersonY's emotion, PersonX be mellow"
+PersonX wants to learn how to play the guitar,xReact,PersonX buy a guitar,0,2,"PersonX wants to learn how to play the guitar, thus as a result on PersonX's emotion, PersonX buy a guitar"
+PersonX never been on one before,xReact,PersonX feel nervous,1,0,"PersonX never been on one before, thus as a result on PersonX's emotion, PersonX feel nervous"
+PersonX spills coffee,xAttr,PersonX feel angry because x has to get new coffee,0,1,"PersonX spills coffee, thus it can be seen about PersonX's attribute that PersonX feel angry because x has to get new coffee"
+PersonX cleans PersonX's bedroom,xNeed,PersonX start to pick up things,1,0,The event PersonX cleans PersonX's bedroom will not happen unless PersonX start to pick up things
+PersonX visits PersonY's mother,xAttr,PersonX travel,0,2,"PersonX visits PersonY's mother, thus it can be seen about PersonX's attribute that PersonX travel"
+PersonX runs some errands,xIntent,PersonX intended to get things done to have free time later,1,0,"PersonX runs some errands, thus it can be seen about PersonX's intention that PersonX intended to get things done to have free time later"
+PersonX spends ___ waiting,oReact,PersonX decide to wait,0,1,"PersonX spends ___ waiting, thus as a result on PersonY's emotion, PersonX decide to wait"
+PersonX finishes the job,xNeed,PersonX get necessary equipment,1,0,The event PersonX finishes the job will not happen unless PersonX get necessary equipment
+PersonX buys ___ for PersonX's wife,xIntent,PersonX make sure he is alone when he goes to buy the gift,0,2,"PersonX buys ___ for PersonX's wife, thus it can be seen about PersonX's intention that PersonX make sure he is alone when he goes to buy the gift"
+PersonX looks in PersonX's cupboard,oReact,PersonX open the door,0,1,"PersonX looks in PersonX's cupboard, thus as a result on PersonY's emotion, PersonX open the door"
+PersonX watches PersonY,xNeed,PersonX be watchful,0,1,The event PersonX watches PersonY will not happen unless PersonX be watchful
+PersonX has a wonderful trip,xReact,PersonX feel satisfied,1,0,"PersonX has a wonderful trip, thus as a result on PersonX's emotion, PersonX feel satisfied"
+PersonX represents every ___,xNeed,PersonX be well known,1,0,The event PersonX represents every ___ will not happen unless PersonX be well known
+PersonX finds ___ to describe,xIntent,PersonX feel less worried,0,2,"PersonX finds ___ to describe, thus it can be seen about PersonX's intention that PersonX feel less worried"
+PersonX gets ___ right away,xReact,PersonX feel fulfilled,1,0,"PersonX gets ___ right away, thus as a result on PersonX's emotion, PersonX feel fulfilled"
+PersonX is making a cake,xNeed,PersonX feel happy,0,2,The event PersonX is making a cake will not happen unless PersonX feel happy
+PersonX knows PersonY name,xReact,PersonX look up person y,0,1,"PersonX knows PersonY name, thus as a result on PersonX's emotion, PersonX look up person y"
+PersonX protects PersonY from harm,xIntent,PersonX intended to keep him safe from danger,1,0,"PersonX protects PersonY from harm, thus it can be seen about PersonX's intention that PersonX intended to keep him safe from danger"

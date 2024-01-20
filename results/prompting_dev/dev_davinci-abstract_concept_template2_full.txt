@@ -1,0 +1,102 @@
+----1. Yes. Because 'PersonX orgasm' expresses an 'event' of PersonX--2. Yes.--3. False. Because ejaculating does not necessarily mean that PersonX wants to orgasm.
+----1. Yes. Because 'PersonX want to get a glass of wine' expresses an 'event' of PersonX.--2. Yes.--3. False. Because it's not necessarily true that PersonX want to get a glass of wine just because PersonX go to fridge.
+----1. Yes. Because 'PersonX die' expresses an 'event' of PersonX.--2. Yes.--3. False. Because it's unlikely that PersonX want to die after working tirelessly.
+----1. Yes. Because 'PersonX leave' expresses an 'event' of PersonX.--2. Yes.--3. True. Because setting off usually means wanting to leave.
+----1. Yes. Because 'PersonX want to fight for country' expresses an 'event' of PersonX--2. Yes.--3. True. Because enlisting is a sign of wanting to fight for one's country.
+----1. No. Because 'PersonX mother enrol PersonX in school' doesn't expresses an 'event' of PersonX--2. Yes.--3. False. Because result of 1 is No.
+----1. Yes. Because 'PersonX have to put down some toilet paper in toilet' expresses an 'event' of PersonX.--2. Yes.--3. True. Because it is a common practice to put down some toilet paper in toilet after shitting.
+----1. Yes. Because 'PersonX be paranoid' expresses an 'event' of PersonX--2. Yes.--3. False. Because it's unlikely that PersonX want to be paranoid just because PersonX come.
+----1. Yes. Because 'PersonX will bet' expresses an 'event' of PersonX--2. Yes.--3. False. Because looking back at footage does not necessarily lead to wanting to bet.
+----1. Yes. Because 'PersonX could not pay it back' expresses an 'event' of PersonX.--2. Yes.--3. False. Because it's unlikely that PersonX want to not pay it back.
+----1. Yes. Because 'PersonX pay bill' expresses an 'event' of PersonX.--2. Yes.--3. True. Because withdrawing money is usually done to pay bills.
+----1. Yes. Because 'PersonX have a toothache' expresses an 'event' of PersonX--2. Yes.--3. False. Because having cavity doesn't necessarily mean PersonX want to have a toothache.
+----1. Yes. Because 'PersonX get a telegram' expresses an 'event' of PersonX.--2. Yes.--3. False. Because wiring someone does not necessarily mean that the person wants to get a telegram.
+--1. Yes. Because 'PersonY escape' expresses an 'event' of PersonY--2. Yes.--3. False. Because it's unlikely that PersonY wants to escape just because PersonX escape.
+----1. Yes. Because 'PersonY be a remote worker' expresses an 'event' of PersonY.--2. Yes.--3. False. Because PersonX working from home does not necessarily mean PersonY wants to be a remote worker.
+----1. Yes. Because 'PersonY prefer' expresses an 'event' of PersonY.--2. Yes.--3. False. Because it's unlikely that PersonY prefer just because PersonX loan succeed.
+----1. No. Because 'PersonY wasn't look' doesn't expresses an 'event' of PersonY.--2. Yes.--3. False. Because result of 1 is No.
+----1. No. Because 'PersonY mean' doesn't expresses an 'event' of PersonY--2. No. Because the meaning of 'PersonY mean' is unclear/ambiguous--3. False. Because result of either 1 or 2 is No.
+----1. No. Because 'PersonX be only ask' doesn't expresses an 'event' of PersonX--2. No. Because the meaning of 'PersonX be only ask' is unclear/ambiguous--3. False. Because result of 1 or 2 is No.
+----1. No. Because 'PersonX body reject the transplant liver' doesn't expresses an 'event' of PersonX.--2. Yes.--3. False. Because result of 1 is No.
+----1. Yes. Because 'PersonX be nervous' expresses an 'event' of PersonX--2. Yes.--3. True. Because getting paranoid likely result in being nervous.
+----1. Yes. Because 'PersonX throw up' expresses an 'event' of PersonX--2. Yes.--3. True. Because having food poisoning usually results in throwing up.
+----1. Yes. Because 'PersonX want to stay there' expresses an 'event' of PersonX--2. Yes.--3. True. Because 1) earning more money can make people feel more secure and comfortable, and 2) people tend to stay in a place where they feel secure and comfortable.
+----1. Yes. Because 'PersonX have medicine' expresses an 'event' of PersonX.--2. Yes.--3. True. Because PersonX feeling very sick likely leads to PersonX taking medicine.
+----1. No. Because 'PersonX be indecisive' doesn't expresses an 'event' of PersonX--2. Yes.--3. False. Because result of 1 is No.
+----1. Yes. Because 'PersonX just will not cry' expresses an 'event' of PersonX.--2. Yes.--3. False. Because it's unlikely that PersonX will not cry after seeing a dead body.
+----1. Yes. Because 'PersonX need gas' expresses an 'event' of PersonX.--2. Yes.--3. True. Because it is likely that PersonX need gas when they go to fill up.
+----1. Yes. Because 'PersonX could not be' expresses an 'event' of PersonX.--2. Yes.--3. False. Because being a baby does not necessarily mean PersonX could not be.
+----1. Yes. Because 'PersonX wont be able' expresses an 'event' of PersonX.--2. Yes.--3. False. Because moving out to live on own doesn't necessarily mean PersonX won't be able to do something.
+----1. Yes. Because 'PersonX fill out paperwork' expresses an 'event' of PersonX.--2. Yes.--3. False. Because filling out paperwork is not necessarily a result of joining.
+----1. Yes. Because 'PersonY bet' expresses an 'event' of PersonY.--2. Yes.--3. False. Because getting in shape is not likely to cause PersonY to bet.
+----1. Yes. Because 'PersonY do not actually cause the harm' expresses an 'event' of PersonY.--2. Yes.--3. False. Because PersonY did not cause the harm, but PersonX did.
+--1. Yes. Because 'PersonY have a boyfriend' expresses an 'event' of PersonY--2. Yes.--3. False. Because it's unlikely that PersonY will have a boyfriend just because PersonX steal PersonZ boyfriend.
+----1. No. Because 'PersonX wait' doesn't expresses an 'mental state' of PersonX--2. Yes.--3. False. Because result of 1 is No.
+----1. Yes. Because 'PersonX never reach out to anyone' expresses a 'mental state' of PersonX--2. Yes.--3. False. Because it's unlikely that PersonX never reach out to anyone just because PersonX prevent PersonY.
+----1. Yes. Because 'PersonX be tired' expresses a 'mental state' of PersonX--2. Yes.--3. True. Because it's likely that PersonX feel tired after go to sleep on hollow.
+----1. No. Because 'PersonX always win' doesn't expresses an 'mental state' of PersonX--2. Yes.--3. False. Because result of 1 is No.
+----1. Yes. Because 'PersonX be curious' expresses a 'mental state' of PersonX--2. Yes.--3. True. Because reading non fiction likely result in feeling curious.
+----1. Yes. Because 'PersonX feel PersonX be selfish' expresses a 'mental state' of PersonX--2. No. Because the meaning of 'PersonX feel PersonX be selfish' is unclear/ambiguous--3. False. Because result of 2 is No.
+----1. Yes. Because 'PersonX feel PersonX be elderly' expresses a 'mental state' of PersonX--2. Yes.--3. False. Because having gray hair doesn't necessarily mean PersonX feel elderly.
+----1. Yes. Because 'PersonX be full' expresses a 'mental state' of PersonX--2. Yes.--3. True. Because it's likely that PersonX feel full after eating a sub.
+----1. No. Because 'PersonX don't' doesn't expresses an 'mental state' of PersonX--2. No. Because the meaning of 'PersonX don't' is unclear/ambiguous--3. False. Because result of 1 is No.
+----1. Yes. Because 'PersonX love to do that' expresses a 'mental state' of PersonX--2. Yes.--3. True. Because 1) creating something usually requires effort and passion, and 2) people tend to love doing something they have created.
+----1. Yes. Because 'PersonX be nostalgic' expresses a 'mental state' of PersonX--2. Yes.--3. True. Because when PersonX put PersonY in mind, PersonX may feel nostalgic due to the memories associated with PersonY.
+----1. Yes. Because 'PersonY feel PersonY be here' expresses a 'mental state' of PersonY--2. Yes.--3. False. Because it's unlikely that PersonY feel PersonY be here after PersonX bear PersonY.
+----1. No. Because 'PersonY be kind' doesn't expresses a 'mental state' of PersonY--2. Yes.--3. False. Because result of 1 is No.
+----1. Yes. Because 'PersonY blush' expresses a 'mental state' of PersonY--2. Yes.--3. True. Because people tend to blush when someone gaze at them.
+----1. Yes. Because 'PersonY be fun' expresses a 'mental state' of PersonY--2. Yes.--3. False. Because it's unlikely that PersonY feel fun just because PersonX play ana.
+----1. Yes. Because 'PersonX be babysit' expresses a persona of PersonX--2. Yes.--3. False. Because having a baby brother die likely result from unfortune, while being a babysitter is not relevant.
+----1. Yes. Because 'PersonX be professional' expresses a persona of PersonX--2. Yes.--3. True. Because walking someone through a process requires knowledge and skill, which are usually associated with professionalism.
+----1. No. Because 'PersonX get' doesn't expresses a 'persona' of PersonX--2. Yes.--3. False. Because result of 1 is No.
+----1. Yes. Because 'PersonX be well pay' expresses a persona of PersonX--2. Yes.--3. False. Because staying happy is not necessarily related to being well pay.
+----1. Yes. Because 'PersonX fall' expresses a persona of PersonX--2. Yes.--3. False. Because hand slipping likely result from carelessness, while falling is not relevant.
+----1. Yes. Because 'PersonX be work' expresses a persona of PersonX--2. Yes.--3. False. Because starting a job does not necessarily mean that PersonX is a hard worker.
+----1. Yes. Because 'PersonX be convinced' expresses a persona of PersonX--2. Yes.--3. True. Because 'PersonX readily believe so' means PersonX is easily convinced, and 'PersonX be convinced' is the result of PersonX's readiness to believe.
+----1. Yes. Because 'PersonX see PersonY' expresses a persona of PersonX--2. Yes.--3. False. Because having nothing else likely result from unfortune or carelessness, while seeing PersonY is not relevant.
+----1. Yes. Because 'PersonX be startle' expresses a persona of PersonX--2. Yes.--3. False. Because not hearing a car drive up does not necessarily mean PersonX will be startle.
+----1. Yes. Because 'PersonX be promise' expresses a persona of PersonX--2. No. Because the meaning of 'PersonX miss' is unclear/ambiguous--3. False. Because result of 2 is No.
+----1. No. Because 'PersonX feel' doesn't expresses a 'persona' of PersonX--2. No. Because the meaning of 'PersonX feel' is unclear/ambiguous--3. False. Because result of 1 or 2 is No.
+----1. Yes. Because 'PersonX be upset' expresses a persona of PersonX--2. Yes.--3. True. Because it's likely that PersonX will be upset after mistakenly shave PersonY head.
+----1. Yes. Because 'PersonX belief be true' expresses a 'mental state' of PersonX--2. Yes.--3. False. Because believing something doesn't necessarily mean that the belief is true.
+----1. Yes. Because 'PersonX do not need a car' expresses a 'mental state' of PersonX--2. Yes.--3. False. Because riding the light rail does not necessarily mean that PersonX do not need a car.
+----1. Yes. Because 'PersonX wish' expresses a 'mental state' of PersonX--2. Yes.--3. False. Because having one person is not necessarily related to PersonX's intention to wish.
+----1. Yes. Because 'PersonX have a opinion' expresses a 'mental state' of PersonX--2. Yes.--3. True. Because 1) "PersonX can form a opinion" means PersonX is capable of forming a opinion, and 2) people tend to have a opinion when they are capable of forming one.
+----1. No. Because 'PersonX almost die' doesn't expresses a 'mental state' of PersonX--2. Yes.--3. False. Because result of 1 is No.
+----1. Yes. Because 'PersonX be happy' expresses an 'event' of PersonX--2. Yes.--3. False. Because it's unlikely that PersonX will get even happier if PersonX is already happy.
+----1. Yes. Because 'PersonX have to make PeopleX for everyone' expresses an 'event' of PersonX--2. Yes.--3. False. Because making PeopleX for everyone is not a necessary condition for the event of PersonX making wedding cake.
+----1. Yes. Because 'PersonX use it' expresses an 'event' of PersonX--2. Yes.--3. False. Because PersonX just activate it does not necessarily mean PersonX will use it.
+----1. Yes. Because 'PersonX be intolerant' expresses an 'event' of PersonX--2. Yes.--3. False. Because being intolerant is not necessary for PersonX to go lady at counter.
+----1. Yes. Because 'PersonX can use PersonX debit card' expresses an 'event' of PersonX--2. Yes.--3. False. Because PersonX can use PersonX debit card does not necessarily mean the event PersonX pay by card will happen.
+----1. Yes. Because 'PersonX need to make plan' expresses an 'event' of PersonX.--2. Yes.--3. False. Because wanting to be an actor and making plan are two different events, and the inference does not necessarily imply that the former will not happen unless the latter happens.
+----1. Yes. Because 'PersonX start' expresses an 'event' of PersonX--2. Yes.--3. False. Because PersonX making a speech is not necessarily dependent on PersonX starting something.
+----1. Yes. Because 'PersonX breathe' expresses an 'event' of PersonX--2. Yes.--3. False. Because it's unlikely that PersonX will get sick unless PersonX breathe.
+----1. Yes. Because 'PersonX have begin to recover' expresses an 'event' of PersonX--2. Yes.--3. True. Because PersonX breaking their hip is likely to result in them needing to recover.
+----1. Yes. Because 'PeopleX be fast' expresses an 'event' of PeopleX--2. Yes.--3. False. Because going faster doesn't necessarily mean being fast.
+----1. Yes. Because 'PersonY ask' expresses an 'event' of PersonY.--2. Yes.--3. False. Because having a secret does not necessarily lead to PersonY asking.
+----1. Yes. Because 'PeopleX be older' expresses an 'event' of PeopleX.--2. Yes.--3. True. Because people tend to retire when they are older.
+----1. Yes. Because 'it be so crazy' expresses an 'event'--2. Yes.--3. False. Because doing something well is not necessarily related to it being crazy.
+----1. Yes. Because 'PersonX live a married life' expresses an 'event' of PersonX--2. Yes.--3. False. Because being not home is not related to living a married life.
+----1. Yes. Because 'PersonY do something' expresses an 'event' of PersonY--2. Yes.--3. False. Because the inference does not provide enough information to judge if the inference is likely true or false.
+----1. Yes. Because 'PersonX be a soup fan' expresses an 'event' of PersonX--2. Yes.--3. True. Because after PersonX love this soup, it is likely that PersonX become a soup fan.
+----1. Yes. Because 'no one could intrude' expresses an 'event' of no one intruding.--2. Yes.--3. True. Because locking the door prevents people from intruding.
+----1. Yes. Because 'PersonX totally get it' expresses an 'event' of PersonX--2. Yes.--3. True. Because PersonX having a break likely result in PersonX having enough time to understand and totally get it.
+----1. Yes. Because 'PersonX have faith' expresses an 'event' of PersonX--2. Yes.--3. False. Because it's unlikely that PersonX would have faith before PersonX wouldnt.
+----1. Yes. Because 'PersonX use a corny pick up line' expresses an 'event' of PersonX--2. Yes.--3. False. Because using a corny pick up line is not relevant to writing a play.
+----1. Yes. Because 'PersonX be interested' expresses an 'event' of PersonX--2. Yes.--3. False. Because being interested does not necessarily mean the event will happen.
+----1. No. Because 'there be certainty' doesn't expresses an 'event' of PersonX--2. No. Because the meaning of 'there be certainty' is unclear/ambiguous--3. False. Because result of either 1 or 2 is No.
+----1. Yes. Because 'PersonX run out of supplies' expresses an 'event' of PersonX--2. Yes.--3. False. Because it's unlikely that PersonX will run out of supplies while cleaning PersonY bathroom.
+----1. Yes. Because 'PersonY be happier' expresses an 'event' of PersonY--2. Yes.--3. False. Because being happier does not necessarily mean that the event of PersonY playing by herself will not happen.
+----1. No. Because 'PersonX could have' doesn't expresses an 'event' of PersonX--2. Yes.--3. False. Because result of 1 is No.
+----1. Yes. Because 'PersonY would better hurry' expresses an 'event' of PersonY--2. Yes.--3. False. Because even if PersonY hurry, it's not guaranteed that PersonX will not run away.
+----1. No. Because 'y don' doesn't expresses an 'event' of PersonX--2. No. Because the meaning of 'y don' is unclear/ambiguous--3. False. Because result of either 1 or 2 is No.
+----1. Yes. Because 'PeopleY do not call PersonX bitch' expresses an 'event' of PeopleY.--2. Yes.--3. False. Because the two clauses are not related.
+----1. No. Because 'now it be up' doesn't expresses an 'event' of PersonX--2. No. Because the meaning of 'now it be up' is unclear/ambiguous--3. False. Because result of either 1 or 2 is No.
+----1. No. Because 'PeopleX be misbehave' doesn't expresses an 'event' of PersonX--2. Yes.--3. False. Because result of 1 is No.
+----1. No. Because 'there be actually something' doesn't expresses an 'event' of PersonX--2. Yes.--3. False. Because result of 1 is No.
+----1. No. Because 'PersonX have little experience' doesn't expresses an 'event' of PersonX--2. Yes.--3. False. Because result of 1 is No.
+----1. No. Because 'PersonX probably deserve it' doesn't expresses an 'event' of PersonX--2. Yes.--3. False. Because result of 1 is No.
+----1. No. Because 'PersonY grow pale' doesn't expresses an 'event' of PersonY--2. Yes.--3. False. Because result of 1 is No.
+----1. No. Because 'PersonX just have to be careful' doesn't expresses an 'event' of PersonX--2. Yes.--3. False. Because result of 1 is No.
+----1. Yes. Because 'it be desirable' expresses an 'event' of the subject.--2. Yes.--3. False. Because the inference is not likely true, as the event PersonX wish for may still happen even if it is not desirable.
+----1. Yes. Because 'some see' expresses an 'event' of some people--2. No. Because the meaning of 'some see' is unclear/ambiguous--3. False. Because result of 2 is No.

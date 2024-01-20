@@ -1,0 +1,3740 @@
+--156
+
+Statement: If PersonX love hear, as a result, PersonX feels, PersonX be still wait for sale
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be still wait for sale' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--157
+
+Statement: If PersonX have get to hook, as a result, PersonX feels, PersonX run the chance
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX run the chance' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--158
+
+Statement: If PersonX can lead PeopleX right, as a result, PersonX feels, PersonX know the trick
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX know the trick' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX can lead PeopleX right, as a result, PersonX feels, PersonX know the trick" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--159
+
+Statement: If PersonX improve yourself, as a result, PersonX feels, PersonX be really worried
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be really worried' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--160
+
+Statement: If PersonX feel sad, as a result, PersonX feels, PersonX be down blue
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be down blue' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--161
+
+Statement: If PersonX be secure in masculinity, as a result, PersonX feels, PersonX can answer a hypothetical
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX can answer a hypothetical' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be secure in masculinity, as a result, PersonX feels, PersonX can answer a hypothetical" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--162
+
+Statement: If PersonX want to hurt PersonY, as a result, PersonX feels, PersonX just bail on tonight
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX just bail on tonight' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--163
+
+Statement: If PersonX could live on side, as a result, PersonX feels, PersonX move here
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX move here' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX could live on side, as a result, PersonX feels, PersonX move here" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--164
+
+Statement: If PersonX be send back, as a result, PersonX feels, PersonX father demand
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX father demand' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be send back, as a result, PersonX feels, PersonX father demand" plausible?
+A: No
+--165
+
+Statement: If PersonX be walk along beach, as a result, PersonX feels, PersonX be satisfied
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be satisfied' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--166
+
+Statement: If PersonX just want to play with sr1mp, as a result, PersonX feels, PersonX can buy it
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX can buy it' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX just want to play with sr1mp, as a result, PersonX feels, PersonX can buy it" plausible?
+A: Yes
+--167
+
+Statement: If PersonX follow the recipe exactly, as a result, PersonX feels, PersonX be satisfied
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be satisfied' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--168
+
+Statement: If PersonX should try it especially, as a result, PersonX feels, PersonX have several hour
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX have several hour' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX should try it especially, as a result, PersonX feels, PersonX have several hour" plausible?
+A: No
+--169
+
+Statement: If PersonX divorce PersonX wife, as a result, PersonX feels, PersonX love june
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX love june' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--170
+
+Statement: If PersonX find PersonY channel, as a result, PersonX feels, PersonX understand better
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX understand better' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX find PersonY channel, as a result, PersonX feels, PersonX understand better" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--171
+
+Statement: If PersonX quit day, as a result, PersonX feels, PersonX should pick up smoking
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX should pick up smoking' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--172
+
+Statement: If PersonX decide to order a pizza, as a result, PersonX feels, PersonX have just move
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX have just move' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX decide to order a pizza, as a result, PersonX feels, PersonX have just move" plausible?
+A: No
+Conclusion: The statement is not commonsense
+--173
+
+Statement: If PersonX be not, as a result, PersonX feels, PersonX just get sick
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX just get sick' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be not, as a result, PersonX feels, PersonX just get sick" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--174
+
+Statement: If PersonX mock PersonY, as a result, PersonX feels, PersonX be in earnest
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be in earnest' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX mock PersonY, as a result, PersonX feels, PersonX be in earnest" plausible?
+A: No
+
+Conclusion: The statement is not commons
+--175
+
+Statement: If PersonX can take PersonY back, as a result, PersonX feels, PersonX will have a place of own
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX will have a place of own' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX can take PersonY back, as a result, PersonX feels, PersonX will have a place of own" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--176
+
+Statement: If PersonX give PersonY the courage, as a result, PersonX feels, PersonX be good
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be good' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX give PersonY the courage, as a result, PersonX feels, PersonX be good" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--177
+
+Statement: If PersonX be embolden, as a result, PersonX feels, PeopleX be party
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PeopleX be party' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--178
+
+Statement: If PersonX meet PersonX father, as a result, PersonX feels, PersonX get out prison
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX get out prison' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--179
+
+Statement: If PersonX borrow some money, as a result, PersonX feels, PersonX could not pay it back
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX could not pay it back' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX borrow some money, as a result, PersonX feels, PersonX could not pay it back" plausible?
+A: Yes
+--180
+
+Statement: If PersonX put it in purse, as a result, PersonX feels, PersonX get back something
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX get back something' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX put it in purse, as a result, PersonX feels, PersonX get back something" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--181
+
+Statement: If PersonX visit usa, as a result, PersonX feels, PersonX move
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX move' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX visit usa, as a result, PersonX feels, PersonX move" plausible?
+A: Yes
+--182
+
+Statement: If PersonX want dinner, as a result, PersonX feels, PersonX be hungry
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be hungry' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No.
+--183
+
+Statement: If PersonX be not do a job properly, as a result, PersonX feels, PersonX be sack
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be sack' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--184
+
+Statement: If PersonX be all stay, as a result, PersonX feels, PersonX be go
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be go' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be all stay, as a result, PersonX feels, PersonX be go" plausible?
+A: No.
+--185
+
+Statement: If PersonX be go to get that, as a result, PersonX feels, PersonX deserve everything
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX deserve everything' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be go to get that, as a result, PersonX feels, PersonX deserve everything" plausible?
+A: No
+
+Conclusion: The statement is not commons
+--186
+
+Statement: If PersonX be sick again, as a result, PersonX feels, PersonX be
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be sick again, as a result, PersonX feels, PersonX be" plausible?
+A: No
+Conclusion: The statement is not commonsense
+--187
+
+Statement: If PersonX be good at it, as a result, PersonX feels, PersonX say yeah
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX say yeah' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be good at it, as a result, PersonX feels, PersonX say yeah" plausible?
+A: Yes
+--188
+
+Statement: If PersonX gae awa to bed, as a result, PersonX feels, PersonX sit up
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX sit up' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX gae awa to bed, as a result, PersonX feels, PersonX sit up" plausible?
+A: No.
+--189
+
+Statement: If PersonX play PersonY 's favorite song, as a result, PersonX feels, PersonX be good
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be good' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--190
+
+Statement: If PersonX pay the bill, as a result, PersonX feels, PersonX leave
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX leave' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX pay the bill, as a result, PersonX feels, PersonX leave" plausible?
+A: Yes
+--191
+
+Statement: If PersonX work PersonY way up, as a result, PersonX feels, PersonX be happy
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be happy' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX work PersonY way up, as a result, PersonX feels, PersonX be happy" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--192
+
+Statement: If PersonX like spending time with PersonY, as a result, PersonX feels, PersonX be more happy
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be more happy' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX like spending time with PersonY, as a result, PersonX feels, PersonX be more happy" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--193
+
+Statement: If PersonX wake up feeling, as a result, PersonX feels, PersonX be a heavy sleeper
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be a heavy sleeper' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX wake up feeling, as a result, PersonX feels, PersonX be a heavy sleeper" plausible?
+A: No.
+--194
+
+Statement: If PersonX never occur to PersonY, as a result, PersonX feels, PersonX be unaware
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be unaware' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX never occur to PersonY, as a result, PersonX feels, PersonX be unaware" plausible?
+A: No
+Conclusion: The statement is not commonsense
+--195
+
+Statement: If PersonX could not bring PersonX mouth to negative, as a result, PersonX feels, PersonX assent
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX assent' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX could not bring PersonX mouth to negative, as a result, PersonX feels, PersonX assent" plausible?
+A: Yes
+--196
+
+Statement: If PersonX move PersonX car, as a result, PersonX feels, PersonX be sneaky
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be sneaky' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--197
+
+Statement: If PersonX give PersonY a ring, as a result, PersonX feels, PersonX think of anything
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX think of anything' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX give PersonY a ring, as a result, PersonX feels, PersonX think of anything" plausible?
+A: Yes
+--198
+
+Statement: If PersonX need to use something, as a result, PersonX feels, PersonX will need
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX will need' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX need to use something, as a result, PersonX feels, PersonX will need" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--199
+
+Statement: If PersonX save PersonY 's people, as a result, PersonX feels, PersonX look PersonY in face
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX look PersonY in face' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX save PersonY 's people, as a result, PersonX feels, PersonX look PersonY in face" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--200
+
+Statement: If PersonX would have miss PersonY, as a result, PersonX feels, PersonX be careless
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be careless' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX would have miss PersonY, as a result, PersonX feels, PersonX be careless" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--201
+
+Statement: If PersonX find another gear, as a result, PersonX feels, PersonX start
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX start' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX find another gear, as a result, PersonX feels, PersonX start" plausible?
+A: No.
+--202
+
+Statement: If PersonX get a new pet, as a result, PersonX feels, PersonX feel happy
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX feel happy' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX get a new pet, as a result, PersonX feels, PersonX feel happy" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--203
+
+Statement: If PersonX be on any kind of insurance, as a result, PersonX feels, PersonX save
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX save' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be on any kind of insurance, as a result, PersonX feels, PersonX save" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--204
+
+Statement: If PersonX go to city, as a result, PersonX feels, PersonX get PersonX breakfast
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX get PersonX breakfast' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--205
+
+Statement: If PersonX would have be stop, as a result, PersonX feels, PersonX have do anything
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX have do anything' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--206
+
+Statement: If PersonX be go to do that, as a result, PersonX feels, PersonX have the option
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX have the option' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--207
+
+Statement: If PersonX be kind, as a result, PersonX feels, PersonX put everything together
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX put everything together' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be kind, as a result, PersonX feels, PersonX put everything together" plausible?
+A: Yes
+--208
+
+Statement: If PersonX have be wait for something, as a result, PersonX feels, PersonX sit down next to PersonY
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX sit down next to PersonY' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX have be wait for something, as a result, PersonX feels, PersonX sit down next to PersonY" plausible?
+A: No.
+--209
+
+Statement: If PersonX feel nervous, as a result, PersonX feels, PersonX can not move
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX can not move' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX feel nervous, as a result, PersonX feels, PersonX can not move" plausible?
+A: Yes
+--210
+
+Statement: If PersonX could realise it, as a result, PersonX feels, PersonX lose PersonX composure
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX lose PersonX composure' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX could realise it, as a result, PersonX feels, PersonX lose PersonX composure" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--211
+
+Statement: If PersonX start to date, as a result, PersonX feels, PersonX be optimistic
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be optimistic' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX start to date, as a result, PersonX feels, PersonX be optimistic" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--212
+
+Statement: If PersonX need to pee, as a result, PersonX feels, PersonX realize
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX realize' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX need to pee, as a result, PersonX feels, PersonX realize" plausible?
+A: Yes
+--213
+
+Statement: If PersonX want to lose weight, as a result, PersonX feels, PersonX should reconsider
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX should reconsider' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX want to lose weight, as a result, PersonX feels, PersonX should reconsider" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--214
+
+Statement: If PersonX put pen to paper, as a result, PersonX feels, PersonX must write
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX must write' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX put pen to paper, as a result, PersonX feels, PersonX must write" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--215
+
+Statement: If PersonX be efficient, as a result, PersonX feels, PersonX make arrangement
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX make arrangement' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--507
+
+Statement: If PersonX run three mile, as a result, PersonX feels, PersonX be in shape
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be in shape' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX run three mile, as a result, PersonX feels, PersonX be in shape" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--508
+
+Statement: If PersonX follow PersonY, as a result, PersonX feels, PersonX get curious
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX get curious' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX follow PersonY, as a result, PersonX feels, PersonX get curious" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--509
+
+Statement: If PersonX ask, as a result, PersonX feels, PersonX be needy
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be needy' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX ask, as a result, PersonX feels, PersonX be needy" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--510
+
+Statement: If PersonX have wait over hour, as a result, PersonX feels, PersonX be disappointed
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be disappointed' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX have wait over hour, as a result, PersonX feels, PersonX be disappointed" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--511
+
+Statement: If PersonX always wonder, as a result, PersonX feels, PersonX be just curious
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be just curious' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX always wonder, as a result, PersonX feels, PersonX be just curious" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--512
+
+Statement: If PersonX order, as a result, PersonX feels, PersonX be pretty hungry
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be pretty hungry' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX order, as a result, PersonX feels, PersonX be pretty hungry" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--706
+
+Statement: If PersonX pay cash, as a result, PersonX feels, PersonX credit card do not work
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX credit card do not work' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX pay cash, as a result, PersonX feels, PersonX credit card do not work" plausible?
+A: No.
+
+Conclusion: The statement is not
+--707
+
+Statement: If PersonX belong here, as a result, PersonX feels, PersonX be here
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be here' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX belong here, as a result, PersonX feels, PersonX be here" plausible?
+A: Yes
+--708
+
+Statement: If PersonX go eat, as a result, PersonX feels, PersonX be hungry
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be hungry' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--709
+
+Statement: If PersonX eat a good portion of it, as a result, PersonX feels, PersonX be hungry
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be hungry' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX eat a good portion of it, as a result, PersonX feels, PersonX be hungry" plausible?
+A: Yes
+--710
+
+Statement: If PersonX forget PersonX password, as a result, PersonX feels, PersonX can not log
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX can not log' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX forget PersonX password, as a result, PersonX feels, PersonX can not log" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--711
+
+Statement: If PersonX do not have diabetes, as a result, PersonX feels, PersonX be healthy
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be healthy' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX do not have diabetes, as a result, PersonX feels, PersonX be healthy" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--712
+
+Statement: If PersonX put on suit, as a result, PersonX feels, PersonX wear
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX wear' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX put on suit, as a result, PersonX feels, PersonX wear" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--713
+
+Statement: If PersonX be a cancer survivor, as a result, PersonX feels, PersonX be hopeful
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be hopeful' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--714
+
+Statement: If PersonX have a nervous breakdown, as a result, PersonX feels, PersonX need help
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX need help' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--715
+
+Statement: If PersonX have the fried chicken, as a result, PersonX feels, PersonX taste
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX taste' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX have the fried chicken, as a result, PersonX feels, PersonX taste" plausible?
+A: No
+--716
+
+Statement: If PersonX dance, as a result, PersonX feels, PersonX must practice
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX must practice' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--717
+
+Statement: If PersonX do well, as a result, PersonX feels, PersonX cheer
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX cheer' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX do well, as a result, PersonX feels, PersonX cheer" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--718
+
+Statement: If PersonX suppose, as a result, PersonX feels, PersonX be imagine
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be imagine' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX suppose, as a result, PersonX feels, PersonX be imagine" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--719
+
+Statement: If PersonX be run, as a result, PersonX feels, PersonX be slow
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be slow' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be run, as a result, PersonX feels, PersonX be slow" plausible?
+A: Yes
+--720
+
+Statement: If PersonX land, as a result, PersonX feels, PersonX have land
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX have land' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX land, as a result, PersonX feels, PersonX have land" plausible?
+A: No.
+--721
+
+Statement: If PersonX snack a bit, as a result, PersonX feels, PersonX get hungry
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX get hungry' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--722
+
+Statement: If PersonX go up, as a result, PersonX feels, PersonX be go up
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be go up' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX go up, as a result, PersonX feels, PersonX be go up" plausible?
+A: No
+--723
+
+Statement: If PersonX explain PersonX situation, as a result, PersonX feels, PersonX speak
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX speak' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX explain PersonX situation, as a result, PersonX feels, PersonX speak" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--724
+
+Statement: If PersonX plan on overclocking, as a result, PersonX feels, PersonX want to overclock
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX want to overclock' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX plan on overclocking, as a result, PersonX feels, PersonX want to overclock" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--725
+
+Statement: If PersonX get full price, as a result, PersonX feels, PersonX be glad
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be glad' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX get full price, as a result, PersonX feels, PersonX be glad" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--726
+
+Statement: If PersonX imprison PersonY, as a result, PersonX feels, PersonX be savage
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be savage' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX imprison PersonY, as a result, PersonX feels, PersonX be savage" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--727
+
+Statement: If PersonX hear sound, as a result, PersonX feels, PersonX hear
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX hear' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--728
+
+Statement: If PersonX resign, as a result, PersonX feels, PersonX be sack
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be sack' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX resign, as a result, PersonX feels, PersonX be sack" plausible?
+A: No.
+--729
+
+Statement: If PersonX never join the military, as a result, PersonX feels, PersonX be a civilian
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be a civilian' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX never join the military, as a result, PersonX feels, PersonX be a civilian" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--730
+
+Statement: If PersonX disapprove of PersonY, as a result, PersonX feels, PersonX be sorry
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be sorry' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX disapprove of PersonY, as a result, PersonX feels, PersonX be sorry" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--731
+
+Statement: If PersonX earnestly pray, as a result, PersonX feels, PersonX hope
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX hope' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--732
+
+Statement: If PersonX can guess the rest, as a result, PersonX feels, PersonX be not stupid
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be not stupid' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX can guess the rest, as a result, PersonX feels, PersonX be not stupid" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--733
+
+Statement: If PersonX go back to school, as a result, PersonX feels, PersonX drop out of school
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX drop out of school' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX go back to school, as a result, PersonX feels, PersonX drop out of school" plausible?
+A: No.
+--734
+
+Statement: If PersonX could fly, as a result, PersonX feels, PersonX have wing
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX have wing' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX could fly, as a result, PersonX feels, PersonX have wing" plausible?
+A: No.
+--735
+
+Statement: If PersonX dont, as a result, PersonX feels, PersonX be hopeless
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be hopeless' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX dont, as a result, PersonX feels, PersonX be hopeless" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--736
+
+Statement: If PersonX sleep through day, as a result, PersonX feels, PersonX wake up
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX wake up' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX sleep through day, as a result, PersonX feels, PersonX wake up" plausible?
+A: Yes
+--737
+
+Statement: If PersonX die, as a result, PersonX feels, PersonX ventilator fail
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX ventilator fail' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX die, as a result, PersonX feels, PersonX ventilator fail" plausible?
+A: No
+--738
+
+Statement: If PersonX be book, as a result, PersonX feels, PersonX be book
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be book' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be book, as a result, PersonX feels, PersonX be book" plausible?
+A: No
+--739
+
+Statement: If PersonX be home, as a result, PersonX feels, PersonX be not home yet
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be not home yet' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be home, as a result, PersonX feels, PersonX be not home yet" plausible?
+A: No.
+--740
+
+Statement: If PersonX lay the fire, as a result, PersonX feels, PersonX be so warm
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be so warm' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX lay the fire, as a result, PersonX feels, PersonX be so warm" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--741
+
+Statement: If PersonX be not online, as a result, PersonX feels, PersonX disconnect
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX disconnect' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be not online, as a result, PersonX feels, PersonX disconnect" plausible?
+A: No.
+--742
+
+Statement: If PersonX hitch, as a result, PersonX feels, PersonX can not have get far
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX can not have get far' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--743
+
+Statement: If PersonX pursue PersonX inquiry, as a result, PersonX feels, PersonX learn
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX learn' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX pursue PersonX inquiry, as a result, PersonX feels, PersonX learn" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--744
+
+Statement: If PersonX fall back on bed, as a result, PersonX feels, PersonX be too dizzy
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be too dizzy' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--745
+
+Statement: If PersonX must have see something scary, as a result, PersonX feels, PersonX be scare
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be scare' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX must have see something scary, as a result, PersonX feels, PersonX be scare" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--139
+
+Statement: If PersonX do not want to miss that, as a result, PersonY or others feel, PersonY hear
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY hear' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX do not want to miss that, as a result, PersonY or others feel, PersonY hear" plausible?
+A: No
+--140
+
+Statement: If PersonX msg, as a result, PersonY or others feel, PersonY follow back
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY follow back' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX msg, as a result, PersonY or others feel, PersonY follow back" plausible?
+A: Yes
+--141
+
+Statement: If PersonX be very skinny, as a result, PersonY or others feel, PersonY wake PersonX
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY wake PersonX' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--142
+
+Statement: If PersonX be not there, as a result, PersonY or others feel, PersonY get so scared
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY get so scared' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be not there, as a result, PersonY or others feel, PersonY get so scared" plausible?
+A: Yes
+--143
+
+Statement: If PersonX grab PersonY hair, as a result, PersonY or others feel, PersonY be hurt
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY be hurt' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX grab PersonY hair, as a result, PersonY or others feel, PersonY be hurt" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--144
+
+Statement: If PersonX want to hurt PersonY, as a result, PersonY or others feel, PersonY be feel betray
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY be feel betray' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX want to hurt PersonY, as a result, PersonY or others feel, PersonY be feel betray" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--145
+
+Statement: If PersonX have a golf course, as a result, PersonY or others feel, PersonY hit it
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY hit it' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--146
+
+Statement: If PersonX sign up for class, as a result, PersonY or others feel, PersonY can tell PersonX
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY can tell PersonX' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX sign up for class, as a result, PersonY or others feel, PersonY can tell PersonX" plausible?
+A: Yes
+--147
+
+Statement: If PersonX want a cat, as a result, PersonY or others feel, PersonX be affectionate
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be affectionate' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX want a cat, as a result, PersonY or others feel, PersonX be affectionate" plausible?
+A: No.
+--148
+
+Statement: If PersonY be happily surprised, as a result, PersonY or others feel, PersonX catch PersonY 's attention
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX catch PersonY 's attention' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonY be happily surprised, as a result, PersonY or others feel, PersonX catch PersonY 's attention" plausible?
+A: Yes
+--149
+
+Statement: If PersonX donate plasma, as a result, PersonY or others feel, PersonY be glad
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY be glad' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX donate plasma, as a result, PersonY or others feel, PersonY be glad" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--150
+
+Statement: If PersonX make food, as a result, PersonY or others feel, PersonY will have to wait
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY will have to wait' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--151
+
+Statement: If PersonX grant PersonZ request, as a result, PersonY or others feel, PersonY will try it
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY will try it' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--152
+
+Statement: If PersonX meet PersonX father, as a result, PersonY or others feel, PersonX get the part
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX get the part' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--153
+
+Statement: If PersonX give PersonY PersonX name, as a result, PersonY or others feel, PersonY be influential
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY be influential' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX give PersonY PersonX name, as a result, PersonY or others feel, PersonY be influential" plausible?
+A: Yes
+--154
+
+Statement: If PersonX love makeup, as a result, PersonY or others feel, PersonY get PersonX
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY get PersonX' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX love makeup, as a result, PersonY or others feel, PersonY get PersonX" plausible?
+A: No
+--155
+
+Statement: If PersonX explain everything thoroughly, as a result, PersonY or others feel, PersonY be get
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY be get' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX explain everything thoroughly, as a result, PersonY or others feel, PersonY be get" plausible?
+A: Yes
+--746
+
+Statement: If PersonX share PersonX blanket, as a result, PersonY or others feel, PersonY be cold
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY be cold' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX share PersonX blanket, as a result, PersonY or others feel, PersonY be cold" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--747
+
+Statement: If PersonX praise PersonZ virtue, as a result, PersonY or others feel, PersonY show kindly
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY show kindly' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX praise PersonZ virtue, as a result, PersonY or others feel, PersonY show kindly" plausible?
+A: Yes
+--748
+
+Statement: If PersonX stay, as a result, PersonY or others feel, PersonY will stay too
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY will stay too' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX stay, as a result, PersonY or others feel, PersonY will stay too" plausible?
+A: Yes
+--749
+
+Statement: If PersonX start on trip, as a result, PersonY or others feel, PersonY must go
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY must go' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX start on trip, as a result, PersonY or others feel, PersonY must go" plausible?
+A: No
+
+Conclusion: The statement is not commons
+--750
+
+Statement: If PersonX get PersonX supper, as a result, PersonY or others feel, PersonY have
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY have' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX get PersonX supper, as a result, PersonY or others feel, PersonY have" plausible?
+A: Yes
+--751
+
+Statement: If PersonX think of family, as a result, PersonY or others feel, PersonY think about family
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY think about family' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX think of family, as a result, PersonY or others feel, PersonY think about family" plausible?
+A: Yes
+--752
+
+Statement: If PersonX advise PersonY, as a result, PersonY or others feel, PersonY ask
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY ask' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX advise PersonY, as a result, PersonY or others feel, PersonY ask" plausible?
+A: Yes
+--753
+
+Statement: If PersonX break PersonY spirit at age, as a result, PersonY or others feel, PersonY be weak
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY be weak' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX break PersonY spirit at age, as a result, PersonY or others feel, PersonY be weak" plausible?
+A: Yes
+--754
+
+Statement: If PersonX run away, as a result, PersonY or others feel, PersonY scare
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY scare' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX run away, as a result, PersonY or others feel, PersonY scare" plausible?
+A: Yes
+--755
+
+Statement: If PersonX let PersonZ wake up, as a result, PersonY or others feel, PersonY will let
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY will let' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX let PersonZ wake up, as a result, PersonY or others feel, PersonY will let" plausible?
+A: Yes
+--756
+
+Statement: If PersonX hear the shot, as a result, PersonY or others feel, PersonY turn
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY turn' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX hear the shot, as a result, PersonY or others feel, PersonY turn" plausible?
+A: No
+--757
+
+Statement: If PersonX need PersonZ, as a result, PersonY or others feel, PersonY need PersonX
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY need PersonX' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX need PersonZ, as a result, PersonY or others feel, PersonY need PersonX" plausible?
+A: No
+--758
+
+Statement: If PersonX see PersonZ do, as a result, PersonY or others feel, PersonY want
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY want' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX see PersonZ do, as a result, PersonY or others feel, PersonY want" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--759
+
+Statement: If PersonX pm PersonY, as a result, PersonY or others feel, PersonY do not know
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY do not know' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX pm PersonY, as a result, PersonY or others feel, PersonY do not know" plausible?
+A: No
+Conclusion: The statement is not commonsense
+--760
+
+Statement: If PersonX be taller than PersonY, as a result, PersonY or others feel, PersonY be so tall
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY be so tall' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be taller than PersonY, as a result, PersonY or others feel, PersonY be so tall" plausible?
+A: No.
+--761
+
+Statement: If PersonX be diagnose, as a result, PersonY or others feel, PersonY be diagnose
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY be diagnose' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be diagnose, as a result, PersonY or others feel, PersonY be diagnose" plausible?
+A: No
+
+Conclusion: The statement is not commons
+--762
+
+Statement: If PersonX read PersonZ comment, as a result, PersonY or others feel, PersonY be be sarcastic
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY be be sarcastic' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX read PersonZ comment, as a result, PersonY or others feel, PersonY be be sarcastic" plausible?
+A: Yes
+--763
+
+Statement: If PersonX hold PersonY, as a result, PersonY or others feel, PersonY become breathless
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY become breathless' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--216
+
+Statement: If PersonX practice again, PersonX is seen as, PersonX shall be glad
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX shall be glad' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--217
+
+Statement: If PersonX see PersonY alone, PersonX is seen as, PersonX confess
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX confess' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX see PersonY alone, PersonX is seen as, PersonX confess" plausible?
+A: No.
+
+Conclusion: The statement is not
+--218
+
+Statement: If PersonX have tomorrow, PersonX is seen as, PersonX stand up to PersonY
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX stand up to PersonY' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX have tomorrow, PersonX is seen as, PersonX stand up to PersonY" plausible?
+A: Yes
+--219
+
+Statement: If PersonX be vigilent, PersonX is seen as, PersonX be consciencious
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be consciencious' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be vigilent, PersonX is seen as, PersonX be consciencious" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--220
+
+Statement: If PersonX get large, PersonX is seen as, PersonX be grow
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be grow' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX get large, PersonX is seen as, PersonX be grow" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--221
+
+Statement: If PersonX get to patch, PersonX is seen as, PersonX get there
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX get there' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--222
+
+Statement: If PersonX feel emotionally happy, PersonX is seen as, PersonX be a dreamer
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be a dreamer' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX feel emotionally happy, PersonX is seen as, PersonX be a dreamer" plausible?
+A: No.
+--223
+
+Statement: If PersonX sell PersonX jewelry, PersonX is seen as, PersonX fall into poverty
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX fall into poverty' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX sell PersonX jewelry, PersonX is seen as, PersonX fall into poverty" plausible?
+A: No
+Conclusion: The statement is not commonsense
+--224
+
+Statement: If PersonX be a heavy sleeper, PersonX is seen as, PersonX would pick up
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX would pick up' express. Answer the choice only.
+A: Event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--225
+
+Statement: If PersonX visit PersonY cousin, PersonX is seen as, PersonX be friendly
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be friendly' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX visit PersonY cousin, PersonX is seen as, PersonX be friendly" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--226
+
+Statement: If PersonX be at grandma 's house, PersonX is seen as, PersonX eat here
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX eat here' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--227
+
+Statement: If PersonX break free, PersonX is seen as, PersonX be reach for it
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be reach for it' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX break free, PersonX is seen as, PersonX be reach for it" plausible?
+A: No
+--228
+
+Statement: If PersonX do not mind make a appointment, PersonX is seen as, PersonX car be in great hand
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX car be in great hand' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX do not mind make a appointment, PersonX is seen as, PersonX car be in great hand" plausible?
+A: No.
+--229
+
+Statement: If PersonX delete PersonY number, PersonX is seen as, PersonX wouldn
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX wouldn' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX delete PersonY number, PersonX is seen as, PersonX wouldn" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--230
+
+Statement: If PersonX form PersonX acquaintance PeopleX at theatre, PersonX is seen as, PersonX be not easily disgust by vulgarity
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be not easily disgust by vulgarity' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX form PersonX acquaintance PeopleX at theatre, PersonX is seen as, PersonX be not easily disgust by vulgarity" plausible?
+A: No
+
+Conclusion: The statement is not commons
+--231
+
+Statement: If PersonX be brave, PersonX is seen as, PersonX watch scary movie
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX watch scary movie' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--232
+
+Statement: If PersonX have a couch, PersonX is seen as, PersonX be
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX have a couch, PersonX is seen as, PersonX be" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--233
+
+Statement: If PersonX face be downcast, PersonX is seen as, PersonX breast rise
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX breast rise' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX face be downcast, PersonX is seen as, PersonX breast rise" plausible?
+A: No.
+--234
+
+Statement: If PersonX be to have a heaven of own hereafter, PersonX is seen as, PersonX will be its god
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX will be its god' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be to have a heaven of own hereafter, PersonX is seen as, PersonX will be its god" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--235
+
+Statement: If PersonX have get yourself into hole, PersonX is seen as, PersonX will not let
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX will not let' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX have get yourself into hole, PersonX is seen as, PersonX will not let" plausible?
+A: No.
+--236
+
+Statement: If PersonX will provide link, PersonX is seen as, PersonX be back home
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be back home' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX will provide link, PersonX is seen as, PersonX be back home" plausible?
+A: No.
+--237
+
+Statement: If PersonX mission here be end, PersonX is seen as, PersonX will go back to america
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX will go back to america' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--238
+
+Statement: If PersonX have grocery, PersonX is seen as, PersonX get older
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX get older' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX have grocery, PersonX is seen as, PersonX get older" plausible?
+A: No
+Conclusion: The statement is not commonsense
+--239
+
+Statement: If PersonX want to have fun, PersonX is seen as, PersonX be sit there
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be sit there' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX want to have fun, PersonX is seen as, PersonX be sit there" plausible?
+A: No
+--240
+
+Statement: If PersonX be at grandmother 's house, PersonX is seen as, PersonX be respectful
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be respectful' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be at grandmother 's house, PersonX is seen as, PersonX be respectful" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--241
+
+Statement: If PersonX avoid that, PersonX is seen as, PersonX avoid that
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX avoid that' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--242
+
+Statement: If PersonX have a new toy, PersonX is seen as, PersonX be content
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be content' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX have a new toy, PersonX is seen as, PersonX be content" plausible?
+A: Yes
+--243
+
+Statement: If PersonX be just like a whine little girl, PersonX is seen as, PersonX be a liar
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be a liar' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be just like a whine little girl, PersonX is seen as, PersonX be a liar" plausible?
+A: No.
+--244
+
+Statement: If PersonX do not even wear, PersonX is seen as, PersonX guess
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX guess' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX do not even wear, PersonX is seen as, PersonX guess" plausible?
+A: No.
+--245
+
+Statement: If PersonX like the rest of theory, PersonX is seen as, PersonX agree with observation
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX agree with observation' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX like the rest of theory, PersonX is seen as, PersonX agree with observation" plausible?
+A: Yes
+--246
+
+Statement: If PersonX find a piece of hair in soup, PersonX is seen as, PersonX first time eat here
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX first time eat here' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX find a piece of hair in soup, PersonX is seen as, PersonX first time eat here" plausible?
+A: No.
+--247
+
+Statement: If PersonX do not get it, PersonX is seen as, PersonX be a teenager
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be a teenager' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX do not get it, PersonX is seen as, PersonX be a teenager" plausible?
+A: No.
+--248
+
+Statement: If PersonX love to play with it, PersonX is seen as, PersonX be a kid
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be a kid' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX love to play with it, PersonX is seen as, PersonX be a kid" plausible?
+A: Yes
+--249
+
+Statement: If PersonX be on school 's basketball team, PersonX is seen as, PersonX wear something everyday
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX wear something everyday' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be on school 's basketball team, PersonX is seen as, PersonX wear something everyday" plausible?
+A: No
+--250
+
+Statement: If PersonX mom be in bad shape, PersonX is seen as, PersonX need PersonY
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX need PersonY' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX mom be in bad shape, PersonX is seen as, PersonX need PersonY" plausible?
+A: Yes
+--251
+
+Statement: If PersonX get a call back, PersonX is seen as, PersonX order be correct
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX order be correct' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX get a call back, PersonX is seen as, PersonX order be correct" plausible?
+A: No
+--252
+
+Statement: If PersonX share, PersonX is seen as, PersonX be social
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be social' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX share, PersonX is seen as, PersonX be social" plausible?
+A: Yes
+--253
+
+Statement: If PersonX be on a stage, PersonX is seen as, PersonX can experience
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX can experience' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be on a stage, PersonX is seen as, PersonX can experience" plausible?
+A: Yes
+--254
+
+Statement: If PersonX be obidient, PersonX is seen as, PersonX be accomplish
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be accomplish' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be obidient, PersonX is seen as, PersonX be accomplish" plausible?
+A: Yes
+--255
+
+Statement: If PersonX be peaceful, PersonX is seen as, PersonX be happy
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be happy' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be peaceful, PersonX is seen as, PersonX be happy" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--256
+
+Statement: If PersonX could scarcely pronounce the word, PersonX is seen as, PersonX lip begin to quiver
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX lip begin to quiver' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX could scarcely pronounce the word, PersonX is seen as, PersonX lip begin to quiver" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--257
+
+Statement: If PersonX go simply, PersonX is seen as, PersonX should do so
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX should do so' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--258
+
+Statement: If PersonX post it, PersonX is seen as, PersonX comment be at the top
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX comment be at the top' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX post it, PersonX is seen as, PersonX comment be at the top" plausible?
+A: Yes.
+--259
+
+Statement: If PersonX hear the news, PersonX is seen as, PersonX so move
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX so move' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX hear the news, PersonX is seen as, PersonX so move" plausible?
+A: No
+Conclusion: The statement is not commonsense
+--260
+
+Statement: If PersonX heart seem to jump up into throat, PersonX is seen as, PersonX have not know
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX have not know' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX heart seem to jump up into throat, PersonX is seen as, PersonX have not know" plausible?
+A: No
+Conclusion: The statement is not commonsense
+--261
+
+Statement: If PersonX will much watch anything, PersonX is seen as, PersonX do not care it at all
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX do not care it at all' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX will much watch anything, PersonX is seen as, PersonX do not care it at all" plausible?
+A: No.
+--262
+
+Statement: If PersonX be clever, PersonX is seen as, PersonX be assist
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be assist' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be clever, PersonX is seen as, PersonX be assist" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--263
+
+Statement: If PersonX would be in super big trouble, PersonX is seen as, PersonX mom know
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX mom know' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX would be in super big trouble, PersonX is seen as, PersonX mom know" plausible?
+A: Yes
+--264
+
+Statement: If PersonX would not give PersonY pain, PersonX is seen as, PersonX love PersonZ
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX love PersonZ' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX would not give PersonY pain, PersonX is seen as, PersonX love PersonZ" plausible?
+A: No.
+--265
+
+Statement: If PersonX could play PeopleX, PersonX is seen as, PersonX get lucky
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX get lucky' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX could play PeopleX, PersonX is seen as, PersonX get lucky" plausible?
+A: No.
+--513
+
+Statement: If PersonX have a gift certificate, PersonX is seen as, PersonX be glad
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be glad' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX have a gift certificate, PersonX is seen as, PersonX be glad" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--514
+
+Statement: If PersonX be patiently wait, PersonX is seen as, PersonX be hope
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be hope' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be patiently wait, PersonX is seen as, PersonX be hope" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--515
+
+Statement: If PersonX do little research, PersonX is seen as, PersonX be naive
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be naive' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX do little research, PersonX is seen as, PersonX be naive" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--516
+
+Statement: If PersonX often do, PersonX is seen as, PersonX feel cheerful
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX feel cheerful' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX often do, PersonX is seen as, PersonX feel cheerful" plausible?
+A: Yes
+--517
+
+Statement: If PersonX smile through tear, PersonX is seen as, PersonX cry
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX cry' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX smile through tear, PersonX is seen as, PersonX cry" plausible?
+A: Yes
+--518
+
+Statement: If PersonX lose the money in trading, PersonX is seen as, PersonX be broke
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be broke' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX lose the money in trading, PersonX is seen as, PersonX be broke" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--519
+
+Statement: If PersonX run about house, PersonX is seen as, PersonX be tired
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be tired' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX run about house, PersonX is seen as, PersonX be tired" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--520
+
+Statement: If PersonX run on errand, PersonX is seen as, PersonX be happy
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be happy' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--521
+
+Statement: If PersonX be go through, PersonX is seen as, PersonX feel stressed
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX feel stressed' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be go through, PersonX is seen as, PersonX feel stressed" plausible?
+A: Yes
+--764
+
+Statement: If PersonX understand PersonY sympathy, PersonX is seen as, PersonX be sympathetic to people
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be sympathetic to people' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX understand PersonY sympathy, PersonX is seen as, PersonX be sympathetic to people" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--765
+
+Statement: If PersonX like golf, PersonX is seen as, PersonX play
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX play' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--766
+
+Statement: If PersonX dress be stunning, PersonX is seen as, PersonX be pretty
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be pretty' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX dress be stunning, PersonX is seen as, PersonX be pretty" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--767
+
+Statement: If PersonX conclude, PersonX is seen as, PersonX be sensible
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be sensible' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX conclude, PersonX is seen as, PersonX be sensible" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--768
+
+Statement: If PersonX rob, PersonX is seen as, PersonX steal
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX steal' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--769
+
+Statement: If PersonX get night 's sleep, PersonX is seen as, PersonX wake up
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX wake up' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX get night 's sleep, PersonX is seen as, PersonX wake up" plausible?
+A: Yes
+--770
+
+Statement: If PersonX scan, PersonX is seen as, PersonX see
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX see' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX scan, PersonX is seen as, PersonX see" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--771
+
+Statement: If PersonX twist PersonX lip, PersonX is seen as, PersonX be frustrated
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be frustrated' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--772
+
+Statement: If PersonX stop yesterday for lunch, PersonX is seen as, PersonX be glad
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be glad' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--773
+
+Statement: If PersonX tear burst forth, PersonX is seen as, PersonX cry
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX cry' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX tear burst forth, PersonX is seen as, PersonX cry" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--774
+
+Statement: If PersonX deny this, PersonX is seen as, PersonX be disingenuous
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be disingenuous' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX deny this, PersonX is seen as, PersonX be disingenuous" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--775
+
+Statement: If PersonX pull a nighter, PersonX is seen as, PersonX be pretty tired
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be pretty tired' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--776
+
+Statement: If PersonX miss curfew, PersonX is seen as, PersonX be sorry
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be sorry' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--777
+
+Statement: If PersonX applaud PersonY effort, PersonX is seen as, PersonX be genuinely impressed
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be genuinely impressed' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--778
+
+Statement: If PersonX have eczema, PersonX is seen as, PersonX skin be very sensitive
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX skin be very sensitive' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX have eczema, PersonX is seen as, PersonX skin be very sensitive" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--779
+
+Statement: If PersonX love green tea, PersonX is seen as, PersonX be use to flavor
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be use to flavor' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX love green tea, PersonX is seen as, PersonX be use to flavor" plausible?
+A: No.
+--780
+
+Statement: If PersonX fall into doze, PersonX is seen as, PersonX feel tired
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX feel tired' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--781
+
+Statement: If PersonX graduate in 2007, PersonX is seen as, PersonX be glad
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be glad' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--782
+
+Statement: If PersonX wear mine out, PersonX is seen as, PersonX need more
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX need more' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX wear mine out, PersonX is seen as, PersonX need more" plausible?
+A: Yes
+--783
+
+Statement: If PersonX flash a boob, PersonX is seen as, PersonX be pretty
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be pretty' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX flash a boob, PersonX is seen as, PersonX be pretty" plausible?
+A: No
+--784
+
+Statement: If PersonX wear a black bonnet, PersonX is seen as, PersonX be dress in black
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be dress in black' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX wear a black bonnet, PersonX is seen as, PersonX be dress in black" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--785
+
+Statement: If PersonX go bed at night, PersonX is seen as, PersonX sleep
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX sleep' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--786
+
+Statement: If PersonX break into laugh, PersonX is seen as, PersonX laugh
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX laugh' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX break into laugh, PersonX is seen as, PersonX laugh" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--787
+
+Statement: If PersonX seriously love this place, PersonX is seen as, PersonX be glad
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be glad' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX seriously love this place, PersonX is seen as, PersonX be glad" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--788
+
+Statement: If PersonX get a good angle, PersonX is seen as, PersonX see
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX see' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX get a good angle, PersonX is seen as, PersonX see" plausible?
+A: No.
+--789
+
+Statement: If PersonX have a uterus, PersonX is seen as, PersonX be a female
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be a female' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX have a uterus, PersonX is seen as, PersonX be a female" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--790
+
+Statement: If PersonX give PersonY some good advice, PersonX is seen as, PersonX be right
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be right' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX give PersonY some good advice, PersonX is seen as, PersonX be right" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--791
+
+Statement: If PersonX go scot free, PersonX is seen as, PersonX be innocent
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be innocent' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX go scot free, PersonX is seen as, PersonX be innocent" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--792
+
+Statement: If PersonX make lot mistake, PersonX is seen as, PersonX be sorry
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be sorry' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX make lot mistake, PersonX is seen as, PersonX be sorry" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--793
+
+Statement: If PersonX husband enjoy PersonY cocktail, PersonX is seen as, PersonX enjoy
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX enjoy' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX husband enjoy PersonY cocktail, PersonX is seen as, PersonX enjoy" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--794
+
+Statement: If PersonX comfort PersonY, PersonX is seen as, PersonX be good
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be good' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX comfort PersonY, PersonX is seen as, PersonX be good" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--795
+
+Statement: If PersonX go into forest, PersonX is seen as, PersonX must be careful
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX must be careful' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX go into forest, PersonX is seen as, PersonX must be careful" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--796
+
+Statement: If PersonX have a pair, PersonX is seen as, PersonX have
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX have' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX have a pair, PersonX is seen as, PersonX have" plausible?
+A: No.
+--797
+
+Statement: If PersonX doze off, PersonX is seen as, PersonX be tire
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be tire' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX doze off, PersonX is seen as, PersonX be tire" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--798
+
+Statement: If PersonX apply for scholarship, PersonX is seen as, PersonX be accept to college
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be accept to college' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX apply for scholarship, PersonX is seen as, PersonX be accept to college" plausible?
+A: No.
+--799
+
+Statement: If PersonX heel strike ground, PersonX is seen as, PersonX stagger
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX stagger' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX heel strike ground, PersonX is seen as, PersonX stagger" plausible?
+A: Yes
+--800
+
+Statement: If PersonX beauty fill PersonY heart love song, PersonX is seen as, PersonX be beautiful
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be beautiful' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX beauty fill PersonY heart love song, PersonX is seen as, PersonX be beautiful" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--801
+
+Statement: If PersonX do jazz, PersonX is seen as, PersonX dance
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX dance' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX do jazz, PersonX is seen as, PersonX dance" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--802
+
+Statement: If PersonX be never convict of anything, PersonX is seen as, PersonX be innocent
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be innocent' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be never convict of anything, PersonX is seen as, PersonX be innocent" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--803
+
+Statement: If PersonX arrive, PersonX is seen as, PersonX be greet pleasantly
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be greet pleasantly' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX arrive, PersonX is seen as, PersonX be greet pleasantly" plausible?
+A: Yes.
+--804
+
+Statement: If PersonX be in charge, PersonX is seen as, PersonX charge
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX charge' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX be in charge, PersonX is seen as, PersonX charge" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--805
+
+Statement: If PersonX live a long life, PersonX is seen as, PersonX die
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX die' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--806
+
+Statement: If PersonX look up in sky, PersonX is seen as, PersonX can not see clear
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX can not see clear' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX look up in sky, PersonX is seen as, PersonX can not see clear" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--807
+
+Statement: If PersonX provide excellent service, PersonX is seen as, PersonX be appreciate
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be appreciate' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX provide excellent service, PersonX is seen as, PersonX be appreciate" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--808
+
+Statement: If PersonX hear a noise, PersonX is seen as, PersonX be wake up
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be wake up' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX hear a noise, PersonX is seen as, PersonX be wake up" plausible?
+A: Yes
+--809
+
+Statement: If PersonX turn 19, PersonX is seen as, PersonX mature
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX mature' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX turn 19, PersonX is seen as, PersonX mature" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--810
+
+Statement: If PersonX fail a drug test, PersonX is seen as, PersonX be clean
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be clean' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX fail a drug test, PersonX is seen as, PersonX be clean" plausible?
+A: No
+--811
+
+Statement: If PersonX work be translate into german, PersonX is seen as, PersonX work have be translate
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX work have be translate' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--812
+
+Statement: If PersonX have select, PersonX is seen as, PersonX be please with choice
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be please with choice' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX have select, PersonX is seen as, PersonX be please with choice" plausible?
+A: Yes
+--813
+
+Statement: If PersonX have a big brain, PersonX is seen as, PersonX be very clever
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be very clever' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX have a big brain, PersonX is seen as, PersonX be very clever" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--814
+
+Statement: If PersonX calmly tell PersonY, PersonX is seen as, PersonX understand
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX understand' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX calmly tell PersonY, PersonX is seen as, PersonX understand" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--815
+
+Statement: If PersonX make no move, PersonX is seen as, PersonX be very shy
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be very shy' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX make no move, PersonX is seen as, PersonX be very shy" plausible?
+A: Yes
+
+Conclusion: The statement is commonsense
+--816
+
+Statement: If PersonX kiss PersonY white forehead, PersonX is seen as, PersonX hold
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX hold' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX kiss PersonY white forehead, PersonX is seen as, PersonX hold" plausible?
+A: No.
+
+Conclusion: The statement is not
+--817
+
+Statement: If PersonX feel warm, PersonX is seen as, PersonX feel cold
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX feel cold' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX feel warm, PersonX is seen as, PersonX feel cold" plausible?
+A: No.
+--818
+
+Statement: If PersonX just move to area, PersonX is seen as, PersonX be new to area
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be new to area' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX just move to area, PersonX is seen as, PersonX be new to area" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--819
+
+Statement: If PersonX would probably go back, PersonX is seen as, PersonX be back
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be back' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX would probably go back, PersonX is seen as, PersonX be back" plausible?
+A: Yes
+--820
+
+Statement: If PersonX come down stair, PersonX is seen as, PersonX fall
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX fall' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--821
+
+Statement: If PersonX step down from bridge, PersonX is seen as, PersonX stagger
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX stagger' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX step down from bridge, PersonX is seen as, PersonX stagger" plausible?
+A: Yes
+--822
+
+Statement: If PersonX don, PersonX is seen as, PersonX give
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX give' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX don, PersonX is seen as, PersonX give" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--823
+
+Statement: If PersonX will mourn, PersonX is seen as, PersonX be bereaved
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be bereaved' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "If PersonX will mourn, PersonX is seen as, PersonX be bereaved" plausible?
+A: Yes
+--294
+
+Statement: If PersonX be near the goal, because PersonX wanted, PersonX have not
+Q: Which one of the following two related statements is more plausible:
+0. PersonX have not before PersonX be near the goal
+1. PersonX have not after PersonX be near the goal
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX be near the goal, because PersonX wanted, PersonX have not" plausible?
+A: No
+--295
+
+Statement: If PersonX want to try it, because PersonX wanted, PersonX notice
+Q: Which one of the following two related statements is more plausible:
+0. PersonX notice before PersonX want to try it
+1. PersonX notice after PersonX want to try it
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No
+--296
+
+Statement: If PersonX take some artistic liberty, because PersonX wanted, PersonX do not remember
+Q: Which one of the following two related statements is more plausible:
+0. PersonX do not remember before PersonX take some artistic liberty
+1. PersonX do not remember after PersonX take some artistic liberty
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX take some artistic liberty, because PersonX wanted, PersonX do not remember" plausible?
+A: No
+--297
+
+Statement: If PersonX want to make art, because PersonX wanted, PersonX make a decision
+Q: Which one of the following two related statements is more plausible:
+0. PersonX make a decision before PersonX want to make art
+1. PersonX make a decision after PersonX want to make art
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No
+--298
+
+Statement: If PersonX be at the party, because PersonX wanted, PersonX be there
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be there before PersonX be at the party
+1. PersonX be there after PersonX be at the party
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No
+--299
+
+Statement: If PersonX go to work day, because PersonX wanted, PersonX feel great
+Q: Which one of the following two related statements is more plausible:
+0. PersonX feel great before PersonX go to work day
+1. PersonX feel great after PersonX go to work day
+Answer 0 or 1 only.
+A: 1. PersonX feel
+Q: Is the above answer different from 1?
+A: No.
+--300
+
+Statement: If PersonX get super spook, because PersonX wanted, PersonX be very young
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be very young before PersonX get super spook
+1. PersonX be very young after PersonX get super spook
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX get super spook, because PersonX wanted, PersonX be very young" plausible?
+A: No
+--301
+
+Statement: If PersonX wear PersonY boot, because PersonX wanted, PersonX show off the boot
+Q: Which one of the following two related statements is more plausible:
+0. PersonX show off the boot before PersonX wear PersonY boot
+1. PersonX show off the boot after PersonX wear PersonY boot
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No
+--302
+
+Statement: If PersonX seek, because PersonX wanted, PersonX love PersonY more
+Q: Which one of the following two related statements is more plausible:
+0. PersonX love PersonY more before PersonX seek
+1. PersonX love PersonY more after PersonX seek
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX seek, because PersonX wanted, PersonX love PersonY more" plausible?
+A: No
+--303
+
+Statement: If PersonX never lose, because PersonX wanted, PersonX win everything
+Q: Which one of the following two related statements is more plausible:
+0. PersonX win everything before PersonX never lose
+1. PersonX win everything after PersonX never lose
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX never lose, because PersonX wanted, PersonX win everything" plausible?
+A: No
+--304
+
+Statement: If PersonX usually do that, because PersonX wanted, PersonX like to do that
+Q: Which one of the following two related statements is more plausible:
+0. PersonX like to do that before PersonX usually do that
+1. PersonX like to do that after PersonX usually do that
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No
+--305
+
+Statement: If PersonX should share some the burden, because PersonX wanted, PersonX be marry to cody
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be marry to cody before PersonX should share some the burden
+1. PersonX be marry to cody after PersonX should share some the burden
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX should share some the burden, because PersonX wanted, PersonX be marry to cody" plausible?
+A: No
+--306
+
+Statement: If PersonX hit the headline, because PersonX wanted, PersonX be not a know celebrity
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be not a know celebrity before PersonX hit the headline
+1. PersonX be not a know celebrity after PersonX hit the headline
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX hit the headline, because PersonX wanted, PersonX be not a know celebrity" plausible?
+A: No
+--307
+
+Statement: If PersonX like gift, because PersonX wanted, PersonX say sorry
+Q: Which one of the following two related statements is more plausible:
+0. PersonX say sorry before PersonX like gift
+1. PersonX say sorry after PersonX like gift
+Answer 0 or 1 only.
+A: 1. PersonX say
+Q: Is the above answer different from 1?
+A: No.
+--308
+
+Statement: If PersonX understand the question right, because PersonX wanted, PersonX be not quite sure
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be not quite sure before PersonX understand the question right
+1. PersonX be not quite sure after PersonX understand the question right
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX understand the question right, because PersonX wanted, PersonX be not quite sure" plausible?
+A: No
+--309
+
+Statement: If PersonX never drink, because PersonX wanted, PersonX recognize
+Q: Which one of the following two related statements is more plausible:
+0. PersonX recognize before PersonX never drink
+1. PersonX recognize after PersonX never drink
+Answer 0 or 1 only.
+A: 1. PersonX recognize
+Q: Is the above answer different from 1?
+A: No.
+--310
+
+Statement: If PersonX have only try a few thing on menu, because PersonX wanted, PersonX be a creature of habit
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be a creature of habit before PersonX have only try a few thing on menu
+1. PersonX be a creature of habit after PersonX have only try a few thing on menu
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX have only try a few thing on menu, because PersonX wanted, PersonX be a creature of habit" plausible?
+A: No
+--311
+
+Statement: If PersonX throw a ball, because PersonX wanted, PersonX play
+Q: Which one of the following two related statements is more plausible:
+0. PersonX play before PersonX throw a ball
+1. PersonX play after PersonX throw a ball
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No
+--312
+
+Statement: If PersonX better wait about hour, because PersonX wanted, PersonX want answer
+Q: Which one of the following two related statements is more plausible:
+0. PersonX want answer before PersonX better wait about hour
+1. PersonX want answer after PersonX better wait about hour
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX better wait about hour, because PersonX wanted, PersonX want answer" plausible?
+A: No
+--313
+
+Statement: If PersonX can print letter, because PersonX wanted, PersonX try
+Q: Which one of the following two related statements is more plausible:
+0. PersonX try before PersonX can print letter
+1. PersonX try after PersonX can print letter
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No
+--522
+
+Statement: If PersonX marry PersonY, because PersonX wanted, PersonX love ya
+Q: Which one of the following two related statements is more plausible:
+0. PersonX love ya before PersonX marry PersonY
+1. PersonX love ya after PersonX marry PersonY
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX marry PersonY, because PersonX wanted, PersonX love ya" plausible?
+A: No
+--523
+
+Statement: If PersonX make home alive, because PersonX wanted, PersonX survive
+Q: Which one of the following two related statements is more plausible:
+0. PersonX survive before PersonX make home alive
+1. PersonX survive after PersonX make home alive
+Answer 0 or 1 only.
+A: 1. PersonX survive
+Q: Is the above answer different from 1?
+A: No.
+--524
+
+Statement: If PersonX close PersonX mouth firmly, because PersonX wanted, PersonX stifle
+Q: Which one of the following two related statements is more plausible:
+0. PersonX stifle before PersonX close PersonX mouth firmly
+1. PersonX stifle after PersonX close PersonX mouth firmly
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX close PersonX mouth firmly, because PersonX wanted, PersonX stifle" plausible?
+A: No
+--525
+
+Statement: If PersonX order the classic burger, because PersonX wanted, PersonX love a great burger
+Q: Which one of the following two related statements is more plausible:
+0. PersonX love a great burger before PersonX order the classic burger
+1. PersonX love a great burger after PersonX order the classic burger
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX order the classic burger, because PersonX wanted, PersonX love a great burger" plausible?
+A: No
+--526
+
+Statement: If PersonX contradict yourself, because PersonX wanted, PersonX be in disagreement
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be in disagreement before PersonX contradict yourself
+1. PersonX be in disagreement after PersonX contradict yourself
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX contradict yourself, because PersonX wanted, PersonX be in disagreement" plausible?
+A: No
+--824
+
+Statement: If PersonX take off PersonX sweater, because PersonX wanted, PersonX be hot
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be hot before PersonX take off PersonX sweater
+1. PersonX be hot after PersonX take off PersonX sweater
+Answer 0 or 1 only.
+A: 1. PersonX be
+Q: Is the above answer different from 1?
+A: No.
+--825
+
+Statement: If PersonX drink, because PersonX wanted, PersonX be fill
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be fill before PersonX drink
+1. PersonX be fill after PersonX drink
+Answer 0 or 1 only.
+A: 1. PersonX be
+Q: Is the above answer different from 1?
+A: No.
+--826
+
+Statement: If PersonX go by it, because PersonX wanted, PersonX can not avoid it
+Q: Which one of the following two related statements is more plausible:
+0. PersonX can not avoid it before PersonX go by it
+1. PersonX can not avoid it after PersonX go by it
+Answer 0 or 1 only.
+A: 1. PersonX can
+Q: Is the above answer different from 1?
+A: No.
+--827
+
+Statement: If PersonX move to county, because PersonX wanted, PersonX live in county
+Q: Which one of the following two related statements is more plausible:
+0. PersonX live in county before PersonX move to county
+1. PersonX live in county after PersonX move to county
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No
+--828
+
+Statement: If PersonX love corn tortilla, because PersonX wanted, PersonX be happy
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be happy before PersonX love corn tortilla
+1. PersonX be happy after PersonX love corn tortilla
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No
+--829
+
+Statement: If PersonX be fat, because PersonX wanted, PersonX hate be fat
+Q: Which one of the following two related statements is more plausible:
+0. PersonX hate be fat before PersonX be fat
+1. PersonX hate be fat after PersonX be fat
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX be fat, because PersonX wanted, PersonX hate be fat" plausible?
+A: No
+--830
+
+Statement: If PersonX wait for table, because PersonX wanted, PersonX table be ready
+Q: Which one of the following two related statements is more plausible:
+0. PersonX table be ready before PersonX wait for table
+1. PersonX table be ready after PersonX wait for table
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX wait for table, because PersonX wanted, PersonX table be ready" plausible?
+A: No
+--831
+
+Statement: If PersonX add air, because PersonX wanted, PersonX tire pressure be low
+Q: Which one of the following two related statements is more plausible:
+0. PersonX tire pressure be low before PersonX add air
+1. PersonX tire pressure be low after PersonX add air
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX add air, because PersonX wanted, PersonX tire pressure be low" plausible?
+A: No
+--832
+
+Statement: If PersonX can get anywhere, because PersonX wanted, PersonX have ability
+Q: Which one of the following two related statements is more plausible:
+0. PersonX have ability before PersonX can get anywhere
+1. PersonX have ability after PersonX can get anywhere
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX can get anywhere, because PersonX wanted, PersonX have ability" plausible?
+A: Yes
+--833
+
+Statement: If PersonX suck at cooking, because PersonX wanted, PersonX be a terrible cook
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be a terrible cook before PersonX suck at cooking
+1. PersonX be a terrible cook after PersonX suck at cooking
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No
+--834
+
+Statement: If PersonX come, because PersonX wanted, PersonX be active
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be active before PersonX come
+1. PersonX be active after PersonX come
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX come, because PersonX wanted, PersonX be active" plausible?
+A: No
+--835
+
+Statement: If PersonX prefer, because PersonX wanted, PersonX be happy
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be happy before PersonX prefer
+1. PersonX be happy after PersonX prefer
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX prefer, because PersonX wanted, PersonX be happy" plausible?
+A: No
+--836
+
+Statement: If PersonX wreck ball, because PersonX wanted, PersonX be a ball
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be a ball before PersonX wreck ball
+1. PersonX be a ball after PersonX wreck ball
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX wreck ball, because PersonX wanted, PersonX be a ball" plausible?
+A: No
+--837
+
+Statement: If PersonX thank PersonY, because PersonX wanted, PersonX truly care
+Q: Which one of the following two related statements is more plausible:
+0. PersonX truly care before PersonX thank PersonY
+1. PersonX truly care after PersonX thank PersonY
+Answer 0 or 1 only.
+A: 1. PersonX truly
+Q: Is the above answer different from 1?
+A: No.
+--838
+
+Statement: If PersonX reach the age of 90, because PersonX wanted, PersonX be retire
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be retire before PersonX reach the age of 90
+1. PersonX be retire after PersonX reach the age of 90
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX reach the age of 90, because PersonX wanted, PersonX be retire" plausible?
+A: No
+--839
+
+Statement: If PersonX ask PersonX question, because PersonX wanted, PersonX have be formulate the perfect question
+Q: Which one of the following two related statements is more plausible:
+0. PersonX have be formulate the perfect question before PersonX ask PersonX question
+1. PersonX have be formulate the perfect question after PersonX ask PersonX question
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX ask PersonX question, because PersonX wanted, PersonX have be formulate the perfect question" plausible?
+A: No
+--840
+
+Statement: If PersonX get to appointment early, because PersonX wanted, PersonX stylist be there
+Q: Which one of the following two related statements is more plausible:
+0. PersonX stylist be there before PersonX get to appointment early
+1. PersonX stylist be there after PersonX get to appointment early
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX get to appointment early, because PersonX wanted, PersonX stylist be there" plausible?
+A: No
+--841
+
+Statement: If PersonX fly free, because PersonX wanted, PersonX can fly
+Q: Which one of the following two related statements is more plausible:
+0. PersonX can fly before PersonX fly free
+1. PersonX can fly after PersonX fly free
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX fly free, because PersonX wanted, PersonX can fly" plausible?
+A: No
+--842
+
+Statement: If PersonX get job, because PersonX wanted, PersonX be fire
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be fire before PersonX get job
+1. PersonX be fire after PersonX get job
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX get job, because PersonX wanted, PersonX be fire" plausible?
+A: No
+--843
+
+Statement: If PersonX have no hair, because PersonX wanted, PersonX buzz it off
+Q: Which one of the following two related statements is more plausible:
+0. PersonX buzz it off before PersonX have no hair
+1. PersonX buzz it off after PersonX have no hair
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX have no hair, because PersonX wanted, PersonX buzz it off" plausible?
+A: Yes
+--844
+
+Statement: If PersonX grow up in minneapolis, because PersonX wanted, PersonX family move to town
+Q: Which one of the following two related statements is more plausible:
+0. PersonX family move to town before PersonX grow up in minneapolis
+1. PersonX family move to town after PersonX grow up in minneapolis
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No
+--845
+
+Statement: If PersonX get a puncture, because PersonX wanted, PersonX be not careful
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be not careful before PersonX get a puncture
+1. PersonX be not careful after PersonX get a puncture
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX get a puncture, because PersonX wanted, PersonX be not careful" plausible?
+A: No
+--266
+
+Statement: If PersonX can see 'em, but before, PersonX needed, PersonX can smell 'em
+Q: Which one of the following two related statements is more plausible:
+0. PersonX can smell 'em before PersonX can see 'em
+1. PersonX can smell 'em after PersonX can see 'em
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No
+--267
+
+Statement: If PersonX make PersonY assault, but before, PersonX needed, PersonX give PersonY a weapon
+Q: Which one of the following two related statements is more plausible:
+0. PersonX give PersonY a weapon before PersonX make PersonY assault
+1. PersonX give PersonY a weapon after PersonX make PersonY assault
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX make PersonY assault, but before, PersonX needed, PersonX give PersonY a weapon" plausible?
+A: Yes
+--268
+
+Statement: If PersonX wife be in the city, but before, PersonX needed, PersonX bring home a lady friend
+Q: Which one of the following two related statements is more plausible:
+0. PersonX bring home a lady friend before PersonX wife be in the city
+1. PersonX bring home a lady friend after PersonX wife be in the city
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX wife be in the city, but before, PersonX needed, PersonX bring home a lady friend" plausible?
+A: No
+--269
+
+Statement: If PersonX go to office, but before, PersonX needed, PersonX need to money
+Q: Which one of the following two related statements is more plausible:
+0. PersonX need to money before PersonX go to office
+1. PersonX need to money after PersonX go to office
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX go to office, but before, PersonX needed, PersonX need to money" plausible?
+A: No
+--270
+
+Statement: If PersonX rest on shoulder, but before, PersonX needed, PersonX come to PersonY
+Q: Which one of the following two related statements is more plausible:
+0. PersonX come to PersonY before PersonX rest on shoulder
+1. PersonX come to PersonY after PersonX rest on shoulder
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX rest on shoulder, but before, PersonX needed, PersonX come to PersonY" plausible?
+A: No
+--271
+
+Statement: If PersonX share, but before, PersonX needed, PersonX make a agreement
+Q: Which one of the following two related statements is more plausible:
+0. PersonX make a agreement before PersonX share
+1. PersonX make a agreement after PersonX share
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX share, but before, PersonX needed, PersonX make a agreement" plausible?
+A: Yes
+--272
+
+Statement: If PersonX go to do something, but before, PersonX needed, PersonX look back
+Q: Which one of the following two related statements is more plausible:
+0. PersonX look back before PersonX go to do something
+1. PersonX look back after PersonX go to do something
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX go to do something, but before, PersonX needed, PersonX look back" plausible?
+A: Yes
+--273
+
+Statement: If PersonX will be bite to death, but before, PersonX needed, PersonX meet PeopleX
+Q: Which one of the following two related statements is more plausible:
+0. PersonX meet PeopleX before PersonX will be bite to death
+1. PersonX meet PeopleX after PersonX will be bite to death
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX will be bite to death, but before, PersonX needed, PersonX meet PeopleX" plausible?
+A: Yes
+--274
+
+Statement: If PersonX need to reach out to customer, but before, PersonX needed, PersonX need to get money for account
+Q: Which one of the following two related statements is more plausible:
+0. PersonX need to get money for account before PersonX need to reach out to customer
+1. PersonX need to get money for account after PersonX need to reach out to customer
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX need to reach out to customer, but before, PersonX needed, PersonX need to get money for account" plausible?
+A: No
+--275
+
+Statement: If PersonX credit, but before, PersonX needed, PersonX take up cycling
+Q: Which one of the following two related statements is more plausible:
+0. PersonX take up cycling before PersonX credit
+1. PersonX take up cycling after PersonX credit
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX credit, but before, PersonX needed, PersonX take up cycling" plausible?
+A: No
+--276
+
+Statement: If PersonX lose PersonX sight, but before, PersonX needed, PersonX father collect book
+Q: Which one of the following two related statements is more plausible:
+0. PersonX father collect book before PersonX lose PersonX sight
+1. PersonX father collect book after PersonX lose PersonX sight
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX lose PersonX sight, but before, PersonX needed, PersonX father collect book" plausible?
+A: Yes
+--277
+
+Statement: If PersonX make much money, but before, PersonX needed, PersonX play the lottery
+Q: Which one of the following two related statements is more plausible:
+0. PersonX play the lottery before PersonX make much money
+1. PersonX play the lottery after PersonX make much money
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX make much money, but before, PersonX needed, PersonX play the lottery" plausible?
+A: No
+--278
+
+Statement: If PersonX decide to play, but before, PersonX needed, PersonX love
+Q: Which one of the following two related statements is more plausible:
+0. PersonX love before PersonX decide to play
+1. PersonX love after PersonX decide to play
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX decide to play, but before, PersonX needed, PersonX love" plausible?
+A: No
+--279
+
+Statement: If PersonX bow PersonX head, but before, PersonX needed, PersonX get dresss
+Q: Which one of the following two related statements is more plausible:
+0. PersonX get dresss before PersonX bow PersonX head
+1. PersonX get dresss after PersonX bow PersonX head
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX bow PersonX head, but before, PersonX needed, PersonX get dresss" plausible?
+A: Yes
+--280
+
+Statement: If PersonX use to think about it, but before, PersonX needed, PersonX make the deal
+Q: Which one of the following two related statements is more plausible:
+0. PersonX make the deal before PersonX use to think about it
+1. PersonX make the deal after PersonX use to think about it
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No
+--281
+
+Statement: If PersonX assume something, but before, PersonX needed, PersonX need to work on skill
+Q: Which one of the following two related statements is more plausible:
+0. PersonX need to work on skill before PersonX assume something
+1. PersonX need to work on skill after PersonX assume something
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX assume something, but before, PersonX needed, PersonX need to work on skill" plausible?
+A: Yes
+--282
+
+Statement: If PersonX devise a plan, but before, PersonX needed, PersonX consolidate PersonX position
+Q: Which one of the following two related statements is more plausible:
+0. PersonX consolidate PersonX position before PersonX devise a plan
+1. PersonX consolidate PersonX position after PersonX devise a plan
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX devise a plan, but before, PersonX needed, PersonX consolidate PersonX position" plausible?
+A: Yes
+--283
+
+Statement: If PersonX be not interested in it, but before, PersonX needed, PersonX see
+Q: Which one of the following two related statements is more plausible:
+0. PersonX see before PersonX be not interested in it
+1. PersonX see after PersonX be not interested in it
+Answer 0 or 1 only.
+A: 1. PersonX see
+Q: Is the above answer different from 1?
+A: No.
+--284
+
+Statement: If PersonX need to put it into player, but before, PersonX needed, PersonX put PersonX phone away
+Q: Which one of the following two related statements is more plausible:
+0. PersonX put PersonX phone away before PersonX need to put it into player
+1. PersonX put PersonX phone away after PersonX need to put it into player
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX need to put it into player, but before, PersonX needed, PersonX put PersonX phone away" plausible?
+A: No
+--285
+
+Statement: If PersonX will take a photograph of PersonY, but before, PersonX needed, PersonX locate PersonY
+Q: Which one of the following two related statements is more plausible:
+0. PersonX locate PersonY before PersonX will take a photograph of PersonY
+1. PersonX locate PersonY after PersonX will take a photograph of PersonY
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX will take a photograph of PersonY, but before, PersonX needed, PersonX locate PersonY" plausible?
+A: Yes
+--286
+
+Statement: If PersonX need to confront PersonY 's friend, but before, PersonX needed, PersonX challenge PersonY 's friend
+Q: Which one of the following two related statements is more plausible:
+0. PersonX challenge PersonY 's friend before PersonX need to confront PersonY 's friend
+1. PersonX challenge PersonY 's friend after PersonX need to confront PersonY 's friend
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX need to confront PersonY 's friend, but before, PersonX needed, PersonX challenge PersonY 's friend" plausible?
+A: No
+--287
+
+Statement: If PersonX choke the chicken, but before, PersonX needed, PersonX need to find a chicken
+Q: Which one of the following two related statements is more plausible:
+0. PersonX need to find a chicken before PersonX choke the chicken
+1. PersonX need to find a chicken after PersonX choke the chicken
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX choke the chicken, but before, PersonX needed, PersonX need to find a chicken" plausible?
+A: Yes
+--288
+
+Statement: If PersonX send a letter, but before, PersonX needed, PersonX need to write a letter
+Q: Which one of the following two related statements is more plausible:
+0. PersonX need to write a letter before PersonX send a letter
+1. PersonX need to write a letter after PersonX send a letter
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX send a letter, but before, PersonX needed, PersonX need to write a letter" plausible?
+A: Yes
+Conclusion: The statement is commonsense.
+--289
+
+Statement: If PersonX get lose, but before, PersonX needed, PersonX try to explain it
+Q: Which one of the following two related statements is more plausible:
+0. PersonX try to explain it before PersonX get lose
+1. PersonX try to explain it after PersonX get lose
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX get lose, but before, PersonX needed, PersonX try to explain it" plausible?
+A: Yes
+--290
+
+Statement: If PersonX hang PersonX clothes, but before, PersonX needed, PersonX pick out a game
+Q: Which one of the following two related statements is more plausible:
+0. PersonX pick out a game before PersonX hang PersonX clothes
+1. PersonX pick out a game after PersonX hang PersonX clothes
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX hang PersonX clothes, but before, PersonX needed, PersonX pick out a game" plausible?
+A: No
+--291
+
+Statement: If PersonX jump into race, but before, PersonX needed, PersonX have a idea
+Q: Which one of the following two related statements is more plausible:
+0. PersonX have a idea before PersonX jump into race
+1. PersonX have a idea after PersonX jump into race
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX jump into race, but before, PersonX needed, PersonX have a idea" plausible?
+A: Yes
+--292
+
+Statement: If PersonX open door, but before, PersonX needed, PersonX need to walk
+Q: Which one of the following two related statements is more plausible:
+0. PersonX need to walk before PersonX open door
+1. PersonX need to walk after PersonX open door
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX open door, but before, PersonX needed, PersonX need to walk" plausible?
+A: Yes
+--293
+
+Statement: If PersonX demand PersonY attention, but before, PersonX needed, PersonX send PersonY dozen letter
+Q: Which one of the following two related statements is more plausible:
+0. PersonX send PersonY dozen letter before PersonX demand PersonY attention
+1. PersonX send PersonY dozen letter after PersonX demand PersonY attention
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX demand PersonY attention, but before, PersonX needed, PersonX send PersonY dozen letter" plausible?
+A: Yes
+--527
+
+Statement: If PersonX eat anyway, but before, PersonX needed, PersonX body need food
+Q: Which one of the following two related statements is more plausible:
+0. PersonX body need food before PersonX eat anyway
+1. PersonX body need food after PersonX eat anyway
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX eat anyway, but before, PersonX needed, PersonX body need food" plausible?
+A: Yes
+--528
+
+Statement: If PersonX join the church, but before, PersonX needed, PersonX get religion
+Q: Which one of the following two related statements is more plausible:
+0. PersonX get religion before PersonX join the church
+1. PersonX get religion after PersonX join the church
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX join the church, but before, PersonX needed, PersonX get religion" plausible?
+A: No
+--529
+
+Statement: If PersonX iove PersonY, but before, PersonX needed, PersonX want PersonY
+Q: Which one of the following two related statements is more plausible:
+0. PersonX want PersonY before PersonX iove PersonY
+1. PersonX want PersonY after PersonX iove PersonY
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX iove PersonY, but before, PersonX needed, PersonX want PersonY" plausible?
+A: No
+Conclusion: The statement is not commonsense
+--530
+
+Statement: If PersonX mistake, but before, PersonX needed, PersonX be mistaken
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be mistaken before PersonX mistake
+1. PersonX be mistaken after PersonX mistake
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX mistake, but before, PersonX needed, PersonX be mistaken" plausible?
+A: No
+--531
+
+Statement: If PersonX have it on hand, but before, PersonX needed, PersonX use it
+Q: Which one of the following two related statements is more plausible:
+0. PersonX use it before PersonX have it on hand
+1. PersonX use it after PersonX have it on hand
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No
+--846
+
+Statement: If PersonX do judge, but before, PersonX needed, PersonX judgment be true
+Q: Which one of the following two related statements is more plausible:
+0. PersonX judgment be true before PersonX do judge
+1. PersonX judgment be true after PersonX do judge
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX do judge, but before, PersonX needed, PersonX judgment be true" plausible?
+A: No
+--847
+
+Statement: If PersonX like to poop, but before, PersonX needed, PersonX want to poop
+Q: Which one of the following two related statements is more plausible:
+0. PersonX want to poop before PersonX like to poop
+1. PersonX want to poop after PersonX like to poop
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX like to poop, but before, PersonX needed, PersonX want to poop" plausible?
+A: No
+--848
+
+Statement: If PersonX bring solution for problem, but before, PersonX needed, PersonX be a problem solver
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be a problem solver before PersonX bring solution for problem
+1. PersonX be a problem solver after PersonX bring solution for problem
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX bring solution for problem, but before, PersonX needed, PersonX be a problem solver" plausible?
+A: Yes
+--849
+
+Statement: If PersonX ask a straightforward question, but before, PersonX needed, PersonX be curious
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be curious before PersonX ask a straightforward question
+1. PersonX be curious after PersonX ask a straightforward question
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX ask a straightforward question, but before, PersonX needed, PersonX be curious" plausible?
+A: Yes
+--850
+
+Statement: If PersonX eat, but before, PersonX needed, PersonX gulp
+Q: Which one of the following two related statements is more plausible:
+0. PersonX gulp before PersonX eat
+1. PersonX gulp after PersonX eat
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX eat, but before, PersonX needed, PersonX gulp" plausible?
+A: No
+--851
+
+Statement: If PersonX say spicy, but before, PersonX needed, PersonX mean spicy
+Q: Which one of the following two related statements is more plausible:
+0. PersonX mean spicy before PersonX say spicy
+1. PersonX mean spicy after PersonX say spicy
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX say spicy, but before, PersonX needed, PersonX mean spicy" plausible?
+A: Yes
+--852
+
+Statement: If PersonX play in championship, but before, PersonX needed, PersonX be not select for championship
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be not select for championship before PersonX play in championship
+1. PersonX be not select for championship after PersonX play in championship
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX play in championship, but before, PersonX needed, PersonX be not select for championship" plausible?
+A: No
+--853
+
+Statement: If PersonX get to front, but before, PersonX needed, PersonX be close
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be close before PersonX get to front
+1. PersonX be close after PersonX get to front
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX get to front, but before, PersonX needed, PersonX be close" plausible?
+A: Yes
+--854
+
+Statement: If PersonX feed PersonX cat, but before, PersonX needed, PersonX take out its litter box
+Q: Which one of the following two related statements is more plausible:
+0. PersonX take out its litter box before PersonX feed PersonX cat
+1. PersonX take out its litter box after PersonX feed PersonX cat
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX feed PersonX cat, but before, PersonX needed, PersonX take out its litter box" plausible?
+A: Yes
+--855
+
+Statement: If PersonX hurt your feeling, but before, PersonX needed, PersonX be sorry
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be sorry before PersonX hurt your feeling
+1. PersonX be sorry after PersonX hurt your feeling
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX hurt your feeling, but before, PersonX needed, PersonX be sorry" plausible?
+A: No
+--856
+
+Statement: If PersonX be particularly concerned, but before, PersonX needed, PersonX worry
+Q: Which one of the following two related statements is more plausible:
+0. PersonX worry before PersonX be particularly concerned
+1. PersonX worry after PersonX be particularly concerned
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX be particularly concerned, but before, PersonX needed, PersonX worry" plausible?
+A: No
+--857
+
+Statement: If PersonX take pain, but before, PersonX needed, PersonX do take pain
+Q: Which one of the following two related statements is more plausible:
+0. PersonX do take pain before PersonX take pain
+1. PersonX do take pain after PersonX take pain
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No
+--858
+
+Statement: If PersonX scarf down, but before, PersonX needed, PersonX be famish
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be famish before PersonX scarf down
+1. PersonX be famish after PersonX scarf down
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX scarf down, but before, PersonX needed, PersonX be famish" plausible?
+A: Yes
+--859
+
+Statement: If PersonX question one side, but before, PersonX needed, PersonX have to question the other as
+Q: Which one of the following two related statements is more plausible:
+0. PersonX have to question the other as before PersonX question one side
+1. PersonX have to question the other as after PersonX question one side
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX question one side, but before, PersonX needed, PersonX have to question the other as" plausible?
+A: No
+--860
+
+Statement: If PersonX be perform, but before, PersonX needed, PersonX aren t perform
+Q: Which one of the following two related statements is more plausible:
+0. PersonX aren t perform before PersonX be perform
+1. PersonX aren t perform after PersonX be perform
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX be perform, but before, PersonX needed, PersonX aren t perform" plausible?
+A: No
+--861
+
+Statement: If PersonX spoil PersonY wedding plan, but before, PersonX needed, PersonX be sorry
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be sorry before PersonX spoil PersonY wedding plan
+1. PersonX be sorry after PersonX spoil PersonY wedding plan
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX spoil PersonY wedding plan, but before, PersonX needed, PersonX be sorry" plausible?
+A: Yes
+--862
+
+Statement: If PersonX literally feel, but before, PersonX needed, PersonX feel
+Q: Which one of the following two related statements is more plausible:
+0. PersonX feel before PersonX literally feel
+1. PersonX feel after PersonX literally feel
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX literally feel, but before, PersonX needed, PersonX feel" plausible?
+A: No
+--863
+
+Statement: If PersonX read the novel, but before, PersonX needed, PersonX love it
+Q: Which one of the following two related statements is more plausible:
+0. PersonX love it before PersonX read the novel
+1. PersonX love it after PersonX read the novel
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No
+--864
+
+Statement: If PersonX work in hospital, but before, PersonX needed, PersonX wear scrub
+Q: Which one of the following two related statements is more plausible:
+0. PersonX wear scrub before PersonX work in hospital
+1. PersonX wear scrub after PersonX work in hospital
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX work in hospital, but before, PersonX needed, PersonX wear scrub" plausible?
+A: Yes
+--865
+
+Statement: If PersonX ask PersonY partner, but before, PersonX needed, PersonX have a question for partner
+Q: Which one of the following two related statements is more plausible:
+0. PersonX have a question for partner before PersonX ask PersonY partner
+1. PersonX have a question for partner after PersonX ask PersonY partner
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX ask PersonY partner, but before, PersonX needed, PersonX have a question for partner" plausible?
+A: No
+--866
+
+Statement: If PersonX comprehend, but before, PersonX needed, PersonX be aware
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be aware before PersonX comprehend
+1. PersonX be aware after PersonX comprehend
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX comprehend, but before, PersonX needed, PersonX be aware" plausible?
+A: No
+--867
+
+Statement: If PersonX go get martin weir, but before, PersonX needed, PersonX want martin weir
+Q: Which one of the following two related statements is more plausible:
+0. PersonX want martin weir before PersonX go get martin weir
+1. PersonX want martin weir after PersonX go get martin weir
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX go get martin weir, but before, PersonX needed, PersonX want martin weir" plausible?
+A: Yes
+--868
+
+Statement: If PersonX roll over, but before, PersonX needed, PersonX fall on ass
+Q: Which one of the following two related statements is more plausible:
+0. PersonX fall on ass before PersonX roll over
+1. PersonX fall on ass after PersonX roll over
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX roll over, but before, PersonX needed, PersonX fall on ass" plausible?
+A: No
+--869
+
+Statement: If PersonX have the flu, but before, PersonX needed, PersonX lay down on bed
+Q: Which one of the following two related statements is more plausible:
+0. PersonX lay down on bed before PersonX have the flu
+1. PersonX lay down on bed after PersonX have the flu
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX have the flu, but before, PersonX needed, PersonX lay down on bed" plausible?
+A: Yes
+--870
+
+Statement: If PersonX click accept, but before, PersonX needed, PersonX accept
+Q: Which one of the following two related statements is more plausible:
+0. PersonX accept before PersonX click accept
+1. PersonX accept after PersonX click accept
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No
+--871
+
+Statement: If PersonX hurt PersonY feeliss, but before, PersonX needed, PersonX be sorry
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be sorry before PersonX hurt PersonY feeliss
+1. PersonX be sorry after PersonX hurt PersonY feeliss
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX hurt PersonY feeliss, but before, PersonX needed, PersonX be sorry" plausible?
+A: Yes
+--872
+
+Statement: If PersonX leave PersonX room, but before, PersonX needed, PersonX shut the window
+Q: Which one of the following two related statements is more plausible:
+0. PersonX shut the window before PersonX leave PersonX room
+1. PersonX shut the window after PersonX leave PersonX room
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX leave PersonX room, but before, PersonX needed, PersonX shut the window" plausible?
+A: Yes
+--873
+
+Statement: If PersonX pop PersonX top, but before, PersonX needed, PersonX want a cup
+Q: Which one of the following two related statements is more plausible:
+0. PersonX want a cup before PersonX pop PersonX top
+1. PersonX want a cup after PersonX pop PersonX top
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX pop PersonX top, but before, PersonX needed, PersonX want a cup" plausible?
+A: No
+--874
+
+Statement: If PersonX have the lobster spaghetti, but before, PersonX needed, PersonX love spaghetti
+Q: Which one of the following two related statements is more plausible:
+0. PersonX love spaghetti before PersonX have the lobster spaghetti
+1. PersonX love spaghetti after PersonX have the lobster spaghetti
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX have the lobster spaghetti, but before, PersonX needed, PersonX love spaghetti" plausible?
+A: No
+--875
+
+Statement: If PersonX have curly hair, but before, PersonX needed, PersonX do not
+Q: Which one of the following two related statements is more plausible:
+0. PersonX do not before PersonX have curly hair
+1. PersonX do not after PersonX have curly hair
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX have curly hair, but before, PersonX needed, PersonX do not" plausible?
+A: No
+--876
+
+Statement: If PersonX accept it, but before, PersonX needed, PersonX have to accept it
+Q: Which one of the following two related statements is more plausible:
+0. PersonX have to accept it before PersonX accept it
+1. PersonX have to accept it after PersonX accept it
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX accept it, but before, PersonX needed, PersonX have to accept it" plausible?
+A: No
+--877
+
+Statement: If PersonX work PersonY magic, but before, PersonX needed, PersonX be thrill
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be thrill before PersonX work PersonY magic
+1. PersonX be thrill after PersonX work PersonY magic
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX work PersonY magic, but before, PersonX needed, PersonX be thrill" plausible?
+A: No
+--878
+
+Statement: If PersonX deal with problem, but before, PersonX needed, PersonX want to get counselling
+Q: Which one of the following two related statements is more plausible:
+0. PersonX want to get counselling before PersonX deal with problem
+1. PersonX want to get counselling after PersonX deal with problem
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX deal with problem, but before, PersonX needed, PersonX want to get counselling" plausible?
+A: No
+--879
+
+Statement: If PersonX date PersonY, but before, PersonX needed, PersonX have never date anyone
+Q: Which one of the following two related statements is more plausible:
+0. PersonX have never date anyone before PersonX date PersonY
+1. PersonX have never date anyone after PersonX date PersonY
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX date PersonY, but before, PersonX needed, PersonX have never date anyone" plausible?
+A: Yes
+--880
+
+Statement: If PersonX be a gentleman, but before, PersonX needed, PersonX must be gentleman
+Q: Which one of the following two related statements is more plausible:
+0. PersonX must be gentleman before PersonX be a gentleman
+1. PersonX must be gentleman after PersonX be a gentleman
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX be a gentleman, but before, PersonX needed, PersonX must be gentleman" plausible?
+A: No
+--881
+
+Statement: If PersonX survive, but before, PersonX needed, PersonX be revive
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be revive before PersonX survive
+1. PersonX be revive after PersonX survive
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX survive, but before, PersonX needed, PersonX be revive" plausible?
+A: No
+--882
+
+Statement: If PersonX can not bear it, but before, PersonX needed, PersonX be nervous
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be nervous before PersonX can not bear it
+1. PersonX be nervous after PersonX can not bear it
+Answer 0 or 1 only.
+A: 0
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX can not bear it, but before, PersonX needed, PersonX be nervous" plausible?
+A: No
+--883
+
+Statement: If PersonX dig, but before, PersonX needed, PersonX bury
+Q: Which one of the following two related statements is more plausible:
+0. PersonX bury before PersonX dig
+1. PersonX bury after PersonX dig
+Answer 0 or 1 only.
+A: 0. PersonX bury
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "If PersonX dig, but before, PersonX needed, PersonX bury" plausible?
+A: No
+--884
+
+Statement: If PersonX have strength, but before, PersonX needed, PersonX choose to exert it
+Q: Which one of the following two related statements is more plausible:
+0. PersonX choose to exert it before PersonX have strength
+1. PersonX choose to exert it after PersonX have strength
+Answer 0 or 1 only.
+A: 1. PersonX choose
+Q: Is the above answer different from 1?
+A: No.

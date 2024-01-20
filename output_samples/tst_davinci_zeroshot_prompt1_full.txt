@@ -1,0 +1,979 @@
+----False. Arguing with someone does not necessarily mean that they are not a certain type of person.
+----False. If PersonX steals from PersonY, it is unlikely that PersonY would ever know.
+----True
+----False. It is not plausible that arching someone's back would result in them wanting to produce an item.
+----True. If PersonY picks up the phone, they must respond to the caller in some way.
+----True. It is plausible that PersonX could ask PersonY to do something, and as a result, PersonY could volunteer to do something.
+----False. This statement does not make sense. It should be rephrased as "Since PersonX is at work, PersonY has to go."
+----False. It is not physically possible for a person to look back at someone after their head has been dropped.
+----False. It is not plausible that PersonX finding out would result in PersonY not making the trip. It is possible that PersonX finding out could influence PersonY's decision to make the trip, but it is not plausible that PersonX
+----False. It is not plausible that PersonY would run back as a result of PersonX coming from WoW to GW2.
+----False. The statement does not make sense logically.
+----False. This statement does not make sense.
+----True
+----False. Going to work one day does not necessarily mean that a person will be stuck in one place.
+----False. The statement does not make sense as written.
+----False. The statement does not make sense. It should be rephrased to something like "PersonX does not practice it, so as a result, PersonX has no time for it."
+----False. It is not plausible that a person's eyes can manifest their love if they have never owned their love.
+----False. PersonX cannot change their own leader, so the statement is not plausible.
+----False. Going home does not necessarily result in understanding something.
+----False. PersonX ordering a salad does not necessarily result in PersonX giving a three star rating.
+----False. Wanting something does not necessarily result in being able to disable something in bio.
+----True
+----True
+----False. Wiping one's forehead does not result in studying something.
+----False. PersonX's decision to not work does not necessarily mean that PersonX's wife also does not have to work.
+----False. If PersonX is in the car, they would still be able to check their sandwich.
+----False. The statement does not make sense.
+----True
+----True. If PersonX would like to reach out to PeopleX, then it is plausible that PersonX could reach out to PeopleX as a result.
+----False. It is not plausible that a person would use something as a result of being lost.
+----False. Losing the lottery does not necessarily mean that PersonX will leave. It depends on the individual's circumstances and decisions.
+----False. It is not plausible that PersonX would give PeopleX each information about gambling without knowing anything about it themselves.
+----False. It is not plausible that PersonY would see PersonX simply because PersonX got to their destination.
+----False. Dumping someone does not necessarily lead to realization.
+----False. Breaking a rule would not typically result in a 24-hour shift at a hospital.
+----False. Blending does not necessarily require the use of a solvent.
+----False. Asking PersonY does not necessarily mean that PersonX will go.
+----False. It is not plausible that PersonX would bolt out of a restaurant and then speak to PersonY for a minute.
+----False. It is not plausible for a person to walk into a flame and remain unburnt.
+----False. Expecting something does not necessarily lead to seeing something outside.
+----False. Even if PersonX has not done something, they can still comment on it based on their knowledge and experience.
+----False. The statement does not provide enough information to determine whether it is plausible or not.
+----False. Tremble is a physical reaction, not an action. Therefore, it is not plausible to say that a person's trembling would result in an action.
+----True. Making cookies typically involves mixing ingredients, which can be messy and result in a person getting dirty.
+----False. It is not plausible that PersonX would use insect poison to catch a fly.
+----False. PersonX may or may not be sympathetic depending on the circumstances.
+----False. Peeing in bed does not necessarily mean that a person is old.
+----False. Taking a step forward does not necessarily lead to a demand.
+----False. Standing still does not necessarily mean that PersonX would starve. PersonX could still eat food while standing still.
+----False. The statement does not make sense because it implies that PersonX is making a change in order to make a change, which is not possible.
+----True. It is plausible that a person could have a fit and then go to sleep as a result.
+----False. While it is true that a person who cannot think straight may not be able to help themselves, it is not necessarily true that a person who cannot think straight cannot help themselves. It is possible for a person who cannot think straight to
+----False. Having a paper does not necessarily mean that PersonX cannot take PersonY to the convention.
+----False. This statement does not make sense because it is not logically consistent. PersonX cannot be "pretty sure" and then guess, as guessing implies uncertainty.
+----False. It is not plausible that a person would scream bloody murder as a result of rising to a challenge.
+----False. If PersonX conceals their identity, they may still be recognized for their accomplishments or contributions.
+----False. It is not plausible for someone to pry open something and then wander around as a result.
+----False. This statement does not make sense.
+----False. It is not plausible that PersonX would get into something and then just notice it as a result.
+----False. Changing one's behavior does not guarantee that they will never go back to prison. It is possible that PersonX could still end up back in prison due to external factors or circumstances beyond their control.
+----False. It is not plausible that someone would become jobless as a result of going to beg.
+----False. It is not plausible for a person to turn to reascend and lay full in moonlight.
+----False. PersonX could not tell Mayor Koch at the time, so it is not plausible that PersonX's office would be participating in the investigation.
+----False. Taking someone else's example does not guarantee success. Success depends on many factors, such as hard work, dedication, and luck.
+----False. It is not plausible that a person would purchase something and then turn around as a result.
+----False. If PersonX is on the ground, they may still find out something.
+----False. Eating everything does not necessarily mean that PersonX will gain weight. Eating a balanced diet and exercising regularly are important factors in maintaining a healthy weight.
+----False. It is not plausible that someone would tremble and then read about something online as a result.
+----False. It is not plausible that PersonX could convince their own parent, as this would be impossible.
+----False. PersonX cannot ask their own sister, so the statement is not plausible.
+----False
+----True
+----False. This statement does not make sense.
+----False. It is not plausible for PersonX to take PersonY's case without PersonY's consent.
+----False. This statement does not make sense. PersonY cannot want to talk to PersonZ based on PersonX drawing four jacks.
+----False. It is not plausible that PersonY would want to lose their mind as a result of PersonX giving them a sign.
+----True. Raising a glass is a common gesture to show appreciation or to make a toast, so it is plausible that PersonY would want to get a refill after PersonX raised their glass.
+----False. It does not make sense for PersonY to want PersonX to throw a ball if PersonY wants to ignore PersonX.
+----False. This statement does not make sense because it does not provide enough information to determine whether it is plausible or not.
+----False. It is not plausible that PersonY would want to be kind if PersonX has nothing to give in return. Kindness should be given freely, without expecting anything in return.
+----False. It is not plausible for PersonY to want PersonY to not move if PersonX has already grabbed PersonY's gun.
+----False. This statement does not make sense because it does not provide enough information to determine whether PersonY wants to seem very emotional. It is possible that PersonY does want to seem very emotional, but it is also possible that PersonY does
+----True. It is plausible that PersonX could have altered PersonY's course in some way, and that PersonY would want to thank PersonX for it.
+----False. It is not plausible to assume that PersonY wants to be more of a positivist simply because PersonX bought something.
+----False. It is not plausible to assume that PersonY wants whatever PersonX is selling just because PersonX made contact with PersonY.
+----False. This statement does not make sense because it does not provide enough information to determine whether PersonX and PersonY are related or if the papa mentioned is related to either of them.
+----False. Harassment is not something that someone would want, so it is not plausible that PersonY would want PersonX to continue harassing them.
+----True. It is plausible that PersonX did not make the cut and PersonY wants to try out themselves.
+----True. Advertising one's own business is a common way to increase visibility and attract customers, which can lead to a successful business.
+----False. It is possible that PersonX would want to cry after being fired from their job, but it is not necessarily the case.
+----False. It is not plausible to assume that someone has fantasized about everything and therefore wants to leave.
+----False. It is not plausible that PersonX wants to go for a walk if they are meeting PersonY for lunch.
+----False. It is not necessarily true that PersonX wants to rush through the gym. PersonX may be at the gym for a variety of reasons, such as to exercise, to socialize, or to relax.
+----False. It is not plausible that PersonX created PersonY's structure in order to stack stones. PersonX would need to have permission from PersonY to do so.
+----True. If PersonX owes PersonY money, it is plausible that PersonX would want to avoid PersonY.
+----False. This statement does not make sense because it is impossible for PersonX to miss themselves.
+----False. PersonX cannot want to not enter their own home.
+----False. PersonX may not be able to drink a sip of alcohol for a variety of reasons, such as being underage, having a medical condition, or simply not wanting to. However, this does not necessarily mean that PersonX is afraid
+----False. Winning does not necessarily mean that PersonX would want to shop everyday.
+----False. This statement does not make sense. It implies that PersonX sometimes has sex but does not want to make it a habit, which is contradictory.
+----False. The statement does not make sense.
+----False. It is not plausible that someone would want to feel worse after getting the finger.
+----False. This statement is not plausible.
+----False. This statement does not make sense.
+----False
+----False. The statement is not grammatically correct and does not make sense.
+----False. Making bad choices does not necessarily mean that a person wants to get higher. It is possible that a person made a bad choice due to lack of knowledge or experience, or simply because they were not thinking clearly.
+----False. Pulling a face does not necessarily indicate a desire to feel successful.
+----True
+----False. The statement does not make sense grammatically.
+----False. This statement does not make sense because it is not grammatically correct.
+----True. Feeling something can lead to wanting to express it, so this statement is plausible.
+----False. Being a heavy sleeper does not necessarily prevent total disaster. PersonX may need to take other steps to avoid total disaster.
+----True. It is plausible that PersonX would want to demand PersonY's signature at the bottom of the agreement if PersonX is lending PersonY money. This is a common practice to ensure that the loan is legally binding and that PersonY
+----False. It is not necessarily true that if someone finds nothing, they want to feel bad. It is possible that they may feel disappointed or frustrated, but not necessarily bad.
+----True. It is plausible that PersonX could feel trapped and want to not leave.
+----False. Putting something in a room does not necessarily mean that PersonX wants to have a house warm party.
+----False. This statement does not make sense because PersonX cannot join themselves.
+----False. PersonX would need to have a quarter in order to use the pay phone.
+----False. It is possible that PersonX feels nervous and wants to be skinny, but the two feelings are not necessarily related.
+----True. It is plausible that PersonX still wants attention and would want to complain on Reddit to get it.
+----True
+----False. Seeing someone does not necessarily mean that you want to hang out with them.
+----False. The statement does not make sense. It is not plausible that someone would want to believe something simply because they have gone on vacation.
+----False. It is not plausible that PersonX wanted to prefer PersonY if PersonX gave PersonY the slip.
+----False. It is not plausible for a person to lose their appetite and still want to finish their meal.
+----False. This statement does not make sense.
+----False. The statement does not make sense as written.
+----False. This statement does not make sense.
+----False. The statement does not make sense.
+----False. It is not plausible to assume that someone who does not know something wants to be nothing.
+----True
+----False. It does not make sense for someone to hate something and then recommend it.
+----False. The statement does not make sense as written.
+----True. It is plausible that PersonX saved PersonY's people and wanted to calm everyone down.
+----False. This statement does not make sense. PersonX cannot turn PersonY back in order to replace something.
+----False. PersonX cannot want to be cautious and reluctantly agree at the same time.
+----False. It is not plausible that someone who is hungover would want to have "see".
+----True
+----False. This statement does not make sense because it does not explain how PersonX's action affects PersonY's emotion.
+----False. PersonX sending a message does not necessarily result in PersonY following back. PersonY may choose to follow back or not, depending on their own emotions and motivations.
+----False. It is not plausible that PersonY would wake PersonX simply because PersonX is very skinny.
+----False. PersonY's emotion would depend on the context of the situation. If PersonX is a close friend or family member, PersonY may feel scared if they are not there. However, if PersonX is a stranger, PersonY
+----True
+----False. It is not plausible that PersonY would feel betrayed as a result of PersonX wanting to hurt them. Betrayal implies a breach of trust, which would not be present in this situation.
+----False. This statement does not make sense because it does not provide enough information to determine whether PersonY's emotion was caused by PersonX having a golf course.
+----False. PersonY cannot tell PersonX simply because PersonX signed up for a class. PersonY's emotions may be affected by PersonX signing up for a class, but PersonY cannot tell PersonX anything without further information or interaction.
+----False. PersonX wanting a cat does not necessarily result in PersonY feeling affectionate.
+----False. PersonY being happily surprised does not necessarily mean that PersonX will catch PersonY's attention.
+----False. This statement does not make sense because it does not explain how PersonX donating plasma would cause PersonY to feel glad.
+----False. PersonX making food does not necessarily mean that PersonY will have to wait. It depends on the type of food PersonX is making and how long it will take to prepare.
+----False. PersonX granting PersonZ's request does not necessarily mean that PersonY will try it. PersonY's emotion may not be affected by PersonX's decision.
+----False. This statement does not make sense. PersonX cannot meet their own father, and it is unclear how PersonY's emotion would affect PersonX getting the part.
+----False. Giving someone a name does not necessarily make them feel influential.
+----False. PersonX loving makeup does not necessarily have an effect on PersonY's emotions.
+----False. The statement does not make sense grammatically.
+----False
+----False. This statement does not make sense.
+----False. This statement does not make sense. PersonX cannot lead PeopleX right as a result of their own emotions. PersonX may know a trick, but it is not related to their emotions.
+----False. Improving oneself usually leads to positive emotions such as pride and satisfaction, not worry.
+----False. The statement is not logically plausible because it is a circular argument. PersonX's emotion is the result of feeling sad, not the cause of feeling down and blue.
+----False. A person's security in their masculinity does not necessarily have any bearing on their ability to answer a hypothetical.
+----False. It is not plausible that a person would want to hurt another person and then bail on plans as a result of their own emotions.
+----False. The statement does not provide enough information to determine whether it is plausible or not.
+----False. This statement does not make sense.
+----True
+----False. PersonX's desire to play with sr1mp does not necessarily mean that PersonX can afford to buy it.
+----True
+----False
+----False. Divorce is a difficult and emotional process, and it is unlikely that a person would immediately feel love for someone else after going through it.
+----False. It is not plausible to assume that simply finding a channel would result in a person understanding something better. It is possible that the channel could provide information that helps a person understand something better, but it is not plausible to assume that simply
+----False. Quitting a job can be a stressful experience, but it is not a good idea to pick up smoking as a result. Smoking can have serious health consequences and is not a recommended way to cope with stress.
+----False. Ordering a pizza does not necessarily result in a change of emotion or a move.
+----False. This statement does not make sense because it implies that a person's emotions can cause them to become physically ill, which is not true.
+----False. Mockery is usually done in a mocking or sarcastic manner, which would not lead to a feeling of earnestness.
+----False. Taking someone back does not necessarily result in a person having a place of their own. It could result in the two people living together, or it could result in the person feeling more secure in their relationship, but it does not necessarily
+----False. PersonX's emotion is not directly caused by PersonY giving them courage. PersonX's emotion is likely to be caused by their own internal thoughts and feelings.
+----False. It is not plausible that someone's emotions can cause them to throw a party.
+----False. Meeting one's father would not result in getting out of prison.
+----False. Borrowing money does not necessarily mean that PersonX will be unable to pay it back. It is possible that PersonX could borrow money and still be able to pay it back.
+----False. It is not plausible that putting something in a purse would result in a person getting something back in terms of emotion.
+----False. Visiting the USA does not necessarily lead to a person moving there.
+----False. PersonX's emotion of feeling hungry is not necessarily a result of wanting dinner. It could be a result of not having eaten for a long time, or of seeing or smelling food.
+----False. This statement does not make sense because it is not clear what the job is that PersonX is not doing properly.
+----False. This statement does not make sense.
+----False. The statement does not make sense.
+----False. This statement does not make sense.
+----False. The statement does not make sense as it does not provide enough information to draw a conclusion.
+----False. Going to bed does not necessarily result in sitting up, so this statement is not plausible.
+----False. This statement does not make sense because it is not clear what the result of PersonX playing PersonY's favorite song is supposed to be.
+----True
+----False. This statement does not make sense because it does not provide enough information to determine whether PersonX is happy or not.
+----True
+----False. The statement does not make sense because it is not possible to feel one's own emotion.
+----False. PersonX cannot feel unaware if PersonX never occurred to PersonY.
+----False. It is not plausible that a person can bring their own mouth to a negative emotion, as this is not possible.
+----False. Moving one's own car does not typically result in feeling sneaky.
+----False. Giving someone a ring does not necessarily result in the giver thinking of anything.
+----False. The statement does not make sense because it does not explain how the use of something will affect PersonX's emotion.
+----False. This statement does not make sense because it does not provide enough information to determine whether PersonX's emotion would be to look PersonY in the face.
+----False. It is not plausible that missing someone would cause someone to feel careless.
+----False. It is not plausible that a person can find another gear and as a result, their emotion changes.
+----True
+----False. Insurance does not directly affect a person's emotions, so it is not plausible to say that being on insurance would result in a person feeling a sense of saving.
+----False. Going to a city does not necessarily result in a person getting breakfast.
+----False. The statement does not make sense.
+----False. The statement does not make sense as written.
+----False. Kindness does not necessarily lead to a person putting everything together. It is possible that a person's emotions could lead them to put things together, but it is not necessarily the result of being kind.
+----True
+----False. It is possible for PersonX to feel nervous and still be able to move.
+----True
+----True
+----False. The statement does not make sense because the need to pee does not directly lead to an emotion.
+----False. Losing weight does not necessarily have an effect on a person's emotions. It is possible that a person may want to lose weight for physical health reasons, but their emotions may not be affected by the decision.
+----False. Putting pen to paper does not necessarily mean that PersonX must write. It is possible that PersonX could be doodling, drawing, or simply tracing the paper without writing anything.
+----False. Efficiency does not necessarily lead to making arrangements. It is possible that PersonX is efficient but does not make any arrangements due to their emotional state.
+----False. This statement does not provide enough information to draw a conclusion about PersonX's attribute.
+----False. Seeing someone alone does not necessarily mean that PersonX has confessed something to PersonY.
+----False. This statement does not provide enough information to draw any conclusions about PersonX's attributes.
+----False. Being vigilant does not necessarily mean that a person is conscientious. Vigilance is being alert and watchful, while conscientiousness is being careful and responsible.
+----False. This statement does not make sense.
+----False. This statement does not provide enough information to draw any conclusions about PersonX's attributes.
+----False. Feeling emotionally happy does not necessarily mean that PersonX is a dreamer.
+----False. Selling jewelry does not necessarily mean that PersonX has fallen into poverty. It could simply mean that PersonX is trying to make some extra money.
+----False. Being a heavy sleeper does not necessarily mean that PersonX would pick up quickly.
+----False. Visiting someone's cousin does not necessarily indicate that a person is friendly. It could mean that the person is simply polite or curious.
+----False. This statement does not provide enough information to conclude that PersonX eats at Grandma's house.
+----False. This statement does not make sense.
+----False. This statement does not provide enough information to make a conclusion about PersonX's attributes.
+----False. Without more information, it is impossible to draw any conclusions about PersonX's attributes.
+----False. This statement does not provide enough information to draw a conclusion about PersonX's attributes.
+----False. Watching a scary movie does not necessarily indicate that a person is brave.
+----False. Having a couch does not necessarily tell us anything about PersonX's attributes.
+----False
+----False. This statement is not plausible because it is impossible for a person to have their own heaven and be their own god.
+----False. It is not plausible to make a conclusion about a person's attributes based on one isolated incident.
+----False. PersonX cannot provide a link that will show their attribute of being back home.
+----False. This statement does not provide enough information to determine whether PersonX will go back to America.
+----False. Having groceries does not necessarily mean that PersonX is getting older. It could mean that PersonX is simply stocking up on groceries for any number of reasons.
+----False. The statement does not provide enough information to make a conclusion about PersonX's attribute.
+----False. Visiting one's grandmother does not necessarily indicate that the person is respectful. Respectful behavior can be demonstrated in many other ways.
+----False. This statement does not provide enough evidence to draw a conclusion about PersonX's attribute. It is possible that PersonX avoided the situation for a variety of reasons, and it is not possible to determine their attribute based on this single action
+----False. Having a new toy does not necessarily mean that PersonX is content. It is possible that PersonX may not be content for other reasons, or may not be content at all.
+----False. This statement is not plausible because it is making a sweeping generalization about PersonX's character based on one attribute. It is not possible to accurately assess someone's character based on one attribute alone.
+----False. It is not possible to make assumptions about a person's attributes based solely on what they do or do not wear.
+----False. This statement does not make sense because it does not provide enough information to draw a conclusion about PersonX's attribute.
+----False. Finding a piece of hair in soup does not necessarily mean that it is the first time PersonX has eaten there. It could be that the hair was accidentally dropped into the soup by a previous customer or a staff member.
+----False. Without more information, it is impossible to draw any conclusions about PersonX's age or any other attribute.
+----False. Playing with something does not necessarily mean that PersonX is a kid. It could mean that PersonX is simply a playful person, regardless of age.
+----False. Being on the school's basketball team does not necessarily mean that PersonX wears something everyday.
+----False. This statement does not logically follow. PersonX's mom being in bad shape does not necessarily mean that PersonX needs PersonY.
+----False. A call back does not necessarily indicate that PersonX's order was correct. It could mean that the person on the other end of the call was simply being polite or that they wanted to discuss something else.
+----False. Sharing does not necessarily indicate that a person is social. It could simply mean that the person is generous or willing to give away something.
+----False. Being on a stage does not necessarily mean that a person can experience something. It is possible that a person could be on a stage and not experience anything.
+----False. Obedience does not necessarily mean accomplishment. Obedience is a behavior that involves following instructions or complying with orders, while accomplishment is the successful completion of a task or goal.
+----False. Peacefulness does not necessarily imply happiness.
+----False. It is not plausible to assume that a person's lip would begin to quiver simply because they are having difficulty pronouncing a word.
+----False. This statement does not provide enough information to draw a conclusion about PersonX's attributes.
+----False. Posting something does not necessarily mean that the comment will be at the top. It depends on the number of comments and the time of the post.
+----False. This statement does not provide enough information to draw a conclusion about PersonX's attribute.
+----False. It is not plausible that a person's heart can jump up into their throat.
+----False. It is not plausible to assume that someone who watches anything does not care about what they watch at all. It is possible that PersonX may watch anything, but still have preferences and care about what they watch.
+----False. Being clever does not necessarily mean that PersonX is helpful or assists others.
+----False. This statement does not provide enough information to draw a conclusion about PersonX's attribute.
+----False. This statement does not provide enough information to draw a conclusion about PersonX's attribute. It is possible that PersonX does not give PersonY pain for a variety of reasons, such as not wanting to hurt PersonY, not wanting
+----False. It is not plausible to conclude that PersonX is lucky based on the fact that PersonX could play PeopleX. It is possible that PersonX has other attributes, such as skill or experience, that enabled them to play PeopleX
+----False. The statement does not make sense logically.
+----False. Assault does not require a weapon and can be committed without one.
+----False. This statement is not plausible because PersonX's wife being in the city does not depend on PersonX bringing home a lady friend.
+----False. PersonX going to the office does not depend on whether or not they have money.
+----False. PersonX resting on PersonY's shoulder could happen even if PersonX does not come to PersonY.
+----True
+----False. PersonX looking back is not a necessary condition for the event to happen.
+----False. It is not plausible that PersonX will be bitten to death unless they meet PeopleX, as there are many other factors that could lead to PersonX being bitten to death.
+----False. PersonX may need to reach out to the customer regardless of whether they have money for the account or not.
+----False. PersonX's credit event may still happen even if PersonX does not take up cycling.
+----False. This statement does not make sense. It is not plausible that a person would lose their sight unless their father collects a book.
+----False. PersonX can make money in many ways other than playing the lottery.
+----False. PersonX may decide to play even if they do not love the activity.
+----False. PersonX can bow their head without getting dressed.
+----False. The event may still happen even if PersonX does not make the deal.
+----False. PersonX cannot assume something will not happen unless they work on the skill, as the outcome is not guaranteed.
+----False. PersonX can devise a plan without consolidating their position.
+----False. PersonX may be interested in it even if they have not seen it.
+----False. The statement does not make sense as it is written. PersonX cannot put themselves away.
+----True
+----False. PersonX does not need to challenge PersonY's friend in order for the event to happen. PersonX could simply confront PersonY's friend without challenging them.
+----False. PersonX cannot choke the chicken unless they find a chicken first.
+----True
+----False. PersonX getting lost will happen regardless of whether they try to explain it or not.
+----False. PersonX cannot hang their own clothes unless they pick out a game first.
+----False. PersonX does not need to have an idea in order to jump into a race. They just need to be physically able to do so.
+----False. PersonX does not need to walk in order for the event to happen.
+----False. Sending a dozen letters is not necessary for PersonX to demand PersonY's attention.
+----False. PersonX being near the goal does not necessarily mean that PersonX has not achieved it.
+----False. The statement does not provide enough information to make a conclusion about PersonX's intention.
+----False. Taking artistic liberty does not necessarily mean that PersonX does not remember.
+----False. PersonX may want to make art, but that does not necessarily mean that PersonX has made a decision to do so.
+----False. The statement does not provide enough information to draw a conclusion about PersonX's intention for being at the party.
+----False. Going to work does not necessarily mean that PersonX feels great. It could mean that PersonX is simply fulfilling an obligation or has a sense of duty.
+----False. It is not plausible to conclude that PersonX is very young based on the statement that PersonX got super spook.
+----False. Wearing a certain type of boot does not necessarily indicate an intention to show off. It could be for any number of reasons, such as comfort, style, or practicality.
+----False. Seeking does not necessarily indicate that someone loves someone else more. It could indicate a variety of intentions, such as wanting to spend more time with the other person, wanting to learn more about them, or wanting to understand their feelings better
+----False. It is impossible for a person to never lose, so the statement is not plausible.
+----True
+----False. This statement does not make sense. PersonX sharing a burden does not indicate any intention to marry Cody.
+----False. It is not plausible to make a conclusion about a person's intention based solely on the fact that they hit the headline.
+----False. The statement does not provide enough information to draw a conclusion about PersonX's intention.
+----False. Understanding the question does not necessarily indicate that the person is not sure. It could simply mean that the person understands the question and is ready to answer it.
+----False. The statement does not provide enough information to draw a conclusion about PersonX's intentions.
+----False. It is not necessarily true that PersonX is a creature of habit just because they have only tried a few things on the menu. It could be that PersonX is simply unfamiliar with the menu or is not feeling adventurous.
+----True
+----False. The statement does not make sense.
+----False. The statement does not provide enough information to draw a conclusion about PersonX's intention.
+----False. PersonX cannot lead the group hall after being first in line, as leading the group hall requires additional steps such as organizing the group and providing direction.
+----True. It is plausible that after PersonX finds a good deal, PersonX would buy a painting.
+----False
+----False
+----False. It is not plausible that someone would have no time after forgetting something.
+----False. It is not plausible that PersonX would offer a place after telling PersonY's wife something.
+----False. The sentence does not make sense grammatically.
+----False. It does not make sense for PersonX to be lonely after looking for PersonY.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----True. It is plausible that after PersonX makes PersonY's acquaintance, PersonX would invite PersonY for coffee.
+----False. Raising the roof is an expression that means to celebrate or show enthusiasm, so it would not make sense for PersonX to wait for a shoe to drop after doing so.
+----False. It is not plausible for someone to fall and then immediately start dancing.
+----False. It is not plausible that PersonX would take a shot after examining a fossil closely.
+----True. It is plausible that PersonX would wait at home after inviting PersonY to dinner.
+----False. This statement does not make sense.
+----False. This statement does not make sense grammatically.
+----False. Texas cannot wake up, as it is a state and not a person.
+----True
+----True. It is plausible that PersonX would explain before going to do something.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. It is not plausible that a person would appear in print before they make a speech.
+----False. This statement does not make sense grammatically.
+----False. This statement does not make sense. It should be rephrased as "Before PersonY's parent would let PersonY do something, PersonX had to do it first."
+----False. This statement does not make sense because it implies that PersonX fell in love before PersonY worked, which is not possible.
+----False. It is not plausible that someone would live in a mountain before they liked to hike.
+----False. The sentence does not make sense as written. It should be "Before PersonX eats everything, PersonX should go to the buffet."
+----False. This statement does not make sense.
+----False. It is not plausible that a person would see their own daughter before seeing a cool car.
+----False. This statement does not make sense grammatically.
+----False. People can work together even if they don't get along. It may be more difficult, but it is possible.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----True. It is plausible that PersonX would prepare for school before ending the thing.
+----False. It does not make sense to look right at someone before going into a club.
+----False. Before PersonX buys PersonY, PersonX hopes is not a complete sentence.
+----False. The sentence does not make sense grammatically.
+----False. Even if PersonX reads the instruction, they may still lose it.
+----False. The statement does not make sense because it implies that PersonX's task is dependent on Silvia's actions.
+----False. Even if PeopleX have known each other for years, the event PersonX joke could still happen.
+----False. Eating a vegetarian diet does not guarantee that a person will not develop a terminal disease. Factors such as genetics, lifestyle, and environmental factors all play a role in a person's health and can contribute to the development of a terminal disease
+----False. The statement is not plausible because it is a double negative.
+----False. PersonX's professor teaching PersonY a program has no bearing on PersonX developing a web presence.
+----False. Even if PersonX is very sick, the event they keep may still happen.
+----False. The statement does not make sense as it is written.
+----False. The statement does not make sense.
+----False. This statement does not make sense.
+----False. Even if PersonX is being watched by someone else, they may still drop the item on the floor.
+----False. The statement does not make sense.
+----False. PersonX's hurt leg would not necessarily prevent them from being loud enough.
+----False. The statement does not make sense and does not provide enough information to determine whether the event will happen or not.
+----False. The statement does not make sense as it is written.
+----False. PersonX getting distracted may still happen even if PersonY asks a question.
+----False. PersonX being garbage does not guarantee that the event will not happen.
+----False. The statement implies that PersonY has the power to control the event, which is not plausible.
+----False. This statement does not make sense. PersonY being afraid has nothing to do with PersonX having a beard.
+----False. The statement does not make sense.
+----False
+----False. The statement implies that PersonY has the power to make a difference, but without any further context, it is not plausible.
+----False. If PersonX has fallen unconscious, they would not be able to call an ambulance.
+----False. The statement does not make sense. The event of PersonY firing PeopleX for hospitality will not be affected by whether or not the pea have broken.
+----False. The statement implies that the event will not happen if PersonX cannot leave the house, but this is not necessarily true. The event could still happen even if PersonX cannot leave the house.
+----False. The statement does not make sense as written. It should read, "The event PersonX wants to grab will not happen, if PersonX brings PersonY food."
+----False. The statement does not make sense because it implies that PersonX's grip is related to their business, which is not necessarily true.
+----False. PersonY leaving in a certain way does not guarantee that PersonX will not be under age.
+----False. Having a sore arm does not necessarily prevent PersonX from having the piece, so the statement is not plausible.
+----False. The statement does not make sense because it implies that PersonY's son's extravagance will prevent misfortune from happening, which is not plausible.
+----False. It is possible that PersonX could still have the wrong direction even if they see the show.
+----False. The two events are unrelated and the statement does not make sense.
+----False. The statement does not make sense. It implies that PersonX will not lose a shilling if they come into the shop, which is not necessarily true.
+----False. If the thing exists, PersonX may still refuse to pay.
+----False. The statement does not make sense as written.
+----False. PeopleX can still start hurting without a gun, such as by using their fists or other objects.
+----False. The event may still happen even if PersonX cannot see over the crowd.
+----False. The statement does not make sense because it is not possible for a person to "be" on a table.
+----False. PersonX casting a timid glance at the table does not depend on PersonY knowing them well or not.
+----False
+----False. The statement does not make sense because it is not clear what the event is or what PersonX knows.
+----False. This statement does not make sense. PersonX being bored by reading has no bearing on whether PersonY will wear noise or not.
+----False. The statement does not make sense because it does not provide enough information to determine whether the event will happen or not.
+----False. Having a headache does not necessarily mean that the event will not happen.
+----False. PersonX could get dressed for work at a different location, such as a friend's house or a public restroom.
+----False. Playing a game does not necessarily mean that a person will be good at math.
+----False. PersonX may be able to buy something without PersonY giving them the key, depending on the context of the situation.
+----False. The statement does not make sense because it does not provide enough information to determine whether the event will happen or not.
+----False. The statement does not make sense. It is not plausible.
+----False. The statement does not make sense.
+----False. If a tree falls on PersonX, the event of PersonX falling from the tree will still happen.
+----False. The statement does not make sense because it implies that PersonY's intention can change the past.
+----False. Burning PersonX's mouth has nothing to do with whether or not PersonX can find PeopleX's CD.
+----False
+----False. PersonX playing dumb does not necessarily mean that the event PeopleX eat will not happen.
+----False. PersonX could still give PersonY a will even if they have a kid.
+----False. The statement does not make sense. PersonX cannot hear, so the event cannot be explained.
+----False. The statement does not make sense.
+----False. PersonX committing an obstruction would not prevent PersonY from having a finding of fact.
+----False. PersonX cannot move the car if they are a toy.
+----False. PersonY saying something does not necessarily mean that the event of PersonX having a cat will not happen.
+----False. The statement does not make sense because the two events are unrelated.
+----False. Even if PersonX does not have the guts, the event of PersonX drawing their last breath will still happen.
+----False. PersonX may still get a bill even if they get something else.
+----False. Even if PersonX does not have social media, the event of PersonY hiding PersonX's key could still happen.
+----False. This statement does not make sense.
+----False. The statement does not make sense.
+----False. PeopleX looking similar does not necessarily mean that PersonY will not see the difference. It is possible that PersonY will still be able to see the difference even if PeopleX look similar.
+----False. Even if PersonX does not have the money, the event of PersonX having a new car could still happen if PersonX is able to borrow the money or if someone else pays for the car.
+----False. PersonX expressing doubt is not necessarily dependent on whether or not they have a kid.
+----False. The statement does not make sense.
+----False. The statement does not make sense.
+----False. Even if PersonX runs out of time, the event they hold in hand may still happen.
+----False. The statement does not make sense because the sleeping baby has nothing to do with the event of PersonX saying "uncle".
+----False. It is possible for someone to love food and still lose their appetite. Appetite can be affected by many factors, such as stress, illness, or medications.
+----False. The statement does not make sense as written.
+----False. It is not plausible to assume that a person living in a certain country will never have no shoes.
+----False. Even if PersonX does not know enough about football, the event of PersonX loving football could still happen.
+----False. Even if PersonX behaves well, they may still be frightened by something unexpected.
+----False. The statement does not provide enough information to determine whether the event will happen or not.
+----False. The statement does not make sense because getting a new haircut has nothing to do with whether PersonY is already married or not.
+----False. The kingdom of heaven being at hand does not necessarily mean that the event men will go on way will not happen.
+----False. The statement does not make sense.
+----True. If one handles the antique vase from the inside, the oil from their hands will not come into contact with the patina, and therefore the patina will not be damaged.
+----False. PersonY could still bend to PersonX even if it is necessary for PersonY to do so.
+----False. The statement does not make sense because it implies that PersonX can control the event happening or not happening, which is not plausible.
+----False. PersonX being a reporter does not guarantee that PersonY's story will be aired on the center. It is possible that PersonX may not be interested in PersonY's story, or that PersonX may not have the authority to
+----False. The statement implies that PersonX will not come to term unless money is involved, which is not necessarily true.
+----False. It is not plausible to assume that PersonX will not care for PersonY if PersonY keeps changing seats. PersonX's care for PersonY is likely to be based on other factors, such as their relationship, rather than the
+----False. Even if PersonY does not answer PersonX's phone, PersonX may still break the news to PersonY in other ways, such as sending a text message, email, or even talking to PersonY in person.
+----False. PersonY winning does not guarantee that their son will rule England.
+----False. PersonX's dad saying something does not guarantee that the event will not happen. It is possible that PersonY still has nowhere to go even if PersonX's dad says something.
+----False. The statement implies that PersonX's martyrdom would prevent the event from happening, which is not necessarily true.
+----False. The statement does not make sense as written.
+----False. The statement does not make sense.
+----False. Even if the job is never offered, PersonY may still not have money to share due to other factors.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. People may still want to talk about it even if there is no proof, as long as they have an opinion or interest in the topic.
+----False. This statement does not make sense as written.
+----False. It is not plausible that a person would trade their best friend.
+----False. PersonX cannot tell PersonY their opinion because PersonX already knows PersonY's opinion.
+----False. Attending mass does not necessarily mean that a person has to be nice. It is possible for someone to attend mass and still not be nice.
+----False. This statement does not make sense.
+----False. Removing something from somewhere does not necessarily mean that it is lucky.
+----False. The sentence does not make sense grammatically.
+----False. This statement does not make sense.
+----Step 1: Is PersonX likely to enjoy the show?----Answer: It depends on the show. ----Step 2: Is PersonX likely to be a Beatles fan?----Answer: It depends on PersonX's
+----False. This statement does not make sense.
+----False. It is not plausible that PersonX double-checked the killer's DNA. DNA testing requires specialized equipment and expertise, and it is unlikely that PersonX would have access to either of these.
+----False. Having a quiz does not necessarily mean that PersonX has a pen.
+----False. Studying hard can help a person remember information, but it cannot make a person forget information.
+----False. This statement does not make sense grammatically.
+----False. Reproduction has nothing to do with political affiliation.
+----False. This statement does not make sense because it does not provide enough information to determine whether PersonY answered PersonX or not.
+----False. This statement does not make sense because it does not provide enough information to determine what PersonY told PersonX.
+----False. This statement does not make sense.
+----False. It does not make sense to say that someone can be "down" because they get fit.
+----False. This statement does not make sense grammatically.
+----False. It is not plausible that PersonX meeting PersonY's father would lead to PersonY's mother being married.
+----False. This statement does not make sense.
+----False. It is not plausible that someone would say something archly simply because they are gazing into someone's face.
+----False. It is not plausible to assume that PersonY has nothing simply because PersonX is hardworking.
+----False. This statement does not make sense as written. It should be rephrased to make sense, such as "Because something was not right, PersonX talked about PeopleX."
+----False. The statement does not make sense because PersonX and PersonY are the same person.
+----False. The statement implies that the event of PersonX stealing anything includes the event/action that PersonX would not have, which is not plausible.
+----False. The statement implies that PersonY is both forgiving and intolerant of nature, which is not plausible.
+----False. Chewing is a part of eating, but it is not the only action involved in having food.
+----False. The event PersonX having eyesight does not include the event/action that the sun is not even shining.
+----False. The event that the car will not start does not include the event/action that it be slippery on drive.
+----False
+----False. Accusing someone does not necessarily mean that the accuser needs evidence. It is possible for someone to accuse someone else without any evidence.
+----Step 1: Does PersonX sew?--Yes----Step 2: Does PersonX want to be handy with needle?--Unknown----Conclusion: False
+----True. It is plausible that a person who doubts everything would want to be a skeptical person.
+----False. It is not plausible that someone would want to feel unhappy after leaving their ex.
+----False. It is not plausible that PersonX wants their husband to be off work just because they got time off.
+----False. The statement does not make sense as it is written. It is not clear what PersonX and PeopleX are referring to, and it is not clear what the statement is trying to say.
+----True
+----True
+----False. It is not plausible for someone to both despise themselves and want to be ashamed. It is more likely that PersonX despises themselves and wants to avoid feeling ashamed.
+----False. It is not plausible that PersonY would want to see PersonX simply because PersonX saw PersonY's character.
+----False. PersonY cannot hear PersonX if PersonX is yelling, so the statement is not plausible.
+----False. PersonY wanting to run fast does not necessarily mean that PersonY can run fast.
+----False. It is not necessarily true that PersonY wants to meet PersonX's parent just because PersonX has met PersonY's parent.
+----False. Having a crow does not necessarily mean that PersonX will eat it.
+----True
+----False. The statement does not make sense because having a good seat does not necessarily mean that PersonX will sit in a row.
+----False. PersonX cannot come back from lunch and stop for take-out at the same time.
+----False. PersonX cannot wait after opening the outer door.
+----False. PersonX cannot extend hospitality to themselves, so they cannot be the host.
+----False. The sentence does not make sense grammatically.
+----True
+----False. It is not plausible that PersonX would not look directly at PersonY if their eyes met.
+----True
+----True
+----True
+----False. Following someone does not necessarily lead to curiosity. It is possible that PersonX could feel a variety of emotions, such as admiration, envy, or even indifference.
+----False. Asking a question does not necessarily lead to feeling needy.
+----True
+----False. This statement does not make sense because it is not clear what PersonX is wondering about and how that would lead to an emotion of curiosity.
+----False. The statement does not make sense as it is written.
+----False. Having a gift certificate does not necessarily mean that PersonX is glad. It could mean that PersonX was given the gift certificate, but may not necessarily be happy about it.
+----False. Patience and hope are two different attributes. It is not plausible to conclude that someone who is patiently waiting is also hoping.
+----False. Doing little research does not necessarily mean that a person is naive. It could mean that the person is simply not interested in researching the topic, or that they lack the resources or time to do so.
+----False. This statement does not provide enough evidence to draw a conclusion about PersonX's attribute.
+----False. It is possible for PersonX to smile through tears, but this does not necessarily mean that PersonX is crying. Smiling through tears could be a sign of resilience, strength, or even joy.
+----False. Losing money in trading does not necessarily mean that PersonX is broke. It could mean that PersonX is inexperienced in trading, or that PersonX made a bad investment decision.
+----False. Running around the house does not necessarily indicate that PersonX is tired. It could indicate that PersonX is energetic or excited.
+----False. Running an errand does not necessarily indicate that PersonX is happy.
+----False. It is not plausible to make a conclusion about a person's attribute based solely on the fact that they are going through something. Additional information would be needed to make such a conclusion.
+----False. Marrying someone does not necessarily mean that the person loves them. It could be for other reasons such as financial security, social status, or even convenience.
+----True
+----False. Closing one's mouth firmly does not necessarily indicate an intention to stifle. It could indicate a variety of other intentions, such as a desire to remain silent or to express determination.
+----True
+----False. It is not necessarily true that a person who contradicts themselves is in disagreement. It could be that they are simply confused or uncertain about their opinion.
+----False. PersonX may choose to eat even if their body does not need food.
+----False. It is possible for PersonX to join the church without having a religion, as many churches are open to people of all beliefs.
+----True. The statement is plausible because it implies that PersonX's feelings for PersonY are voluntary and that PersonX must choose to act on those feelings in order for the event to occur.
+----False. The statement is illogical because it is impossible for an event to happen unless it has already happened.
+----False. The event will happen regardless of whether PersonX uses it or not.
+----False. This statement does not make sense. It should be rephrased to something like "Because PersonX perceives PersonY, PersonY is nearby."
+----False. It is not plausible to say that PersonY will automatically become the love of PersonX's life after they marry. Love is a complex emotion that cannot be assumed or predicted.
+----False. It is not plausible that there would be no other car after PersonX takes this car.
+----True. PeopleX delivers something, and then PeopleY receives the delivery. This is a plausible statement.
+----False. It is not necessary for PersonY to be obeyed before PersonX obeys them. PersonX may choose to obey PersonY without PersonY having to be obeyed first.
+----False. It is not plausible that someone can be friendly with someone they do not know.
+----False. The sentence does not make sense grammatically.
+----False. PersonX may still take the tram even if they miss the train.
+----False. The statement does not take into account other factors that could influence whether PersonX stays at the hotel, such as the cost of the stay, the availability of other hotels, or the location of the hotel.
+----False. PersonX could still run a long distance even if they are breathless.
+----False. If the monster is already dead, then PersonX cannot kill it.
+----False. The statement implies that PersonX's success is dependent on PersonY's success, which may not be the case.
+----False. The statement does not make sense because the subway cannot be in a direction.
+----False. The statement does not make sense because it is impossible for PersonX's fatness to be affected by PersonY's fatness.
+----False. The statement does not make sense as it is written. It should be rephrased to say something like "PersonX highly recommends PersonY's company because they are great."
+----False. This statement does not make sense because it implies that PersonX wants to be welcomed because they are already welcomed.
+----False. It is not necessarily true that PersonX wants to be stronger just because they beat dc. It is possible that PersonX was satisfied with their victory and does not want to become stronger.
+----False. It is not plausible to assume that someone who looks unstable necessarily wants to be unstable.
+----False. It is not plausible for someone to want their own opinion to be wrong.
+----False. This statement does not make sense because it implies that PersonX wants to not know anyone else, which is not plausible.
+----True
+----False. It is not plausible for a person to want their friend to get married simply because they themselves have gotten married.
+----True. It is plausible that someone who works in fashion would want to be presentable.
+----False. Taking someone else's name does not necessarily mean that PersonX wants to create a false identity. It could be for a variety of reasons, such as honoring a family member or wanting to change their name for personal reasons.
+----False. This statement does not make sense because it is not logically connected. PersonX running hot does not necessarily mean that PersonX wants to run cold.
+----True
+----True
+----False. Having a nervous tick does not necessarily mean that a person wants to be nervous.
+----False. It is not necessarily true that PersonX wants to be worried because their dad died young. It is possible that PersonX may feel grief, sadness, or other emotions, but wanting to be worried is not necessarily a logical conclusion.
+----False. Crying does not necessarily mean that someone wants to feel loss. Crying can be a response to a variety of emotions, including sadness, joy, fear, and frustration.
+----False. The statement does not make sense because it is a circular statement. PersonX cannot have PersonX monitor, as PersonX is the one who wants to have the monitor.
+----False. Taking all the happiness in the world would not necessarily make PersonX happy. Happiness is an internal emotion that comes from within, and cannot be taken from the outside world.
+----False. PersonX may rely on transportation, but that does not necessarily mean that PersonX does not want to drive.
+----False. Sleeping 6 hours is considered a healthy amount of sleep for most adults, so it does not necessarily mean that PersonX is being lazy.
+----False. Having a toy does not necessarily mean that PersonX wants to be satisfied.
+----False. It is not necessarily true that PersonX wants to be sad after having a fight with a friend. PersonX may feel a range of emotions, including sadness, anger, regret, or even relief.
+----False. The statement is not plausible because it does not make sense grammatically.
+----False. Amnesia is a medical condition that causes a person to forget certain memories or information. It is not something that someone can choose to have.
+----False. PersonX cannot explain something to PersonY if PersonX has not yet explained it.
+----True. It is plausible that PersonX looked around a meetup and wanted to be curious.
+----True
+----False. Calculating does not necessarily mean that someone wants to guess. It could mean that they are trying to figure out a solution or answer to a problem.
+----False. It is not necessarily true that PersonX wants to be sad after being rejected. PersonX may feel disappointed, frustrated, or angry, but not necessarily sad.
+----Step 1: Is PersonX giving Claire a ride home? Yes.--Step 2: Does PersonX want to be late? Unknown.----Conclusion: False
+----False. This statement does not make sense because it implies that PersonX wants their term to expire, which is not plausible.
+----True. If PersonX believes in existence, then it is plausible that PersonX would want to believe in something.
+----False. Responding negatively does not necessarily mean that a person wants to be emotionally immature. It could be a sign of other issues such as stress, anxiety, or depression.
+----False. Arriving late does not necessarily mean that the person wants their appointment to be cancelled.
+----False. Just because PersonX ordered a biscuit does not necessarily mean that PersonX wants to be craving carbs. There could be other reasons why PersonX ordered a biscuit, such as wanting a snack or wanting something sweet.
+----False. It is possible to like a group of people without wanting to be racist. It is possible to appreciate a culture or group of people without wanting to be prejudiced or discriminatory.
+----False. It is not plausible that someone would enter a restaurant only to immediately want to exit.
+----False. This statement does not make sense because it does not provide enough information to draw a conclusion.
+----True. It is plausible that a person can have their own peace of mind and want to feel at peace.
+----False. Refusing to sign something does not necessarily mean that PersonX wants to be angry. It could mean that PersonX does not agree with the terms of the document or does not understand it.
+----False. It is not necessarily true that PersonX wants to be interested just because they made it through class. It is possible that PersonX was able to make it through class without being interested.
+----False. It is possible that PersonX is harassing PersonY in order to gain attention, but it is not necessarily the case. It is also possible that PersonX is harassing PersonY out of anger, jealousy, or some other emotion.
+----False. It is not plausible to assume that PersonX wants to out-play PersonY simply because PersonX beat PersonY. It is possible that PersonX simply wanted to win the game, but not necessarily out-play PersonY.
+----False
+----False. Squeezing does not necessarily indicate a desire to let go.
+----False. The statement does not make sense as it is written. It should read, "PersonX desires to be a good storyteller, thus PersonX describes..."
+----False. It is not plausible for a person to live their life on a wagon and want to drive it.
+----True. Belly up to the bar is an idiom that means to approach the bar in order to order a drink or food. Therefore, it is plausible that PersonX wants to order something.
+----False. Crossing a bridge does not necessarily mean that the person wants to go north. It could mean that the person wants to go in any direction, including south, east, or west.
+----False. Killing an innocent person does not necessarily mean that the perpetrator wants to be afraid.
+----False. It is not plausible to assume that someone who sticks with burgers wants to be vegetarian. It is possible that PersonX enjoys burgers and does not want to be vegetarian.
+----False. This statement does not make sense. PersonX cannot be in the ER if the doctor is out of town.
+----False. If PersonX completed the investigation, then PersonX would have proof.
+----True
+----False. If PersonX has encountered it, then PersonX would want to look for it.
+----False. It does not make sense for someone to want to be scared if they have just achieved a goal.
+----False. Feelings of horniness do not necessarily lead to a desire to act on those feelings.
+----False. Going to the galley does not necessarily mean that PersonX wants water. It could mean that PersonX wants food, or is looking for something else.
+----False. It is not plausible that someone would get their own eyebrows done in order to look good.
+----False. Walking does not necessarily mean that PersonX will want their feet to ache.
+----False. It is not plausible to assume that someone stepping forward necessarily means they want to see something.
+----False. It is not necessarily true that PersonY wants to go ahead just because PersonX is following them.
+----False. It is not plausible that PersonY wants to call 911 simply because PersonX called 911.
+----True. It is plausible that PersonY would want to like something that PersonX likes.
+----False. This statement does not make sense. PersonX cannot keep PersonZ for PersonY; PersonY would need to keep PersonZ for themselves.
+----False. PersonY cannot plead ignorance if PersonX has asked them a question.
+----False. This statement does not make sense because it implies that PersonY wants PersonY to scratch their own back, which is impossible.
+----False. It is not plausible to assume that PersonY wants to get something simply because PersonX got it.
+----False. It is not plausible that PersonY would want to be hungry just because PersonX has a snack.
+----False. The statement does not make sense.
+----True. PersonX asking PersonY implies that PersonY is interested in learning more about the matter.
+----False. The statement does not make sense because it does not provide enough information to determine whether PersonY wants to request duck for PersonX or for themselves.
+----False. This statement does not make sense because it implies that PersonY has some kind of control over PersonX, which is not plausible.
+----False. PersonX cannot be both the owner and the employee of the business.
+----False. This statement does not make sense because it does not explain why PersonY would want to see another blond girl in the alley.
+----False. PersonX cannot take an offer that PersonY has not granted.
+----False. PersonX could write, but that does not necessarily mean that PersonY wants to read what PersonX has written.
+----False. It is not plausible that PersonY wants to be unhappy simply because PersonX is weeping.
+----False. This statement does not make sense logically. Love does not necessarily lead to wanting to "face grow tender."
+----False. It is not plausible that PersonY would want to fire PersonX if PersonX fired PersonY.
+----False. It is not plausible that PersonY would want to be sorry for something PersonX did to PersonZ.
+----True. PersonX ringing the doorbell could plausibly lead to PersonY wanting to open the door.
+----False. This statement does not make sense.
+----False. This statement does not make sense logically. PersonX's ability does not necessarily mean that PersonY wants to be able to do the same thing.
+----True
+----True
+----True
+----False. Recoiling is a physical reaction, while being afraid is an emotional reaction. It is not plausible that one would lead to the other without any other intervening factors.
+----False. This statement is not plausible because it is a logical fallacy. It is a form of circular reasoning, which is when someone uses their own conclusion as evidence to support their argument.
+----False. Having a mental disability does not necessarily mean that a person is defective. Mental disabilities can range from mild to severe, and people with mental disabilities can still lead full and productive lives.
+----False. The statement does not make sense as it is written. It should be rephrased to say "PersonX went into a form, and as a result, PersonX stayed in the form."
+----False. This statement does not make sense because it is not possible for someone to get their own ass beat.
+----True
+----False. Flunking out of college does not necessarily mean that PersonX has failed. It is possible for PersonX to retake classes or pursue other educational opportunities in order to pass.
+----True
+----True
+----False. Having a weak stomach does not necessarily mean that a person needs to vomit. It could mean that the person is more prone to nausea, indigestion, or other digestive issues, but it does not necessarily mean that they need
+----True
+----False. This statement is not plausible because it is a contradiction. If PersonX kills anybody, then PersonX cannot not kill anybody.
+----False. Marrying someone does not automatically result in that person being honored.
+----False. Rubbing would not typically cause a person's fingers to become numb.
+----True
+----False. PersonX would not get a discount for buying their own ticket.
+----False. If PersonX gets gear, then they can get the gear.
+----False. Dislike does not necessarily lead to feeling. It is possible for PersonX to dislike something without feeling any emotion.
+----False. Cumming does not necessarily mean that a person must stop.
+----False. Working in healthcare does not necessarily mean that PersonX is a nurse. PersonX could work in healthcare in many other roles, such as a doctor, a medical assistant, a lab technician, or an administrator.
+----False. Drinking caffeine does not necessarily mean that a person will be in need of more caffeine.
+----True. PersonX has made a conscious choice, and as a result, they have made a decision.
+----True
+----False. It is possible that PersonX failed the test even if they studied, due to a variety of factors such as test anxiety, lack of understanding of the material, or simply not having enough time to prepare.
+----False. Waking up naturally does not necessarily mean that PersonX needs to wake up.
+----False. While it is possible for someone who is prone to depression to become depressed, it is not necessarily the result. There are many other factors that can contribute to depression, such as environmental stressors, genetics, and lifestyle choices.
+----True
+----True
+----True
+----False. PersonX could still catch the night train if they take a later train or a different mode of transportation.
+----True
+----True
+----True
+----False. It is possible for a person to be wealthy and still play the lottery.
+----False. PersonX's mother may or may not be Jewish depending on other factors, such as whether PersonX's father is Jewish.
+----False. PersonX may look something up, but that does not necessarily mean they will be interested in the result.
+----False. Avoiding someone does not necessarily mean that you are scared of them. It could mean that you simply don't want to interact with them for any number of reasons.
+----True
+----False. This statement does not take into account any other factors that could be influencing PersonX's feelings towards PersonY. It is possible that PersonX may have other reasons for hating PersonY, such as a past experience or a difference in
+----False. The statement is a tautology and does not make sense.
+----False. It is not plausible for someone to be enchanted and then want to enchant as a result.
+----False. Exploring can lead to passion, but it is not a guarantee.
+----False. Planting something does not necessarily lead to digging it up.
+----False. It is not plausible that PersonX would be tired as a result of coming back to the palace. It is possible that PersonX could be tired from the journey, but not necessarily from coming back to the palace.
+----True
+----True
+----False. Having a Y chromosome does not necessarily mean that a person has a certain trait or characteristic. It is possible for a person to have a Y chromosome and not have the trait or characteristic in question.
+----False. Hair remover is typically used to remove hair from a specific area, not to make someone bald.
+----False. The statement does not make sense because it is a double negative.
+----True
+----True
+----False. In order for PersonX to parachute, they would need to have jumped out of the plane before the parachute could be deployed. Therefore, it is not plausible for PersonX to parachute if they have already left the plane.
+----False. The statement implies that PersonX will have to stop in the future regardless of the circumstances, which is not necessarily true.
+----False. This statement does not make logical sense. PersonX going does not necessarily mean that PersonY should come.
+----False. It is not plausible that PersonY would be able to see PersonX's secret love without any other evidence or indication.
+----False. This statement does not make sense because it implies that PersonY is the master of PersonX, which is not possible.
+----False. It is not plausible that PersonY would wait as a result of PersonX spotting them.
+----False. This statement does not make sense as written. It is not clear what the relationship is between PersonX and PersonY, or how PersonX going would result in PersonY having a companion.
+----True. It is plausible that if PersonX is dearest to PersonY, then PersonY would love PersonX as a result.
+----False. PersonX making something does not necessarily mean that PersonY must make something as a result.
+----False. In order for PersonY to hold the horse, PersonX would need to give PersonY permission to do so.
+----False. This statement does not make sense because PersonY's decision to have or not have an abortion is not dependent on PersonX's decision.
+----False. PersonX remembering does not necessarily mean that PersonY will remember.
+----False. In order for PersonY to eat, PersonX would need to share the turkey stuffing with PersonY.
+----False. PersonX expiring does not necessarily mean that PersonY will die. It is possible that PersonY could survive the expiration of PersonX.
+----False. This statement does not make sense because it does not provide enough information to determine what PersonX told PersonZ and why it would result in PersonY tearing up.
+----False. Knowing oneself does not necessarily lead to another person feeling a certain way.
+----False. It is not plausible that PersonY would want to be PersonX's friend as a result of PersonX telling PersonY something.
+----False. PersonX cannot get PersonX tea, as PersonX cannot get something for themselves.
+----False. It is not plausible that PersonX can do something on a table that would result in PersonY not having a table.
+----False. PersonX talking does not necessarily result in PersonY talking more. It is possible that PersonY may talk more, but it is not necessarily a result of PersonX talking.
+----False. It is not plausible that PersonY would want something simply because PersonX insists. It is possible that PersonY may agree with PersonX's insistence, but it is not plausible that PersonY would want something simply because PersonX insists
+----False. Smiting someone does not necessarily result in fear. It could result in anger, confusion, or any other emotion.
+----False. Paying cash does not affect the ability of a credit card to work.
+----False. This statement does not make sense logically.
+----True
+----False. Eating a good portion of food would not typically result in feeling hungry.
+----True
+----True
+----False. Putting on a suit does not necessarily result in a change in emotion.
+----True. It is plausible that a cancer survivor would feel hopeful as a result of their experience.
+----True. A nervous breakdown can have a significant impact on a person's emotions, and it is plausible that they would need help in order to cope with the situation.
+----False. Eating fried chicken does not directly affect a person's emotions or taste.
+----False. Dancing may have an effect on a person's emotions, but it does not necessarily mean that the person must practice.
+----True
+----False. This statement does not make sense.
+----False. Running does not necessarily cause a person to feel slow.
+----False. The statement does not make sense.
+----True
+----False. This statement does not make sense.
+----False. This statement does not make sense because it is not grammatically correct.
+----False. Overclocking is a technical process that involves increasing the speed of a computer processor beyond the manufacturer's specifications. It does not directly affect a person's emotions.
+----True
+----False. It is not plausible that a person would feel savage as a result of imprisoning another person. It is more likely that they would feel guilt, remorse, or regret.
+----False. PersonX cannot hear their own emotion.
+----False. It is not plausible that a person would feel they have been sacked if they have resigned.
+----True
+----False. Disapproval does not necessarily lead to feeling sorry.
+----True. PersonX's earnest prayer can lead to an emotional response, which in turn can lead to hope.
+----False. This statement does not make sense.
+----False. Going back to school would not necessarily lead to dropping out of school.
+----False. PersonX could not fly, thus as a result on PersonX's emotion, PersonX would not have wings.
+----False. The statement does not make sense as it is written.
+----False. Sleeping through the day would not necessarily result in PersonX waking up in a different emotional state.
+----False. It is not plausible that a person's death would cause their ventilator to fail.
+----False. It is not plausible for a person to feel like they are a book.
+----False. This statement does not make sense because it is not possible to feel that you are not home yet when you are already home.
+----False. It is not plausible that a person would feel warm as a result of laying a fire.
+----False. It is not plausible to assume that a person's emotion is the cause of them disconnecting from an online platform. There could be many other reasons for a person to disconnect, such as a lack of interest in the platform, a
+----False. PersonX may have been able to get far despite hitching, depending on the circumstances.
+----False. This statement does not make sense because it is not clear what PersonX is inquiring about and how the inquiry would lead to PersonX learning something about their own emotions.
+----False. Falling back on a bed would not necessarily cause someone to feel dizzy.
+----True
+----False. PersonY cannot feel cold as a result of PersonX sharing their blanket, since PersonY has not been physically exposed to the cold.
+----True
+----False. PersonY's emotion may not necessarily be affected by PersonX's decision to stay. PersonY may still choose to stay or leave regardless of PersonX's decision.
+----False. PersonY's emotions are not necessarily affected by PersonX's decision to start a trip. PersonY may feel a variety of emotions, such as excitement, envy, or indifference, depending on their relationship with PersonX and their own
+----False. This statement does not make sense because it does not provide enough information to determine whether PersonY's emotion is affected by PersonX getting their supper.
+----False. PersonX thinking of family does not necessarily cause PersonY to think of family.
+----False. This statement does not make sense because it does not provide enough information to draw a conclusion.
+----False. It is not plausible that one person can break another person's spirit at any age. Emotions are complex and can be affected by many different factors, but it is not plausible that one person can have such a profound effect on another
+----False. PersonY's emotion cannot be determined based on the information given.
+----False. This statement does not make sense because it does not explain how PersonX's action of letting PersonZ wake up would affect PersonY's emotion.
+----False. This statement does not make sense because it does not provide enough information to determine whether PersonY's emotion changed as a result of PersonX hearing the shot.
+----False. PersonX and PersonY may need each other, but PersonZ is not necessarily involved in the equation.
+----False. This statement does not make sense because it does not provide enough information to draw a conclusion.
+----False. PersonY's emotion cannot be determined by PersonX pm'ing them.
+----False. PersonY's emotion would not be affected by PersonX's height.
+----False. PersonY cannot feel as if they are being diagnosed if PersonX is the one being diagnosed.
+----False. This statement does not make sense because it does not explain how PersonX's reading of PersonZ's comment caused PersonY to feel sarcastic.
+----False. Holding someone does not necessarily cause them to become breathless.
+----False. Understanding someone else's sympathy does not necessarily mean that the person is sympathetic to other people.
+----False. Just because PersonX likes golf does not necessarily mean that PersonX plays golf.
+----False. The statement implies that a person's physical appearance is a direct reflection of their character, which is not necessarily true.
+----False. This statement does not provide enough information to conclude that PersonX is sensible.
+----False. The statement does not provide enough evidence to draw a conclusion about PersonX's attribute.
+----False. If PersonX got a good night's sleep, it would be more accurate to say that PersonX woke up feeling rested.
+----False. The statement does not make sense.
+----False. Twisting one's lip can be a sign of frustration, but it can also be a sign of other emotions or even a nervous habit. Without more information, it is not possible to accurately determine PersonX's attribute.
+----False. This statement does not provide enough information to draw a conclusion about PersonX's attribute.
+----False. It is not plausible to make a conclusion about a person's attribute based on a single event.
+----False. Denying something does not necessarily mean that a person is being disingenuous. It could simply mean that the person does not agree with the statement or does not believe it to be true.
+----True
+----False. Missing curfew does not necessarily mean that PersonX is sorry. It could mean that PersonX is irresponsible or careless, but not necessarily sorry.
+----True
+----True
+----False. Just because PersonX loves green tea does not necessarily mean that PersonX is used to flavor. It could mean that PersonX simply enjoys the taste of green tea.
+----True
+----False. Graduating in 2007 does not necessarily mean that PersonX is glad.
+----False. This statement does not provide enough information to draw a conclusion about PersonX's attributes.
+----False. Flashing a boob does not necessarily mean that PersonX is pretty.
+----False. Wearing a black bonnet does not necessarily mean that PersonX is dressed in black. It could be that PersonX is wearing a black bonnet with a different colored outfit.
+----True
+----False. Breaking into laughter does not necessarily indicate that the person is a laugher. It could be a reaction to something funny or a sign of surprise.
+----False. This statement does not logically follow. Just because someone loves a place does not necessarily mean they are glad.
+----False. It is not possible to make a conclusion about a person's attributes based on the angle they get.
+----False. Having a uterus does not necessarily mean that PersonX is a female. People who are intersex or transgender may have a uterus but not identify as female.
+----False. This statement does not provide enough information to determine whether PersonX is right or not.
+----False. Going "scot free" does not necessarily mean that PersonX is innocent. It could mean that PersonX was not convicted or punished for a crime, but it does not necessarily mean that PersonX is innocent.
+----False. Making mistakes does not necessarily mean that a person is sorry. It is possible that a person may make mistakes and not feel sorry for them.
+----False. Just because PersonX's husband enjoys PersonY's cocktail does not necessarily mean that PersonX enjoys it as well.
+----False. Comforting someone does not necessarily mean that the person is good. It could mean that the person is kind, understanding, or sympathetic, but it does not necessarily mean that the person is good.
+----False. Going into a forest does not necessarily mean that PersonX must be careful. It could mean that PersonX is adventurous or curious, or that PersonX is looking for something specific.
+----False. This statement does not provide enough information to make a conclusion about PersonX's attribute.
+----True
+----False. Applying for a scholarship does not necessarily mean that PersonX has been accepted to college. It is possible that PersonX has applied for a scholarship but has not yet been accepted to college.
+----False. Heel striking the ground does not necessarily mean that PersonX is staggering. It could simply mean that PersonX is walking with a heel-first gait.
+----False. This statement does not make sense. PersonX's beauty cannot fill PersonY's heart with love, nor can it be seen as an attribute of PersonX.
+----False. Jazz is a type of music, not a type of dance. Therefore, it cannot be inferred that PersonX dances just because PersonX does jazz.
+----False. Just because a person has never been convicted of anything does not necessarily mean they are innocent. It is possible that they have never been caught or charged with a crime.
+----False. This statement does not provide enough information to draw a conclusion about PersonX's attribute.
+----False. The statement is not plausible because it is a circular argument. PersonX's attribute cannot be determined by the fact that PersonX is in charge; additional evidence is needed to determine PersonX's attribute.
+----False. Living a long life does not necessarily mean that PersonX will die.
+----False. Looking up at the sky does not provide any information about a person's attributes.
+----False. This statement does not provide enough evidence to conclude that PersonX is appreciated.
+----False. Hearing a noise does not necessarily mean that PersonX is awake. It could be that PersonX is dreaming and hearing a noise in their dream.
+----False. Turning 19 does not necessarily mean that a person is mature. Maturity is a subjective concept and can depend on a variety of factors, such as life experiences, education, and personal growth.
+----False. Failing a drug test does not necessarily mean that PersonX is not clean. It could mean that PersonX has recently taken a drug, or that the test was inaccurate.
+----False. The sentence is not grammatically correct.
+----False. This statement does not make sense. It is not possible to infer any attribute of PersonX from the fact that they have made a selection.
+----False. Having a big brain does not necessarily mean that a person is very clever. Intelligence is determined by a variety of factors, including genetics, environment, and education.
+----False. This statement does not provide enough information to draw a conclusion about PersonX's attribute.
+----False. Not making a move does not necessarily mean that PersonX is shy. It could mean that PersonX is simply not interested in the situation or is waiting for someone else to make the first move.
+----False. Kissing someone's forehead does not necessarily indicate that the person holds them in high regard. It could simply be an expression of affection or a sign of comfort.
+----False
+----True
+----False. This statement does not provide enough information to make a conclusion about PersonX's attribute.
+----False. The statement does not provide enough information to make a conclusion about PersonX's attribute.
+----False. It is not necessarily true that PersonX is staggering just because they stepped down from a bridge. It could be that PersonX was simply walking across the bridge and decided to step down for any number of reasons.
+----False. This statement does not make sense.
+----False. Mourn is an action, not an attribute. Therefore, it cannot be seen about PersonX's attribute that PersonX be bereaved.
+----True
+----False. Drinking does not necessarily indicate an intention to be filled.
+----False. The statement does not provide enough information to make a conclusion about PersonX's intention.
+----True
+----False. Eating corn tortillas may make PersonX happy, but it does not necessarily mean that PersonX's intention is to be happy.
+----False. Just because someone is fat does not necessarily mean that they hate being fat. There could be many other reasons why someone is overweight, such as a medical condition, a lack of access to healthy food, or a lack of motivation to
+----False. The statement does not provide enough information to determine PersonX's intention.
+----False. Adding air to a tire does not necessarily indicate that the person wants the tire pressure to be low. It could mean that the person wants the tire pressure to be higher, or that the person is simply checking the tire pressure.
+----False. The statement does not provide enough information to make a conclusion about PersonX's intention or ability.
+----False. The statement does not provide enough evidence to conclude that PersonX has the intention to be a terrible cook.
+----False. The statement does not provide enough information to draw a conclusion about PersonX's intention.
+----False. This statement does not provide enough information to make a conclusion about PersonX's intention.
+----False. Wrecking a ball does not necessarily indicate an intention to be a ball.
+----True
+----False. Reaching the age of 90 does not necessarily mean that PersonX intends to retire. It is possible that PersonX may still be working or have other plans for their future.
+----False. PersonX cannot ask themselves a question, so it cannot be seen what their intention was in formulating the perfect question.
+----False. This statement does not logically follow. Getting to an appointment early does not necessarily indicate that the person wants to be stylish.
+----False. The statement does not logically follow. Just because PersonX can fly free does not necessarily mean that PersonX has the intention to fly.
+----False. Getting a job does not necessarily mean that PersonX was fired from a previous job.
+----False. The statement is not plausible because it is impossible to determine someone's intention based solely on the fact that they have no hair.
+----False. This statement does not provide enough information to make a conclusion about PersonX's intention.
+----False. Getting a puncture does not necessarily indicate that PersonX was not careful. It could be due to a variety of factors, such as a sharp object in the road, a manufacturing defect in the tire, or even bad luck.
+----False. The statement does not make sense grammatically.
+----True
+----False. PersonX does not need to be a problem solver in order for the event to happen. They just need to bring a solution for the problem.
+----False. PersonX does not need to be curious in order for the event to happen. They just need to ask a straightforward question.
+----False. Eating does not require gulping.
+----False. The statement implies that PersonX must mean spicy in order for the event to happen, but this is not necessarily the case. The event could still happen even if PersonX does not mean spicy.
+----False. PersonX must be selected for the championship in order for the event to happen.
+----False. PersonX does not need to be close in order for the event to happen.
+----True. PersonX cannot feed their cat unless they take out the litter box first.
+----False. PersonX hurting your feelings can happen regardless of whether or not they apologize.
+----False. Worrying does not necessarily cause an event to happen.
+----False. The statement implies that PersonX must take pain in order for the event to happen, which is not necessarily true.
+----False. It is not plausible that someone would scarf down food unless they are famished.
+----False. The statement implies that PersonX must question both sides in order for the event to happen, which is not necessarily true.
+----False. The statement does not make sense.
+----False. PersonX apologizing does not guarantee that the event will not happen. It is possible that PersonX could apologize and still spoil PersonY's wedding plans.
+----False. The statement does not make sense because it is a double negative.
+----False. PersonX may read the novel even if they do not love it.
+----False. PersonX may work in a hospital without wearing scrubs, depending on the type of job they are doing.
+----False. PersonX does not need to have a question for their partner in order for the event to happen.
+----False. PersonX can comprehend an event without being aware of it.
+----False. The statement implies that PersonX has the power to make the event happen, which is not plausible.
+----False. PersonX can roll over without falling on their ass.
+----False. PersonX may have the flu even if they do not lay down on bed.
+----False. The event PersonX click accept will happen regardless of whether PersonX accepts or not.
+----False. PersonX hurting PersonY does not require PersonX to be sorry in order for the event to happen.
+----True. PersonX will not leave the room unless they shut the window.
+----False. The statement does not make sense.
+----False. The statement implies that PersonX must love spaghetti in order for the event to happen, but this is not necessarily true. The event could still happen even if PersonX does not love spaghetti.
+----False. PersonX having curly hair is not dependent on any action taken by PersonX. It is determined by genetics.
+----True
+----False. PersonX does not need to be thrilled in order for the event to happen.
+----False. PersonX may need to get counselling in order to deal with the problem, even if they do not want to.
+----False. This statement does not make sense because it implies that PersonX can only date PersonY if PersonX has never dated anyone before, which is not necessarily true.
+----False. The statement implies that PersonX must already be a gentleman in order for the event to happen, which is not necessarily true.
+----False. PersonX cannot be revived if they have already died, so the statement is not plausible.
+----False. PersonX does not need to be nervous for the event to happen.
+----False. Digging does not require burying.
+----True. PersonX has the potential to have strength, but it will not manifest unless PersonX chooses to exert it.
+----False. It is not plausible that the receptionist would tell PersonY something based solely on what PersonX told them.
+----False. An erection does not necessarily mean that a person has to jerk off. It is possible for a person to have an erection without engaging in any sexual activity.
+----False. It is not necessarily true that because PersonX makes the best decision, it will be the best option. There may be other factors to consider, such as the cost, the timeline, the resources available, and the potential risks.
+----False. PersonX may feel anxious because of the video, but it does not necessarily mean that they are afraid.
+----False. The class does not get up just because the bell rings; they get up because they have been instructed to do so.
+----Step 1: PersonX put PersonY in prison.--True----Step 2: PersonY wants revenge.--True----Conclusion: True
+----False. It is not necessarily true that PersonY is sick just because PersonX is sick. It is possible that PersonY is not sick, even if PersonX is.
+----False. It is not necessarily true that because someone tries a new place, they will enjoy trying new places. It is possible that they may not enjoy the experience.
+----False. PersonY may still have other choices even if PersonX dies.
+----False. This statement does not make sense because it implies that PersonX's leaving is the cause of PersonY staying, which is not necessarily true.
+----Step 1: Is PersonX a qualified teacher?--Step 2: Does PersonY have the capacity to learn?--Step 3: Does PersonX have the ability to teach effectively?----Conclusion: False
+----True. If it is a costume party, PersonX would have to wear a costume.
+----False. It is not necessarily true that PersonY wants to continue the relationship just because PersonX asked them. PersonY may have other reasons for wanting to continue the relationship, or they may not want to continue the relationship at all.
+----False. This statement does not make sense grammatically.
+----False. It is not plausible to assume that PersonY is nervous simply because PersonX is a coward by nature. It is possible that PersonY is nervous for other reasons, or that PersonX's cowardice has nothing to do with Person
+----False. Double cleansing is a skincare routine that involves using two different cleansers, one after the other, to thoroughly cleanse the skin. Showering alone does not constitute double cleansing.
+----False. This statement does not make sense.
+----False. This statement does not make sense grammatically. The correct way to phrase it would be "After PeopleX enjoy, they are happy."
+----False. It is not plausible that after PersonX takes PersonY's insurance, PersonY would not take PersonX's insurance. It is possible that PersonY may still take PersonX's insurance, depending on the circumstances.
+----False. The correct phrase is "After PersonX asked, PersonY inquired."
+----Step 1: Is it possible for PersonX to cry harder?--Yes, it is possible for PersonX to cry harder.----Step 2: Is it possible for PersonY to cry?--Yes, it is possible for Person
+----False. This statement does not make sense. It should be "After PersonX looked closely, PersonY saw."
+----False. After PeopleX assist PersonY, PersonY may not need help.
+----False. It is not plausible that no one would call after PersonX.
+----False. It is not plausible that there would be a long line after PersonX makes a reservation, as a reservation typically means that the person has already secured their place in line.
+----False. It is not plausible for PersonY to coordinate before PersonX arrives.
+----False. PersonX needs to be salaried before they can do the work.
+----False. This statement does not make sense grammatically.
+----False. It is not necessary for PersonY to fail before PersonX can fail.
+----False. This statement does not make sense grammatically.
+----False. It does not make sense for PersonY to suggest eating before PersonX brings their own food.
+----False. This statement does not make sense grammatically.
+----False. This statement does not make sense grammatically.
+----False. This statement does not make sense because it implies that PersonY surprised PersonX before PersonX was surprised.
+----False. This statement does not make sense.
+----False. Before PersonX made music, people could not listen to it.
+----True. It is plausible that PersonX would be afraid before something terrible happens.
+----False. The statement does not make sense because the show cannot be "cute".
+----False. PersonX feeling pain does not necessarily mean that the event will not physically hurt them. Pain is a subjective experience and can be caused by a variety of factors, including physical injury.
+----False. The statement implies that PersonY's listening to PersonX is a prerequisite for PersonX taking their own concern seriously. However, PersonX taking their own concern seriously is an internal process that is not necessarily dependent on PersonY's actions
+----False. The statement does not make sense because a person's happiness does not necessarily determine whether or not they will watch the finale.
+----False. This statement does not make sense because it is a circular statement. PersonX cannot find Don if Don has already found PersonX.
+----False. It is not plausible to assume that a person's poverty will not happen if they are unfortunate. Poverty can be caused by a variety of factors, including bad luck, and it is not possible to guarantee that a person will not experience
+----False. The statement does not make sense because it implies that PersonY has the power to control whether or not PersonX's event will happen.
+----False. PersonX will still have to fart regardless of whether the event is held or not.
+----False. The statement does not make sense.
+----False. PersonX can learn something new even if they relearn something.
+----False. The statement does not make sense as it is written.
+----False. The statement does not make sense because it is not logically possible for two people to be the "light of the world" at the same time.
+----False. PersonY could still enjoy PersonX's softness even if PersonX does not lay them on the couch.
+----False. If PeopleY have surprise, then the event PeopleX have surprise PeopleY could still happen.
+----False. The statement does not make sense.
+----False. If PersonX does not know anything, then the event may still happen.
+----False. PersonX may still call customer care even if they wait.
+----False. PersonX may still learn parisian french in school even if they are already fairly bilingual.
+----False. The statement does not make sense as written.
+----False. PersonX comprehending and PersonY understanding well are two separate events, and one does not necessarily affect the other.
+----False. The statement does not make sense because feeling pleasure is an event that will happen if PersonX feels something.
+----False. The statement is not grammatically correct and does not make sense.
+----False. It is not plausible to assume that an event will not happen simply because a different person is planning it.
+----False. This statement does not make sense.
+----False. It is possible for PersonX to stand outside even if it is too cold.
+----False. Even if there is no escape, PersonX may still choose to run away.
+----False. The event PersonX foresees may still happen even if PersonX does not foresee it.
+----False. A person can be sick without being diagnosed with a disease.
+----False. The statement implies that if PeopleX is the problem, then PersonX will not blame PeopleX. This is not necessarily true; PersonX may still blame PeopleX even if PeopleX is the problem.
+----False. The statement does not make sense as written.
+----False. The statement does not make sense. PersonX cannot be both among friends and be a friend at the same time.
+----False. PersonX may still hang around Evan much even if they need to get out more.
+----False. If PersonX resigns, their term will still expire, regardless of whether they are still in the position or not.
+----False. This statement does not make sense because it is not clear what "this" is referring to.
+----False. PersonX may own a company even if they do not have any investments. They could use other sources of funding, such as loans or grants, to start their business.
+----False. The event PersonX knowing the lyric can still happen even if PersonX does not know the lyric.
+----False. The statement does not make sense because it is a double negative. PersonX will be capable if they have the capability.
+----False. The statement does not make sense because it implies that PersonX can control the event by feeling bad or not.
+----False. It is possible for PersonX to make a profit even if they make a loss.
+----False. PersonX being unhappy does not guarantee that the event will not ruin the evening.
+----False. It is not plausible to assume that if the machine makes a mistake, PersonX will not make a mistake.
+----False. Even if PersonX is hopelessly addicted to drugs, the event of PersonX using drugs is still plausible.
+----False. If PersonX really wants to buy the item, they may still buy it even if it is more expensive.
+----False. It is not plausible that the event PersonX knows will not happen if PersonY needs to know, because PersonY's need to know does not necessarily mean that the event will not happen.
+----False. The statement implies that PersonX will not offer PeopleX a free drink if PeopleX is happy with water, but it does not take into account other factors that could influence PersonX's decision, such as whether PersonX has the
+----False. The statement does not make sense.
+----False. It is possible for PersonX to beat the boss even if they are result-oriented. It depends on the skills and abilities of PersonX, the difficulty of the boss, and other factors.
+----False. The statement implies that PersonY has the power to determine whether or not PersonX's split will happen, which is not necessarily true.
+----False. It is possible for PersonX to be biased and still dislike the album.
+----False. This statement is not plausible because it implies that PersonX and PersonY are both refusing to forgive each other, which is not a necessary condition for the event to not happen.
+----False. If PersonX is already a PersonY supporter, then the event of PersonX calling PersonY a supporter will still happen.
+----False. Idolizing someone does not necessarily include being jealous of them.
+----False. Drooping one's head does not necessarily mean that their face is expressionless.
+----True. Crying is a form of wailing, so the statement is plausible.
+----False. The statement does not make sense as it is written.
+----True. It is plausible that PersonX being very nice could put PersonY at ease.
+----False. The statement does not include an event or action, only a description of the event.

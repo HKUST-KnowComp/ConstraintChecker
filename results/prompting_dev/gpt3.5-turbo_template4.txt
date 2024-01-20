@@ -1,0 +1,102 @@
+False (not all ejaculations lead to orgasm and not all orgasms are desired)
+True
+False (working tirelessly does not necessarily mean wanting to die)
+False (there is no clear connection between setting off and wanting to leave)
+True (enlisting is often associated with a desire to serve one's country)
+False (there is no clear connection between falling into a pool and wanting to be enrolled in school)
+False
+False
+False
+False (it doesn't make sense)
+True
+False (it doesn't make sense)
+True
+False
+True
+False (unclear what is meant by "loan succeed" and "want to prefer")
+False (unclear what is meant by "PersonX look at PersonY" and "want PersonY wasn t look")
+False (unclear what is meant by "be not use PersonX ability" and "want to mean")
+True
+False
+True
+True (food poisoning can cause vomiting)
+True (earning more money can lead to job satisfaction and desire to stay)
+True (feeling sick may prompt a person to take medicine)
+True
+False
+True
+True (assuming the statement is incomplete and should read "PersonX could not be left alone")
+False
+True
+True
+False
+False
+True
+True
+True
+True for the first statement.
+True for the second statement.
+True for the third statement.
+True for the first statement.
+True for the second statement.
+False for the third statement.
+False
+False
+False
+True (PersonY may feel grateful or appreciative)
+True (PersonY may feel embarrassed or flattered)
+True (PersonY may feel entertained or amused)
+False
+False
+False
+True (assuming "well pay" means well-paid)
+False
+True (assuming "be work" means hardworking)
+True (PersonX is convinced)
+False (there is no clear connection between having nothing else and seeing PersonY)
+True (PersonX is startled)
+True (assuming "miss" means "fail to achieve a goal")
+True
+True
+False (belief does not necessarily indicate intention)
+True
+Incomplete statement, cannot determine True or False.
+True
+False
+False
+False (it is unclear what "make PeopleX" means)
+True
+False (it is inappropriate to assume intolerance as a requirement for an event to occur)
+True
+True
+True
+True (since getting sick usually requires breathing)
+False (the second part of the sentence does not logically follow from the first)
+False (the sentence is grammatically incorrect and does not make sense)
+False
+True
+False
+True
+True
+True
+False
+False
+False
+False
+False
+True
+True
+False
+False
+False (unclear)
+False (unclear)
+False (unclear)
+False (unclear what "up" means)
+True
+False (unclear what "actually something" refers to)
+False (the statement is saying that if PersonX has little experience, they will not get the job, which is likely to occur)
+False (the statement is saying that if PersonX deserves to be deep, it will not happen, which does not make sense)
+False (the statement is saying that if PersonY grows pale, PersonX will not look pale, which does not make sense)
+False (it is possible for PersonX to still see an opening even if they have to be careful)
+False (if something is desirable, it is more likely to happen)
+True (if some people see something, then it is included in the event of PersonX seeing it)

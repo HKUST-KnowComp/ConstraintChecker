@@ -1,0 +1,1000 @@
+False
+True
+Blank statement
+False
+True
+True
+False
+True
+The statement
+False
+True
+False
+False
+True
+False
+Cannot determine
+True
+True
+Blank statement
+True
+True
+True
+True
+False
+True
+False
+True
+True
+Incomplete statement
+True
+False
+True
+True
+True
+False
+False (
+True
+False
+True
+True
+False
+False
+Incomplete statement
+True
+True
+True
+True
+True
+True
+True
+False
+False
+False
+False
+False
+True
+True
+Incomplete statement
+True
+False (
+False
+False
+True
+True
+True
+True
+False
+True
+True
+False
+True
+False
+False (
+False
+False
+False
+False
+False
+True
+True
+True
+False
+True
+True
+True
+True
+True
+True
+False
+Cannot answer
+True
+True
+True
+False
+False
+False
+False
+True
+False
+False (
+True
+False
+True
+False (
+False
+Incomplete statement
+False
+False
+True
+False
+True
+False
+False
+True
+False
+False
+False
+True
+False
+False
+False
+False (
+False
+True
+False
+True
+False
+True
+True
+False
+True
+False
+True
+True
+False
+True
+False
+False
+True
+False
+False (
+False
+False (
+True
+Cannot determine
+False (
+True
+True
+True
+False (
+False
+True
+False
+False
+False (
+True
+True
+False (
+True
+False
+Incomplete statement
+Incomplete statement
+False
+False
+False
+False
+False (
+True
+False
+False
+True
+True
+True
+False
+False
+False
+True
+True
+False
+True (
+True
+False
+True
+True
+Incomplete statement
+False
+False (
+False
+True
+True
+True
+False
+False (
+True
+False
+False (
+False (
+False (
+Cannot answer
+True
+False
+False
+True
+True
+False
+True
+False
+False
+Incomplete statement
+False
+True
+False
+True
+True
+False
+False (
+True
+True
+False
+False
+False
+False
+False
+True
+True
+False
+False
+False
+True
+True
+True
+False
+True
+False
+False
+False
+True
+False
+True
+False (
+False
+True
+False
+True
+False
+True
+False
+False
+False (
+True
+True
+True
+False
+True
+False
+True
+True
+False (
+False
+True
+True
+True
+True
+Incomplete.
+False
+False
+True
+False (
+True
+True
+True
+True
+False
+True
+True
+True
+True
+False
+True
+True
+True
+False
+True
+True
+True
+False (
+True
+True
+Incomplete statement
+False
+False
+True
+False
+True
+False
+False
+False
+False
+True
+True
+False
+True
+False
+False
+True
+True
+True
+True
+True
+The statement
+True
+False
+False
+True
+True
+True
+True
+True
+False
+False
+True
+False
+False (
+True
+True
+False
+False
+True
+True
+True
+True
+False
+True
+True
+True
+True
+True
+Cannot answer
+Cannot answer
+True
+False
+Incomplete statement
+True
+False (
+True
+True
+True
+False
+True
+Incomplete statement
+False
+False
+True
+True
+False
+Incomplete statement
+False
+False
+False
+False
+False
+False
+False
+False
+True
+Incomplete statement
+True
+False
+True
+True
+True
+True
+False
+True
+True
+False
+False (
+False
+False
+True
+True
+False
+True
+True
+True
+True
+Incomplete (
+True
+True
+False
+False
+True
+False
+False
+False (
+True
+False
+False
+Cannot answer
+True
+False
+True
+True
+True
+True
+False
+False
+False
+False
+True
+False
+True
+True
+True
+True
+True
+False (
+True
+True
+False
+True
+True
+False
+False
+False
+False
+Incomplete statement
+False
+False
+True
+Incomplete statement
+True
+True
+False
+True
+True
+False
+False
+True
+False
+True
+True
+False
+True
+True
+True
+True
+True
+False
+True
+True
+False
+True
+True
+False
+True
+False
+True
+True
+False (
+False (
+True
+False
+True
+False (
+False
+True
+True
+False
+False
+True
+True
+True
+True
+True
+False
+True
+False (
+True
+False
+False (
+True
+True
+False
+Cannot answer
+False
+True
+False (
+False
+Incomplete statement
+True
+Cannot answer
+True
+True
+False
+True
+False (
+False
+False
+False
+True
+True
+False
+False
+True
+True
+True
+True
+True
+False
+True
+True
+Cannot answer
+False
+True
+True
+Incomplete statement
+False (
+True
+False
+False
+True
+False
+True
+False
+True
+False
+False
+Cannot answer
+False
+True
+True
+False
+False
+True
+True
+True
+False
+False
+False
+False
+True
+False
+False
+False
+False
+False
+True
+True
+False
+False
+True
+Cannot answer
+True
+False
+True
+False
+True
+False
+True
+True
+True
+True
+False
+False
+False
+True
+False
+False (
+True
+False
+True
+True
+False
+False
+The statement
+True
+True
+Incomplete statement
+True
+True
+False
+False
+True
+False (
+False
+False
+True
+True
+False
+Cannot answer
+True
+False
+False
+False
+True
+True
+True
+True
+False (
+False
+True
+True
+True
+True
+True
+True
+False
+False
+False
+False
+True
+True
+True
+False
+False
+False
+True
+False
+False (
+False
+True
+False
+False
+False
+True
+True
+True
+True
+False
+False
+True
+False
+False
+True
+True
+True
+False
+True
+False
+True
+True
+True
+False
+False (
+True
+False
+False
+True
+True
+False
+False
+Incomplete statement
+False
+False (
+True
+True
+True
+True
+True
+False
+True
+True
+True
+True
+False
+True
+True
+False
+False
+False
+False
+True
+False
+False
+False (
+False
+True
+False
+True
+False
+False
+False
+True
+True
+True
+Blank statement
+False
+True
+False
+True
+True
+True
+True
+True
+False
+True
+True
+False
+True
+True
+False
+True
+False
+True
+True
+False
+False
+False
+False
+False
+True
+True
+False
+False
+True
+False
+True
+Incomplete statement
+True
+False
+False
+True
+False
+True
+Incomplete statement
+False
+True
+False
+False
+True
+True
+False
+True
+True
+True
+False
+False
+True
+True
+True
+Cannot answer
+False
+False
+True
+False
+False (
+False
+False
+False
+False
+True
+True
+True
+True
+True (
+False
+True
+False (
+False
+False
+True
+True
+False
+True
+False
+False
+False
+False
+True
+False
+True
+False
+Cannot answer
+False
+False
+False (
+False (
+True
+False
+True
+False (
+True
+False
+True
+True
+False
+False
+True
+False
+False
+False
+False
+True
+False (
+True
+False (
+True
+True
+True
+True
+True
+True
+False
+False
+False
+False
+True
+True
+Cannot answer
+False
+False
+False
+True
+True
+False
+False
+True
+True
+True
+True
+True
+False
+False
+False
+True
+False
+False
+True
+False (
+True
+True
+False
+True
+False
+True
+True
+Cannot answer
+False
+False
+Incomplete statement
+False
+False (
+True
+False
+True
+True
+True
+False
+True
+True
+True
+True
+False
+True
+False
+False
+True
+True
+False
+False
+False
+Incomplete statement
+True
+False
+False
+False
+True
+False (
+False
+False
+True
+True
+False
+True
+False
+False (
+False
+True
+False
+True
+False
+False
+False
+True
+False
+True
+Incomplete/
+False
+False
+True
+True
+True
+False
+True
+False
+False
+False
+True
+True
+False (
+False (
+True
+False
+True
+True
+False
+True
+True
+False
+False
+False (
+True
+False
+True
+True
+False
+True
+Incomplete statement
+False
+False
+False
+False (
+False
+True
+False
+True
+True
+True
+True
+False
+True
+True
+True
+False (
+True
+True
+True
+True
+False
+False (
+True
+False
+False
+False
+True
+True
+True
+False
+True
+False
+True
+False
+Incomplete statement
+True
+False
+True
+False (
+Incomplete statement
+Incomplete statement
+True
+True
+True
+False
+Cannot answer
+True
+True
+True
+True
+True
+True
+False (
+True
+False
+True
+False (
+True
+True
+False
+False
+False
+False (
+True
+True
+False
+True
+True
+True
+Incomplete statement
+True
+False
+False
+False
+True
+True
+False (
+False (
+False
+False
+True

@@ -1,0 +1,102 @@
+True. Because ejaculation is a physical event that often leads to orgasm, and it is reasonable to assume that someone who ejaculates wants to experience orgasm.
+True. Because going to the fridge is often associated with getting something to eat or drink, and wanting to get a glass of wine is a common desire.
+False. Because result of 3 is No.
+True. Because 'set off' implies a deliberate action to leave.
+True. Because enlisting in the military is often associated with a desire to serve and protect one's country.
+False. Because there is no clear connection between falling into a pool and enrolling in school.
+True. Because it is a common practice to put down toilet paper in the toilet before defecating to avoid any mess.
+False. Because 'want to be paranoid' does not make sense and is not a likely result of 'PersonX come'.
+False. Because result of 3 is No.
+False. Because 'could not pay it back' expresses inability rather than desire.
+True. Because withdrawing money is usually done to pay for something, and paying bills is a common reason for withdrawing money.
+False. Because having a cavity does not necessarily mean that PersonX wants to have a toothache.
+False. Because the inference is not logically sound. Just because PersonX wired PersonY does not necessarily mean that PersonX wants to get a telegram.
+False. Because the inference does not provide any reason or motivation for PersonY to want to escape.
+True. Because working from home is becoming more common and desirable, and it is reasonable for someone to want to also work remotely.
+False. Because result of 3 is No.
+False. Because result of 2 is No.
+False. Because 'PersonY mean' is unclear about what PersonY means.
+False. Because result of 3 is No.
+True. Because collapsing in courthouse may indicate a health issue, and rejection of transplant liver is a possible consequence of health issues.
+True. Because being paranoid can lead to nervousness.
+True. Because having food poisoning can cause vomiting as a common symptom.
+True. Because earning more money can lead to a desire to stay in the current job or position.
+True. Because feeling sick is a common reason for taking medicine.
+False. Because result of 3 is No.
+True. Because seeing a dead body may cause a person to feel shocked or numb, which can result in not crying.
+True. Because filling up usually means refueling the gas tank, which leads to the need for gas.
+False. Because result of 3 is No.
+False. Because result of 3 is No.
+True. Because joining often requires filling out paperwork as a necessary step.
+True. Because getting in shape implies that PersonX has put in effort and dedication towards fitness, which may inspire others to bet on their success.
+True. Because if PersonX caused PersonZ's death, then it is likely that PersonY did not actually cause harm.
+False. Because the statement does not provide any logical connection between PersonX stealing PersonZ's boyfriend and PersonY getting a boyfriend.
+False. Because result of 2 is No.
+False. Because result of 2 is No.
+False. Because result of 2 is No.
+False. Because result of 2 is No.
+False. Because result of 2 is No.
+False. Because result of 2 is No.
+False. Because result of 3 is No.
+False. Because result of 2 is No.
+False. Because result of 2 is No.
+False. Because result of 2 is No.
+False. Because result of 2 is No.
+False. Because result of 2 is No.
+False. Because result of either 2 or 3 is No.
+False. Because result of 2 is No.
+False. Because result of either 2 or 3 is No.
+False. Because being a babysitter is not a relevant attribute that can be inferred from the death of a baby brother.
+True. Because walking someone through a process implies that PersonX has expertise and knowledge in the field, which is a characteristic of a professional.
+False. Because result of 3 is No.
+False. Because result of 2 is No.
+False. Because the statement does not provide enough information to infer that PersonX has a tendency to fall or that falling is a characteristic of their personality.
+False. Because 'be work' is not a relevant attribute to infer from starting a job.
+True. Because "PersonX readily believe so" implies that PersonX is easily convinced, and "PersonX be convinced" expresses PersonX's mental state of being convinced.
+False. Because there is no clear connection between having nothing else and seeing PersonY as a personal attribute.
+False. Because being startled is a reaction to a sudden event, while not hearing a car drive up could be due to various reasons and does not necessarily indicate a tendency to be easily startled.
+False. Because result of 3 is No.
+True. Because 'relate' implies that PersonX is able to connect with others on an emotional level, which suggests that PersonX is likely to have feelings.
+True. Because mistakenly shaving someone's head is likely to cause upset or distress.
+False. Because result of 2 is No.
+False. Because result of 2 is No.
+False. Because result of 2 is No.
+False. Because result of 2 is No.
+False. Because result of 3 is No.
+True. Because the inference suggests that being happy is a necessary condition for getting even happier, which is a reasonable assumption.
+True. Because the inference suggests that making PeopleX for everyone is a necessary condition for the event of making wedding cake to happen.
+True. Because the inference suggests that the event will only happen if PersonX uses it, which makes logical sense.
+False. Because 'be intolerant' expresses a negative trait, while 'go lady at counter' is a neutral event that can happen regardless of one's personality.
+True. Because the inference suggests that PersonX needs to have access to their debit card in order to make a payment by card, which is a logical and plausible condition.
+True. Because wanting to be an actor requires effort and planning, and without a plan, it is unlikely to happen.
+True. Because the inference implies that starting is a necessary condition for the event of making a speech to happen.
+True. Because getting sick often requires the presence of a pathogen or some other external factor, and breathing is a necessary bodily function that can facilitate the entry of such factors into the body.
+True. Because breaking a hip is a significant event that requires recovery, and it is likely that PersonX has started the recovery process.
+True. Because going faster is a characteristic of being fast, so the inference is logically true.
+False. Because result of 3 is No.
+True. Because retiring is often associated with reaching a certain age, and thus it is likely that people who retire are older.
+False. Because result of 3 is No.
+True. Because the inference suggests that PersonX got married while PeopleX were not at home.
+False. Because result of 3 is No.
+False. Because 'be a soup fan' expresses a preference rather than a result of loving the soup.
+True. Because locking the door is a preventive measure to keep intruders out, and if the door is locked, it is unlikely that someone could intrude.
+False. Because result of 3 is No.
+False. Because result of 3 is No.
+True. Because the use of a corny pick up line is not related to the act of writing a play, but it is possible for someone to use a corny pick up line before engaging in any activity.
+False. Because 'be interested' expresses PersonX's preference rather than ability to make the event happen.
+False. Because result of 3 is No.
+True. Because if PersonX runs out of supplies, they cannot clean PersonY's bathroom, which means the event of cleaning the bathroom will not happen.
+False. Because 'PersonY play by herself' and 'PersonY be happier' are not necessarily related.
+False. Because result of 3 is No.
+True. Because if PersonY hurries, it can prevent PersonX from running away.
+False. Because result of 3 is No.
+False. Because the inference suggests that the event of PeopleX taking Pete somewhere is dependent on PeopleY calling PersonX a derogatory name, which is unlikely to be true.
+False. Because result of 3 is No.
+False. Because the inference is not logically sound and there is no clear causal relationship between the misbehavior of PersonX and PeopleX.
+False. Because result of 3 is No.
+True. Because having little experience may prevent PersonX from getting the job.
+False. Because result of 3 is No.
+False. Because the inference is not logically sound. The fact that PersonY grows pale does not necessarily mean that PersonX will not look pale.
+False. Because being careful does not necessarily prevent the event from happening, it just reduces the likelihood of negative outcomes.
+False. Because the inference is unclear and ambiguous.
+False. Because result of 2 is No.

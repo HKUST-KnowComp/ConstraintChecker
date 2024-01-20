@@ -1,0 +1,102 @@
+0 4. True. Because ejaculation is often associated with the desire for orgasm.
+1 4. True. Because going to the fridge to get something usually implies a desire to consume it.
+2 4. False. Working hard does not necessarily lead to wanting to die.
+3 4. True. Because setting off is a clear indication of wanting to leave.
+4 4. True. Because enlisting in the military often involves a desire to serve and protect one's country.
+5 4. False. There is no clear connection between falling into a pool and wanting to be enrolled in school.
+6 4. True. Because it's common to prepare the toilet before using it.
+7 4. False. There is no clear reason why PersonX would feel anxious just because they came.
+8 4. False. There is no clear connection between reviewing footage and wanting to bet.
+9 4. True. Because promotions often come with a pay raise.
+10 4. True. Because getting cash is usually done to pay for something.
+11 4. False. Because having a toothache is usually unpleasant and painful, so it is unlikely that someone would want to have one.
+12 4. False. Because sending a message does not necessarily mean wanting to receive a telegram.
+13 4. True. Because people tend to follow the actions of others in dangerous situations.
+14 4. True. Because working from home can be convenient and desirable for many people.
+15 4. False. The relationship between a successful loan and someone wanting to prefer is unclear and unlikely.
+16 4. True. Because promotions often come with salary increases.
+17 4. True. Because it's frustrating to see someone not using their full potential.
+18 4. False. The conceptualized statement doesn't make sense and the original statement is unclear.
+19 4. False. The two events seem unrelated and it is unlikely that a collapse in a courthouse would directly cause the rejection of a transplant liver.
+20 4. True. Because paranoia can lead to anxiety and nervousness.
+21 4. True. Because vomiting is a common symptom of food poisoning.
+22 4. True. Because people tend to stay in a job that provides them with financial stability.
+23 4. True. Because when someone is ill, they usually take medicine to feel better.
+24 4. False. Because making a decision usually leads to being more decisive, not less.
+25 4. True. Because some people may not cry when they witness death due to shock or other reasons.
+26 4. True. Because refueling means needing gas.
+27 4. True. Because babies are not yet capable of academic performance evaluation.
+28 4. True. Because when someone moves out to live on their own, they usually become financially independent and don't rely on their parents for support.
+29 4. True. Because joining usually requires administrative tasks such as filling out paperwork.
+30 4. True. Because people often bet on others' fitness progress.
+31 4. True. Because if PersonX caused the death, then PersonY did not actually cause harm.
+32 4. False. Because stealing someone's partner is not a morally acceptable behavior and it is unlikely that PersonY would want to be with someone who engages in such behavior.
+33 4. True. Because after succeeding, PersonX may need to wait for the next step or instruction.
+34 4. True. Because if PersonX is preventing PersonY, it may indicate that PersonX is feeling defensive or guarded, which could lead to a reluctance to reach out to others.
+35 4. True. Because sleeping usually makes people feel rested and less tired.
+36 4. False. Because preparation does not always guarantee success.
+37 4. True. Because reading non fiction often leads to gaining knowledge and curiosity.
+38 4. True. Because destroying a marriage can be seen as a selfish act.
+39 4. True. Because gray hair is often associated with old age.
+40 4. True. Because consuming food usually leads to feeling full.
+41 4. False. The statement is incomplete and does not provide enough information to determine the likelihood of PersonX not doing something.
+42 4. True. Because people tend to enjoy doing things they create.
+43 4. True. Because remembering someone can trigger feelings of nostalgia.
+44 4. True. Because being carried by someone can make a person feel present and included.
+45 4. False. Because acting without permission does not necessarily lead to the feeling of kindness in others.
+46 4. True. Because looking at someone can make them blush.
+47 4. True. Because playing games can be fun and enjoyable for some people.
+48 4. False. The death of PersonX's baby brother does not necessarily mean that PersonX will become a babysitter.
+49 4. True. Because guiding someone through a process is a professional behavior.
+50 4. True. Making an early purchase shows that PersonX is proactive and takes initiative.
+51 4. False. Being happy does not necessarily mean someone is well paid.
+52 4. False. Making a mistake does not necessarily mean that a person will fall.
+53 4. True. Starting a new job often requires hard work and dedication.
+54 4. True. Because being gullible means easily believing things, which leads to being convinced easily.
+55 4. False. The original statement is unclear and does not provide enough context to make a judgement.
+56 4. True. Because being unaware of a car's arrival can make someone easily startled.
+57 4. False. Missing something does not necessarily mean someone is unreliable.
+58 4. False. The statement is incomplete and does not provide enough information to make a judgment.
+59 4. True. Because making a mistake that causes harm to someone can make a person upset.
+60 4. True. Because people tend to believe in things that they think are true and want to validate their beliefs.
+61 4. True. Because using public transportation implies that PersonX does not need a car.
+62 4. True. Because PersonX's intention is to have at least one person, which is reflected in their actions.
+63 4. True. Because having a viewpoint implies having an intention or preference.
+64 4. False. There is no logical connection between waking up late and almost dying.
+65 4. True. Because it is logical that one cannot become even happier if they are not already happy.
+66 4. True. Because success often leads to confidence.
+67 4. True. Because the event is dependent on PersonX's action of triggering it.
+68 4. True. Because if PersonX lacks patience, they are more likely to give up on waiting in line and not go to the lady at the counter.
+69 4. True. Because a blooming garden is a pleasant place to spend time in.
+70 4. True. Because preparation is necessary for achieving goals.
+71 4. True. Because without starting to speak, there can be no speech event.
+72 4. True. Because breathing is necessary for survival and without it, sickness can occur.
+73 4. False. Because the statement is illogical - breaking a hip would not lead to recovery, but rather the need for medical attention and rehabilitation.
+74 4. True. Because increasing speed leads to being fast.
+75 4. True. Because people tend to be curious about secrets and want to know more.
+76 4. True. Because retirement usually happens at an older age.
+77 4. False. The statement is grammatically incorrect and does not make sense.
+78 4. False. The statement is unclear and grammatically incorrect, making it difficult to determine its likelihood of occurrence.
+79 4. True. Because there is a cause and effect relationship between the actions of PersonX and PersonY.
+80 4. True. Because if someone enjoys a particular food, they are likely to become a fan of it.
+81 4. True. Because locking the door prevents unauthorized access.
+82 4. True. Because taking a break can help refresh one's mind and increase productivity.
+83 4. True. Because having faith often leads to believing in something.
+84 4. True. Because it's common for people to use cheesy pick up lines before they become successful in other areas of their life.
+85 4. True. Because being well-prepared usually leads to confidence.
+86 4. True. Because if PersonX's claim is not certain, and there is certainty in the opposite claim, PersonY will not attend the event.
+87 4. True. Because if PersonX doesn't have enough supplies, they won't be able to clean PersonY's bathroom.
+88 4. False. There is no direct correlation between happiness and solo performances.
+89 4. True. Because if PersonX could have achieved it, then it wouldn't be something that will not happen.
+90 4. True. Because if PersonY moves quickly, they can prevent PersonX from running away.
+91 4. True. Because if PersonY is a crucial part of the event, it cannot happen without them.
+92 4. True. Because success often leads to confidence.
+93 4. True. Because if it's up to PersonX, they won't dismiss PersonY.
+94 4. False. Because if PeopleX misbehave, it may encourage PersonX to misbehave as well.
+95 4. True. Because if PersonX has doubts about the occurrence of PersonY's event, the presence of something may further decrease the likelihood of it happening.
+96 4. True. Because lack of qualifications is a common reason for not getting a job.
+97 
+98 4. True. Because if PersonY grows pale, it means that the attention will be shifted to PersonY and not on PersonX, thus PersonX will not appear sickly.
+99 4. True. Because being overly cautious can prevent one from taking risks and seizing opportunities.
+100 4. True. Because if the event is already desirable, then there is no need for PersonX to wish for it.
+101 4. True. Because if some people see an event or action, it becomes a shared experience.

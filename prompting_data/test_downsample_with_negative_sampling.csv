@@ -1,0 +1,1001 @@
+head,relation,tail,label,modification
+PersonX pries open,xAttr,PersonX tools,0,2
+PersonX sees a snake,xAttr,PersonX be frightened,1,0
+PersonX pulls ___ out of the water,xNeed,PersonX swim in the water,1,0
+PersonX makes PersonY smile,xIntent,PersonX feel loved,0,2
+PersonX can play with PersonY,xReact,PersonX decide to play a game,0,1
+PersonX wants to sleep,xReact,PersonX feel more rested for the next day,1,0
+PersonX meets PersonY for lunch,xAttr,PersonX be entertainment,1,0
+PersonX does n't want to waste it,xIntent,PersonX make a budget,0,2
+PersonX evaluates the patient 's ___,xIntent,PersonX intended to take care of the patient,1,0
+PersonX looks like men,xReact,PersonX wear sunglasses,0,2
+PersonX throws the ball,xIntent,PersonX intended to play catch,1,0
+PersonX throws PersonX's hat in the ring,xNeed,PersonX challenge someone to a fight,1,0
+PersonX looks like a fool,xReact,PersonX fall,0,2
+PersonX gets a manicure,xNeed,PersonX wait for the manicurist,1,0
+PersonX has trouble falling asleep,xNeed,PersonX be under covers,1,0
+PersonX gets a call ___,xNeed,PersonX feel happy,0,1
+PersonX asks the doctor,xNeed,PersonX be inquisitive,0,2
+PersonX goes about PersonX's work,xIntent,PersonX intended to finish their job,1,0
+PersonX pays ___ late,xNeed,PersonX be stressed,0,2
+PersonX comes into PersonX's own,xNeed,PersonX feel independent,0,1
+PersonX exceeds ___ in value,xAttr,PersonX be valuable,1,0
+PersonX brings down the house,xNeed,PersonX intended to give a great performance,0,1
+PersonX gives PersonY help,xAttr,PersonX feel helpful,0,2
+PersonX finds a good spot,xIntent,PersonX look for what they want,0,1
+PersonX stands on PersonX's head,oReact,PersonX intended to show off,0,1
+PersonX sees all of the animals,oReact,PersonX visits a zoo,0,1
+PersonX throws the baby out with the bathwater,xIntent,PersonX feel a sense of loss,0,1
+PersonX meets the love of PersonX's life,xAttr,PersonX be hopeful,1,0
+PersonX takes ___ out for a ride,xReact,PersonX feel glad,1,0
+PersonX changes ___ frequently,xNeed,PersonX be free-spirited,0,2
+PersonX confronts PersonY's roommate,xAttr,PersonX be honest,1,0
+PersonX tries sushi before,xIntent,PersonX intended to eat something,1,0
+PersonX sings PersonX's heart,xNeed,PersonX be full of life,0,1
+PersonX takes PersonY up on the offer,xIntent,PersonX intended to do something with person y,1,0
+PersonX blows PersonY's mind,xAttr,PersonX feel cool,0,2
+PersonX enters PersonX's office,xNeed,PersonX go to the office,1,0
+PersonX watches PersonY go,xAttr,PersonX intended to see where person goes ,0,1
+PersonX helps ___ with problems,xIntent,PersonX intended to see his company's success,1,0
+PersonX is PersonY's boyfriend,xAttr,PersonX feel love towards persony,0,2
+PersonX drives all the way,xNeed,PersonX get in the car,1,0
+PersonX wipes PersonX's forehead,xIntent,PersonX intended to be clean ,1,0
+PersonX commits another ___,xNeed,PersonX have done it before,1,0
+PersonX comes ___ from school,xAttr,PersonX feel happy to go home,0,1
+PersonX feels terrible,xReact,PersonX feel mad,1,0
+PersonX pulls PersonY's car over,xAttr,PersonX catch up and pull behind them,0,2
+PersonX stands on stage,xAttr,PersonX be confident,1,0
+PersonX gives PersonY what-for,xNeed,PersonX be angry,1,0
+have extreme enthusiasm,xNeed,PersonX have zeal,1,0
+PersonX gets dressed,xIntent,PersonX intended to look nice,1,0
+PersonX throws the food,xIntent,PersonX intended to show disatisfaction,1,0
+PersonX goes down the toilet,xIntent,PersonX be untalented,0,1
+PersonX lights a candle,xNeed,PersonX be thoughtful,0,2
+PersonX kisses PersonY cheek,oReact,PersonX be expressive,0,1
+PersonX employs another ___,xAttr,PersonX intended to watch something interesting,0,1
+PersonX watches one with PersonY,oReact,PersonX intended to be entertained,0,2
+PersonX calls god 's ___,xAttr,PersonX be biblical,1,0
+PersonX possesses PersonY knowledge,xNeed,PersonX learn from persony,1,0
+PersonX spends a ___ working,xNeed,PersonX intended to earn money,0,1
+PersonX finds a gold ring,xReact,PersonX feel curious whos ring it is,1,0
+PersonX links together ___,xNeed,PersonX do research,1,0
+PersonX decides to order pizza instead,xNeed,PersonX feel satsified,0,2
+PersonX takes a bow,xIntent,PersonX intended to take the heat,1,0
+PersonX puts the top,xNeed,PersonX find a top,1,0
+PersonX encourages PersonX,xIntent,PersonX intended to be motivated,1,0
+PersonX loves the meal,xReact,PersonX be appreciative,0,2
+PersonX lasts all day,xNeed,PersonX sleep all night,1,0
+PersonX makes PersonY change,oReact,PersonX be aggressive,0,1
+PersonX leaves PersonY ___ alone,xAttr,PersonX walk away,0,1
+PersonX feels ___ better,xNeed,PersonX take medicine,1,0
+PersonX finishes ___ last night,oReact,PersonX have to do it,0,1
+PersonX sees PersonY ago,xReact,PersonX intended to meet old friend,0,2
+PersonX continues driving,xNeed,PersonX see car incident,1,0
+PersonX organizes and ___ collectively,xAttr,PersonX be responsible,1,0
+PersonX walks to PersonY's room,xAttr,PersonX go up the stairs,0,1
+PersonX has a test tomorrow,xNeed,PersonX show up for class,1,0
+PersonX finally meet PersonY,xAttr,PersonX ask friend to be introduced to persony,0,1
+PersonX takes matters,xIntent,PersonX intended to do a perfect job,1,0
+PersonX needs a shot,xNeed,PersonX feel annoyed,0,1
+PersonX walks in front of PersonY,xIntent,PersonX intended to be in front of the line,1,0
+PersonX eats less,xReact,PersonX read a book about healthy eating,0,1
+PersonX beats around the bush,xIntent,PersonX intended to not talk about something,1,0
+PersonX knows much,xIntent,PersonX intended to be intimidating,1,0
+PersonX gets a replacement,xNeed,PersonX turn in his keys,1,0
+PersonX accidentally poured,xReact,PersonX feel clumsy,1,0
+PersonX learns a new skill,xIntent,PersonX feel skillful,0,1
+PersonX fills PersonY's lungs,xNeed,PersonX know cpr,1,0
+PersonX gives PersonY instruction,xNeed,PersonX know what to do,1,0
+PersonX gets PersonX's hands dirty,xIntent,PersonX intended to do some labor intensive work,1,0
+PersonX is also nervous,oReact,PersonX buys plane ticket,0,1
+PersonX scars ___ away,xIntent,PersonX intended to get rid of him,1,0
+PersonX apprehends PersonY,xNeed,PersonX get close,1,0
+PersonX discerns the lord 's ___,xNeed,PersonX be holy,0,2
+PersonX rests PersonY's chin,xAttr,PersonX hold person y,0,2
+PersonX stops at the store,xIntent,PersonX intended to pick up some broccoli,1,0
+PersonX romps home,xNeed,PersonX notice the bad weather,1,0
+PersonX decides to purchase it,xIntent,PersonX save up for something,0,2
+PersonX buys PersonY,oReact,PersonX find someone selling people,0,1
+PersonX makes the team,xNeed,PersonX practice,1,0
+PersonX eats it,xNeed,PersonX feel happy,0,1
+PersonX chooses one 's ___,xIntent,PersonX ask friends,0,2
+PersonX starts working out every day,xIntent,PersonX intended to be in shape,1,0
+PersonX spills PersonX's coffee,xNeed,PersonX feel clumsy,0,1
+PersonX stops being friends,xAttr,PersonX feel upset,0,2
+PersonX considers briefly the ___,xAttr,PersonX be pensive,1,0
+PersonX wants to fly,oReact,PersonX feel eager,0,1
+PersonX wins every ___,xNeed,PersonX practice their skills,1,0
+PersonX is happy for PersonY,xReact,PersonX get to know persony,0,2
+PersonX interprets the ___ in ways,xNeed,PersonX feel proud,0,2
+PersonX believes also in PersonY,xAttr,PersonX be supportive,1,0
+PersonX runs full speed,xIntent,PersonX start moving and gaining speed,0,2
+write story,xNeed,PersonX write about what know,1,0
+PersonX would work,xAttr,PersonX be diligent,1,0
+PersonX gives PersonY name,xIntent,PersonX be kind,0,2
+PersonX obeys every ___,xNeed,PersonX be a good listener,1,0
+PersonX breaks PersonY heart,xAttr,PersonX talk,0,2
+PersonX gets to PersonY's feet,oReact,PersonX be understanding,0,1
+PersonX does an amazing job,xNeed,PersonX meet all demands,1,0
+PersonX comes and see PersonY,xAttr,PersonX a car,0,1
+PersonX keeps PersonY from starving,oReact,PersonX be compassionate,0,1
+PersonX gets a second job,xNeed,PersonX get in the car,1,0
+PersonX lays PersonY on the bed,xAttr,PersonX carry persony from the couch,0,2
+PersonX gives the children ___,oReact,PersonX be friendly,0,1
+PersonX burns PersonX's arm,xAttr,PersonX be violent,1,0
+PersonX links ___ together,xNeed,PersonX find the parts,1,0
+PersonX buys a computer,oReact,PersonX intended to learn how to use a computer,0,1
+PersonX prevents ___ from accessing,xIntent,PersonX intended to save the important thing from others,1,0
+PersonX plays PersonY's favorite song,xIntent,PersonX be musical,0,1
+PersonX puts everything,xNeed,PersonX have grocery shopping,1,0
+PersonX begs PersonY's parents for one,xAttr,PersonX be whingeing,1,0
+get exercise,xNeed,PersonX train,1,0
+PersonX manages PersonY's ___ well,xNeed,PersonX be efficient,0,2
+PersonX is able to find it,xNeed,PersonX feel relieved,0,1
+PersonX enjoys each other 's company,xNeed,PersonX some friends,1,0
+PersonX mixes it up,xAttr,PersonX be bizzare,1,0
+PersonX would n't fit,xAttr,PersonX be regretful,1,0
+PersonX takes place on the day,xReact,PersonX feel nervous,1,0
+PersonX plays for PersonX,xReact,PersonX be narcissistic,0,1
+PersonX lays on PersonY's bed,xAttr,PersonX feel refreshed,0,1
+PersonX learns new things,xAttr,PersonX intended to gain knowledge,0,1
+PersonX brings the puppy home,xNeed,PersonX adopt puppy,1,0
+PersonX grants a ___ by the ccc,xIntent,PersonX intended to have something ,1,0
+PersonX tastes the food,xAttr,PersonX intended to make sure it tastes okay,0,2
+PersonX goes ___ to dinner,xNeed,PersonX freshen up,1,0
+PersonX passes ___ around,xAttr,PersonX be open,1,0
+PersonX leaves ___ on the table,xNeed,PersonX cook things,1,0
+PersonX finds ___ to play with,xNeed,PersonX shoes,1,0
+PersonX finds gold,xReact,PersonX feel elated,1,0
+PersonX tunes PersonX's guitar,xAttr,PersonX intended to play a song on the guitar,0,2
+PersonX dates for years,xNeed,PersonX be content,0,2
+PersonX covers the ___ completely,xIntent,PersonX intended to protect something,1,0
+PersonX waits for PersonY,xAttr,PersonX feel happy to wait,0,1
+PersonX feels closer,xAttr,PersonX feel loving,0,2
+PersonX hangs PersonY's head,xNeed,PersonX confront persony,1,0
+PersonX escorts PersonY back,xIntent,PersonX have asked persony to go with them,0,2
+PersonX uses ___ regularly,xReact,PersonX feel normal,1,0
+PersonX looks into PersonY's face,xAttr,PersonX intended to express affection for person y,0,2
+PersonX has fun playing,xNeed,PersonX feel excited with the activities,0,2
+PersonX buys ___ one,xAttr,PersonX be kind,1,0
+PersonX feels relief,xIntent,PersonX feel like pain has been lessened,0,1
+PersonX loves the experience,xIntent,PersonX think about it,0,1
+PersonX spends ___ on the beach,xNeed,PersonX feel satisfied,0,2
+PersonX revenges PersonX's father 's ___,xNeed,PersonX feel bad,0,2
+PersonX knows how to dance,xNeed,PersonX feel good,0,2
+PersonX spits nails,xNeed,PersonX find out a bad thing,1,0
+PersonX drops PersonY off at home,oReact,PersonX be alone,0,1
+PersonX wears PersonX's boots,xIntent,PersonX intended to rush for the tennis court,1,0
+PersonX goes ___ at the lake,oReact,PersonX intended to relax,0,1
+PersonX brings the puppy,xIntent,PersonX intended to entertain his children ,1,0
+get fit,xIntent,PersonX eat less,0,1
+PersonX puts PersonY to death,xAttr,PersonX be scary,1,0
+PersonX gets PersonX's belly button pierced,xIntent,PersonX intended to look cool,1,0
+PersonX covers every aspect,xReact,PersonX learn information,0,1
+"PersonX buys ___ , though",xNeed,PersonX cash,1,0
+PersonX splashes ___ on PersonY's face,xAttr,PersonX see person y,0,1
+PersonX falls on PersonY's neck,xAttr,PersonX feel still angry,0,2
+PersonX rises to the challenge,xAttr,PersonX be boasting,1,0
+PersonX wants to play outside,xReact,PersonX feel relaxed and refreshed,1,0
+PersonX makes a deal,xIntent,PersonX intended to cooperate with someone,1,0
+PersonX plays ___ anymore,xNeed,PersonX be socially conscious,0,1
+PersonX inflicts ___ on others,xAttr,PersonX be mean,1,0
+PersonX gets the book,xIntent,PersonX feel satisfied,0,2
+PersonX eats quickly,xIntent,PersonX feel eager,0,2
+PersonX breaks PersonX's hip,xReact,PersonX be old,0,2
+PersonX cheats on PersonY,oReact,PersonY feel upset,1,0
+PersonX prevents ___ from engaging,xNeed,PersonX help the children,1,0
+PersonX cuts swathes,xNeed,PersonX feel happy,0,2
+PersonX puts ___ in a box,xIntent,PersonX intended to throw it out,1,0
+PersonX sees wood,oReact,PersonX be aware,0,1
+PersonX gets a call from PersonY,xAttr,PersonX feel happy,0,2
+PersonX hits a telephone pole,xReact,PersonX feel shocked,1,0
+PersonX goes white water rafting,xNeed,PersonX pack supplies,1,0
+PersonX disposes of PersonX's property,xReact,PersonX grab their property,0,1
+PersonX shares ___ equally,xAttr,PersonX feel ecstatic,0,2
+PersonX builds a ___ on the site,xNeed,PersonX buy land,1,0
+PersonX begins to eat it,xNeed,PersonX prepare for consumption,1,0
+PersonX makes ___ every morning,xNeed,PersonX feel good for getting it done,0,2
+PersonX owes PersonX's ___ to the fact,xReact,PersonX intended to take an opportunity,0,2
+PersonX surmounts every ___,xAttr,PersonX move forward with a plan,0,2
+PersonX revises every ___,xNeed,PersonX intended to be nice,0,1
+PersonX thinks would happen,xIntent,PersonX intended to feel positive ,1,0
+PersonX calls the fire department,xIntent,PersonX intended to save a house,1,0
+PersonX visits PersonY friend,xAttr,PersonX be excitement,1,0
+PersonX goes down the pan,xReact,PersonX feel like a failure,1,0
+PersonX wipes PersonY's forehead,xIntent,PersonX intended to help their friend,1,0
+PersonX puts PersonY's phone,xNeed,PersonX take the phone,1,0
+PersonX waves ___ around,xIntent,PersonX send out signal,0,1
+PersonX studies for PersonX's math test,xNeed,PersonX study,1,0
+PersonX pulls PersonX's car over,xIntent,PersonX feel guilty,0,2
+PersonX looks PersonY ___ in the face,xNeed,PersonX intended to see another person,0,2
+PersonX is someone else 's ___,xIntent,PersonX ask for turn,0,2
+PersonX finally got home,xIntent,PersonX intended to fix dinner,1,0
+PersonX enjoys life,xReact,PersonX be amiable,0,2
+PersonX wants to play an instrument,xIntent,PersonX feel accomplished,0,2
+PersonX loves cake,xReact,PersonX feel eager to eat it,1,0
+PersonX feels elated,xReact,PersonX feel excited,1,0
+PersonX taketh PersonY's ___ in vain,xIntent,PersonX intended to insult person y,1,0
+PersonX helps PersonX's brother,xIntent,PersonX intended to them to have things a bit easier ,1,0
+PersonX sees PersonY brother,xIntent,PersonX intended to play with y's brother,1,0
+PersonX is watching a scary movie,xNeed,PersonX feel frightened,0,2
+PersonX sees PersonY's wife,xReact,PersonX be out shopping,0,2
+PersonX makes bread,xIntent,PersonX an oven,0,2
+PersonX catches the bus to work,xIntent,PersonX intended to make money,1,0
+PersonX thinks of a solution,xAttr,PersonX be well-educated,1,0
+PersonX runs for class president,xNeed,PersonX apply to run,1,0
+PersonX is hard to find,xReact,PersonX be running,0,2
+PersonX asks PersonX's doctor,xAttr,PersonX be confused,1,0
+PersonX eats oatmeal,xNeed,PersonX measure out scoops,1,0
+PersonX leaves the library,xNeed,PersonX intended to get some dinner,0,1
+PersonX always beat ___,xNeed,PersonX intended to be a winner,0,2
+PersonX wants a car,xIntent,PersonX intended to be able to have transportation,1,0
+PersonX dances the night away,xNeed,PersonX feel fun,0,2
+PersonX searches PersonY,xNeed,PersonX be caring,0,1
+PersonX has lost PersonY's phone,xAttr,PersonX be careless,1,0
+PersonX comes to PersonY's house,xNeed,"PersonX feel happy, friendly towards person",0,2
+PersonX has seen PersonX's day,xAttr,PersonX be perceptive,1,0
+wait on line,xNeed,PersonX feel determined,0,2
+PersonX is feeling sick,xReact,PersonX feel exhausted,1,0
+PersonX makes a speech,xAttr,PersonX have a topic to speak on,0,1
+PersonX turns PersonY's life around,xIntent,PersonX intended to be helpful,1,0
+PersonX puts ___ to PersonY's lips,xIntent,PersonX intended to seduce someone,1,0
+PersonX gets PersonY's mother,xNeed,PersonX go to the room,1,0
+PersonX visits PersonX's daughter,xIntent,PersonX be motherly,0,1
+PersonX offer PersonY opinion,xReact,PersonX be helpful,0,1
+PersonX catches PersonY's eye,oReact,PersonY feel good about themselves,1,0
+PersonX meets the band,oReact,PersonX be fun to be around,0,1
+PersonX watches the kids,xNeed,PersonX intended to make sure they are okay,0,2
+PersonX dies peacefully,xAttr,PersonX be old,1,0
+PersonX pumps PersonX's gas,xNeed,PersonX feel broke,0,2
+PersonX avoids every ___,xNeed,PersonX intended to remain neutral,0,1
+PersonX tans PersonY's hide,xIntent,PersonX intended to hurt persony,1,0
+PersonX achieves PersonY level,xNeed,PersonX intended to be the best he can be,0,2
+PersonX sets PersonY up,xAttr,PersonX be mean,1,0
+PersonX expresses PersonX's belief,xAttr,PersonX be talkative,1,0
+PersonX prevents ___ from working,xAttr,PersonX have negative motives,0,2
+PersonX wants PersonY to come,xAttr,PersonX invite,0,1
+PersonX keeps the peace,xAttr,PersonX work with both sides,0,1
+PersonX lies to PersonY,xIntent,PersonX intended to be dishonest,1,0
+PersonX describes every ___,xIntent,PersonX intended to teach something,1,0
+"PersonX eats , drank",xAttr,PersonX preparing food,0,2
+PersonX considers the ___ carefully,xNeed,PersonX intended to make sure he fully understands ,0,2
+PersonX stops calling PersonY,xReact,PersonX feel guilty,1,0
+PersonX earns money,xIntent,PersonX do work,0,1
+PersonX wants to learn how to swim,xNeed,PersonX get to a pool,1,0
+PersonX gets ___ on the paper,xNeed,PersonX think about what to write,1,0
+PersonX visits my friend,xAttr,PersonX feel companionship,0,2
+PersonX wears PersonX's clothes,oReact,PersonX intended to be clothed ,0,1
+PersonX is on PersonY's school 's basketball team,xNeed,PersonX practice,1,0
+PersonX prevents ___ from coming,xAttr,PersonX be angry,1,0
+PersonX sees what had happened,xReact,PersonX be interested,0,2
+take stand,oReact,PersonX willing to testify,0,1
+PersonX leans back in PersonY's chair,xIntent,PersonX feel relaxed,0,2
+PersonX shouts PersonY's name,xIntent,PersonX intended to get persons attention,1,0
+PersonX gives it PersonY's name,xNeed,PersonX intended to it to not easily be forgotten,0,1
+PersonX needs a lot of work,xAttr,PersonX feel downtrodden,0,2
+PersonX wants ___ badly,xAttr,PersonX be wanting,1,0
+PersonX passes gas,xReact,PersonX be embarrassed,0,2
+PersonX finds PersonY another ___,xNeed,PersonX get divorced,1,0
+PersonX walks behind PersonY,xNeed,PersonX go to school,1,0
+PersonX has to take care of PersonY,xAttr,PersonX be responsible,1,0
+PersonX goes golfing,xReact,PersonX feel relaxed,1,0
+PersonX takes PersonX's watch off,xAttr,PersonX wear a watch,0,2
+PersonX knocks PersonY's socks off,xNeed,PersonX feel like a boss,0,2
+PersonX is well prepared,xAttr,PersonX feel ready,0,1
+PersonX leans back in PersonY's seat,xAttr,PersonX feel tired,0,2
+PersonX says grace,xAttr,PersonX intended to pray,0,2
+PersonX understands the ___ in terms,oReact,PersonX analyze,0,1
+PersonX takes as PersonY example,xNeed,PersonX intended to like the way ,0,2
+PersonX gives PersonX's name,xIntent,PersonX communicate,0,1
+PersonX pays ___ at a rate,xNeed,PersonX pay off their debt,1,0
+PersonX finds ___ PersonY wanted,xIntent,PersonX be smart,0,1
+PersonX tells PersonY it was okay,xIntent,PersonX feel good,0,2
+PersonX orders ___ at a restaurant,xNeed,PersonX get the attention of the waiter,1,0
+PersonX sits down across from PersonY,xIntent,PersonX intended to sit with person,1,0
+PersonX does n't know what to expect,xAttr,PersonX be confused,1,0
+PersonX is mad at PersonX,xNeed,PersonX do something wrong,1,0
+PersonX fudges the issue,xAttr,PersonX think of consequences of actions,0,1
+PersonX communicates ___ to others,xNeed,PersonX feel knowlegeable,0,2
+PersonX breaks PersonY's heart,xNeed,PersonX date,1,0
+PersonX is really disappointed,xNeed,PersonX have something fail,1,0
+PersonX practices for weeks,xIntent,PersonX intended to get better,1,0
+PersonX is on vacation in mexico,xIntent,PersonX plan for their vaccation,0,2
+PersonX falls off the back of a truck,xNeed,PersonX lose their balance or slip while on the truck,1,0
+PersonX washes the car,xAttr,PersonX gets a bucket of water,0,1
+PersonX drives ___ in PersonY's new car,xIntent,PersonX be jealous,0,2
+PersonX forces PersonY's way,xIntent,PersonX control persony,0,1
+PersonX plays dodgeball,xReact,PersonX be athletic,0,1
+PersonX meets PersonY need,xAttr,PersonX be caring,1,0
+PersonX finds PersonX's daughter,xAttr,PersonX be caring,1,0
+PersonX suits PersonY's purposes,xNeed,PersonX get to know persony,1,0
+PersonX holds ___ in place,xNeed,PersonX be helpful,0,2
+PersonX gives a small smile,xAttr,PersonX be self assured,1,0
+PersonX buys ___ for PersonX's house,xAttr,PersonX be adventurous,1,0
+PersonX smells something foul,oReact,PersonX be appalled,0,1
+PersonX lets PersonY's guard,xNeed,PersonX intended to be caring,0,2
+PersonX studies extra,xReact,PersonX have asked the teacher about the next study,0,1
+PersonX minces words,xReact,PersonX be not articulate,0,1
+PersonX takes place in the course,xNeed,PersonX study,1,0
+PersonX always asked ___,xNeed,PersonX feel uneasy about it,0,2
+PersonX sees PersonY wife,xIntent,PersonX intended to see his wife,1,0
+PersonX arches PersonY's body,xReact,PersonX be athletic,0,1
+PersonX misses PersonY a lot,xAttr,PersonX be desolate,1,0
+PersonX turns PersonY's life,xNeed,PersonX be related to y,1,0
+PersonX makes ___ more often,xAttr,PersonX be prepared,1,0
+PersonX finally worked up,xReact,PersonX make a decision,0,2
+PersonX increases PersonX's knowledge,xIntent,PersonX intended to gain more knowledge,1,0
+PersonX falls from the tree,xNeed,PersonX feel hurt,0,2
+PersonX eats ___ quickly,xIntent,PersonX intended to be doing something else,1,0
+PersonX visits every ___,xNeed,PersonX be responsible,0,2
+PersonX rides ___ without training wheels,xReact,PersonX feel excited,1,0
+PersonX assigns ___ to groups,xIntent,PersonX make choices,0,2
+PersonX faces the ___ alone,xReact,PersonX feel overwhelmed,1,0
+PersonX takes PersonY's watch off,xNeed,PersonX intended to y cannot do it on their own so they ask x ,0,2
+PersonX finds a good job,xNeed,PersonX search for it,1,0
+debate,xNeed,PersonX come up with subject,1,0
+PersonX starts crying,xReact,PersonX be pitiful,0,2
+PersonX forms PersonY opinion as,xNeed,PersonX intended to know all the information,0,2
+PersonX never lost,xReact,PersonX feel unbeatable,1,0
+PersonX takes ___ in stride,xIntent,PersonX be strong,0,2
+PersonX receives ___ based,oReact,PersonX intended to the market ,0,1
+PersonX walks humbly with PersonY's god,xNeed,PersonX be modest,0,2
+PersonX sees ___ every day,xNeed,PersonX feel happy to have the same routine every day,0,2
+PersonX gets ___ right,xNeed,PersonX learn,1,0
+PersonX slides PersonY's tongue,xAttr,PersonX be unctuous,1,0
+PersonX restores the ___ to PersonY's condition,xAttr,PersonX be brave,1,0
+PersonX curls PersonX's hair,xIntent,PersonX switch on curler,0,1
+PersonX helps the ___ along,xNeed,PersonX be helpful,0,1
+PersonX grabs a gun,xIntent,PersonX intended to protect themselves,1,0
+PersonX goes work,xNeed,PersonX ate breakfast,1,0
+PersonX can not believe PersonX's eyes,xReact,PersonX be shocked,0,2
+PersonX goes ___ for the first time,xNeed,PersonX feel amazed,0,2
+PersonX blows this popsicle stand,xAttr,PersonX be reckless,1,0
+PersonX does well in school,xAttr,PersonX enter the tesating room,0,2
+PersonX meets someone new,oReact,PersonX be out somewhere where people are,0,1
+PersonX lets PersonY explain,xIntent,PersonX intended to listen,1,0
+PersonX knows PersonY from a can of paint,xNeed,PersonX be investigating,1,0
+PersonX evens gave ___,xNeed,PersonX talk to the daughter,1,0
+PersonX makes up the numbers,oReact,PersonX feel ashamed,0,1
+PersonX lays on top of PersonY,xNeed,PersonX wake up in crib,1,0
+PersonX dresses in PersonY's clothes,xAttr,PersonX be curious,1,0
+PersonX cuts PersonX's leg,xReact,PersonX be unaware,0,2
+PersonX meets someone,xIntent,PersonX be caring,0,2
+PersonX gives PersonY account,xIntent,PersonX be expressive,0,2
+wrestle,xReact,PersonX learn rules of wrestling,0,1
+PersonX finds PersonY's car,xNeed,PersonX click the alarm button,1,0
+PersonX catches PersonY red-handed,xIntent,PersonX intended to society to be by the rules ,1,0
+PersonX displays ___ proudly,xReact,PersonX feel proud,1,0
+PersonX takes PersonY to the er,xReact,PersonX intended to help a friend,0,1
+PersonX sends PersonY's home,xIntent,PersonX feel angry,0,2
+PersonX gazes upon PersonY,xReact,PersonX intended to be noticed by person,0,1
+PersonX curls PersonY's hair,xIntent,PersonX intended to groom person y,1,0
+PersonX pulls PersonY's hand back,xIntent,PersonX intended to keep the person from doing something dangerous,1,0
+PersonX sees PersonX's crush,xNeed,PersonX get out of the house,1,0
+PersonX has PersonX's fingers in many pies,oReact,PersonX intended to play around with the pie,0,1
+PersonX bosses ___ around,xIntent,PersonX intended to be in charge,1,0
+PersonX sends PersonY to the showers,xReact,PersonX feel in charge,1,0
+PersonX is a waste of money,xNeed,PersonX be incompetent,0,2
+PersonX broadens PersonX's ___ to include,xReact,PersonX read books,0,1
+PersonX owns a dog,xIntent,PersonX intended to a friend ,1,0
+PersonX passionately rucked PersonY,xNeed,PersonX be screwed,0,2
+PersonX buys a house,xNeed,PersonX savings his salary,1,0
+PersonX likes the movie,xAttr,PersonX buy a ticket,0,1
+PersonX gets beer,xIntent,PersonX intended to drink it,1,0
+PersonX starts early,xNeed,PersonX wake up early,1,0
+PersonX stops but PersonY did n't listen,oReact,PersonX get attention,0,1
+PersonX wins the match,xAttr,PersonX be strong,1,0
+PersonX takes matters into PersonX's own hands,xIntent,PersonX intended to handle their business ,1,0
+PersonX increases PersonX's ___ at the expense,xNeed,PersonX know math,1,0
+PersonX buys PersonY's one,xNeed,PersonX go to the store,1,0
+PersonX wins money,xReact,PersonX feel excited,1,0
+PersonX falls off the back of a lorry,xAttr,PersonX be clumsy,1,0
+PersonX makes that mistake again,xIntent,PersonX feel mad,0,2
+PersonX prevents ___ from entering,xNeed,PersonX notice it,1,0
+PersonX looks like fun,xReact,PersonX be confident,0,1
+PersonX puts PersonY's lights out,xAttr,PersonX be thrifty,1,0
+PersonX finds ___ anywhere,xIntent,PersonX intended to investigate,1,0
+PersonX meets ___ for lunch,xNeed,PersonX set a date,1,0
+PersonX forms PersonY opinion,xAttr,PersonX event,0,1
+PersonX looks like an idiot,xIntent,PersonX have their hair cut like a badly mowed lawn,0,1
+PersonX loves ___ than anything,xAttr,PersonX be admiring,1,0
+PersonX protects the ___ from harm,xNeed,PersonX assess the situation,1,0
+see story,oReact,PersonX look at tv,0,1
+PersonX sees all the animals,xAttr,PersonX feel alert,0,1
+PersonX dyes PersonX's hair pink,xNeed,PersonX buy product,1,0
+PersonX unbeknownst to PersonY,xAttr,PersonX be duplicitous,1,0
+PersonX goes to bed early,xNeed,PersonX turn off the lights,1,0
+PersonX tells ___ it was okay,xIntent,PersonX listen to persony,0,2
+PersonX donates plasma,xAttr,PersonX be desperate,1,0
+PersonX studies for PersonX's exam,oReact,PersonX intended to get a good grade,0,1
+PersonX makes pasta for dinner,xIntent,PersonX feel happy,0,2
+PersonX shrugs PersonY's shoulders,xNeed,PersonX intended to show they are unsure,0,2
+PersonX looks like,oReact,PersonX be similar,0,1
+PersonX offer to teach PersonY,xAttr,PersonX be helpful,1,0
+PersonX rents an apartment,xNeed,PersonX put down a deposit,1,0
+PersonX makes PersonX's arrangements,xReact,PersonX intended to be prepared,0,2
+PersonX watches old movies,xAttr,PersonX be old-fashioned,1,0
+PersonX prevents PersonY's escape,xIntent,PersonX intended to stop person y,1,0
+PersonX grants a ___ by ccc,xNeed,PersonX intended to approve,0,1
+PersonX invites people,xIntent,PersonX intended to social content ,1,0
+PersonX invites ___ over to play,xAttr,PersonX intended to enjoy,0,1
+PersonX dies on the vine,xNeed,PersonX climb the plant,1,0
+PersonX makes pasta,xIntent,PersonX feel better,0,2
+PersonX enters PersonX's car,xIntent,PersonX grab keys,0,1
+PersonX shows PersonY's mother,xNeed,PersonX be great,0,2
+PersonX builds castles in the air,xAttr,PersonX use his hands,0,1
+PersonX practices really hard,oReact,PersonX feel strong,0,1
+PersonX gives PersonY PersonX's name,xAttr,PersonX be emotional,1,0
+PersonX gives bob ___,xNeed,PersonX intended to help bob,0,1
+PersonX smells nice,oReact,PersonX put on parfume,0,1
+PersonX wants money,xIntent,PersonX provide some help,0,2
+PersonX finally got around,xReact,PersonX find a way to get there,0,1
+PersonX persuades the ___ to allow,xNeed,PersonX convince the officer,1,0
+PersonX affects PersonY deeply,xNeed,PersonX know persony well,1,0
+PersonX takes ___ sitting down,xNeed,PersonX grab a chair,1,0
+PersonX slips PersonY's tongue,xNeed,PersonX be hurtful,0,2
+PersonX gives PersonY the slip,oReact,PersonY feel angry,1,0
+PersonX can n't believe PersonX's luck,xIntent,PersonX feel elated,0,1
+PersonX goes to the library to study,xReact,PersonX starts car to drive to library,0,2
+PersonX finds PersonX's shoes,xNeed,PersonX feel satisfied,0,2
+PersonX sees if could make,xReact,PersonX looks up how to make,0,1
+PersonX exchanges numbers,xNeed,PersonX intended to call each other,0,2
+PersonX puts ___ in PersonX's backpack,xNeed,PersonX take persons backpack,1,0
+PersonX pulls PersonY's hand away,xNeed,PersonX catch hold of person y' hand,1,0
+PersonX puts it in the oven,oReact,PersonX intended to make dinner,0,1
+PersonX meets PersonY's husband,xReact,"PersonX feel satisfied, happy, good about themselves",1,0
+PersonX gets everything together,xNeed,PersonX be organized,1,0
+PersonX enjoys ___ together,xIntent,PersonX intended to be happy and take in the moment,1,0
+PersonX maintains PersonY equilibrium,xNeed,PersonX intended to keep persony on their feet ,0,1
+PersonX finds PersonX's car keys,xIntent,PersonX feel relieved,0,2
+PersonX gets it to work,xNeed,PersonX be smart,0,2
+PersonX wants to learn how to cook,xIntent,PersonX buy cook books,0,2
+PersonX argues with PersonX's boyfriend,xNeed,PersonX get mad,1,0
+PersonX is short on money,xNeed,PersonX be nervous,0,2
+PersonX speaks with PersonY,xIntent,PersonX intended to communicate something,1,0
+PersonX needs a good grade,xReact,PersonX feel anxious,1,0
+PersonX sits across from PersonY,xIntent,PersonX shoes,0,1
+PersonX calls PersonY ambulance,xAttr,PersonX be worried,1,0
+PersonX buys PersonY a dog,oReact,PersonX be properous,0,1
+PersonX uses the ___ as a means,xNeed,PersonX figure out a plan,1,0
+PersonX does not have a lot of money,xReact,PersonX feel like they need to be in a better financial situation,1,0
+PersonX finds ___ in PersonX's attic,xIntent,PersonX feel relieved,0,1
+PersonX attends PersonY's father 's ___,xAttr,PersonX be remorseful,1,0
+PersonX feels better than ever,xAttr,PersonX intended to go to the movies,0,2
+PersonX gets the shot,xIntent,PersonX intended to be healthy,1,0
+PersonX drops ___ off at home,xIntent,PersonX drive,0,2
+PersonX uses ___ anyway,xNeed,PersonX be resistant,0,2
+PersonX smells something burning,xNeed,PersonX drink some water,1,0
+PersonX likes a girl,xReact,PersonX feel caring,1,0
+PersonX has done something wrong,xAttr,PersonX feel awful,0,2
+PersonX unlocks the door,xIntent,PersonX feel normal,0,2
+PersonX saves PersonY's ___ from PersonX's sins,xNeed,PersonX be careful,0,2
+PersonX looks like a man,xNeed,PersonX dress masculine,1,0
+PersonX extends PersonX's knowledge,xIntent,PersonX intended to help other's by sharing,1,0
+PersonX dyes PersonY's hair blonde,xAttr,PersonX put a smock on person y,0,2
+PersonX misses class,xAttr,PersonX feel sorry  for it,0,2
+PersonX determines one 's ___,xNeed,PersonX pass judgement,1,0
+PersonX graduates ___ at the university,xReact,PersonX attend classes,0,2
+PersonX uses PersonX's skills,xNeed,PersonX maintain his skills,1,0
+PersonX keeps ___ at bay,oReact,PersonX feel heroic,0,1
+PersonX tips PersonY's head,xNeed,PersonX touch persony,1,0
+PersonX rests on PersonX's laurels,xNeed,PersonX not to need anything else in your life,1,0
+PersonX misses ___ to school,xIntent,PersonX be late,0,1
+PersonX asks PersonY to read,xNeed,PersonX think persony might read it for them,1,0
+PersonX feels so sad,xNeed,PersonX be disappointed by something,1,0
+PersonX breaks the mold,xIntent,PersonX feel glad,0,1
+PersonX gives ___ a small smile,xReact,PersonX be nice,0,2
+PersonX takes PersonY view,xNeed,PersonX go home,1,0
+PersonX throws some bread,xNeed,PersonX take the bread from package,1,0
+PersonX looks ___ in the face,oReact,PersonX feel satisfied,0,1
+PersonX waves PersonY,xNeed,PersonX feel happy,0,2
+PersonX speaks ___ fluently,xNeed,PersonX practice,1,0
+PersonX is a long drive,xNeed,PersonX turn on the car,1,0
+PersonX rewards every ___ according,xIntent,PersonX balance life,0,2
+PersonX comes to PersonY house,xAttr,PersonX intended to visit them,0,1
+PersonX prevents PersonY from coming,xIntent,PersonX intended to be alone,1,0
+PersonX wants to come back,xIntent,PersonX feel satisfied,0,2
+PersonX takes a ride,xIntent,PersonX be in a train,0,2
+PersonX puts PersonY's ___ into execution,xAttr,PersonX feel motivated,0,1
+PersonX loves another ___,xAttr,PersonX be unhappy,1,0
+PersonX costs the earth,xNeed,PersonX be hurtful,0,2
+PersonX purchases a lottery ticket,xNeed,PersonX intended to be a millionaire,0,1
+PersonX knits PersonX's eyebrows,xIntent,PersonX want to show their opinion on it,0,1
+PersonX looks at PersonY like that,xAttr,PersonX look at persony,0,2
+PersonX plays PersonX's new game,xAttr,PersonX intended to escape for awhile,0,1
+PersonX gives PersonY a name,xAttr,PersonX be helpful,1,0
+PersonX hearts beat as PersonX,xNeed,PersonX have been running,1,0
+PersonX starts with a clean slate,xNeed,PersonX get a new job,1,0
+PersonX fears PersonY,xReact,PersonX feel anxious,1,0
+PersonX turns PersonX's nose up,xIntent,PersonX intended to show disapproval,1,0
+PersonX improves PersonY's appearance,xIntent,PersonX intended to person y to be confident ,1,0
+PersonX drops PersonY's head,xReact,PersonX be clumsy,0,2
+PersonX buys dog food,xNeed,PersonX intended to feed their dog,0,2
+PersonX adores PersonY,xIntent,PersonX be admiring,0,1
+PersonX loses PersonX's ___ in the war,xIntent,PersonX feel good feeling,0,2
+PersonX tells PersonY to give,oReact,PersonX approach someone,0,1
+PersonX puts it together,xNeed,PersonX feel good,0,2
+PersonX reduces the ___ to levels,xNeed,PersonX intended to make an accomplishment,0,2
+PersonX sends home ___,oReact,PersonX compose a letter in their mind,0,1
+PersonX blows PersonX's load,xReact,PersonX feel relieved,1,0
+PersonX orders ___ from the restaurant,xNeed,PersonX decide what he wants to eat,1,0
+PersonX has a lot of money,xAttr,PersonX feel powerful,0,2
+PersonX packs heat,xAttr,PersonX apply for a gun permit,0,2
+PersonX creates the ___ in days,xIntent,PersonX be skillful,0,1
+PersonX finishes PersonY's homework,xAttr,PersonX be competent,1,0
+PersonX uses ___ anymore,xNeed,PersonX  want to give it away,1,0
+PersonX walks to the car,xNeed,PersonX feel relieved,0,2
+PersonX does n't want to fight,xAttr,PersonX intended to avoid injury,0,1
+PersonX gets PersonY's license,xIntent,PersonX be committed,0,1
+PersonX puts PersonY's ___ together,xIntent,PersonX be focused,0,2
+PersonX doeth all ___ well,xAttr,PersonX feel good,0,2
+PersonX drives all the way back,oReact,PersonX get into the car,0,1
+PersonX loves to garden,xAttr,PersonX be creative,1,0
+PersonX takes a hike in the woods,xNeed,PersonX put on boots,1,0
+PersonX lives next door,xAttr,PersonX be responsible,1,0
+PersonX knows which end is up,xAttr,PersonX feel intrigued,0,2
+PersonX prevents PersonY from taking,xIntent,PersonX feel to have helped the person,0,2
+PersonX burns ___ badly,xNeed,PersonX be cooking,1,0
+PersonX nurses it back to health,xIntent,PersonX intended to his dog to live longer,1,0
+PersonX drops ___ on the floor,xReact,PersonX grab something,0,2
+PersonX gets detention,xNeed,PersonX intended to be rebellious,0,1
+PersonX falls ill,xIntent,PersonX be tense,0,1
+PersonX throws the book,xReact,PersonX feel frustrated,1,0
+PersonX finds another gear,oReact,PersonX decide to change the gear,0,1
+PersonX publishes ___ in cooperation,xAttr,PersonX be popular,1,0
+PersonX swings for the fences,xAttr,PersonX receive a pitch,0,1
+PersonX grabs PersonY's gun,xIntent,PersonX intended to kill the snake to save his friend,1,0
+PersonX leads PersonY expedition,xNeed,PersonX he goes with him,1,0
+PersonX sneaks around,xIntent,PersonX feel sneaky,0,2
+PersonX french kisses,xIntent,PersonX intended to feel tongue,1,0
+PersonX alters PersonY's course,xNeed,PersonX get to know about it,1,0
+PersonX is right next,xAttr,PersonX feel curious,0,2
+PersonX dances all night,xIntent,PersonX have some drinks,0,1
+PersonX protects ___ from harm,xAttr,PersonX be curageous,1,0
+PersonX pays ___ to the king,xAttr,PersonX be dutiful,1,0
+PersonX pumps iron,xNeed,PersonX goes to gym,1,0
+PersonX pulls faces,xReact,"PersonX feel like a murderer, a soldier, stressed",1,0
+PersonX leaves the class,xAttr,PersonX be distracted,1,0
+PersonX buys one for PersonY,xReact,PersonX be sponsoring for person y,0,1
+PersonX prevents the ___ from breaking,xAttr,PersonX be careful,1,0
+PersonX gives PersonX's presentation,xNeed,PersonX feel accomplished,0,2
+PersonX makes a salad,xNeed,PersonX get the ingredients,1,0
+PersonX gains PersonY's confidence,xNeed,PersonX keep persony's secrets,1,0
+PersonX is a quick learner,xReact,PersonX feel proud and happy,1,0
+PersonX includes another ___,xAttr,PersonX be accomodating,1,0
+PersonX spills PersonX's guts,xAttr,PersonX be gulity,1,0
+PersonX is PersonY's mother,xReact,PersonX intended to a child ,0,1
+PersonX studies ___ in college,xNeed,PersonX intended to prepare for a career after graduation,0,2
+PersonX wipes PersonY's hands,xIntent,PersonX intended to person's hands to be clean ,1,0
+PersonX pulls the car,xNeed,PersonX be muscular,0,1
+PersonX exercises every ___,xNeed,PersonX read all manuals,1,0
+PersonX bits PersonX's lip,xIntent,PersonX intended to calm himself down,1,0
+PersonX really love PersonY,xNeed,PersonX a relationship,1,0
+PersonX is still angry,xReact,PersonX gets angry with situation,0,1
+PersonX sells PersonX's jewelry,xIntent,PersonX feel better off financially,0,2
+PersonX brings people together,oReact,PersonX intended to  live in peace,0,1
+PersonX puts PersonX's phone,xNeed,PersonX take a phone,1,0
+PersonX wants ___ very badly,xReact,PersonX research video game systems,0,2
+PersonX plays a ___ in the movement,xNeed,PersonX determine the need within the movement,1,0
+PersonX sees a boy,xAttr,PersonX feel excited by the boy,0,2
+PersonX plays a ___ in the system,xNeed,PersonX follow orders,1,0
+PersonX gets PersonX's hands on ___,xNeed,PersonX rush for something in a sale,1,0
+PersonX smells something terrible,xReact,PersonX feel grossed out,1,0
+PersonX gives PersonY opinion,xIntent,PersonX make a decision,0,2
+PersonX helps PersonY's move,xNeed,PersonX agree to help persony,1,0
+PersonX tips PersonY's head back,xAttr,PersonX intended to move person's head,0,2
+PersonX splashes ___ on PersonX's face,xAttr,PersonX intended to play joyfully,0,1
+PersonX wants to come,xAttr,PersonX be outgoing,1,0
+PersonX recently graduated,oReact,PersonX have passed all of their classes,0,1
+PersonX is walking to the store,xIntent,PersonX intended to buy something,1,0
+PersonX meets PersonY's customers ' ___,xNeed,PersonX get a job at persony's business,1,0
+PersonX loves riding PersonX's bike,xReact,PersonX intended to travel,0,2
+PersonX gets ___ to make,xNeed,PersonX be quite,1,0
+PersonX pierces PersonX's ears,xReact,PersonX intended to show off,0,1
+PersonX attends PersonX's father 's ___,xNeed,PersonX buy an airline ticket,1,0
+hairdressing salon,xIntent,PersonX intended to gossip ,1,0
+PersonX tries again next year,xNeed,PersonX feel proud about his non stop efforts,0,2
+PersonX loves the ___ with PersonX's heart,xReact,PersonX feel joyous,1,0
+PersonX helps PersonY stay awake,xAttr,PersonX be thoughful,1,0
+PersonX buys a used car,xAttr,PersonX look on craigs list,0,1
+PersonX gains confidence,xNeed,PersonX adjust themself well mentally,1,0
+PersonX links together the ___,xNeed,PersonX feel enlightened,0,2
+PersonX has a fit,xIntent,PersonX intended to they are imature ,1,0
+PersonX gets ___ at the store,xNeed,PersonX see what they need,1,0
+PersonX agrees to disagree,xIntent,PersonX intended to conclude the argument/discussion and move on ,1,0
+PersonX does better in school,oReact,PersonX intended to succeed,0,1
+PersonX gives ___ a warning,xNeed,PersonX walk up to them,1,0
+PersonX has to take PersonY to the hospital,xNeed,PersonX stop the bleeding,1,0
+PersonX replaces the tire,xIntent,PersonX intended to fix a flat,1,0
+PersonX rings PersonY,xAttr,PersonX be friendly,1,0
+PersonX comes of age,oReact,PersonX be successful,0,1
+PersonX loves PersonY's work,oReact,PersonX see y work,0,2
+PersonX makes thanksgiving dinner,xIntent,PersonX intended to family and friends to come,1,0
+PersonX sends a letter,xAttr,PersonX write a letter,0,2
+friendship,xNeed,PersonX communication,1,0
+PersonX gets PersonX's nails done,xIntent,PersonX intended to pretty ,1,0
+PersonX scrambles eggs for breakfast,xAttr,PersonX be skilled,1,0
+PersonX shows schematically in fig,xReact,PersonX be analytical,0,1
+PersonX forms PersonY impression,xNeed,PersonX guide persony,1,0
+PersonX follows the instructions,xIntent,PersonX listen to the instructions,0,2
+PersonX loves reading books,xAttr,PersonX be nerdy,1,0
+PersonX sits and watch ___,xAttr,PersonX feel refreshed,0,1
+PersonX makes PersonY part,xReact,PersonX be generous,0,1
+PersonX says PersonY's goodbyes,xAttr,PersonX be talkative,1,0
+PersonX not knows which end is up,xIntent,PersonX feel confused,0,1
+PersonX takes things,xIntent,PersonX be a thief,0,1
+PersonX plays many games,xAttr,PersonX turn on game station,0,1
+PersonX makes the cookies,xIntent,PersonX intended to reveal his cooking skills,1,0
+PersonX closes that day,xAttr,PersonX feel responsible,0,1
+PersonX lifts PersonY's leg,xIntent,PersonX intended to move,1,0
+PersonX puts on PersonX's hat,xNeed,PersonX put it on their head,1,0
+PersonX asks PersonY to sit down,oReact,PersonX be polite,0,1
+PersonX gets a second opinion,xAttr,PersonX be friendly,1,0
+thaw roast,xNeed,PersonX remove from freezer,1,0
+PersonX loses PersonX's sense,oReact,PersonX feel out of control,0,1
+PersonX makes the shot,xIntent,PersonX practices for the game,0,2
+PersonX gives PersonY warning,xAttr,PersonX be caring,1,0
+PersonX goes to work in the morning,xNeed,PersonX get ready for work,1,0
+PersonX hides under the covers,xIntent,PersonX intended to be hidden,1,0
+PersonX spends hours,xIntent,PersonX be tolerant,0,2
+PersonX wants to learn to swim,xNeed,PersonX buy a bathing suit,1,0
+PersonX takes down a peg,xAttr,PersonX feel superior,0,2
+PersonX bullies in school,xNeed,PersonX feel satisfied,0,2
+PersonX starts a band,xReact,PersonX feel satisfied,1,0
+PersonX congratulates PersonY,xAttr,PersonX feel happy,0,2
+PersonX rides PersonY's bikes,xReact,PersonX be strong,0,1
+PersonX finds ___ that PersonY liked,oReact,PersonX intended to show they care,0,1
+PersonX talks to people,xNeed,PersonX have communication skills,1,0
+PersonX eats ___ very quickly,xIntent,PersonX feel rushed,0,2
+PersonX walks to the bathroom,xNeed,PersonX have eaten breakfast,1,0
+PersonX sits next to PersonY,xReact,PersonX intended to eat food with the person,0,1
+PersonX catches PersonY eye,xAttr,PersonX be interesting,1,0
+PersonX visits PersonX's mother,xNeed,PersonX call her first,1,0
+PersonX murders PersonY,xAttr,PersonX be insane,1,0
+PersonX pays ___ to the government,xNeed,PersonX intended to extra fine ,0,2
+PersonX grinds for a week,xReact,PersonX intended to finish work,0,1
+PersonX meets PersonX's customers ' ___,xAttr,PersonX be dutiful,1,0
+PersonX follows the recipe exactly,xAttr,PersonX intended to tasty food ,0,1
+PersonX asks PersonY for money,xAttr,PersonX notice they are out of money,0,1
+PersonX drives to the beach,xAttr,PersonX be fun,1,0
+PersonX rejects PersonY,xAttr,PersonX intended to be exclusive,0,2
+PersonX puts it in PersonX's purse,xReact,PersonX feel organized,1,0
+eat pie,xAttr,PersonX bake one,0,1
+PersonX has a wonderful time on PersonX's trip,xIntent,PersonX intended to have fun,1,0
+PersonX brings ___ to a head,xIntent,PersonX intended to resolve all issues,1,0
+PersonX leaves it at that,xNeed,PersonX not have anything else to say,1,0
+PersonX quickly fell,xNeed,PersonX feel pain,0,2
+PersonX throws ___ at the tv,xIntent,PersonX feel guilty,0,2
+PersonX hears a scary noise,xAttr,PersonX feel worried,0,2
+PersonX touches every ___,xNeed,PersonX decide what personx needs to touch,1,0
+PersonX watches scary movies,xIntent,PersonX intended to be scared ,1,0
+PersonX pumps PersonY's gas,oReact,PersonX be nice,0,1
+PersonX drops a log,xNeed,PersonX be bound up,1,0
+PersonX hits the headlines,xNeed,PersonX of done something good,1,0
+compute sum,xReact,PersonX enter summands into calculator,0,1
+PersonX loves the dog,oReact,PersonX feel happy,0,1
+PersonX arches PersonY's back,xNeed,PersonX intended to help someone work out,0,2
+PersonX sets ___ to rights,oReact,PersonX figure it out,0,1
+PersonX rains on PersonX's parade,xNeed,PersonX be conniving,0,1
+PersonX calls PersonY this morning,xAttr,PersonX be caring,1,0
+PersonX gets a call from PersonY's boss,xIntent,PersonX hear the phone ring,0,1
+PersonX improves PersonX's appearance,xIntent,PersonX intended to feel better about themselves ,1,0
+PersonX catches my eye,xReact,PersonX feel feel pain and unhappy,1,0
+PersonX decides to order pizza,xReact,PersonX intended to not be hungry,0,2
+PersonX turns the tables,xNeed,PersonX be fair,0,2
+PersonX stretches out PersonX's hand,xAttr,PersonX intended to stretch,0,2
+PersonX fails to even go platinum,xReact,PersonX feel disappointed,1,0
+PersonX brings ___ to PersonX's eyes,xReact,PersonX intended to cry,0,1
+PersonX shaves every ___,xNeed,PersonX grow hair,1,0
+PersonX skates around,xIntent,PersonX intended to exlore,1,0
+PersonX becomes a pilot,xIntent,PersonX study hard,0,2
+remember,xNeed,PersonX hire sharp secretary,1,0
+PersonX takes a hike,xNeed,PersonX bring foods and drink,1,0
+PersonX changes PersonY's lives,xNeed,PersonX intended to ease difficulty,0,2
+PersonX reads PersonX's diary,xReact,PersonX intended to remind himself of his past,0,1
+PersonX visits PersonY's daughter,oReact,PersonX be caring,0,1
+PersonX is losing weight,xNeed,PersonX be overweight,1,0
+PersonX makes PersonY assault,xAttr,PersonX have a reason why,0,1
+PersonX dyes PersonX's hair red,xNeed,PersonX go to the salon,1,0
+PersonX holds on for dear life,xNeed,PersonX be a passenger in a vehicle,1,0
+PersonX finds PersonX's father,xReact,PersonX be helpful,0,1
+PersonX buys PersonX's one,xNeed,PersonX a pair of shoes,1,0
+PersonX gives PersonY the impression,xNeed,PersonX communicate with persony,1,0
+PersonX knows PersonY's opinion,xAttr,PersonX be articulate,1,0
+drive to work,xReact,PersonX put car keys in pocket,0,1
+PersonX goes down the tubes,xReact,PersonX a drink,0,1
+PersonX takes a step back,xIntent,PersonX feel cautious,0,2
+PersonX pays PersonY well,xAttr,PersonX be caring,1,0
+PersonX catches the bus,xReact,PersonX check the schedule,0,1
+PersonX thinks it was beautiful,xReact,PersonX intended to show appreciation,0,2
+PersonX waits all day,xIntent,PersonX intended to have his car fixed,1,0
+PersonX sees 's going on,xIntent,PersonX intended to spy ,1,0
+PersonX starves the ___ into submission,xNeed,PersonX love people,1,0
+PersonX catches some rays,xIntent,PersonX go in the sun,0,1
+PersonX takes PersonY decision,xNeed,PersonX talk to persony,1,0
+PersonX feels unhappy,xNeed,PersonX be depressed,0,1
+PersonX spends PersonX's ___ working,xIntent,PersonX he gets on a ship,0,2
+PersonX would like PersonY,xNeed,PersonX express his needs,1,0
+PersonX lets PersonY see,xNeed,PersonX be generous,0,2
+PersonX keeps PersonX's fingers crossed,xReact,PersonX be faithful,0,2
+PersonX grants women the ___,xAttr,PersonX intended to power ,0,1
+PersonX grants PersonY request,oReact,PersonX intended to persony to be happy ,0,1
+PersonX flies across the room,xNeed,PersonX run really fast,1,0
+PersonX takes PersonY's toll,xIntent,PersonX go to work,0,2
+PersonX skateboards with PersonY's friends,xAttr,PersonX intended to skateboard with people ,0,2
+PersonX tells my mother,xNeed,PersonX intended to get me in trouble,0,1
+PersonX conveys PersonY impression,xAttr,PersonX know what y is trying to convey,0,1
+PersonX crosses the ___ to get,xNeed,PersonX be in a rush,1,0
+PersonX puts PersonX's ___ together,xNeed,PersonX learn how to make something,1,0
+PersonX wins any money,xNeed,PersonX gamble,1,0
+PersonX sits at PersonY's feet,xIntent,PersonX be sorry,0,2
+PersonX forms PersonX's opinion,xIntent,PersonX intended to notice ,1,0
+PersonX puts it in PersonY's purse,xNeed,PersonX get item to put,1,0
+PersonX takes the stage,xIntent,PersonX intended to perform,1,0
+PersonX hurts like hell,xReact,PersonX feel achy,1,0
+PersonX has a dream last night,xNeed,PersonX go to sleep,1,0
+PersonX sends PersonY off,xNeed,PersonX locate y,1,0
+PersonX returns to PersonX's state,xAttr,PersonX want to be back,0,1
+PersonX smells terrible,xAttr,PersonX be sweaty,1,0
+PersonX asks PersonX's dad for help,xAttr,PersonX be emotional,1,0
+PersonX throws PersonX's hat over the fence,xNeed,PersonX go to the fence,1,0
+PersonX has a say,xReact,PersonX feel like they mean something,1,0
+PersonX seems better,xReact,PersonX be hopeful,0,2
+PersonX pays ___ at the rate,xIntent,PersonX feel empty,0,2
+PersonX earns PersonY income,xNeed,PersonX feel happy,0,2
+PersonX shows schematically in figure,xReact,PersonX be smart,0,1
+PersonX gets a surprise,xReact,PersonX feel surprised,1,0
+PersonX finds PersonY's ring,xNeed,PersonX be clear-sighted,0,1
+PersonX shakes the ___ to PersonY's foundations,xAttr,PersonX be mad at persony,0,2
+PersonX wraps PersonY's hand,xReact,PersonX get a bandage,0,1
+PersonX delivers PersonY address,xAttr,PersonX be dutiful,1,0
+PersonX copies PersonY,xAttr,PersonX feel happy,0,2
+PersonX gets paint,xNeed,PersonX feel excited,0,2
+PersonX wipes the slate clean,xNeed,PersonX gather cleaning materials,1,0
+PersonX gets everything ready,xNeed,PersonX intended to they are going on vacation ,0,1
+PersonX buys PersonY a car,xAttr,PersonX take persony to pick out a car,0,2
+PersonX loses track of time,xReact,PersonX feel lost,1,0
+PersonX puts ___ in the oven,xIntent,PersonX intended to cook,1,0
+PersonX fails all of PersonX's classes,xNeed,PersonX be lazy,1,0
+PersonX falls into the wrong hands,xReact,PersonX be cautious,0,2
+PersonX brings the ___ into disrepute,oReact,PersonX tell lies,0,1
+stand up,xNeed,PersonX not sitting down,1,0
+PersonX gets close,xNeed,PersonX have a map,1,0
+PersonX practices together,xNeed,PersonX feel determined,0,2
+PersonX cuts the crap,xIntent,PersonX intended to directly come to point,1,0
+PersonX enters PersonY's car,xAttr,PersonX be attentive,1,0
+PersonX invites people over,xReact,PersonX intended to be around friends ,0,1
+PersonX fears would lose,xNeed,PersonX pump yourself up,1,0
+PersonX takes a step forward,xIntent,PersonX intended to claim that they're spartacus,1,0
+PersonX sets things right,xNeed,PersonX intended to feel guilt free,0,2
+PersonX provides PersonY analysis,xAttr,PersonX be invested,1,0
+PersonX replaces PersonX's old one,xReact,PersonX intended to a new one ,0,2
+PersonX leaves the table,xIntent,PersonX intended to show personx's frustrations with colleagues,1,0
+PersonX wants to play baseball,xNeed,PersonX practice with a team,1,0
+PersonX wants to learn a new language,xNeed,PersonX feel thirsty for knowledge,0,2
+PersonX leaves PersonY's ___ alone,xIntent,PersonX feel good,0,1
+PersonX bites the dust,xAttr,PersonX be sad,1,0
+PersonX practices hard,oReact,PersonX get the instrument ready,0,1
+PersonX sees PersonY every ___,oReact,PersonX be friendly,0,1
+PersonX looks a ___ in the face,xAttr,PersonX be confident,1,0
+PersonX pierces PersonY's ears,xAttr,PersonX be skilled,1,0
+PersonX finds the shoes,xNeed,PersonX intended to she is barefoot ,0,1
+PersonX orders delivery food,xIntent,PersonX intended to be hungry ,1,0
+PersonX uses the ___ to describe,oReact,PersonX be brave enough to deal the problems,0,1
+PersonX weeps like a PersonY,xNeed,PersonX be compassionate,0,2
+PersonX contains PersonY number,xNeed,PersonX be hopeful,0,2
+PersonX gets burned,xReact,PersonX feel pain,1,0
+PersonX catches PersonX's bus,xIntent,PersonX feel relief,0,2
+PersonX wears PersonY's boots,xAttr,PersonX be thoughtful,1,0
+PersonX quickly went,xIntent,PersonX feel good,0,2
+PersonX makes contact with PersonY,xAttr,PersonX be friendly,1,0
+PersonX realizes that PersonY was lost,xNeed,PersonX of watched persony,1,0
+PersonX is in a good mood,oReact,PersonX feel happy,0,1
+PersonX pulls PersonY's hand,xNeed,PersonX he goes to the store,1,0
+PersonX picks blueberries,xReact,PersonX feel full,1,0
+PersonX wouldnt hurts a fly,xAttr,PersonX be kind,1,0
+PersonX pisses up a rope,xNeed,PersonX exercise,1,0
+PersonX hits PersonY's friend,xAttr,PersonX intended to injure the friend,0,2
+PersonX offer ___ to god,xAttr,PersonX intended to try to get students' ,0,1
+PersonX enjoys swimming,xReact,PersonX feel happy,1,0
+PersonX starts walking,xIntent,PersonX intended to exercise,1,0
+PersonX rests ___ on PersonY's shoulder,xAttr,PersonX feel relaxed,0,2
+PersonX provides PersonY account,xNeed,PersonX login information,1,0
+PersonX gets the shoes,xIntent,PersonX feel good,0,2
+PersonX pours PersonX's heart,oReact,PersonX open his mouth,0,1
+PersonX exercises every day,xIntent,PersonX wake up early,0,2
+PersonX acts upon PersonY,xAttr,PersonX learn the skills,0,1
+PersonX would n't like PersonY,xIntent,PersonX intended to hold opposing views,1,0
+PersonX works PersonY's way up,oReact,PersonX be knowledgable,0,1
+PersonX feels unappreciated,xReact,PersonX feel sad,1,0
+PersonX gets the stain,xNeed,PersonX be sloppy,0,1
+PersonX takes ___ everywhere,xNeed,PersonX be prepared,0,1
+PersonX feels so nervous,xAttr,PersonX be edgy,1,0
+PersonX takes things as they come,xNeed,PersonX feel satisfied,0,1
+PersonX wants to learn to cook,xNeed,PersonX read a cookbook,1,0
+PersonX teaches PersonY ___ tricks,xAttr,PersonX be knowing tricks,0,1
+PersonX buys a parrot,xIntent,PersonX buy a cage,0,1
+PersonX produces PersonY results,xNeed,PersonX be caring,0,2
+PersonX loses sight of PersonY,xAttr,PersonX be forgetful,1,0
+PersonX knows the ___ from the dance,xNeed,PersonX sit and watch the dance,1,0
+PersonX swings the bat,xAttr,PersonX be strong,1,0
+PersonX shields PersonY's eyes,xNeed,PersonX creep up behind persony,1,0
+PersonX loves riding PersonY's bike,xIntent,PersonX intended to go fast on a bike,1,0
+survival,xNeed,PersonX prioritizing many decisions and actions,1,0
+PersonX meets PersonX's standards,oReact,PersonX establish standards,0,1
+PersonX tickles the dragons tail,xNeed,PersonX intended to make thw dragon giggle ,0,1
+PersonX sees what happened,xIntent,PersonX think it's worth finding out,0,1
+PersonX cooks spaghetti,xIntent,PersonX intended to make dinner,1,0
+PersonX begins to eat,xIntent,PersonX intended to eat mom's cooking,1,0
+PersonX repels ___ by force,xNeed,PersonX intended to make a point,0,2
+PersonX puts it in a box,xIntent,PersonX intended to keep it safe,1,0
+PersonX looks ___ like PersonY,oReact,PersonX feel unoriginal,0,1
+PersonX puts the moves on ___,xIntent,PersonX feel amorous,0,2
+PersonX calls an ambulance,xNeed,PersonX notice an emergency,1,0
+PersonX looks in the pantry,xNeed,PersonX leave his room,1,0
+PersonX opens PersonX's legs,xAttr,PersonX be relaxed,1,0
+PersonX becomes scared,xAttr,PersonX be confused,1,0
+PersonX draws PersonX's sword,xIntent,PersonX gets a reason to draw it,0,2
+PersonX does not believe PersonY,xReact,PersonX be suspicious,0,1
+PersonX sends ___ home,oReact,PersonX love their parents,0,1
+PersonX finds PersonY at home,oReact,PersonX get dressed,0,1
+PersonX is working at a diner,xNeed,PersonX get a job at a diner,1,0
+PersonX visits PersonX's mother 's ___,xNeed,PersonX plan a trip,1,0
+PersonX wears a cast,xNeed,PersonX goes for a bike ride,1,0
+PersonX broadens PersonY's ___ to include,xIntent,PersonX be knowledgeable,0,2
+PersonX makes the team though,xReact,PersonX intended to prove themself,0,1
+PersonX divides the ___ into groups,xIntent,PersonX be care giver,0,1
+PersonX alters PersonX's course,xIntent,PersonX feel satisfied,0,2
+PersonX uses the card,xIntent,PersonX feel efficient,0,2
+PersonX sits patiently,xAttr,PersonX be patient,1,0
+PersonX leaves ___ in PersonX's car,xNeed,PersonX be driving near persony's car,1,0
+PersonX would n't work,xAttr,PersonX be slothful,1,0
+PersonX would like it,xAttr,PersonX be desiring,1,0
+PersonX makes a mistake,xReact,PersonX feel dumb,1,0
+PersonX dyes PersonY's hair blue,xNeed,PersonX feel glad for having done a wonderful job,0,2
+PersonX comes see PersonY,xNeed,PersonX be social,0,2
+PersonX wants to kiss PersonY,xReact,PersonX flirt with person y,0,1
+PersonX goes to PersonY,xIntent,PersonX get in the car,0,1
+PersonX calls PersonY in,xAttr,PersonX make a reason,0,2
+PersonX sees PersonY in PersonX's office,xIntent,PersonX intended to meet person y,1,0
+PersonX gets the part,xAttr,PersonX be talented,1,0
+PersonX flies to PersonY,xReact,PersonX intended to communicative ,0,1
+PersonX puts upon PersonY,oReact,PersonX be close to persony,0,1
+PersonX rears PersonY's children,oReact,PersonX get custody,0,1
+PersonX joins ___ for the protection,xNeed,"PersonX feel happy,strong,secure",0,2
+PersonX teaches ___ in schools,xNeed,PersonX get hired at a school,1,0
+PersonX shakes PersonY's heads,xIntent,PersonX intended to be friendly,1,0
+PersonX practices hard every day,oReact,PersonX intended to excel,0,1
+PersonX has never been on one before,xReact,PersonX be young,0,2
+PersonX hits by lightning,xReact,PersonX feel shocked,1,0
+PersonX provides ___ for the poor,oReact,PersonY feel thankful,1,0
+PersonX finds it anywhere,xNeed,PersonX be talented,0,2
+PersonX starts early in the morning,xReact,PersonX set an alarm,0,1
+PersonX makes friendship bracelets,xAttr,PersonX be artistic,1,0
+PersonX builds muscle,xIntent,PersonX intended to be strong,1,0
+PersonX gets on PersonX's feet,oReact,PersonX feel neutral,0,1
+PersonX visits PersonY's friend,xIntent,PersonX intended to be sociable,1,0
+PersonX gets to work on time,xNeed,PersonX be working,1,0
+PersonX researches ___ online,xIntent,PersonX intended to make a good grade,1,0
+PersonX advertises PersonY's business,xAttr,PersonX have a place to advertise it,0,2
+PersonX gets second place,xNeed,PersonX compete,1,0
+PersonX puts the phone,xNeed,PersonX make a call,1,0
+PersonX begs PersonY's parents,xAttr,PersonX be convincing,1,0
+PersonX rains cats and dogs,xIntent,PersonX intended to the othe rperosn to know hes very angry ,1,0
+PersonX learns how to bake a cake,oReact,PersonX go to culinary school,0,1
+learn about linguistics,xAttr,PersonX read chomsky,0,1
+PersonX replaces PersonY's old one,xIntent,PersonX intended to express gratitude for the past,1,0
+PersonX sees PersonY every day,xIntent,PersonX be disciplined,0,1
+PersonX argues with PersonY's boyfriend,xAttr,PersonX be hard-headed,1,0
+PersonX makes every ___,xIntent,PersonX intended to make every test ,1,0
+PersonX has anger problems,xReact,PersonX be immature,0,2
+PersonX gets dressed for work,xNeed,PersonX intended to earn money,0,1
+PersonX provides PersonY estimate,xAttr,PersonX be consistent,1,0
+PersonX sits down next to PersonY,xReact,PersonX be social,0,1
+PersonX pulls PersonY out,xAttr,PersonX be helpful,1,0
+PersonX takes PersonY step,xAttr,PersonX be aggressive,1,0
+PersonX tells ___ PersonY had a surprise,xReact,PersonX be informative,0,1
+PersonX leaves PersonX's car,xIntent,PersonX go somewhere,0,2
+PersonX shares PersonY experience,xIntent,PersonX intended to tell a story,1,0
+PersonX catches PersonY attention,xNeed,PersonX talk to persony's friend,1,0
+PersonX shoves PersonY back,xAttr,PersonX be arms length away from y,0,2
+PersonX meets PersonY's standards,xNeed,PersonX prepare himself,1,0
+PersonX sifts out ___,xAttr,PersonX be artistic,1,0
+PersonX lit another ___,xIntent,PersonX intended to relationship ,1,0
+PersonX reads PersonY's diary,xIntent,PersonX intended to be nosey,1,0
+have physical exam,xIntent,PersonX kill yourself,0,1
+PersonX camps with PersonY's family,xAttr,PersonX pack camping gear in car,0,2
+PersonX loves PersonY more than anything,xIntent,PersonX intended to be affectionate,1,0
+PersonX takes liberties,xIntent,PersonX be strong,0,2
+PersonX wins several awards,xIntent,PersonX practice,0,1
+PersonX steps up PersonX's game,xNeed,PersonX practice,1,0
+PersonX would not work,xNeed,PersonX have an injury,1,0
+PersonX gets something to drink,xNeed,PersonX be thirsty,1,0
+PersonX takes ___ in the campaign,xNeed,PersonX ask permisssion,1,0
+PersonX gets hurt,xReact,PersonX feel pain,1,0
+PersonX kisses PersonY on the cheek,xIntent,PersonX intended to be kiss,1,0
+PersonX lit another cigarette,xIntent,PersonX take lighter,0,2
+loose weight,xReact,PersonX not put butter on popcorn,0,1
+PersonX gets there early,xAttr,PersonX be curious,1,0
+PersonX sees a rabbit,xAttr,PersonX looks around,0,1
+PersonX puts PersonX's ___ to death,xNeed,PersonX feel hateful,0,2
+PersonX is excited and nervous,xReact,PersonX hear some good news,0,2
+PersonX wants to learn how to sing,xNeed,PersonX get music,1,0
+PersonX is a web developer,xNeed,PersonX feel productive,0,2
+PersonX bites PersonX's ___ to keep,xReact,PersonX feel frustrated,1,0
+PersonX is much cheaper,xNeed,PersonX intended to save money,0,2
+PersonX gives PersonX's all,xReact,PersonX feel happy,1,0
+PersonX works really hard,xNeed,PersonX intended to good,0,1
+PersonX tells PersonY a little,xAttr,PersonX be talkative,1,0
+PersonX gives PersonY the courage,xNeed,PersonX be influential,0,1
+PersonX meets customers ' ___,xIntent,PersonX know about their tastes,0,1
+PersonX finally got ___,xNeed,PersonX get hired,1,0
+PersonX goes to a doctor 's appointment,xAttr,PersonX feel scared,0,1
+PersonX peers inside,xNeed,PersonX feel curious,0,2
+PersonX does a wonderful job,xIntent,PersonX intended to want to be a good employee ,1,0
+PersonX leaves it be,xNeed,PersonX think it will be ok,1,0
+PersonX makes ___ instead,xAttr,PersonX be hungry,1,0
+PersonX has a dinner party,xAttr,PersonX be social,1,0
+PersonX appoints a ___ to investigate,xAttr,PersonX have the responsibility,0,1
+PersonX shares the ___ equally,xNeed,PersonX he works with a co-worker,1,0
+PersonX owes PersonY,xIntent,PersonX borrow from persony,0,2
+PersonX wants to play hockey,xAttr,PersonX feel friendly,0,1
+PersonX gives the ___ PersonY's name,xIntent,PersonX go there,0,2
+PersonX lands the job,xReact,PersonX be dedicated,0,1
+PersonX drops the phone,xReact,PersonX call someone,0,2
+PersonX opens the lid,xNeed,PersonX look for the jar they need,1,0
+PersonX visits PersonX's cousin,xIntent,PersonX know where cousin lives,0,1
+PersonX blows PersonX's wad,xNeed,PersonX become intimate with a woman,1,0
+PersonX notices a wallet,xAttr,PersonX feel hopeful,0,2
+PersonX stays clean,xAttr,PersonX be hygienic,1,0
+PersonX takes place in the century,xNeed,PersonX be brave,0,1
+PersonX convinces PersonX's parents,xReact,PersonX feel relieved,1,0
+PersonX arrives at PersonX's destination,xIntent,PersonX decide what her destination is,0,1
+PersonX sets the thames on fire,xNeed,PersonX be at the thames,1,0
+PersonX offers ___ on this book when ordered,xNeed,PersonX paper,1,0
+PersonX draws ___ to the need,xReact,PersonX put up big posters,0,1
+PersonX practices all day,xIntent,PersonX intended to be good at it,1,0
+PersonX meets the company 's ___,xNeed,PersonX feel successful,0,2
+PersonX provides PersonY description,xIntent,PersonX know persony,0,2
+PersonX spends ___ at PersonY's house,xAttr,PersonX intended to be a good friend,0,2
+PersonX spends the ___ working,xReact,PersonX feel exhausted and tired,1,0
+PersonX arrives ___ from work,xAttr,PersonX be tired,1,0
+PersonX uses ___ as a means,xNeed,PersonX make a plan,1,0
+PersonX goes from zero to hero,xAttr,PersonX be capable,1,0
+PersonX watches for PersonY opportunity,xNeed,PersonX feel eager,0,2
+PersonX sprains PersonX's leg,xNeed,PersonX be athletic,0,2
+PersonX takes ___ to the grave,xIntent,PersonX be stubborn,0,1
+PersonX makes PersonY concessions,xAttr,PersonX be helpful,1,0
+PersonX puts ___ into the oven,xIntent,PersonX prepare item for cooking,0,1
+PersonX turns PersonX's music down,xIntent,PersonX intended to let his wife sleep soundly,1,0
+PersonX wears gloves,xIntent,PersonX intended to protect hands,1,0
+PersonX talks to PersonY again,xAttr,PersonX be social,1,0
+PersonX buys one,xNeed,PersonX find item to buy,1,0
+PersonX goes ___ to bed,xAttr,PersonX set their alarm,0,1
+howl with laughter,xNeed,PersonX funny story,1,0
+PersonX eats it quickly,xIntent,PersonX feel hungry,0,2
+PersonX meets friends,xIntent,PersonX be friendly,0,2
+PersonX increases women 's ___,xIntent,PersonX intended to be helpful,1,0
+PersonX gets PersonX's makeup done,xIntent,PersonX intended to be noticed,1,0
+PersonX goes downhill,xReact,PersonX feel bad,1,0
+PersonX pulls out all the stops,xNeed,PersonX be determined,0,1
+PersonX makes that mistake,xReact,PersonX of done something,0,1
+PersonX sees PersonY's crush,oReact,PersonX feel happy,0,1
+PersonX fits the ___ best,oReact,PersonX be mellow,0,1
+PersonX wants to learn how to play the guitar,xReact,PersonX buy a guitar,0,2
+PersonX never been on one before,xReact,PersonX feel nervous,1,0
+PersonX spills coffee,xAttr,PersonX feel angry because x has to get new coffee,0,1
+PersonX cleans PersonX's bedroom,xNeed,PersonX start to pick up things,1,0
+PersonX visits PersonY's mother,xAttr,PersonX travel,0,2
+PersonX runs some errands,xIntent,PersonX intended to get things done to have free time later,1,0
+PersonX spends ___ waiting,oReact,PersonX decide to wait,0,1
+PersonX finishes the job,xNeed,PersonX get necessary equipment,1,0
+PersonX buys ___ for PersonX's wife,xIntent,PersonX make sure he is alone when he goes to buy the gift,0,2
+PersonX looks in PersonX's cupboard,oReact,PersonX open the door,0,1
+PersonX watches PersonY,xNeed,PersonX be watchful,0,1
+PersonX has a wonderful trip,xReact,PersonX feel satisfied,1,0
+PersonX represents every ___,xNeed,PersonX be well known,1,0
+PersonX finds ___ to describe,xIntent,PersonX feel less worried,0,2
+PersonX gets ___ right away,xReact,PersonX feel fulfilled,1,0
+PersonX is making a cake,xNeed,PersonX feel happy,0,2
+PersonX knows PersonY name,xReact,PersonX look up person y,0,1
+PersonX protects PersonY from harm,xIntent,PersonX intended to keep him safe from danger,1,0

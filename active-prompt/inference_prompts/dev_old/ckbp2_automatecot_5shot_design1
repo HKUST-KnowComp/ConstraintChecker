@@ -1,0 +1,29 @@
+{
+    "prompt": [
+        {
+            "question": "Q: Answer whether the following statement is plausible. Answer with only Yes or No: If PersonX know PersonY, can be hindered by, y don.",
+            "rationale": "Let's think step by step. The statement is incomplete and does not make sense.",
+            "pred_ans": "No"
+        },
+        {
+            "question": "Q: Answer whether the following statement is plausible. Answer with only Yes or No: If PersonX do not think PersonY, can be hindered by, there be actually something.",
+            "rationale": "Let's think step by step. The statement is unclear and ambiguous. It's difficult to determine what exactly is being said.",
+            "pred_ans": "No"
+        },
+        {
+            "question": "Q: Answer whether the following statement is plausible. Answer with only Yes or No: If PersonX pay by card, but before, PersonX needed, PersonX can use PersonX debit card.",
+            "rationale": "Let's think step by step. First, 'PersonX pay by card' expresses an 'event' of PersonX. Second, The meaning of 'PersonX can use PersonX debit card' is clear and non-ambiguous. Third, it is true that if PersonX cannot use their debit card, they will not be able to pay by card.",
+            "pred_ans": "Yes"
+        },
+        {
+            "question": "Q: Answer whether the following statement is plausible. Answer with only Yes or No: If PersonX want to be a actor, but before, PersonX needed, PersonX need to make plan.",
+            "rationale": "Let's think step by step. First, 'PersonX want to be a actor' expresses a desire of PersonX. Second, 'unless PersonX make plan' suggests that taking action is necessary for the desire to happen.",
+            "pred_ans": "Yes"
+        },
+        {
+            "Question": "Q: Answer whether the following statement is plausible. Answer with only Yes or No: If PersonX gaze at PersonY, as a result, PersonY or others feel, PersonY blush.",
+            "rationale": "Let's think step by step. First, 'PersonY blush' expresses a 'mental state' of PersonY. Second, The meanings are all clear and non-ambiguous. Third, it is common for someone to blush when they are the object of someone's gaze.",
+            "pred_ans": "Yes"
+        }
+    ]
+}

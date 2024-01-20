@@ -1,0 +1,979 @@
+----False. Arguing with someone does not automatically mean that they are not a certain type of person.
+----False. If PersonX steals from PersonY, it is unlikely that PersonY would ever know.
+----False. If PersonX acts weird, it does not necessarily mean that PersonY or others will do the same. PersonY may still choose to go with PersonX.
+----False. PersonY cannot produce the item without the necessary resources and skills.
+----True. If PersonY picks up the phone, they must respond to the call, either themselves or by passing it on to someone else.
+----Step 1: PersonX asks PersonY to do something.--Step 2: PersonY or others will do something as a result.--Step 3: PersonY volunteers to do something.----Conclusion: True
+----False. The statement does not make sense as written.
+----False. Dropping someone's head is not likely to occur, and even if it did, it is unlikely that the person whose head was dropped would look back at the person who dropped it.
+----False. If PersonX finds out, PersonY or others may not make the trip.
+----False. It is unlikely that PersonY or others will run back if PersonX comes from WoW to GW2.
+----False. PersonY cannot be sure of the result of PersonX's training.
+----False. Selling PersonZ for a rate would not necessarily result in PersonY's wife surviving.
+----True. If PersonX reads something first, it is likely that PersonY or others will also read it, and PersonY may reply to PersonX.
+----False. Going to work one day does not necessarily mean that PersonX will be stuck in one place.
+----False. The statement does not make sense.
+----False. This statement does not make sense.
+----False. If PersonX never owns their own love, it is unlikely that their eyes will manifest their love.
+----False. This statement does not make sense.
+----False. Going home at a certain time does not necessarily lead to understanding something.
+----False. Ordering a salad does not typically result in giving a three star rating.
+----False. This statement does not make sense.
+----Step 1: PersonX is in a good mood.--Step 2: PersonX smiles.----Conclusion: True
+----True. If PersonX starts early, they will likely finish their tasks earlier and be able to go home earlier.
+----False. Wiping one's forehead does not cause one to study.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----Step 1: PersonX needs to make an appointment.--Step 2: PersonX will make the appointment if possible.--Step 3: PersonX will leave a message if the appointment is made.----True
+----Step 1: PersonX would like to reach out to PeopleX.--Step 2: As a result, PersonX will reach out to PeopleX.--Step 3: PersonX could reach out to PeopleX.----True
+----False. This statement does not make sense.
+----False. Losing the lottery does not necessarily mean that PersonX will leave.
+----False. Giving someone something does not necessarily mean that the giver will know about gambling.
+----Step 1: Does PersonX have a destination?--Step 2: Is PersonY at the destination?--Step 3: Is it likely that PersonX will reach the destination?----Conclusion: True
+----False. Dumping someone does not necessarily lead to a realization.
+----False. Breaking the rule would likely result in a punishment, such as a suspension or a fine, but not a 24-hour shift at the hospital.
+----False. Blending requires two or more substances to be mixed together, while a solvent is a single substance used to dissolve another substance.
+----False. Asking someone does not guarantee that the person will go.
+----False. It is unlikely that PersonX will speak to PersonY for a minute if they bolt out of the restaurant.
+----False. It is not likely to occur because walking into a flame would result in PersonX being burned.
+----False. This statement does not make sense.
+----False. If PersonX has not done something, they cannot comment on it because they do not have the experience or knowledge to do so.
+----False. This statement does not make sense and is not likely to occur.
+----False. It is not likely that a person will do something as a result of trembling.
+----True. If PersonX makes some cookies, they will likely get dirty in the process.
+----False. PersonX would not use insect poison to catch a fly.
+----Step 1: PersonX's husband comes to PersonX.--Step 2: PersonX would be sympathetic.----Conclusion: True
+----False. Peeing in bed does not directly cause a person to become old.
+----False. Taking a step forward does not necessarily lead to a demand.
+----False. If PersonX stands still, they will not starve. They would need to stop eating in order for that to happen.
+----False. The statement does not make sense because it is not clear what the change is or what the result of the change will be.
+----False. Having a fit does not necessarily mean that PersonX will go to sleep. It is possible that PersonX may become more agitated or even pass out, but not necessarily go to sleep.
+----False. If a person cannot think straight, they may not be able to help themselves, but it is not necessarily the result.
+----False. Having a paper does not necessarily mean that PersonX cannot take PersonY to the convention.
+----False. This statement does not make sense.
+----False. It is unlikely that a person would scream bloody murder when they rise to a challenge.
+----False. If PersonX conceals their identity, they may not get recognized, but they could still be recognized if they are known by other means.
+----False. It is unlikely that a person would wander around as a result of prying open something.
+----False. This statement does not make sense as written.
+----False. It is not likely to occur because the statement does not provide enough information to determine what the result of PersonX getting into something would be.
+----Step 1: PersonX changes their behavior.--Step 2: As a result, PersonX will never go back to prison.----Conclusion: False. Changing behavior does not guarantee that PersonX will never go back to prison.
+----False. Begging does not necessarily lead to joblessness. It is possible that PersonX could find other sources of income or employment opportunities while begging.
+----False. It is not likely that a person can turn to reascend and lay full in moonlight.
+----False. PersonX cannot tell Mayor Koch at the time, so it is unlikely that PersonX's office will participate in the investigation.
+----False. Taking someone else's example does not guarantee success. Success depends on many factors, such as hard work, dedication, and luck.
+----False. It is not likely to occur.
+----False. This statement does not make sense.
+----True. Eating too much of anything can lead to weight gain, so if PersonX is eating everything, it is likely that they will gain weight.
+----False. It is unlikely that a person would tremble and then immediately read something online as a result.
+----False. It is unlikely that PersonY or others would want to follow PersonX with a tracker just because PersonX convinced their parent.
+----False. It is unlikely that PersonY would say yes if PersonX asked PersonX's sister, as PersonY or others would not be involved in the decision.
+----False.
+----True. If PersonY admires PersonX, it is likely that PersonY or others will want to cooperate with PersonX.
+----False. PersonY cannot open the door unless PersonX has already opened it.
+----False. This statement does not make sense as it is written.
+----False. PersonY would not be able to talk to PersonZ unless PersonX actually drew the four jacks.
+----False. It is unlikely that PersonY would lose their mind simply because PersonX gave them a sign.
+----Step 1: PersonX raises PersonY's glass.--Step 2: PersonY or others want PersonY to get a refill.----Conclusion: True
+----False. Throwing a ball in response to someone wanting to ignore you is not a likely occurrence.
+----False. It is unlikely that PersonY would lay their hand gently on PersonX if they are standing in the shadow.
+----False. It is not likely to occur that PersonY will be kind if PersonX has nothing to give in return.
+----False. It is unlikely that PersonY would not move if PersonX grabbed their gun.
+----Step 1: Is it possible for PersonX to sit next to PersonY? Yes.----Step 2: Is it possible for PersonY or others to want PersonX to sit next to PersonY? Yes.----Step 3
+----Step 1: PersonX alters PersonY's course.--Step 2: As a result, PersonY or others want to.--Step 3: PersonY wants to thank PersonX.----Conclusion: True
+----False. It is unlikely that PersonY will become more of a positivist simply because PersonX bought something.
+----False. It is unlikely that PersonY or others would want to buy whatever PersonX is selling as a result of making contact with PersonY.
+----False. It is unlikely that PersonY would stop their racetrack business simply because PersonX's father is not the same.
+----Step 1: PersonX harasses PersonY.--True----Step 2: As a result, PersonY or others want PersonY to stop.--True----Conclusion: True
+----Step 1: PersonX does not make the cut.--Step 2: PersonY or others want to try out themselves.----Conclusion: True
+----False. Advertising a business does not guarantee success. It is only one of many factors that can contribute to the success of a business.
+----False. It is unlikely that a person would want to cry if they were fired from their job.
+----False. It is unlikely that a person would leave simply because they have fantasized about something.
+----Step 1: PersonX meets PersonY for lunch.--True----Step 2: As a result, PersonX wants to go for a walk.--True----Conclusion: True
+----False. If PersonX wants to be at the gym, they do not have to rush through it.
+----False. This statement does not make sense.
+----True. If PersonX owes PersonY money, it is likely that PersonX will want to avoid PersonY in order to avoid having to pay the money back.
+----False. This statement does not make sense.
+----False. PersonX can still enter their own home, regardless of whether it is new or not.
+----False. It is unlikely that someone would be too afraid to drink a sip of alcohol if they want to.
+----False. Winning does not necessarily mean that PersonX would want to shop everyday.
+----Step 1: PersonX sometimes has sex.--Step 2: As a result, PersonX wants to.--Step 3: PersonX does not like to make a habit.----Conclusion: True
+----False. If PersonX likes Brooklyn 99, it does not necessarily mean that PersonX wants to do something specific.
+----Step 1: PersonX gets the finger.--Step 2: As a result, PersonX wants to.--Step 3: PersonX would feel worse.----Conclusion: False
+----False. This statement is unlikely to occur.
+----False. This statement does not make sense.
+----False. It is not likely to occur.
+----False. This statement does not make sense grammatically.
+----False. Making a bad choice does not necessarily lead to wanting to get higher.
+----False. Pulling a face does not necessarily lead to wanting to feel successful.
+----True. If PersonX moves PersonY's car, it is likely that PersonX would want to lock the car for security purposes.
+----False. The statement does not make sense.
+----Step 1: PersonX is unsure about something.--Step 2: As a result, PersonX wants to tell PersonY.----Conclusion: True
+----False. This statement does not make sense as written.
+----False. Being a heavy sleeper does not guarantee that PersonX will avoid total disaster.
+----True. If PersonX lends PersonY money, it is likely that PersonX will demand PersonY's signature at the bottom as a form of security.
+----False. It is unlikely that a person would feel bad if they find none of what they are looking for.
+----False. If a person feels trapped, they can still leave, even if they don't want to.
+----False. Putting something in a room does not necessarily lead to wanting to have a house warm party.
+----False. This statement does not make sense.
+----Step 1: PersonX finds a pay phone.--Step 2: PersonX wants to grab PersonX's quarter.----Conclusion: False
+----False. It is not likely that feeling nervous would lead to wanting to be skinny.
+----False. It is unlikely that a person would complain on Reddit in order to get attention.
+----True
+----Step 1: PersonX sees PersonY's girlfriend.--Step 2: PersonX wants to hang out with PersonY's girlfriend.----Conclusion: False
+----Step 1: PersonX has gone on vacation.--Step 2: As a result, PersonX wants to.--Step 3: PersonX believes.----Conclusion: True
+----False. Giving someone the slip implies that PersonX is trying to avoid PersonY, not that PersonX prefers PersonY.
+----False. Losing one's appetite usually results in not wanting to finish a meal.
+----Step 1: PersonX reads PersonY's diary.--Step 2: PersonX wants to refresh their memory.--Step 3: PersonX can refresh their memory.----True
+----False. The statement does not make sense grammatically.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----True. If PersonX visits their daughter, it is likely that they would want to talk to them.
+----False. It is unlikely that a person would recommend something they hate.
+----False. The statement does not make sense grammatically.
+----Step 1: PersonX saves PersonY's people.--True----Step 2: As a result, PersonX wants to calm everyone down.--True----Conclusion: True
+----False. This statement does not make sense.
+----Step 1: PersonX wants to be cautious.--True----Step 2: As a result, PersonX wants to do something.--True----Step 3: PersonX reluctantly agrees.--True----Conclusion: True
+----False. The statement does not make sense.
+----False. This statement does not make sense as it is written.
+----False. This statement does not make sense.
+----True. If PersonX sends a message, it is likely that PersonY or others will feel something and PersonY will follow back.
+----False. It is unlikely that PersonY would wake PersonX if PersonX is very skinny.
+----False. It is unlikely that PersonY would get scared if PersonX is not present.
+----False. Grabbing someone's hair is not likely to result in physical harm.
+----False. If PersonX wants to hurt PersonY, it is unlikely that PersonY would feel betrayed. Betrayal implies a sense of trust that has been broken, and it is unlikely that PersonX would have had that trust in the
+----False. PersonY cannot hit a golf course.
+----False. PersonY cannot tell PersonX if PersonX has not yet signed up for the class.
+----False. It is unlikely that PersonY or others would feel that PersonX is being affectionate simply because they want a cat.
+----False. It is unlikely that PersonX will catch PersonY's attention as a result of PersonY being happily surprised.
+----Step 1: PersonX donates plasma.--Step 2: As a result, PersonY or others feel.--Step 3: PersonY is glad.----Conclusion: True
+----Step 1: Does PersonX make food?--Yes----Step 2: Does PersonY or others feel?--Yes----Step 3: Does PersonY have to wait?--Yes----Conclusion: True
+----True. If PersonX grants PersonZ's request, it is likely that PersonY or others will feel encouraged to try it.
+----False. Meeting PersonX's father would not necessarily result in PersonX getting the part. Other factors, such as PersonX's qualifications and experience, would likely play a role in determining whether or not PersonX gets the part.
+----False. Giving someone your name does not automatically make them influential. It may give them a sense of belonging or connection, but it does not guarantee any kind of influence.
+----False. PersonY cannot get PersonX as a result of PersonX loving makeup.
+----False. The statement is not grammatically correct.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. This statement does not make sense as written.
+----False. Improving oneself usually leads to a feeling of accomplishment and satisfaction, not worry.
+----False. Feeling sad does not necessarily lead to feeling down or blue.
+----True. If PersonX is secure in their masculinity, they may feel more confident in their ability to answer a hypothetical.
+----Step 1: PersonX wants to hurt PersonY.--Step 2: PersonX feels like they should bail on tonight.----Conclusion: False. It is unlikely that PersonX would feel like they should bail on tonight if they wanted
+----False. Living on one side of a place does not necessarily mean that a person will feel compelled to move there.
+----False. This statement does not make sense as it is written.
+----True. Walking along the beach can be a calming and satisfying experience for many people.
+----False. PersonX cannot buy sr1mp, as it is not a physical item that can be purchased.
+----True. Following a recipe exactly should result in a satisfactory outcome.
+----False. The statement does not make sense.
+----False. Divorce is a difficult and emotional process, and it is unlikely that a person would feel love for their ex-spouse after going through it.
+----Step 1: PersonX finds PersonY's channel.--Step 2: As a result, PersonX feels they understand better.----True
+----False. Quitting a job is not a reason to start smoking.
+----False. Ordering a pizza does not typically result in a person feeling as if they have moved.
+----False. This statement does not make sense.
+----False. It is unlikely that a person would mock someone and then feel in earnest.
+----Step 1: PersonX wants to take PersonY back.--Step 2: PersonX believes that if they take PersonY back, they will have a place of their own.--Step 3: It is possible for PersonX to take
+----False. Giving someone courage does not necessarily mean that the giver will feel good. It is possible that the giver may feel good, but it is not a guaranteed result.
+----False
+----False. It is unlikely that a person would meet their own father and feel as if they had just gotten out of prison.
+----Step 1: PersonX borrows some money.--True----Step 2: As a result, PersonX feels they cannot pay it back.--True----Conclusion: True
+----False. Putting something in a purse does not usually result in getting something back.
+----False. Visiting the USA does not necessarily mean that PersonX will feel the urge to move there.
+----False. If PersonX wants dinner, they will not feel hungry until they have eaten.
+----False. If PersonX does not do a job properly, it is likely that they will be reprimanded or given a warning, but not necessarily sacked.
+----False. This statement does not make sense.
+----False. It is not likely to occur that a person would feel they deserve everything just because they went to get something.
+----False. This statement does not make sense grammatically.
+----False. This statement does not make sense.
+----False. It is not likely to occur because if PersonX went to bed, they would not be able to sit up.
+----Step 1: PersonX plays PersonY's favorite song.--True----Step 2: As a result, PersonX feels good.--True----Conclusion: True
+----False. Paying the bill does not necessarily lead to PersonX feeling and leaving.
+----True. If PersonX works PersonY's way up, it is likely that PersonX will feel happy as a result.
+----Step 1: PersonX likes spending time with PersonY.--True----Step 2: As a result, PersonX feels more happy.--True----Conclusion: True
+----False. This statement does not make sense because it does not provide enough information to determine whether PersonX is a heavy sleeper or not.
+----False. If PersonX never occurs to PersonY, then PersonX would not feel anything and would be unaware.
+----False. This statement does not make sense.
+----False. Moving a car is not necessarily sneaky.
+----False. Giving someone a ring does not necessarily lead to a person feeling or thinking of anything.
+----False. This statement does not make sense.
+----False. It is unlikely that PersonX would look PersonY in the face after saving PersonY's people.
+----False. Missing someone does not necessarily lead to carelessness. It could lead to sadness, loneliness, or other emotions, but not necessarily carelessness.
+----False. The statement is incomplete and does not make sense as it is written.
+----Step 1: PersonX gets a new pet.--Step 2: PersonX feels happy.----Conclusion: True
+----False. Insurance does not guarantee that a person will save money. It provides financial protection in the event of an unexpected loss, but it may not result in savings.
+----False. Going to a city does not automatically result in a person feeling a certain way or getting breakfast.
+----False. The statement does not make sense as written.
+----False. This statement does not make sense.
+----False. This statement does not make sense. Kindness does not necessarily lead to feeling like one has put everything together.
+----Step 1: PersonX is waiting for something.--True----Step 2: As a result, PersonX feels.--True----Step 3: PersonX sits down next to PersonY.--True----Conclusion: True
+----True. It is likely to occur that if a person feels nervous, they may feel unable to move.
+----Step 1: PersonX realises something.--Step 2: As a result, PersonX feels something.--Step 3: PersonX loses their composure.----Conclusion: True
+----Step 1: PersonX starts to date.--Step 2: As a result, PersonX feels optimistic.----Conclusion: True
+----False. This statement does not make sense.
+----Step 1: PersonX wants to lose weight.--Step 2: PersonX feels they should reconsider.----Conclusion: True
+----Step 1: PersonX puts pen to paper.--Step 2: PersonX feels something.--Step 3: PersonX must write.----Conclusion: True
+----False. The statement does not make sense as written.
+----False. This statement is not likely to occur.
+----False. It is unlikely that PersonX would confess if they see PersonY alone.
+----False. This statement does not make sense.
+----False. The sentence does not make sense grammatically.
+----False. The statement does not make sense grammatically.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----Step 1: Does PersonX own jewelry?--Yes----Step 2: Does PersonX have the right to sell the jewelry?--Yes----Step 3: Will PersonX be seen as falling into poverty if they sell the jewelry
+----False. This statement does not make sense.
+----Step 1: PersonX visits PersonY's cousin.--Step 2: PersonX is seen as friendly.----Conclusion: True
+----Step 1: Is PersonX at grandma's house?--Yes----Step 2: Is PersonX seen?--Yes----Step 3: Does PersonX eat at grandma's house?--Yes----Conclusion: True
+----False. The statement does not make sense grammatically.
+----False. This statement does not make sense.
+----False. Deleting someone's phone number without their permission is not seen as a positive action and could be considered a form of harassment.
+----False. It is unlikely that a person would not be easily disgusted by vulgarity if they form an acquaintance with someone at a theatre.
+----False. This statement does not make sense. Being brave does not necessarily mean watching a scary movie.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. It is not likely to occur because it is impossible for a person to be their own god.
+----False.
+----False. This statement does not make sense.
+----False. The statement is not likely to occur because it does not make sense grammatically.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----Step 1: Is PersonX visiting their grandmother's house?--Yes----Step 2: Is PersonX expected to be respectful while at their grandmother's house?--Yes----Conclusion: True
+----False. The statement does not make sense.
+----Step 1: PersonX has a new toy.--Step 2: PersonX is seen as content.----Conclusion: True
+----False. This statement is not likely to occur.
+----False. This statement does not make sense.
+----Step 1: PersonX likes the rest of the theory.--Step 2: PersonX is seen as agreeing with the observation.----Conclusion: True
+----False. It is unlikely that a person would be seen as having eaten at a restaurant for the first time if they found a piece of hair in their soup.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. This statement does not make sense. PersonX cannot be seen as something they wear everyday if they are on the school's basketball team.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. The statement does not make sense as written.
+----False. This statement does not make sense.
+----False. The statement does not make sense grammatically.
+----Step 1: If PersonX is peaceful, then PersonX is seen as happy.----Step 2: Conclusion: True
+----False. It is unlikely that a person's lips would quiver if they could scarcely pronounce a word.
+----Step 1: PersonX should go simply.--Step 2: If PersonX goes simply, PersonX is seen as.--Step 3: Therefore, PersonX should do so.----Conclusion: True
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. This statement does not make sense and is not likely to occur.
+----False. If PersonX watches anything, it does not necessarily mean that PersonX does not care about it at all.
+----False. The sentence does not make sense grammatically.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. It is highly unlikely that a person would give another person a weapon and then make them assault someone.
+----False. It is unlikely that PersonX would bring home a lady friend if their wife is in the city.
+----False. The statement is not grammatically correct and does not make sense.
+----False. This statement does not make sense.
+----False. It is not likely to occur because it does not make sense to make an agreement before sharing something that is needed.
+----False. It is not likely to occur because it does not make sense to look back before doing something if PersonX already needs to do it.
+----False. This statement is not likely to occur.
+----False. PersonX needs to get money for the account before reaching out to the customer.
+----False. This statement does not make sense.
+----False. It is unlikely that a person's father would collect books if the person had already lost their sight.
+----False. It is unlikely that someone would play the lottery if they suddenly had enough money to meet their needs.
+----False. This statement does not make sense.
+----False. This statement does not make sense. PersonX needs to get dressed before bowing their head.
+----False. The statement does not make sense as written.
+----False. The statement does not make sense as written.
+----False. This statement does not make sense as written.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----True
+----False. It is unlikely that PersonX would challenge PersonY's friend before confronting them.
+----False. It is not likely to occur because PersonX would need to find a chicken before they can choke it.
+----False. PersonX needs to write the letter before sending it.
+----False. It is not likely to occur because it does not make sense.
+----False. It is unlikely that a person would hang their clothes and then pick out a game before they needed to hang their clothes.
+----False. PersonX cannot jump into a race without having an idea first.
+----False. PersonX needs to walk before opening the door.
+----False. It is unlikely that PersonX would send PersonY a dozen letters before demanding their attention.
+----False. The statement does not make sense grammatically.
+----False. This statement does not make sense.
+----False. Taking artistic liberty does not mean that one will not remember what they did.
+----True. PersonX has made a decision to make art because they wanted to, so the statement is likely to occur.
+----False. The sentence does not make sense grammatically.
+----Step 1: PersonX wants to go to work.--Step 2: PersonX goes to work.--Step 3: PersonX feels great.----Conclusion: True
+----False. It is not likely to occur.
+----Step 1: PersonX wants to wear PersonY's boot.--Step 2: PersonX wears PersonY's boot.--Step 3: PersonX shows off the boot.----Conclusion: True
+----False. Seeking something because you want it does not necessarily mean that you love someone more.
+----False. It is not likely to occur because it is impossible for a person to win everything.
+----True. If PersonX usually does something because they want to, it is likely that they like to do it.
+----False. This statement does not make sense and is not likely to occur.
+----False. It is unlikely that a person would become a known celebrity simply by hitting the headline because they wanted to.
+----False. It is unlikely that a person would say sorry for receiving a gift that they wanted.
+----False. The statement does not make sense grammatically.
+----False. This statement does not make sense.
+----Step 1: PersonX has only tried a few things on the menu.--True----Step 2: PersonX wanted to try only a few things on the menu.--True----Step 3: PersonX is a creature of
+----Step 1: PersonX throws a ball.--True----Step 2: PersonX throws the ball because PersonX wanted to.--True----Step 3: PersonX plays.--True----Conclusion: True
+----False. The statement does not make sense grammatically.
+----False. The statement does not make sense grammatically.
+----True. If PersonX is first in line, then they will lead the group hall.
+----Step 1: PersonX finds a good deal.--Step 2: PersonX buys a painting.----Conclusion: True
+----False. This statement does not make sense.
+----False.
+----False. If PersonX forgets something that happened before, they may still have time to address it.
+----False. It is unlikely that PersonX would tell PersonY's wife what happened before before offering a place.
+----False
+----False.
+----False. This statement does not make sense.
+----False. It is unlikely that PersonY would be interested in something that PersonX has already bought.
+----True. It is likely that PersonX would make PersonY's acquaintance before inviting them for coffee.
+----False. Raising the roof and waiting for a shoe to drop are two unrelated events and it is unlikely that they would occur in the same situation.
+----False. This statement does not make sense.
+----False. Examining a fossil closely does not usually involve taking a shot.
+----Step 1: PersonX invites PersonY to dinner.--Step 2: PersonX waits at home.----True
+----False. This statement does not make sense and is not likely to occur.
+----False. If PersonX breaks PeopleX laptop, they may be required to attend school, but it is not guaranteed.
+----False. Texas cannot wake up, so the statement is not likely to occur.
+----False. PersonX must study for the test before taking the exam in order for the statement to be true.
+----False. It is not likely to occur because the statement does not provide enough information to determine what PersonX is doing and what happens after.
+----False. PersonY is unlikely to cry if PersonX cannot find their key.
+----False. This statement does not make sense and is not likely to occur.
+----False. PersonX making a speech does not necessarily mean that PersonX will appear in print.
+----False. This statement does not make sense.
+----False. The statement does not make sense as it is written.
+----False. It is unlikely that PersonX quickly falling in love would cause PersonY to work.
+----False. It is not likely that a person who likes to hike will move to the mountains as a result.
+----False. Eating everything does not necessarily mean that PersonX will go to a buffet.
+----False. If PersonX had eyesight, then the story would be different, but since they don't, the statement is not likely to occur.
+----False. It is unlikely that a person would see their daughter and then see a cool car.
+----False. The sentence does not make sense grammatically.
+----False. If PersonX does not get along with someone, it does not necessarily mean that they cannot work together. It is possible for PersonX to work with someone they do not get along with, as long as they are able to maintain
+----True. If PersonX helps PersonY in some way, it is likely that PersonY will try to help PersonX in return.
+----False. If mother says nothing, nothing happens after and Anna does not have to write it down.
+----False. It is unlikely that PersonX would prepare for school immediately after ending a thing.
+----False. It is unlikely that PersonX would go into a club just because they looked at PersonY.
+----False. This statement does not make sense and is not likely to occur.
+----Step 1: PeopleX bar is well stocked.--Step 2: PeopleX has a great tap selection.----Conclusion: True
+----False. If a person loses the instruction, they cannot read it and therefore cannot be hindered by it.
+----False. Silvia leaving would not necessarily hinder PersonX from finishing the task in a month.
+----False. The statement does not make sense as it is written.
+----False. It is unlikely that a person with a terminal disease would decide to become a vegetarian, as the disease may require a specific diet or treatment that would be hindered by a vegetarian diet.
+----False. Having a friend cannot directly cause something to happen.
+----False. PersonX's professor not teaching PersonY's program would not hinder PersonX from developing a web presence.
+----False. Keeping PersonX hindered would not likely make them very sick.
+----False. The statement does not make sense and is not likely to occur.
+----False. The statement does not make sense grammatically.
+----False. This statement does not make sense.
+----False. It is unlikely that PersonX would be hindered by being watched by others if they dropped something on the floor.
+----False
+----False. This statement does not make sense.
+----False. The statement does not make sense.
+----False. The statement does not make sense grammatically.
+----True. PersonY asking a question can be a distraction for PersonX, and can hinder their progress.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. Invites cannot be hindered by someone watching someone else's mouth.
+----False
+----False. It is unlikely that PersonY sitting down would make a difference.
+----False. If PersonX calls the ambulance, it cannot be hindered by the fact that PersonX has fallen unconscious.
+----False
+----False. If the audience does not like PersonX, they cannot hinder PersonX from leaving the house.
+----False. This statement does not make sense.
+----False. This statement does not make sense and does not make logical sense.
+----False. It is not likely to occur that PersonY would hinder PersonX from leaving if PersonX is under age.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. The statement does not make sense as written.
+----False. It is not likely to occur that PersonX stands on their head while shaking PersonY's hand.
+----False. This statement does not make sense.
+----False. If PersonX refuses to pay, they cannot be hindered by the thing existing.
+----False. This statement does not make sense and is not likely to occur.
+----False. PersonX cannot be hindered by not having a gun if they are already hurt.
+----False. If PersonX is hindered by an over crowd, then PersonX cannot see.
+----False. This statement does not make sense.
+----False. PersonY does not know PersonX well enough to hinder them from casting a timid glance at the table.
+----False.
+----False. This statement does not make sense and is not likely to occur.
+----False. The statement does not make sense grammatically.
+----False. PersonX being locked in a room by their father would not prevent PersonY from taking a test.
+----False. Having a headache does not necessarily mean that PersonX's day will be hindered.
+----False. PersonX cannot be hindered by not being at home if they are getting dressed for work.
+----False. Playing does not require math skills, so being bad at math would not hinder PersonX when they play.
+----False. PersonY not giving PersonX the key does not necessarily hinder PersonX from buying something.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. The statement is not grammatically correct and does not make sense.
+----False. It is not likely to occur because if PersonX falls from a tree, it is unlikely that a tree would fall on them.
+----False.
+----False. Burning someone's mouth would not help PersonX find the CD.
+----False. The statement does not make sense grammatically.
+----False. This statement does not make sense.
+----False. Giving someone a kid is not something that can be hindered by the fact that the person already has a kid.
+----False. The statement does not make sense.
+----False.
+----False. Obstruction of justice is a criminal offense and would not be allowed to occur.
+----False. This statement does not make sense.
+----False. This statement does not make sense and is not likely to occur.
+----False. Not having a computer does not hinder PersonX from finding an umbrella.
+----False. Drawing one's last breath cannot be hindered by a lack of guts.
+----False. This statement does not make sense.
+----False. It is unlikely that a person would be hindered from accessing their key if they do not have social media.
+----False.
+----False
+----False. The statement does not make sense as it is written.
+----False. PersonX may not have the money to buy a new car, but they could still be hindered by other factors, such as not having the necessary paperwork or not being able to find a suitable car.
+----False. Expressing doubt does not necessarily hinder someone from having a child.
+----False. This statement does not make sense.
+----False. The statement does not make sense grammatically.
+----False. Holding something in one's hand does not necessarily mean that they will run out of time.
+----False. It is unlikely that a baby sleeping in a room would hinder someone from saying "uncle".
+----False. Losing one's appetite is not likely to be hindered by one's love of food.
+----False. This statement does not make sense.
+----False. It is unlikely that a person not having shoes would hinder them from living in a country.
+----False. If PersonX loves football, they will likely have a good understanding of the game and its rules.
+----False. If PersonX is frightened, it is unlikely that they will be able to behave well.
+----False. Schedules cannot be hindered by not including something.
+----False. PersonY's decision to get a new haircut would not be hindered by PersonX being already married.
+----False.
+----False. This statement does not make sense.
+----Step 1: Oil from hands can damage the patina of an antique vase.--True----Step 2: Handling an antique vase from the inside can help prevent damage from oil.--True----Conclusion: True
+----False. PersonY does not necessarily have to unbend to PersonX in order for PersonX to be hindered.
+----False. Ignoring PersonX will not necessarily prevent them from feeling joy. Joy can come from many sources, and even if PersonX is ignored, they can still find joy in other areas of their life.
+----False. PersonX cannot be a reporter if PersonY has not aired their story on center.
+----False. Money can be used to help PersonX come to terms, such as by paying for legal fees or providing financial assistance.
+----False. PersonX caring for PersonY would not be hindered by PersonY changing seats.
+----False. If PersonX breaks the news to PersonY, PersonY not answering PersonX's phone will not hinder PersonX from breaking the news.
+----False. PersonY's son ruling England cannot be hindered by PersonY winning something.
+----False. It is unlikely that PersonX's dad would say something like this.
+----False.
+----False. This statement does not make sense.
+----False
+----False. PersonY's financial situation has no bearing on whether or not the job is offered.
+----False
+----False.
+----False. People may still talk about it even if there is no proof or cause.
+----False.
+----False. It is not likely to occur that a person would trade their best friend.
+----False. It is unlikely that PersonX would tell PersonY their opinion or causes without being asked.
+----False. Attending mass does not necessarily mean that a person has to be nice. It is possible for a person to attend mass and still not be nice.
+----False.
+----False. Removing something from somewhere does not necessarily cause luck.
+----False. Following someone's instructions does not necessarily make something simple.
+----False. This statement does not make sense.
+----Step 1: Does PersonX enjoy the show?--Step 2: Is PersonX a Beatles fan?----Conclusion: False
+----False. This statement does not make sense.
+----False. It is highly unlikely that PersonX double-checking something would cause PersonY to get the DNA of a killer.
+----False. This statement does not make sense.
+----False. Studying hard can help a person remember information, not forget it.
+----False. The statement does not make sense grammatically.
+----False. Reproducing does not automatically make someone a republican.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False
+----False. Getting fit usually has positive effects on a person's mental and physical health, so it is unlikely that it would cause a person to be down.
+----False.
+----False. Meeting someone's father does not necessarily cause their mother to marry them.
+----False. This statement does not make sense grammatically.
+----Step 1: PersonY is gazing in someone's face.--Step 2: PersonY is saying something archly.----Conclusion: True
+----False. This statement does not make sense. PersonX cannot "be hardwork" and PersonY cannot "seem to have nothing".
+----False. This statement does not make sense and is not likely to occur.
+----False. PersonX visiting PersonX's mother does not include the event or action of PersonY watching Nesbitt's house.
+----False. Stealing is an illegal act and is not likely to occur.
+----Step 1: PersonY is more forgiving about nature.--Step 2: PersonY does not tolerate the event or action.----Conclusion: False
+----True
+----False. The statement does not make sense.
+----False. The statement does not make sense as it is.
+----False
+----True. Accusing someone of something requires evidence to back up the accusation. Without evidence, the accusation is not likely to be taken seriously.
+----Step 1: PersonX wants to sew.--Step 2: PersonX starts to sew.--Step 3: As a result of sewing, PersonX becomes handy with needle.----True
+----Step 1: PersonX doubts everything.--True----Step 2: As a result, PersonX wants to be a skeptical person.--True----Conclusion: True
+----False. It is unlikely that a person would want to leave their ex and then feel unhappy about it.
+----Step 1: Does PersonX have the authority to request time off?----Step 2: Does PersonX's husband have the authority to request time off?----Step 3: Is it likely that PersonX's husband will take time
+----False. This statement does not make sense.
+----False. The statement does not make sense as written.
+----True. If PersonX has sensitive skin, they will need to be careful in order to avoid irritation or other skin issues.
+----False. It is not likely that someone would despise themselves and then want to be ashamed as a result.
+----False. This statement does not make sense.
+----False. If PersonX yells, PersonY or others will be able to hear PersonX.
+----False. PersonY's ability to run is not necessarily dependent on PersonX's ability to run fast.
+----False. Meeting someone's parents is usually a big step in a relationship, and it is unlikely to occur unless both parties are interested in taking the relationship to the next level.
+----False. It is unlikely that a person would eat a crow if they had one.
+----Step 1: PersonX goes to Harrow.--True----Step 2: As a result, PersonX is at Harrow.--True----Conclusion: True
+----False. The statement does not make sense as it is written. It should be rephrased to something like "If PersonX has a good seat, they will sit in that row."
+----False. PersonX cannot both come back from lunch and stop for take-out at the same time.
+----False. Opening the outer door does not necessarily mean that PersonX will have to wait.
+----False. PersonX cannot be both the host and the guest at the same time.
+----False. The statement does not make sense grammatically.
+----False. If PersonX could not breathe, PersonX would not be able to stop.
+----False. If PersonX and PersonY's eyes meet, it is likely that PersonX will look directly at PersonY.
+----False. Being a natural night owl does not necessarily mean that PersonX will be up. It is possible that PersonX may choose to sleep during the night, even if they are a natural night owl.
+----True. It is likely that if PersonX has love for PersonY, PersonY may also develop love for PersonX in return. This is a common occurrence in relationships.
+----Step 1: Running three miles is a form of exercise.--Step 2: Exercise can help a person stay in shape.--Step 3: Therefore, if PersonX runs three miles, it is likely that PersonX will feel like they
+----True. Following someone can lead to curiosity, as you learn more about them and their interests.
+----False. Asking a question does not necessarily lead to feeling needy.
+----True
+----False. This statement does not make sense.
+----False. The statement does not make sense grammatically.
+----False. This statement does not make sense.
+----False. The statement does not make sense grammatically.
+----False. Doing little research does not necessarily mean that someone is naive. It could mean that they are not well informed, but it does not necessarily mean that they are naive.
+----False. This statement does not make sense as written.
+----Step 1: PersonX is smiling and crying at the same time.--Step 2: PersonX is seen as crying.--Conclusion: True
+----False. Losing money in trading does not necessarily mean that a person is broke. It is possible for a person to lose money in trading and still have other sources of income or assets.
+----False. Running around the house is not usually seen as a sign of being tired.
+----False. This statement does not make sense.
+----False. The statement does not make sense grammatically.
+----Step 1: PersonX wants to marry PersonY.--True----Step 2: PersonX loves PersonY.--True----Conclusion: True
+----False. It is not likely that a person can make themselves come home alive and survive simply by wanting it. Survival requires more than just a desire to live.
+----False. It is not likely to occur because it is not physically possible to stifle oneself by closing one's mouth firmly.
+----Step 1: PersonX orders the classic burger.--True----Step 2: PersonX wanted the classic burger.--True----Step 3: PersonX loves a great burger.--True----Conclusion: True
+----False. It is not likely for someone to contradict themselves intentionally.
+----False. Eating without first determining if the body needs food is not a wise decision.
+----False. It is not likely that a person would need to get a religion before joining a church.
+----False. This statement does not make sense.
+----False. This statement does not make sense grammatically.
+----False. The statement does not make sense.
+----False. It is not likely to occur that if PersonX perceives PersonY, PersonY will be near.
+----False. Marrying someone does not guarantee that they will be the love of your life.
+----False. If PersonX takes this car, there may still be other cars available.
+----Step 1: PeopleX must deliver something.--Step 2: PeopleX must deliver before PeopleY gets the delivery.----Conclusion: True
+----False. It is not likely that PersonY must be obeyed after PersonX obeys them. It is possible that PersonY may not need to be obeyed, depending on the situation.
+----False. Knowing one's neighbor does not necessarily mean that one will be friendly. It is possible that PersonX may not be friendly even after knowing their neighbor.
+----False. Without more information, it is impossible to judge whether PersonX going there would be a safe choice.
+----False. If PersonX takes the tram, they will not miss the train.
+----False. Staying at a hotel does not necessarily mean that the stay will be below average. It depends on the quality of the hotel, the services provided, and the overall experience of the guest.
+----True. If PersonX runs a long distance, it is likely that they will become breathless.
+----False. Killing a monster does not guarantee that it will stay dead. It is possible that the monster could come back to life or be replaced by another monster.
+----False. It is unlikely that PersonX failing would hinder PersonY from succeeding.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----Step 1: PersonX highly recommends PersonY's company.--Step 2: PersonY includes the event or action.--Step 3: PersonY is great.----Conclusion: True
+----False. This statement does not make sense.
+----Step 1: PersonX beat dc.--True----Step 2: As a result, PersonX wants to be stronger.--True----Conclusion: True
+----False. It is not likely that a person would want to be unstable if they look unstable.
+----False. If PersonX gives PersonY their opinion, PersonX does not necessarily want their opinion to be wrong.
+----False. This statement does not make sense.
+----True. If PersonX makes a million, they will need to manage that money in order to make the most of it.
+----False. It is unlikely that a person's desire to get married would cause their friend to get married as well.
+----True. If PersonX works in fashion, it is likely that PersonX wants to be presentable in order to maintain a professional appearance.
+----False. Taking someone else's name is illegal and would require a false identity, which is also illegal.
+----False. It is not likely to occur because it does not make sense.
+----False. This statement does not make sense.
+----Step 1: PersonX loves Thai food. True----Step 2: As a result, PersonX wants to eat here. True----Step 3: PersonX needs to eat here. False----Conclusion: False
+----Step 1: PersonX has a nervous tick.--True----Step 2: As a result, PersonX wants to get nervous.--False (PersonX likely wants to avoid getting nervous)----Conclusion: False
+----Step 1: If PersonX's dad dies young, PersonX will likely be worried.----Step 2: True
+----Step 1: PersonX cries.--True----Step 2: As a result, PersonX wants to.--False (This is too vague to judge)----Step 3: PersonX feels loss.--True----Conclusion
+----False. The statement does not make sense.
+----False. Taking all the happiness in the world will not necessarily make PersonX happy. Happiness is an emotion that comes from within and is not dependent on external factors.
+----False. If PersonX relies on transportation, they may still want to drive, even if they do not.
+----False. Sleeping 6 hours does not necessarily mean that PersonX will be lazy. It is possible that PersonX will still have enough energy to be productive.
+----False. It is unlikely that a person would be satisfied simply by having their own toy.
+----Step 1: PersonX has a fight with a friend.--True----Step 2: As a result, PersonX wants to be sad.--True----Conclusion: True
+----False. Upgrading does not necessarily mean that PersonX needs a new one. It depends on the type of upgrade and the current item.
+----False. Amnesia is a medical condition that affects a person's memory, usually caused by brain injury or trauma. It is not something that a person can choose to have.
+----False. The statement does not make sense because PersonX is trying to explain something to PersonY, but the statement does not provide any information about what PersonX is trying to explain.
+----True. If PersonX looks around a meetup, it is likely that PersonX will become curious and want to explore further.
+----True
+----False. This statement does not make sense.
+----True. If PersonX gets rejected, it is likely that PersonX will be sad as a result.
+----Step 1: PersonX gives Claire a ride home.--True----Step 2: As a result, PersonX wants to be late.--False
+----False. It is not likely to occur because a person's term in office will expire regardless of what they want.
+----False. This statement does not make sense logically.
+----False. It is not necessarily true that if a person responds negatively, they are emotionally immature. It is possible that the person is responding to a difficult situation in a way that is not ideal, but that does not mean they are emotionally immature
+----False. If PersonX arrives late, their appointment may be cancelled, but it is not necessarily the result of their late arrival.
+----Step 1: PersonX orders a biscuit. True----Step 2: As a result, PersonX wants to. False (This statement does not make sense)----Step 3: PersonX is craving carbs. False (This
+----False. It is not likely that someone who likes black people would want to be racist.
+----False. It is unlikely that a person would enter a restaurant and then immediately want to exit.
+----False. This statement does not make sense as it is written.
+----True. If PersonX has peace of mind, it is likely that they will want to feel at peace.
+----False. Refusing to sign something does not necessarily mean that a person will be angry. It could mean that the person does not agree with the terms of the document or does not understand it.
+----False. It is unlikely that a person would be interested in something simply because they made it through a class.
+----Step 1: PersonX harasses PersonY on media.--True----Step 2: As a result, PersonX wants attention.--True----Conclusion: True
+----Step 1: PersonX beat PersonY.--True----Step 2: As a result, PersonX wants to out-play PersonY.--True----Conclusion: True
+----False. PersonX can use the groupon if they purchase it.
+----False. This statement does not make sense.
+----False. This statement does not make sense as it is written.
+----False. This statement does not make sense as it is not possible to live on a wagon and drive it at the same time.
+----Step 1: PersonX belly up to bar. True----Step 2: As a result, PersonX wants to order something. True----Conclusion: True
+----False. Crossing the bridge does not necessarily mean that PersonX must go north. It is possible that PersonX could go in any direction after crossing the bridge.
+----False. Killing an innocent person is a crime and PersonX would be afraid of the consequences.
+----False. Eating a burger does not necessarily mean that a person will want to become vegetarian.
+----False. It is unlikely that a person's doctor would be out of town if the person is in the ER.
+----False. If PersonX completes an investigation, they should have proof of their findings. Without proof, the investigation is not complete.
+----False. If PersonX wants to gain muscle, they must build strength in order to do so.
+----False. If PersonX encounters something, they will likely look for it.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. Going to the galley does not necessarily mean that PersonX wants water.
+----False. This statement does not make sense as written.
+----False. Walking does not necessarily lead to foot ache.
+----False. This statement does not make sense.
+----False. Following someone does not necessarily mean that the person being followed or others want the person being followed to go ahead.
+----True. If PersonX calls 911, it is likely that PersonY or others will also want to call 911.
+----True. If PersonX likes something, it is likely that PersonY or others will want to try it, and if they do, it is likely that PersonY will also like it.
+----False. This statement does not make sense.
+----Step 1: PersonX asks PersonY a question.--Step 2: As a result, PersonY or others want PersonY to plead ignorance.--Step 3: PersonY pleads ignorance.----Conclusion: True
+----False. Scratching someone's back does not necessarily mean that they will scratch yours in return. It is possible that PersonY may not want to scratch PersonX back, or that others may not want PersonY to scratch PersonX back
+----False. This statement does not make sense.
+----False. If PersonX has a snack, it is unlikely that PersonY or others would want to, and PersonY would be hungry as a result.
+----False. If PersonX stops, it does not necessarily mean that PersonY or others will also stop.
+----True. If PersonX asks PersonY a question, it is likely that PersonY or others will want to know more about the matter, and PersonY will gain more knowledge.
+----False. This statement does not make sense.
+----False. This statement does not make sense as it is written.
+----False. PersonY cannot become an owner of the business unless PersonX transfers ownership to them.
+----False. It is unlikely that PersonY or others would want to see another blond girl in the alley as a result of PersonX seeing one.
+----Step 1: PersonX takes PersonY's offer.--Step 2: PersonY or others want PersonX to take the offer.--Step 3: PersonY would not grant the offer.----False. PersonY would likely grant
+----Step 1: PersonX can write.--Step 2: PersonY or others want to write.--Step 3: PersonY can read.----Conclusion: False
+----Step 1: PersonX weeps.--Step 2: PersonY or others want to weep.--Step 3: PersonY is unhappy.----Conclusion: True
+----False. It is unlikely that PersonY's face would grow tender as a result of PersonX loving them.
+----False. It is unlikely that PersonY would fire PersonX in response to PersonX firing PersonY.
+----False. It is unlikely that PersonY would be sorry for something PersonX did to PersonZ.
+----True. If PersonX rings the doorbell, PersonY or others may want to open it, and PersonY would open it.
+----False. If PersonX wants PersonZ, it does not necessarily mean that PersonY or others will also want PersonZ. Furthermore, PersonY would not be able to sell PersonZ if they do not own it.
+----False. This statement does not make sense.
+----Step 1: PersonX dresses for an occasion.--Step 2: PersonX is presentable.----Conclusion: True
+----True. If PersonX waits, then as a result, PersonX will have patience.
+----Step 1: PersonX overreacts.--Step 2: As a result, PersonX will be upset.----Conclusion: True
+----True. If PersonX recoils, it is likely that they will be afraid as a result.
+----False. This statement does not make sense logically.
+----False. Having a mental disability does not necessarily mean that a person is defective. Mental disabilities can range from mild to severe, and people with mental disabilities can still lead productive and meaningful lives.
+----False. Going into form does not guarantee that PersonX will stay in form.
+----Step 1: PersonX gets their ass beat.--Step 2: PersonX is a victim.----Conclusion: True
+----Step 1: PersonX says goodnight.--Step 2: As a result, PersonX will need to sleep.----Conclusion: True
+----Step 1: PersonX flunks out of college.--Step 2: As a result, PersonX fails.----Conclusion: False
+----True
+----False. The statement does not make sense as it is written.
+----False. Having a weak stomach does not necessarily mean that a person will need to vomit. It could mean that the person experiences nausea, indigestion, or other digestive issues, but not necessarily vomiting.
+----False. This statement does not make sense because it is a circular argument. PersonX cannot have gold as a result of already having gold.
+----False. If PersonX does not kill anybody, then the result of PersonX not killing anybody will not occur.
+----Step 1: PersonX and PersonY are getting married.--Step 2: PersonX will honor PersonY.----Conclusion: True
+----False. Rubbing a finger will not typically cause it to become numb.
+----Step 1: PersonX eats.--Step 2: As a result, PersonX will be hungry.----Conclusion: True
+----False. PersonX cannot buy their own ticket and receive a discount.
+----False. If PersonX gets the gear, then PersonX will be able to get the gear.
+----False. It is not likely that a person will feel something as a result of disliking something.
+----False. This statement does not make sense and is not likely to occur.
+----Step 1: PersonX works in healthcare.--True----Step 2: As a result, PersonX will be a nurse.--False (PersonX could be a doctor, a lab technician, a medical assistant, etc.)--
+----Step 1: PersonX drinks something.--Step 2: As a result, PersonX will be in need of caffeine.----Conclusion: False
+----True. Making a choice is a conscious decision, so if PersonX makes a choice, they have consciously made one.
+----Step 1: PersonX can overcome it.--Step 2: As a result, PersonX will be strong enough.----Conclusion: True
+----False. It is unlikely that a person would fail a test if they did not study.
+----False. Waking up naturally does not necessarily mean that PersonX needs to wake up.
+----False. It is possible for PersonX to be prone to depression, but not necessarily lead to depression. It is possible for PersonX to take steps to manage their depression, such as seeking professional help or engaging in activities that help reduce stress
+----True. If PersonX commits a crime, it is likely that they will get into trouble as a result.
+----False. This statement does not make sense because it is a circular statement. PersonX cannot read PeopleX and then have read PeopleX at the same time.
+----False. Going does not necessarily mean that PersonX will flush the toilet.
+----False. PersonX can still catch the night train if they take the afternoon train, depending on the timing of the trains and the amount of time between them.
+----Step 1: PersonX offends PersonY.--Step 2: PersonX apologizes to PersonY.----Conclusion: True
+----False. This statement does not make sense.
+----True
+----False. It is unlikely that a person will become rich without playing the lottery.
+----False. A person's mother does not necessarily have to be Jewish if the person is Jewish. It is possible for a person to be Jewish and for their mother to be of a different faith.
+----Step 1: PersonX looks something up.--Step 2: As a result, PersonX is interested.----Conclusion: True
+----False. Avoiding someone does not necessarily mean that you are scared of them. It could mean that you are trying to avoid a conflict or that you simply don't want to interact with them.
+----False. The statement does not make sense as it is written.
+----False. If PersonX hates PersonY, it is likely that PersonX will take some action, such as avoiding PersonY or expressing their dislike in some way. Simply hating PersonY without taking any action is unlikely to occur.
+----False. This statement does not make sense because it is a circular statement. PersonX cannot start laughing as a result of PersonX starting to laugh.
+----False. This statement does not make sense.
+----True. Exploring can lead to discovering new interests and passions.
+----False. Planting and digging are two separate actions that cannot be done simultaneously.
+----Step 1: PersonX is returning to the palace.--True----Step 2: As a result of returning to the palace, PersonX will be tired.--True----Conclusion: True
+----True. If PersonX looks right at it, then PersonX will see it.
+----Step 1: PersonX gets sick at work.--Step 2: PersonX leaves work.----Conclusion: True
+----False. If PersonX has a Y chromosome, it does not necessarily mean that PersonX will have it. It is possible for PersonX to have a Y chromosome but not have it.
+----False. Hair remover is not a permanent solution for hair removal, and it is unlikely that it would cause someone to become bald.
+----False. If PersonX remains standing, they will not be helpless.
+----True. If PersonX takes off their glove, they will not want to get blood on it, so it is likely to occur.
+----Step 1: PersonX wants one.--Step 2: PersonX will have to rent one.----Conclusion: True
+----False. If PersonX leaves the plane, the parachute will not fail to fully open. The parachute will open as normal, regardless of whether PersonX is on the plane or not.
+----False. If PersonX stops now, they will not necessarily have to stop in the future. It is possible that PersonX could start again in the future, depending on the circumstances.
+----False. It is not likely to occur because it does not make sense logically.
+----False. It is unlikely that PersonY or others will be able to see PersonX's secret love for PersonY.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. It is not likely to occur that PersonY will have a companion just because PersonX goes somewhere.
+----Step 1: PersonX is dearest to PersonY.--Step 2: As a result, PersonY or others will love PersonX.--Conclusion: True
+----False. This statement does not make sense as it does not provide enough information to determine whether PersonY must make or not.
+----False. It is unlikely that PersonY would hold the horse if PersonX has a mount.
+----False. PersonY's decision to have an abortion is their own and should not be influenced by the decisions of others.
+----False. It is unlikely that PersonY will remember simply because PersonX remembers.
+----False. PersonY may or may not eat turkey stuffing as a result of PersonX eating it.
+----False. PersonY or others will not necessarily die if PersonX expires.
+----False. It is unlikely that PersonY will tear up as a result of PersonX telling PersonZ something.
+----False. Knowing oneself does not necessarily mean that others will know the same information.
+----False. This statement does not make sense and is not likely to occur.
+----False. PersonX getting PersonX tea does not necessarily mean that PersonY or others will, and even if they do, it does not guarantee that PersonY will drink a cup.
+----False. PersonY does not have a table, so it is not likely that PersonX would do something on a table that would result in PersonY doing something.
+----False. PersonX talking more does not necessarily mean that PersonY will talk more. It is possible that PersonY will talk more, but it is not a guaranteed result.
+----False. It is unlikely that PersonY will want something simply because PersonX insists.
+----False. Smiting someone does not necessarily mean that the person smitten or others will be afraid. It depends on the context and the people involved.
+----False. Paying cash does not necessarily mean that a person's credit card will not work.
+----False. This statement does not make sense.
+----False. Eating usually reduces hunger, not increases it.
+----False. Eating a good portion of food should make a person feel full, not hungry.
+----True
+----False. Having diabetes does not necessarily mean that a person is unhealthy. A person can have diabetes and still be healthy if they manage their condition properly.
+----False. Putting on a suit does not automatically make a person feel as if they are wearing it.
+----Step 1: PersonX is a cancer survivor.--True----Step 2: As a result, PersonX feels hopeful.--True----Conclusion: True
+----True. A nervous breakdown can cause a person to feel overwhelmed and in need of help.
+----False. It is not likely to occur because it does not make sense.
+----True. Dancing can lead to a person feeling better, and practicing can help a person become better at dancing.
+----True. If PersonX does well, it is likely that they will feel proud and cheerful.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----True. Snacking can lead to feeling hungry because it does not provide the same level of fullness as a full meal.
+----False. This statement does not make sense.
+----False. This statement does not make sense as it is written.
+----False. Overclocking is a process of increasing the clock speed of a computer processor beyond the manufacturer's recommended speed. It is not something that a person can feel or want to do.
+----False. It is not likely that a person will feel glad simply because they received full price for something. Other factors, such as the quality of the item or the satisfaction of the purchase, may also play a role in how a person feels
+----False. It is unlikely that imprisoning someone would make the person who did the imprisoning feel savage.
+----False. Hearing a sound does not necessarily result in feeling the sound.
+----False. If PersonX resigns, it is unlikely that they will be sacked.
+----Step 1: PersonX never joined the military.--Step 2: As a result, PersonX feels like a civilian.----Conclusion: True
+----Step 1: PersonX disapproves of PersonY.--Step 2: As a result, PersonX feels sorry.----Conclusion: True
+----True. Praying can be a powerful way to connect with one's inner self and can lead to a feeling of peace and hope.
+----False. The statement does not make sense as written.
+----False. Going back to school would not necessarily lead to dropping out of school. It is possible that PersonX could feel more motivated and inspired to stay in school after returning.
+----False. It is not likely to occur because humans do not have the physical ability to fly without the aid of technology.
+----False. It is not likely to occur because feeling hopeless is not necessarily the result of not doing something.
+----False. Sleeping through the day will not necessarily result in feeling refreshed when PersonX wakes up.
+----False. It is not likely to occur because a person cannot feel or ventilate after they have died.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. It is not likely that a person would feel warm after laying a fire.
+----False. The statement does not make sense.
+----False. Hitchhiking can be a dangerous activity, and it is unlikely that a person would be able to get far by hitchhiking.
+----False. It is not likely to occur because it does not make sense for a person to pursue their own inquiry and then feel and learn from it.
+----False. It is unlikely that a person would become too dizzy from simply falling back on a bed.
+----Step 1: PersonX must have seen something scary.--True----Step 2: As a result, PersonX feels scared.--True----Conclusion: True
+----False. If PersonX shares their blanket, PersonY or others will not necessarily feel cold.
+----True. If PersonX praises PersonZ's virtue, it is likely that PersonY or others will feel kindly towards PersonZ and show kindness in response.
+----True. If PersonX stays, it is likely that PersonY or others will feel encouraged to stay as well.
+----False. PersonY does not have to go on the trip if PersonX starts it.
+----False. PersonY cannot feel what PersonX has, as PersonX is the one who has the supper.
+----False. It is not likely that PersonY will think about family simply because PersonX does.
+----False. This statement does not make sense as it is written.
+----False. Breaking someone's spirit at any age is not likely to occur.
+----False. Running away does not necessarily mean that PersonY or others will feel scared. It depends on the context and the relationship between PersonX and PersonY.
+----False. PersonY's decision to let PersonZ wake up is not necessarily dependent on PersonX's decision.
+----False. This statement does not make sense as written.
+----False. This statement does not make sense. PersonY does not need PersonX as a result of PersonX needing PersonZ.
+----False. This statement does not provide enough information to determine whether it is likely to occur.
+----False. If PersonX pm PersonY, PersonY would know that they have been contacted.
+----False. This statement does not make sense. PersonY cannot be so tall if PersonX is taller than them.
+----False. This statement does not make sense.
+----False. It is unlikely that PersonY would be sarcastic as a result of PersonX reading PersonZ's comment.
+----False. Holding someone does not typically cause them to become breathless.
+----False. The statement does not make sense as written.
+----False. The statement does not make sense as written.
+----False. The sentence does not make sense grammatically.
+----False. This statement does not make sense.
+----False. Robbing and stealing are two different things. Robbing involves taking something by force or threat of force, while stealing involves taking something without permission.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----Step 1: PersonX twists their lip.--Step 2: PersonX is seen as frustrated.----Conclusion: True
+----False. The statement does not make sense as written.
+----False. Tears can burst forth without a person crying.
+----Step 1: PersonX denies something.--Step 2: PersonX is seen as being disingenuous.----Conclusion: True
+----Step 1: PersonX pulls a nighter.--Step 2: PersonX is seen as tired.----Conclusion: True
+----Step 1: PersonX misses curfew.--Step 2: PersonX is seen as being sorry.----Conclusion: True
+----Step 1: PersonX applauds PersonY's effort.--Step 2: PersonX is seen as genuinely impressed.----Conclusion: True
+----False. This statement is not likely to occur.
+----False. The statement does not make sense.
+----False. Falling into doze is not necessarily an indication that a person is feeling tired. It could be a sign of boredom, stress, or other factors.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. Flashing a boob does not necessarily mean that the person is seen as pretty.
+----Step 1: PersonX wears a black bonnet.--True----Step 2: PersonX is seen as dressed in black.--True----Conclusion: True
+----Step 1: PersonX goes to bed at night.--Step 2: PersonX is seen as sleeping.----Conclusion: True
+----False. This statement does not make sense.
+----False. The statement does not make sense grammatically.
+----False. This statement does not make sense.
+----False. Having a uterus does not necessarily mean that a person is a female. There are many people who are born with a uterus but do not identify as female.
+----Step 1: PersonX gives PersonY some good advice.--Step 2: PersonX is seen as being right.----Conclusion: True
+----Step 1: If PersonX goes scot free, it means that they are not punished for their actions.----Step 2: If PersonX is not punished for their actions, it could be seen as an indication that they are innocent
+----False. This statement does not make sense grammatically.
+----False. PersonX may not enjoy the cocktail even if their husband does.
+----Step 1: PersonX comforted PersonY.--True----Step 2: PersonX is seen as good.--True----Conclusion: True
+----True. If PersonX goes into the forest, they should be aware of their surroundings and take necessary precautions to ensure their safety.
+----False. This statement does not make sense.
+----Step 1: If PersonX dozes off, then PersonX is tired.--Step 2: Conclusion: True
+----False. Applying for a scholarship does not guarantee acceptance to college.
+----Step 1: PersonX heel strikes the ground.--Step 2: PersonX is seen as staggering.----Conclusion: True
+----False. This statement does not make sense.
+----False. The statement does not make sense as written.
+----False. Just because a person has never been convicted of anything does not necessarily mean they are innocent. There could be other factors at play, such as lack of evidence or lack of investigation.
+----False. The statement is grammatically incorrect and does not make sense.
+----False. This statement does not make sense.
+----False. This statement does not make sense because it is impossible for someone to live and die at the same time.
+----False. PersonX cannot see clearly if they look up in the sky.
+----True. If PersonX provides excellent service, they will be seen as a valuable asset and appreciated.
+----False. This statement does not make sense.
+----Step 1: Turning 19 is a milestone in many cultures, as it marks the transition from childhood to adulthood.----Step 2: In many cultures, turning 19 is seen as a sign of maturity.----Conclusion: True
+----False. If PersonX fails a drug test, it is not likely that PersonX is seen as being clean.
+----False. The sentence does not make sense in its current form.
+----False. The statement does not make sense grammatically.
+----False. Having a big brain does not necessarily mean that a person is seen as being very clever.
+----False. The statement does not make sense as it is written.
+----False. PersonX may not be making a move because they are not interested, not because they are shy.
+----False. Kissing someone's forehead is usually seen as a sign of affection, not necessarily as a sign of holding.
+----False. This statement does not make sense because it does not follow a logical pattern.
+----Step 1: PersonX has moved to an area.--Step 2: PersonX is seen as new to the area.----Conclusion: True
+----False. The statement does not make sense grammatically.
+----False.
+----False. It is unlikely that a person would be seen as staggering if they stepped down from a bridge.
+----False. This statement does not make sense.
+----Step 1: PersonX will mourn.--True----Step 2: PersonX is seen as.--False (This is not a complete sentence.)----Step 3: PersonX be bereaved.--True----Conclusion:
+----True
+----False. This statement does not make sense grammatically.
+----False. If PersonX goes by it because PersonX wanted, PersonX can still avoid it.
+----True. If PersonX wanted to move to a certain county, then it is likely that PersonX will live in that county.
+----Step 1: PersonX loves corn tortilla.--True----Step 2: PersonX wanted to love corn tortilla.--True----Step 3: PersonX is happy because they love corn tortilla.--True----
+----False. It is unlikely that someone would want to be fat and then hate being fat.
+----False. This statement does not make sense grammatically.
+----False. Adding air to a tire will increase the tire pressure, not lower it.
+----False. This statement is not likely to occur because it is grammatically incorrect.
+----False. If PersonX wanted to be a terrible cook, they would need to put in effort to become one. Simply wanting to be a terrible cook would not make them a terrible cook.
+----False. This statement does not make sense grammatically.
+----False. This statement does not make sense grammatically.
+----False. It is not likely to occur.
+----Step 1: PersonX thanked PersonY.--Step 2: PersonX wanted to thank PersonY.--Step 3: PersonX truly cares about PersonY.----Conclusion: True
+----Step 1: Is it possible for a person to reach the age of 90?--Answer: True----Step 2: Is it possible for a person to retire at the age of 90?--Answer: True----Step 3:
+----False. It is not likely to occur because it is grammatically incorrect.
+----Step 1: Is it possible for PersonX to get to the appointment early? Yes.--Step 2: Is it possible for PersonX to want to get to the appointment early? Yes.--Step 3: Is it possible for Person
+----False. It is not likely to occur because flying requires a plane and a pilot, and it is not possible for a person to fly without either of those.
+----False. It is unlikely that a person would be fired for getting a job they wanted.
+----True
+----Step 1: Is it possible for PersonX to grow up in Minneapolis?--Yes, it is possible.----Step 2: Is it possible for PersonX to want to grow up in Minneapolis?--Yes, it is possible.
+----False. PersonX would not be careless if they wanted to get a puncture.
+----False. This statement does not make sense grammatically.
+----False. This statement does not make sense.
+----False. The statement does not make sense grammatically.
+----False. The statement does not make sense grammatically.
+----False. This statement does not make sense.
+----False. The statement does not make sense.
+----False. It is not likely to occur that a person is not selected for a championship but then is allowed to play in the championship.
+----False. The statement does not make sense grammatically.
+----False. It is unlikely that a person would feed their own cat and then take out its litter box before feeding it.
+----Step 1: PersonX hurt your feelings.--Step 2: PersonX needed something.--Step 3: PersonX apologized.----Conclusion: True
+----False. The statement does not make sense grammatically.
+----False. The statement does not make sense.
+----False. The statement does not make sense grammatically.
+----False. This statement does not make sense as written.
+----False. The statement does not make sense.
+----Step 1: PersonX spoils PersonY's wedding plan.--Step 2: PersonX apologizes before spoiling the plan.----Conclusion: True
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----True
+----False. This statement does not make sense.
+----False. This statement does not make sense grammatically.
+----False. This statement does not make sense.
+----False. It is not likely to occur because it does not make sense.
+----True. If PersonX has the flu, it is likely that they would need to lay down on bed before feeling better.
+----False. This statement does not make sense.
+----False. This statement does not make sense grammatically.
+----False. It is unlikely that a person would say this statement as it does not make sense.
+----False. This statement does not make sense.
+----False. The statement does not make sense.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----False. The statement does not make sense grammatically.
+----False. This statement does not make sense as written.
+----False. It is not likely to occur because it is impossible for PersonX to have never dated anyone before if they are now dating PersonY.
+----False. The statement does not make sense.
+----False. It is not likely to occur.
+----False. This statement does not make sense.
+----False. This statement does not make sense.
+----True. If PersonX has strength and needs it, they will choose to exert it.
+----False. It is unlikely that the receptionist would tell PersonY what PersonX told them, unless PersonX specifically asked the receptionist to do so.
+----Step 1: A person can get an erection. True----Step 2: An erection can cause a person to want to masturbate. True----Conclusion: True
+----True. If PersonX makes the best decision, it will be the best option.
+----False.
+----True
+----Step 1: PersonX puts PersonY in prison.--Step 2: PersonY wants revenge.----Conclusion: True
+----False. It is unlikely that PersonX being sick would cause PersonY to become sick.
+----Step 1: PersonX tries a new place.--Step 2: PersonX enjoys trying new places.----Conclusion: True
+----False. PersonY will still have choices, even if PersonX dies.
+----False. If PersonX leaves, it does not necessarily mean that PersonY will stay.
+----Step 1: PersonX teaches PersonY.--Step 2: PersonY understands the causes.----Conclusion: True
+----Step 1: Is it a costume party?--Step 2: Does PersonX have to wear a costume?----Conclusion: True
+----Step 1: PersonX asks PersonY a question.--Step 2: PersonY responds to the question.--Step 3: PersonY wants to continue the relationship.----Conclusion: True
+----False. This statement does not make sense.
+----False. PersonX being a coward by nature does not necessarily cause PersonY to be nervous. It is possible that PersonY may not be affected by PersonX's cowardice.
+----False. Double cleansing is a skincare routine that involves washing your face twice with different products. Showering does not necessarily mean that you are double cleansing.
+----False. This statement does not make sense.
+----False. This statement does not make sense as written.
+----False. If PeopleX take PersonY insurance, it does not necessarily mean that PersonY will not take PersonX insurance. It is possible that both PeopleX and PersonY could take each other's insurance.
+----False. It is not likely to occur in this order. It is more likely that PersonY would enquire before PersonX asks.
+----False. It is unlikely that PersonX crying harder would cause PersonY to cry.
+----False. This statement does not make sense.
+----False. If PeopleX have already assisted PersonY before, PersonY would not need help.
+----False. This statement does not make sense.
+----Step 1: Does PersonX usually make reservations?--Step 2: Does a long line usually form when PersonX makes a reservation?----Answer: True
+----False. It is not likely to occur because it does not make sense logically.
+----False. PersonX must be hired and receive a salary before they can work.
+----False. It is unlikely that the drink will be delicious just because PersonX sips it.
+----False. It is not necessarily true that if PersonX fails, PersonY must fail. It depends on the circumstances and the actions of PersonY.
+----False. This statement does not make sense as written.
+----Step 1: PersonX brings their own food.--Step 2: PersonY suggests eating.----True
+----True
+----False. It is not likely to occur because the statement does not make sense.
+----False. This statement does not make sense as written.
+----False. This statement does not make sense.
+----Step 1: PersonX makes music.--Step 2: People listen to it.----Conclusion: True
+----False.
+----False. The statement does not make sense as written.
+----False. Pain is a subjective experience and cannot be felt by someone else.
+----False. PersonY cannot hinder PersonX from taking their own concerns seriously.
+----False. Watching the finale of a show does not necessarily hinder a person's happiness.
+----False. This statement does not make sense.
+----False. It is not likely that a person's feeling of poverty can be hindered by their own misfortune.
+----False. This statement does not make sense.
+----False. Holding in a fart is not likely to be successful, as the gas will eventually escape.
+----False. The statement does not make sense grammatically.
+----False. PersonX can learn something new without being hindered by having to relearn something.
+----False. It is not likely to occur because PersonX and PersonY are two different people and PersonZ is a third person.
+----False. The statement does not make sense.
+----False. This statement is unlikely to occur because it does not make sense.
+----False. This statement does not make sense.
+----False. The statement does not make sense grammatically.
+----False. PersonX cannot be hindered by something they do not know.
+----False. PersonX cannot be hindered by their own wait if they call customer care.
+----Step 1: PersonX learns Parisian French in school.--Step 2: PersonX is hindered by their learning.--Step 3: PersonX is fairly bilingual.----Conclusion: False
+----False. The statement does not make sense grammatically.
+----False. It is unlikely that PersonX comprehending can be hindered by PersonY understanding well.
+----False. PersonX feeling pleasure cannot be hindered by PersonX feeling.
+----False. The statement does not make sense grammatically.
+----False. It is unlikely that PersonY will plan it if PersonX has already planned it.
+----False. This statement does not make sense.
+----False.
+----False. It is not likely to occur because it is impossible to hinder someone who has already run away.
+----False. Foreseeing something means that you are aware of it and can take steps to prevent it from happening. If PersonX does not foresee something, then they cannot take steps to prevent it from occurring.
+----False. This statement does not make sense.
+----False. Blaming PeopleX will not hinder them from being the problem.
+----False. The statement does not make sense as written.
+----False. This statement does not make sense.
+----Step 1: Is PersonX hanging around Evan too much?----Answer: Unknown.----Step 2: Is PersonX in need of getting out more?----Answer: Unknown.----Conclusion: False
+----False. PersonX cannot resign before their term expires.
+----False.
+----False. PersonX owning a company does not necessarily mean that PersonX has investments in the company.
+----False. Knowing the lyrics would not hinder someone from not knowing the lyrics.
+----False. The statement does not make sense.
+----False. If it wasn't PersonX's fault, PersonX should not feel bad.
+----True. If PersonX's profits are hindered, it is likely that PersonX will make a loss.
+----False.
+----False. PersonX making a mistake does not necessarily mean that the machine will make a mistake.
+----False. While it is possible for someone to become hopelessly addicted to drugs, it is not inevitable. There are many factors that can influence whether or not someone becomes addicted, such as their environment, genetics, and mental health.
+----False. If PersonX buys one, it will not be more expensive.
+----False. This statement does not make sense as it is written.
+----False. PersonX offering PeopleX a free drink would likely make PeopleX happy, not hindered.
+----False. The statement does not make sense.
+----False. PersonX can be result-oriented even if they beat the boss, as long as they are focused on achieving the desired outcome.
+----False. Splitting cannot be hindered by someone choosing.
+----False. PersonX may be biased, but their dislike of the album does not necessarily mean that they are biased.
+----False. It is unlikely that PersonY will forgive PersonX if PersonX does not forgive PersonY first.
+----False.
+----True. If PersonX idolizes PersonY, it is likely that PersonX will become jealous if PersonY does something that PersonX cannot do or is not invited to an event that PersonY is attending.
+----Step 1: PersonX can drop their head. True----Step 2: PersonX's face can be expressionless. True----Conclusion: True
+----False. It is unlikely that a person would both wail and cry at the same time.
+----False. This statement does not make sense as written.
+----Step 1: PersonX put PersonY at ease.--True----Step 2: PersonX includes the event or action.--True----Step 3: PersonX is very nice.--True----Conclusion: True
+----False. The statement is not grammatically correct and does not make sense.

@@ -1,0 +1,103 @@
+head,relation,tail,class,split,label,dim
+PersonX ejaculate,xWant,PersonX orgasm,adv,dev,0,event
+PersonX go to fridge,xWant,PersonX want to get a glass of wine,adv,dev,1,event
+PersonX work tirelessly,xWant,PersonX die,cs_head,dev,1,event
+PersonX set off,xWant,PersonX leave,adv,dev,1,event
+PersonX enlist,xWant,PersonX want to fight for country,adv,dev,1,event
+PersonX fall into pool,xWant,PersonX mother enrol PersonX in school,all_head,dev,0,event
+PersonX shit,xWant,PersonX have to put down some toilet paper in toilet,adv,dev,0,event
+PersonX come,xWant,PersonX be paranoid,adv,dev,0,event
+PersonX look back at footage,xWant,PersonX will bet,all_head,dev,0,event
+PersonX give PersonY a substantial amount,xWant,PersonX could not pay it back,adv,dev,0,event
+PersonX withdraw money,xWant,PersonX pay bill,test_set,dev,1,event
+PersonX have cavity,xWant,PersonX have a toothache,test_set,dev,0,event
+PersonX wire PersonY,xWant,PersonX get a telegram,adv,dev,0,event
+PersonX escape,oWant,PersonY escape,adv,dev,0,event
+PersonX be work from home,oWant,PersonY be a remote worker,adv,dev,0,event
+PersonX loan succeed,oWant,PersonY prefer,all_head,dev,0,event
+PersonX look at PersonY,oWant,PersonY wasn t look,adv,dev,0,event
+PersonX be not use PersonX ability,oWant,PersonY mean,all_head,dev,0,event
+PersonX leave food,xEffect,PersonX be only ask,cs_head,dev,0,event
+PersonX collapse in courthouse,xEffect,PersonX body reject the transplant liver,all_head,dev,0,event
+PersonX get really paranoid,xEffect,PersonX be nervous,adv,dev,1,event
+PersonX have food poisoning,xEffect,PersonX throw up,adv,dev,1,event
+PersonX earn more money,xEffect,PersonX want to stay there,cs_head,dev,1,event
+PersonX feel very sick,xEffect,PersonX have medicine,test_set,dev,1,event
+PersonX decide,xEffect,PersonX be indecisive,adv,dev,0,event
+PersonX see a dead body,xEffect,PersonX just will not cry,cs_head,dev,0,event
+PersonX go to fill up,xEffect,PersonX need gas,adv,dev,0,event
+PersonX be a baby,xEffect,PersonX could not be,cs_head,dev,0,event
+PersonX move out to live on own,xEffect,PersonX wont be able,adv,dev,0,event
+PersonX join,xEffect,PersonX fill out paperwork,adv,dev,0,event
+PersonX get in shape,oEffect,PersonY bet,cs_head,dev,0,event
+PersonX cause PersonZ death,oEffect,PersonY do not actually cause the harm,adv,dev,0,event
+PersonX steal PersonZ boyfriend,oEffect,PersonY have a boyfriend,adv,dev,0,event
+PersonX pull off,xReact,PersonX wait,adv,dev,0,mental state
+PersonX prevent PersonY,xReact,PersonX never reach out to anyone,cs_head,dev,0,mental state
+PersonX go to sleep on hollow,xReact,PersonX be tired,adv,dev,0,mental state
+PersonX prepare it,xReact,PersonX always win,test_set,dev,0,mental state
+PersonX read non fiction,xReact,PersonX be curious,adv,dev,0,mental state
+PersonX ruin PersonX own marriage,xReact,PersonX be selfish,adv,dev,1,mental state
+PersonX hair be gray,xReact,PersonX be elderly,adv,dev,1,mental state
+PersonX eat the sub,xReact,PersonX be full,adv,dev,1,mental state
+PersonX go PersonX separate way,xReact,PersonX don t,adv,dev,0,mental state
+PersonX create that,xReact,PersonX love to do that,test_set,dev,0,mental state
+PersonX put PersonY in mind,xReact,PersonX be nostalgic,test_set,dev,1,mental state
+PersonX bear PersonY,oReact,PersonY be here,adv,dev,0,mental state
+PersonX take liberty,oReact,PersonY be kind,cs_head,dev,0,mental state
+PersonX gaze at PersonY,oReact,PersonY blush,adv,dev,1,mental state
+PersonX play ana,oReact,PersonY be fun,adv,dev,0,mental state
+PersonX baby brother die,xAttr,PersonX be babysit,all_head,dev,0,persona
+PersonX walk PersonY through process,xAttr,PersonX be professional,adv,dev,1,persona
+PersonX preorder,xAttr,PersonX get,adv,dev,0,persona
+PersonX stay happy,xAttr,PersonX be well pay,cs_head,dev,1,persona
+PersonX hand slip,xAttr,PersonX fall,adv,dev,0,persona
+PersonX first start this job,xAttr,PersonX be work,adv,dev,0,persona
+PersonX readily believe so,xAttr,PersonX be convinced,adv,dev,1,persona
+PersonX have nothing else,xAttr,PersonX see PersonY,cs_head,dev,0,persona
+PersonX have not hear a car drive up,xAttr,PersonX be startle,all_head,dev,0,persona
+PersonX miss,xAttr,PersonX be promise,cs_head,dev,0,persona
+PersonX relate,xAttr,PersonX feel,adv,dev,0,persona
+PersonX mistakenly shave PersonY head,xAttr,PersonX be upset,adv,dev,1,persona
+PersonX believe thing,xIntent,PersonX belief be true,adv,dev,0,mental state
+PersonX ride the light rail,xIntent,PersonX do not need a car,adv,dev,0,mental state
+PersonX would at have one person,xIntent,PersonX wish,all_head,dev,0,mental state
+PersonX can form a opinion,xIntent,PersonX have a opinion,adv,dev,1,mental state
+PersonX wake up late for work,xIntent,PersonX almost die,all_head,dev,0,mental state
+PersonX get even happier,xNeed,PersonX be happy,adv,dev,1,event
+PersonX make wedding cake,xNeed,PersonX have to make PeopleX for everyone,adv,dev,0,event
+PersonX just activate it,xNeed,PersonX use it,all_head,dev,0,event
+PersonX go lady at counter,xNeed,PersonX be intolerant,all_head,dev,0,event
+PersonX pay by card,xNeed,PersonX can use PersonX debit card,adv,dev,1,event
+PersonX want to be a actor,xNeed,PersonX need to make plan,test_set,dev,1,event
+PersonX make a speech,xNeed,PersonX start,cs_head,dev,0,event
+PersonX get sick of that,xNeed,PersonX breathe,cs_head,dev,0,event
+PersonX break PersonX hip,Causes,PersonX have begin to recover,cs_head,dev,1,event
+PeopleX go faster,Causes,PeopleX be fast,adv,dev,0,event
+harvey have a secret,Causes,PersonY ask,all_head,dev,0,event
+PeopleX retire,Causes,PeopleX be older,adv,dev,0,event
+PersonX do that well,Causes,it be so crazy,cs_head,dev,0,event
+PeopleX be not home,isBefore,PersonX live a married life,test_set,dev,0,event
+PersonX do something to PersonY,isBefore,PersonY do something,adv,dev,0,event
+PersonX love this soup,isBefore,PersonX be a soup fan,adv,dev,0,event
+PersonX lock the door,isAfter,no one could intrude,adv,dev,0,event
+PersonX have a break,isAfter,PersonX totally get it,cs_head,dev,1,event
+PersonX wouldnt,isAfter,PersonX have faith,cs_head,dev,0,event
+PersonX be write a play,isAfter,PersonX use a corny pick up line,test_set,dev,0,event
+PersonX watch one,HinderedBy,PersonX be interested,test_set,dev,0,event
+PersonX show % certainty in claim,HinderedBy,there be certainty,adv,dev,0,event
+PersonX clean PersonY bathroom,HinderedBy,PersonX run out of supplies,test_set,dev,1,event
+PersonY play by herself,HinderedBy,PersonY be happier,all_head,dev,0,event
+PersonX achieve that,HinderedBy,PersonX could have,cs_head,dev,0,event
+PersonX run away,HinderedBy,PersonY would better hurry,adv,dev,0,event
+PersonX know PersonY,HinderedBy,y don,adv,dev,0,event
+PeopleX be gon na take pete there,HinderedBy,PeopleY do not call PersonX bitch,all_head,dev,0,event
+PersonX send PersonY home,HinderedBy,now it be up,cs_head,dev,0,event
+PersonX be misbehave,HinderedBy,PeopleX be misbehave,test_set,dev,0,event
+PersonX do not think PersonY,HinderedBy,there be actually something,cs_head,dev,0,event
+PersonX get this job,HinderedBy,PersonX have little experience,adv,dev,1,event
+that be deep,HinderedBy,PersonX probably deserve it,cs_head,dev,0,event
+PersonX look pale,HinderedBy,PersonY grow pale,adv,dev,0,event
+PersonX see a opening,HinderedBy,PersonX just have to be careful,cs_head,dev,0,event
+PersonX wish for it,HinderedBy,it be desirable,adv,dev,0,event
+PersonX see,HasSubEvent,some see,adv,dev,0,event

@@ -1,0 +1,102 @@
+True
+False
+False
+True
+True
+False
+True
+False
+False
+True
+True
+False
+False
+True (with some uncertainty)
+False
+True
+True
+True
+False
+Uncertain (more information is needed)
+True
+True
+True
+True
+False
+True
+True
+True
+True
+True
+False
+False
+True
+False
+True
+True
+False
+True
+False
+True
+True
+True
+True
+True
+Cannot determine.
+False
+True
+False
+False
+True
+False
+False
+False
+False
+True
+Cannot determine.
+False
+False
+True
+True
+True
+True
+True
+False
+False
+True
+True
+True
+False
+True
+True
+True
+True
+True
+False
+True
+True
+False
+False
+True
+True
+True
+Cannot determine.
+True
+False
+False
+True
+True
+False
+N/A (More information needed)
+True
+True
+False
+Cannot determine.
+False
+False (as the statement is unclear)
+True
+Cannot determine.
+False
+True
+False
+False

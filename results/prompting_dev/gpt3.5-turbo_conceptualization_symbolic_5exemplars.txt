@@ -1,0 +1,102 @@
+False. Because result of 3 is No.
+False. Because result of 2 is No.
+False. Because result of 3 is No.
+True. Because 'set off' implies the intention to leave.
+False. Because result of 2 is No.
+False. Because there is no clear connection between falling into a pool and enrolling in school.
+True. Because it is a common practice to put down toilet paper before using the toilet, especially when defecating.
+False. Because result of 3 is No.
+False. Because result of either 2 or 3 is No.
+False. Because result of 2 is No.
+True. Because withdrawing money is usually done to pay for something, and paying bills is a common reason for withdrawing money.
+False. Because result of 2 is No.
+True. Because wiring someone is usually done with the intention of communicating with them, and getting a telegram is a form of communication.
+True. Because when PersonX escapes, it is natural for PersonY to also want to escape to avoid danger or follow PersonX's lead.
+True. Because working from home is a type of remote work, and it is common for people to want to work remotely if they see others doing it successfully.
+False. Because result of 2 is No.
+False. Because result of 2 is No.
+False. Because result of 2 is No.
+False. Because result of 2 is No.
+False. Because the collapse in courthouse and the body rejecting the transplant liver are not necessarily causally related.
+True. Because being paranoid can lead to nervousness.
+True. Because having food poisoning can cause vomiting as a common symptom.
+False. Because result of 2 is No.
+False. Because result of 2 is No.
+False. Because result of 3 is No.
+True. Because seeing a dead body may cause sadness or shock, but it does not necessarily lead to crying. Some people may choose to express their emotions in other ways.
+True. Because going to fill up usually means getting gas for the vehicle.
+False. Because result of 3 is No.
+False. Because result of 3 is No.
+True. Because joining often requires filling out paperwork as a necessary step.
+True. Because getting in shape implies that PersonX has put in effort and dedication towards fitness, which can be seen as a positive attribute. Betting can be a way for PersonY to show support or confidence in PersonX's progress.
+False. Because result of 2 is No.
+False. Because result of 3 is No.
+False. Because result of 2 is No.
+True. Because preventing someone may cause guilt and isolation, leading to not reaching out to anyone.
+True. Because going to sleep on a hollow can result in discomfort and lack of quality sleep, leading to feeling tired the next day.
+False. Because result of 2 is No.
+True. Because reading non fiction can increase one's knowledge and curiosity, which can lead to a positive emotional state of feeling curious.
+True. Because 1) "PersonX ruin PersonX own marriage" implies that PersonX did something wrong and hurtful to their spouse, which can lead to feelings of guilt and selfishness, and 2) "PersonX be selfish" directly expresses PersonX's mental state.
+False. Because result of 3 is No.
+True. Because when a person eats, they usually feel full as a result of their physical state, which is a mental state.
+False. Because result of 3 is No.
+True. Because creating something can bring a sense of accomplishment and satisfaction, which can lead to a positive emotional state and a love for doing it.
+True. Because when PersonX puts PersonY in mind, it may trigger memories and emotions associated with nostalgia.
+False. Because result of 3 is No.
+False. Because result of 3 is No.
+True. Because it is common for people to blush when they are being stared at, especially by someone they are attracted to.
+False. Because result of 3 is No.
+False. Because result of 2 is No.
+True. Because walking someone through a process implies that PersonX has knowledge and expertise in the field, which is a characteristic of a professional.
+False. Because result of 2 is No.
+False. Because result of 3 is No.
+False. Because result of 2 is No.
+False. Because result of 3 is No.
+True. Because being convinced is a mental state that can result from readily believing something.
+True. Because when a person has nothing else, they may seek comfort or companionship from others, which can lead to seeing PersonY.
+True. Because not hearing a car drive up can startle a person.
+False. Because result of 3 is No.
+True. Because 'relate' implies that PersonX is able to connect with others on an emotional level, which suggests that PersonX is likely to have feelings.
+True. Because mistakenly shaving someone's head is likely to cause upset or distress.
+True. Because the inference suggests that PersonX intends for their belief to be true, which is a common motivation for holding a belief.
+True. Because riding the light rail implies that PersonX prefers public transportation over owning a car, indicating that PersonX does not need a car.
+False. Because result of 3 is No.
+True. Because the ability to form an opinion implies having an opinion.
+False. Because result of 3 is No.
+True. Because the inference suggests that being happy is a necessary condition for getting even happier, which is a reasonable assumption.
+True. Because the inference suggests that making PeopleX for everyone is a necessary condition for the event of making wedding cake to happen.
+True. Because the inference suggests that the event will only happen if PersonX uses it, which implies a causal relationship between the activation and usage of the event.
+True. Because the inference suggests that PersonX's intolerance is a necessary condition for the event to happen, implying a causal relationship between the two.
+False. Because result of 2 is No.
+True. Because the inference suggests that in order for PersonX's desire to become an actor to happen, they need to take action and make a plan. This is a logical and reasonable assumption.
+True. Because the inference implies that the event of PersonX making a speech is dependent on PersonX starting, which is a logical and reasonable assumption.
+True. Because getting sick is often related to physical health, which is affected by breathing. Therefore, it is likely that if PersonX stops breathing, they will get sick.
+True. Because breaking a hip is a significant event that requires recovery, and it is likely that PersonX is recovering after the event.
+False. Because result of 2 is No.
+False. Because result of 3 is No.
+False. Because result of 2 is No.
+False. Because result of 3 is No.
+True. Because the inference suggests that PersonX is living a married life only when PeopleX is not home, implying that PersonX is having an affair.
+True. Because the inference suggests a cause-and-effect relationship between PersonX's action and PersonY's subsequent action.
+True. Because loving a particular soup can lead to a preference for soup in general, making PersonX a soup fan.
+True. Because locking the door is a preventive action to avoid intrusion.
+False. Because result of 2 is No.
+False. Because result of 3 is No.
+True. Because the use of a corny pick up line is an event that happened before the event of writing a play, and there is no ambiguity in the meaning of the clauses.
+False. Because result of 2 is No.
+False. Because result of 3 is No.
+True. Because if PersonX runs out of supplies, they cannot clean PersonY's bathroom, which means the event of cleaning the bathroom will not happen.
+False. Because result of 2 is No.
+False. Because result of 2 is No.
+True. Because if PersonY hurries, it can prevent PersonX from running away, which means the event of PersonX running away will not happen.
+False. Because result of 3 is No.
+False. Because result of 3 is No.
+False. Because result of 3 is No.
+False. Because the inference is not logically sound and does not make sense. The occurrence of one person misbehaving does not necessarily prevent another person from misbehaving.
+False. Because result of 3 is No.
+False. Because result of 2 is No.
+False. Because result of 3 is No.
+True. Because if PersonY grows pale, it is likely that PersonX will not look pale as the attention will be on PersonY's paleness.
+True. Because the inference suggests that if PersonX is careful, the event of seeing an opening will not happen, implying that PersonX's mental state of being careful affects the likelihood of the event happening.
+True. Because the inference suggests that if something is desirable, then it is unlikely to happen even if PersonX wishes for it. This is a common belief and does not have any ambiguity in its meaning.
+False. Because result of 3 is No.

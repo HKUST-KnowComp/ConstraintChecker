@@ -1,0 +1,715 @@
+[[<OpenAIObject at 0x7fd7f4f8cc70> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX orgasm' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because ejaculation is a physical response that often leads to the desire for orgasm.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f36430> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX want to get a glass of wine' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because it is likely that if someone goes to the fridge, they have a specific item in mind that they want to retrieve, such as a glass of wine.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45b4db0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX die' doesn't express an 'event' of PersonX, but rather a result or consequence.\n2. Yes.\n3. False. Because it's unlikely that someone who works tirelessly would want to die as a result.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f8e480> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX leave' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because 'PersonX set off' implies that PersonX is leaving, so it is likely that PersonX wants to leave.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f8e9d0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX want to fight for country' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because enlisting in the military is often associated with a desire to serve and fight for one's country.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f8f060> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX mother enrol PersonX in school' doesn't express an 'event' of PersonX.\n2. Yes.\n3. False. Because there is no clear connection between falling into a pool and enrolling in school.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f8f5b0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX have to put down some toilet paper in toilet' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because it is a common practice to put down toilet paper in the toilet after defecating for hygiene purposes.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f8f9c0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX be paranoid' doesn't express an 'event' of PersonX.\n2. Yes.\n3. False. Because it's unlikely that someone would want to be paranoid after coming somewhere.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f8fe20> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX will bet' doesn't express an 'event' of PersonX.\n2. Yes.\n3. False. Because result of 1 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4fdd7b0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX could not pay it back' doesn't express an 'event' of PersonX.\n2. Yes.\n3. False. Because it's unlikely that PersonX would give a substantial amount with the intention of not being paid back.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45b7830> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX pay bill' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because withdrawing money is usually done to pay for something, and paying bills is a common reason for withdrawing money.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45b53f0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX have a toothache' expresses an 'event' of PersonX.\n2. Yes.\n3. False. Because it's unlikely that PersonX wants to have a toothache after having a cavity.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4fdfe70> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX get a telegram' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because wiring someone is usually done with the intention of receiving a response or message in return, such as a telegram.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e89df0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonY escape' expresses an 'event' of PersonY.\n2. Yes.\n3. True. Because it is likely that PersonY wants to escape if they see PersonX escaping, as it may indicate danger or a need to flee.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f37ce0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonY be a remote worker' expresses an 'event' of PersonY.\n2. Yes.\n3. True. Because working from home can be seen as a desirable work arrangement, and it is likely that PersonY wants to have the same arrangement.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e88c20> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonY prefer' doesn't express an 'event' of PersonY.\n2. Yes.\n3. False. Because result of 1 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45ad8a0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonY want PersonY wasn't look' doesn't express an 'event' of PersonY.\n2. Yes.\n3. False. Because result of 1 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f515be20> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonY mean' doesn't express an 'event' of PersonY.\n2. Yes.\n3. False. Because result of 1 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e6bf10> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX be only ask' doesn't express an 'event' of PersonX.\n2. Yes.\n3. False. Because it's unlikely that leaving food would result in being only asked.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45b4ea0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX body reject the transplant liver' expresses an 'event' of PersonX's body.\n2. Yes.\n3. True. Because collapsing in a courthouse may indicate a serious health issue, and the body rejecting a transplant organ is a possible complication in such cases.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45de160> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX be nervous' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because getting paranoid can lead to nervousness and anxiety.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4fdc3b0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX throw up' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because having food poisoning can result in throwing up as a natural bodily response to expel the harmful substance.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4fdc8b0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX want to stay there' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because earning more money is often a motivation for people to stay in their current job or position.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4fdce00> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX have medicine' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because when someone feels very sick, it is likely that they will take medicine to alleviate their symptoms.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4fdd350> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX be indecisive' doesn't express an 'event' of PersonX.\n2. Yes.\n3. False. Because it's unlikely that a person who decides becomes indecisive as a result.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45dc180> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX just will not cry' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because seeing a dead body can be a traumatic experience that may cause a person to be emotionally numb and unable to cry.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45df970> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX need gas' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because when someone goes to fill up their car, it is likely that they need gas.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4fde2f0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX could not be' doesn't express an 'event' of PersonX.\n2. Yes.\n3. False. Because it's unclear what 'PersonX could not be' refers to, and it's unlikely that being a baby would prevent PersonX from doing everything.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f376f0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX wont be able' doesn't express an 'event' of PersonX.\n2. Yes.\n3. False. Because the meaning of 'PersonX wont be able' is unclear/ambiguous.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4fded40> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX fill out paperwork' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because when someone joins an organization or group, it is common for them to fill out paperwork as part of the process.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4fdf240> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonY bet' doesn't express an 'event' of PersonY.\n2. Yes.\n3. False. Because there is no clear connection between PersonX getting in shape and PersonY betting.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4fdf790> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonY do not actually cause the harm' doesn't express an 'event' of PersonY.\n2. Yes.\n3. False. Because result of 1 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4fdfce0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonY have a boyfriend' doesn't express an 'event' of PersonY.\n2. Yes.\n3. False. Because it's unlikely that PersonY suddenly gets a boyfriend just because PersonX stole PersonZ's boyfriend.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45de8e0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX wait' doesn't express a 'mental state' of PersonX.\n2. Yes.\n3. False. Because result of 1 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e88ae0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX never reach out to anyone' expresses a 'mental state' of PersonX.\n2. Yes.\n3. True. Because preventing PersonY may cause PersonX to feel isolated and not reach out to anyone.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f355d0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX be tired' expresses a 'mental state' of PersonX.\n2. Yes.\n3. True. Because going to sleep on a hollow surface is likely to result in discomfort and poor quality of sleep, leading to feeling tired the next day.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e6aac0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX always win' doesn't express a 'mental state' of PersonX.\n2. Yes.\n3. False. Because it's unlikely that PersonX always win just because they prepare, there are other factors that can affect the outcome.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45b4090> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX be curious' expresses a 'mental state' of PersonX.\n2. Yes.\n3. True. Because reading non-fiction often leads to gaining knowledge and curiosity about the world.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45b74c0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX feel PersonX be selfish' expresses a 'mental state' of PersonX.\n2. Yes.\n3. True. Because the inference suggests that PersonX's actions led to the ruin of their own marriage, which could result in feelings of guilt and selfishness.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e6aa20> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX be elderly' expresses a 'mental state' of PersonX.\n2. Yes.\n3. True. Because gray hair is often associated with old age, and feeling elderly is a common emotional response to physical signs of aging.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4fdda80> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX feel PersonX be full' expresses a 'mental state' of PersonX.\n2. Yes.\n3. True. Because when a person eats, they usually feel full as a result of the food intake.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45deb60> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX don't' expresses a 'mental state' of PersonX.\n2. No. Because the meaning of 'PersonX don't' is unclear/ambiguous.\n3. False. Because result of 2 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4ee5760> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX love to do that' doesn't express a 'mental state' of PersonX.\n2. Yes.\n3. False. Because result of 1 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f34db0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX feel PersonX be nostalgic' expresses a 'mental state' of PersonX.\n2. Yes.\n3. True. Because when PersonX thinks of PersonY, it may trigger memories and emotions associated with the past, leading to a feeling of nostalgia.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4fdd620> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonY be here' doesn't express a 'mental state' of PersonY.\n2. Yes.\n3. False. Because result of 1 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f37bf0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonY feel PersonY be kind' doesn't express a 'mental state' of PersonY.\n2. Yes.\n3. False. Because it's unlikely that PersonY would feel kind after PersonX takes liberty.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f37e70> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonY blush' expresses a 'mental state' of PersonY.\n2. Yes.\n3. True. Because it is a common reaction for people to blush when they are being stared at or gazed upon.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45b78d0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonY be fun' doesn't express a 'mental state' of PersonY.\n2. Yes.\n3. False. Because it's unlikely that playing ana would result in someone feeling that they themselves are fun.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4fdcf90> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX be babysit' doesn't express a persona of PersonX.\n2. Yes.\n3. False. Because the death of a baby brother is not necessarily related to the attribute of being a babysitter.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f8fd80> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX be professional' expresses a persona of PersonX.\n2. Yes.\n3. True. Because walking someone through a process requires knowledge and expertise, which are characteristics of a professional.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e68f90> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX get' expresses a persona of PersonX.\n2. No. Because the meaning of 'PersonX get' is unclear/ambiguous.\n3. False. Because result of 2 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f50421b0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX be well pay' doesn't express a persona of PersonX.\n2. Yes.\n3. False. Because staying happy doesn't necessarily mean that a person is well paid.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f50426b0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX fall' expresses a persona of PersonX.\n2. Yes.\n3. True. Because if PersonX's hand slips, it is likely that they will fall.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e6b600> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX be work' doesn't express a persona of PersonX, it's not a valid attribute.\n2. No. Because the meaning of 'PersonX be work' is unclear/ambiguous.\n3. False. Because result of 1 or 2 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e8b060> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX be convinced' expresses a persona of PersonX.\n2. Yes.\n3. True. Because if PersonX readily believes something, it is likely that they are convinced by it.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45dd3a0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX see PersonY' doesn't express a persona of PersonX.\n2. Yes.\n3. False. Because there is no clear connection between having nothing else and seeing PersonY as a personality trait.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45ddbc0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX be startle' expresses a persona of PersonX.\n2. Yes.\n3. True. Because not hearing a car drive up can startle someone, and it is likely that PersonX would be startled in this situation.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e680e0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX be promise' doesn't express a persona of PersonX.\n2. Yes.\n3. False. Because the inference doesn't make sense. Missing something doesn't necessarily mean that a person is promising.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45b51c0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX feel' doesn't express a 'persona' of PersonX.\n2. No. Because the meaning of 'PersonX feel' is unclear/ambiguous.\n3. False. Because the result of either 1 or 2 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f8f240> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX be upset' expresses a persona of PersonX.\n2. Yes.\n3. True. Because mistakenly shaving someone's head is a mistake that can cause guilt and upset, and it is likely that PersonX would feel upset about it.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4fde890> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX belief be true' doesn't express a 'mental state' of PersonX.\n2. Yes.\n3. False. Because the belief being true or not doesn't necessarily reflect the intention behind the belief.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45b5620> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX do not need a car' expresses a 'mental state' of PersonX.\n2. Yes.\n3. True. Because riding the light rail suggests that PersonX prefers public transportation over owning a car, indicating that they do not need a car.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e69c10> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX wish' doesn't express a 'mental state' of PersonX.\n2. No. Because the meaning of 'PersonX would at have one person' is unclear/ambiguous.\n3. False. Because result of 1 is No and result of 2 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e6a2a0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX have a opinion' expresses a 'mental state' of PersonX.\n2. Yes.\n3. True. Because if PersonX can form an opinion, it is likely that they have formed one.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e6a6b0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX almost die' doesn't express a 'mental state' of PersonX.\n2. Yes.\n3. False. Because it's unlikely that waking up late for work would lead to the intention of almost dying.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45b7ab0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX be happy' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because it is logical that in order for PersonX to get even happier, they must already be happy to some extent.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e6b150> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX have to make PeopleX for everyone' doesn't express an 'event' of PersonX.\n2. Yes.\n3. False. Because the inference doesn't make logical sense. Making a wedding cake and making PeopleX for everyone are not necessarily related.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f35530> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX use it' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because the inference suggests that the event will only happen if PersonX uses it, which implies a cause-and-effect relationship between the activation and usage.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e6bbf0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX be intolerant' doesn't express an 'event' of PersonX.\n2. Yes.\n3. False. Because the inference is based on a negative condition (\"will not happen unless\"), which makes it difficult to judge the likelihood of the inference being true or false.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f36e30> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX can use PersonX debit card' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because the inference suggests that the event of PersonX paying by card is dependent on PersonX being able to use their debit card. If PersonX cannot use their debit card, then the event of paying by card will not happen.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f372e0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX need to make plan' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because it is likely that in order for PersonX to achieve their goal of becoming an actor, they need to make a plan and take action towards it.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e88bd0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX start' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because it is logical that the event of making a speech cannot happen unless the person starts speaking.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f8db20> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX breathe' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because getting sick often happens when a person's immune system is weakened, and breathing is necessary for the body to function properly and maintain a strong immune system.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e89620> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX have begin to recover' doesn't express an 'event' of PersonX.\n2. Yes.\n3. False. Because the recovery process after breaking a hip can vary and it's not always guaranteed that the person will recover fully or quickly.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e89b70> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PeopleX be fast' expresses an 'event' of PeopleX.\n2. Yes.\n3. True. Because going faster is a characteristic of being fast.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e8a0c0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonY ask' doesn't express an 'event' of PersonY.\n2. No. Because the meaning of 'PersonY ask' is unclear/ambiguous.\n3. False. Because result of 1 or 2 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e8a610> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PeopleX be older' expresses an 'event' of PeopleX.\n2. Yes.\n3. True. Because retirement is often associated with old age.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45b5c10> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'it be so crazy' doesn't express an 'event' of the subject.\n2. No. Because the meaning of 'it be so crazy' is unclear/ambiguous.\n3. False. Because result of 1 or 2 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f36a20> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX live a married life' doesn't express an 'event' of PersonX.\n2. Yes.\n3. False. Because result of 1 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e8b5b0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonY do something' expresses an 'event' of PersonY.\n2. No. Because the meaning of 'PersonY do something' is unclear/ambiguous.\n3. False. Because result of 2 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e8bb00> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX be a soup fan' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because if PersonX loves this soup, it's likely that they will become a fan of soup in general.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e8bf10> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'no one could intrude' expresses an 'event' of the subject.\n2. Yes.\n3. True. Because if PersonX locks the door, it is likely that no one can intrude.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f5042520> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX totally get it' doesn't express an 'event' of PersonX.\n2. Yes.\n3. False. Because result of 1 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45b68e0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX have faith' expresses an 'event' of PersonX.\n2. No. Because the meaning of 'PersonX wouldnt' is unclear/ambiguous.\n3. False. Because result of 2 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e69ee0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX use a corny pick up line' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because it's possible that before writing a play, PersonX used a corny pick up line. The two events are not necessarily related, but the inference is not contradictory or impossible.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45b6ca0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX be interested' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because if PersonX is interested in the event, then they will likely watch it. If they are not interested, then they will not watch it.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45b47c0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'there be certainty' doesn't express an 'event' of any subject.\n2. No. Because the meaning of 'PersonX show % certainty in claim will not happen' is unclear/ambiguous.\n3. False. Because result of 1 or 2 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45b4450> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX run out of supplies' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because if PersonX runs out of supplies, they won't be able to clean PersonY's bathroom.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e8aa70> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonY be happier' doesn't express an 'event' of PersonY.\n2. Yes.\n3. False. Because the inference is not logically sound. Being happier doesn't necessarily mean that PersonY won't play by herself.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4fde570> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX could have' doesn't express an 'event' of PersonX.\n2. Yes.\n3. False. Because result of 1 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f5041f30> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonY would better hurry' doesn't express an 'event' of PersonY.\n2. Yes.\n3. False. Because result of 1 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4e6b3d0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'y don' expresses an 'event' of the subject.\n2. No. Because the meaning of 'PersonX know PersonY' and 'y don' are unclear/ambiguous.\n3. False. Because result of 2 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45b6070> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PeopleY do not call PersonX bitch' doesn't express an 'event' of PeopleX.\n2. Yes.\n3. False. Because the inference seems to be based on an unrelated and inappropriate reason.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45b5530> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'now it be up' doesn't express an 'event' of PersonX or PersonY.\n2. Yes.\n3. False. Because the meaning of the inference is unclear/ambiguous.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4fddee0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PeopleX be misbehave' doesn't express an 'event' of PersonX.\n2. Yes.\n3. False. Because result of 1 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45b6570> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'there be actually something' doesn't express an 'event' of the subject.\n2. No. Because the meaning of 'PersonX do not think PersonY' and 'there be actually something' are unclear/ambiguous.\n3. False. Because the result of either 1 or 2 is 'No'.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4fddc10> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'PersonX have little experience' expresses an 'event' of PersonX.\n2. Yes.\n3. True. Because it's likely that having little experience will hinder PersonX from getting the job.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45dd030> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX probably deserve it' doesn't express an 'event' of PersonX.\n2. No. Because the meaning of 'that be deep' is unclear/ambiguous.\n3. False. Because result of 1 is No and result of 2 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4f04d60> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonY grow pale' doesn't express an 'event' of PersonY.\n2. Yes.\n3. False. Because result of 1 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45b4fe0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'PersonX just have to be careful' doesn't express an 'event' of PersonX.\n2. Yes.\n3. True. Because being careful can prevent accidents or mistakes that may lead to missing the opportunity to see the opening.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f4ee6520> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. No. Because 'it be desirable' doesn't express an 'event' of the subject.\n2. Yes.\n3. False. Because result of 1 is No.",
+    "role": "assistant"
+  }
+}], [<OpenAIObject at 0x7fd7f45b7060> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "message": {
+    "content": "1. Yes. Because 'some see' expresses an 'event' of the subject.\n2. No. Because the meaning of 'PersonX see' and 'some see' are unclear/ambiguous.\n3. False. Because result of 2 is No.",
+    "role": "assistant"
+  }
+}]]

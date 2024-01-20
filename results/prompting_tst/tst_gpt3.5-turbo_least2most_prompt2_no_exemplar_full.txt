@@ -1,0 +1,3988 @@
+--156
+
+Statement: PersonX love hear, thus as a result on PersonX's emotion, PersonX feel PersonX be still wait for sale
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be still wait for sale' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX love hear, thus as a result on PersonX's emotion, PersonX feel PersonX be still wait for sale" plausible?
+A: No.
+--157
+
+Statement: PersonX have get to hook, thus as a result on PersonX's emotion, PersonX run the chance
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX run the chance' express. Answer the choice only.
+A: mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX have get to hook, thus as a result on PersonX's emotion, PersonX run the chance" plausible?
+A: No, the statement is not commonsense.
+--158
+
+Statement: PersonX can lead PeopleX right, thus as a result on PersonX's emotion, PersonX know the trick
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX know the trick' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX can lead PeopleX right, thus as a result on PersonX's emotion, PersonX know the trick" plausible?
+A: No.
+--159
+
+Statement: PersonX improve yourself, thus as a result on PersonX's emotion, PersonX feel PersonX be really worried
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be really worried' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX improve yourself, thus as a result on PersonX's emotion, PersonX feel PersonX be really worried" plausible?
+A: No, the statement is not commonsense.
+--160
+
+Statement: PersonX feel sad, thus as a result on PersonX's emotion, PersonX feel PersonX be down blue
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be down blue' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX feel sad, thus as a result on PersonX's emotion, PersonX feel PersonX be down blue" plausible?
+A: No.
+--161
+
+Statement: PersonX be secure in masculinity, thus as a result on PersonX's emotion, PersonX can answer a hypothetical
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX can answer a hypothetical' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX be secure in masculinity, thus as a result on PersonX's emotion, PersonX can answer a hypothetical" plausible?
+A: No.
+--162
+
+Statement: PersonX want to hurt PersonY, thus as a result on PersonX's emotion, PersonX just bail on tonight
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX just bail on tonight' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX want to hurt PersonY, thus as a result on PersonX's emotion, PersonX just bail on tonight" plausible?
+A: Yes, it is plausible.
+--163
+
+Statement: PersonX could live on side, thus as a result on PersonX's emotion, PersonX move here
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX move here' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX could live on side, thus as a result on PersonX's emotion, PersonX move here" plausible?
+A: No, the statement is not commonsense.
+--164
+
+Statement: PersonX be send back, thus as a result on PersonX's emotion, PersonX father demand
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX father demand' express. Answer the choice only.
+A: persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX be send back, thus as a result on PersonX's emotion, PersonX father demand" plausible?
+A: No, the statement is not commonsense.
+--165
+
+Statement: PersonX be walk along beach, thus as a result on PersonX's emotion, PersonX feel PersonX be satisfied
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be satisfied' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX be walk along beach, thus as a result on PersonX's emotion, PersonX feel PersonX be satisfied" plausible?
+A: Commonsense.
+--166
+
+Statement: PersonX just want to play with sr1mp, thus as a result on PersonX's emotion, PersonX can buy it
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX can buy it' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX just want to play with sr1mp, thus as a result on PersonX's emotion, PersonX can buy it" plausible?
+A: Commonsense
+--167
+
+Statement: PersonX follow the recipe exactly, thus as a result on PersonX's emotion, PersonX feel PersonX be satisfied
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be satisfied' express. Answer the choice only.
+A: mental state
+
+Is it
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX follow the recipe exactly, thus as a result on PersonX's emotion, PersonX feel PersonX be satisfied" plausible?
+A: Yes, it is commonsense.
+--168
+
+Statement: PersonX should try it especially, thus as a result on PersonX's emotion, PersonX have several hour
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX have several hour' express. Answer the choice only.
+A: mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX should try it especially, thus as a result on PersonX's emotion, PersonX have several hour" plausible?
+A: No, the statement is not commonsense.
+--169
+
+Statement: PersonX divorce PersonX wife, thus as a result on PersonX's emotion, PersonX love june
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX love june' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX divorce PersonX wife, thus as a result on PersonX's emotion, PersonX love june" plausible?
+A: No, the statement is not commonsense. The
+--170
+
+Statement: PersonX find PersonY channel, thus as a result on PersonX's emotion, PersonX understand better
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX understand better' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX find PersonY channel, thus as a result on PersonX's emotion, PersonX understand better" plausible?
+A: Commonsense.
+--171
+
+Statement: PersonX quit day, thus as a result on PersonX's emotion, PersonX should pick up smoking
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX should pick up smoking' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX quit day, thus as a result on PersonX's emotion, PersonX should pick up smoking" plausible?
+A: No, the statement is not commonsense.
+--172
+
+Statement: PersonX decide to order a pizza, thus as a result on PersonX's emotion, PersonX have just move
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX have just move' express. Answer the choice only.
+A: persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX decide to order a pizza, thus as a result on PersonX's emotion, PersonX have just move" plausible?
+A: Yes, it is commonsense.
+--173
+
+Statement: PersonX be not, thus as a result on PersonX's emotion, PersonX just get sick
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX just get sick' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX be not, thus as a result on PersonX's emotion, PersonX just get sick" plausible?
+A: No, the statement is not commonsense.
+--174
+
+Statement: PersonX mock PersonY, thus as a result on PersonX's emotion, PersonX feel PersonX be in earnest
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be in earnest' express. Answer the choice only.
+A: mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX mock PersonY, thus as a result on PersonX's emotion, PersonX feel PersonX be in earnest" plausible?
+A: No, the statement is not commonsense.
+--175
+
+Statement: PersonX can take PersonY back, thus as a result on PersonX's emotion, PersonX will have a place of own
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX will have a place of own' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX can take PersonY back, thus as a result on PersonX's emotion, PersonX will have a place of own" plausible?
+A: No.
+--176
+
+Statement: PersonX give PersonY the courage, thus as a result on PersonX's emotion, PersonX feel PersonX be good
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be good' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX give PersonY the courage, thus as a result on PersonX's emotion, PersonX feel PersonX be good" plausible?
+A: Yes, it is commonsense.
+--177
+
+Statement: PersonX be embolden, thus as a result on PersonX's emotion, PeopleX be party
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PeopleX be party' express. Answer the choice only.
+A: persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be embolden, thus as a result on PersonX's emotion, PeopleX be party" plausible?
+A: No, the statement is not commonsense.
+--178
+
+Statement: PersonX meet PersonX father, thus as a result on PersonX's emotion, PersonX get out prison
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX get out prison' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX meet PersonX father, thus as a result on PersonX's emotion, PersonX get out prison" plausible?
+A: No, it is not commonsense.
+--179
+
+Statement: PersonX borrow some money, thus as a result on PersonX's emotion, PersonX could not pay it back
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX could not pay it back' express. Answer the choice only.
+A: Persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX borrow some money, thus as a result on PersonX's emotion, PersonX could not pay it back" plausible?
+A: No, it is not commonsense. Emotions
+--180
+
+Statement: PersonX put it in purse, thus as a result on PersonX's emotion, PersonX get back something
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX get back something' express. Answer the choice only.
+A: mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX put it in purse, thus as a result on PersonX's emotion, PersonX get back something" plausible?
+A: Not commonsense. The statement is unclear and lacks
+--181
+
+Statement: PersonX visit usa, thus as a result on PersonX's emotion, PersonX move
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX move' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX visit usa, thus as a result on PersonX's emotion, PersonX move" plausible?
+A: No, the statement is not commonsense.
+--182
+
+Statement: PersonX want dinner, thus as a result on PersonX's emotion, PersonX feel PersonX be hungry
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be hungry' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX want dinner, thus as a result on PersonX's emotion, PersonX feel PersonX be hungry" plausible?
+A: Yes, it is commonsense.
+--183
+
+Statement: PersonX be not do a job properly, thus as a result on PersonX's emotion, PersonX feel PersonX be sack
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be sack' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be not do a job properly, thus as a result on PersonX's emotion, PersonX feel PersonX be sack" plausible?
+A: Yes, it is plausible.
+--184
+
+Statement: PersonX be all stay, thus as a result on PersonX's emotion, PersonX feel PersonX be go
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be go' express. Answer the choice only.
+A: mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be all stay, thus as a result on PersonX's emotion, PersonX feel PersonX be go" plausible?
+A: No, the statement is not commonsense.
+--185
+
+Statement: PersonX be go to get that, thus as a result on PersonX's emotion, PersonX deserve everything
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX deserve everything' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be go to get that, thus as a result on PersonX's emotion, PersonX deserve everything" plausible?
+A: No, the statement is not commonsense.
+--186
+
+Statement: PersonX be sick again, thus as a result on PersonX's emotion, PersonX feel PersonX be
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX be sick again, thus as a result on PersonX's emotion, PersonX feel PersonX be" plausible?
+A: No.
+--187
+
+Statement: PersonX be good at it, thus as a result on PersonX's emotion, PersonX say yeah
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX say yeah' express. Answer the choice only.
+A: mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be good at it, thus as a result on PersonX's emotion, PersonX say yeah" plausible?
+A: Commonsense
+--188
+
+Statement: PersonX gae awa to bed, thus as a result on PersonX's emotion, PersonX sit up
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX sit up' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX gae awa to bed, thus as a result on PersonX's emotion, PersonX sit up" plausible?
+A: No, the statement is not commonsense.
+--189
+
+Statement: PersonX play PersonY 's favorite song, thus as a result on PersonX's emotion, PersonX feel PersonX be good
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be good' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX play PersonY 's favorite song, thus as a result on PersonX's emotion, PersonX feel PersonX be good" plausible?
+A: Commonsense
+--190
+
+Statement: PersonX pay the bill, thus as a result on PersonX's emotion, PersonX leave
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX leave' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX pay the bill, thus as a result on PersonX's emotion, PersonX leave" plausible?
+A: No, it is not commonsense.
+--191
+
+Statement: PersonX work PersonY way up, thus as a result on PersonX's emotion, PersonX feel PersonX be happy
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be happy' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX work PersonY way up, thus as a result on PersonX's emotion, PersonX feel PersonX be happy" plausible?
+A: Yes, it is commonsense.
+--192
+
+Statement: PersonX like spending time with PersonY, thus as a result on PersonX's emotion, PersonX feel PersonX be more happy
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be more happy' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX like spending time with PersonY, thus as a result on PersonX's emotion, PersonX feel PersonX be more happy" plausible?
+A: Commonsense
+--193
+
+Statement: PersonX wake up feeling, thus as a result on PersonX's emotion, PersonX feel PersonX be a heavy sleeper
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be a heavy sleeper' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX wake up feeling, thus as a result on PersonX's emotion, PersonX feel PersonX be a heavy sleeper" plausible?
+A: Yes, it is commonsense.
+--194
+
+Statement: PersonX never occur to PersonY, thus as a result on PersonX's emotion, PersonX feel PersonX be unaware
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be unaware' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX never occur to PersonY, thus as a result on PersonX's emotion, PersonX feel PersonX be unaware" plausible?
+A: No.
+--195
+
+Statement: PersonX could not bring PersonX mouth to negative, thus as a result on PersonX's emotion, PersonX assent
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX assent' express. Answer the choice only.
+A: mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX could not bring PersonX mouth to negative, thus as a result on PersonX's emotion, PersonX assent" plausible?
+A: No, the statement is not commonsense.
+--196
+
+Statement: PersonX move PersonX car, thus as a result on PersonX's emotion, PersonX feel PersonX be sneaky
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be sneaky' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX move PersonX car, thus as a result on PersonX's emotion, PersonX feel PersonX be sneaky" plausible?
+A: No, the statement is not commonsense.
+--197
+
+Statement: PersonX give PersonY a ring, thus as a result on PersonX's emotion, PersonX think of anything
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX think of anything' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX give PersonY a ring, thus as a result on PersonX's emotion, PersonX think of anything" plausible?
+A: No.
+--198
+
+Statement: PersonX need to use something, thus as a result on PersonX's emotion, PersonX will need
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX will need' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX need to use something, thus as a result on PersonX's emotion, PersonX will need" plausible?
+A: Commonsense
+--199
+
+Statement: PersonX save PersonY 's people, thus as a result on PersonX's emotion, PersonX look PersonY in face
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX look PersonY in face' express. Answer the choice only.
+A: persona
+
+Q: Did
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX save PersonY 's people, thus as a result on PersonX's emotion, PersonX look PersonY in face" plausible?
+A: Not commonsense. The act of saving someone's
+--200
+
+Statement: PersonX would have miss PersonY, thus as a result on PersonX's emotion, PersonX feel PersonX be careless
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be careless' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX would have miss PersonY, thus as a result on PersonX's emotion, PersonX feel PersonX be careless" plausible?
+A: Yes, it is plausible.
+--201
+
+Statement: PersonX find another gear, thus as a result on PersonX's emotion, PersonX start
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX start' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX find another gear, thus as a result on PersonX's emotion, PersonX start" plausible?
+A: Commonsense
+--202
+
+Statement: PersonX get a new pet, thus as a result on PersonX's emotion, PersonX feel happy
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX feel happy' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX get a new pet, thus as a result on PersonX's emotion, PersonX feel happy" plausible?
+A: Yes, it is commonsense.
+--203
+
+Statement: PersonX be on any kind of insurance, thus as a result on PersonX's emotion, PersonX save
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX save' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be on any kind of insurance, thus as a result on PersonX's emotion, PersonX save" plausible?
+A: No, the statement is not commonsense.
+--204
+
+Statement: PersonX go to city, thus as a result on PersonX's emotion, PersonX get PersonX breakfast
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX get PersonX breakfast' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No.
+--205
+
+Statement: PersonX would have be stop, thus as a result on PersonX's emotion, PersonX have do anything
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX have do anything' express. Answer the choice only.
+A: mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX would have be stop, thus as a result on PersonX's emotion, PersonX have do anything" plausible?
+A: No, the statement is not commonsense.
+--206
+
+Statement: PersonX be go to do that, thus as a result on PersonX's emotion, PersonX have the option
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX have the option' express. Answer the choice only.
+A: mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be go to do that, thus as a result on PersonX's emotion, PersonX have the option" plausible?
+A: No, the statement is not commonsense.
+--207
+
+Statement: PersonX be kind, thus as a result on PersonX's emotion, PersonX put everything together
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX put everything together' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be kind, thus as a result on PersonX's emotion, PersonX put everything together" plausible?
+A: Commonsense
+--208
+
+Statement: PersonX have be wait for something, thus as a result on PersonX's emotion, PersonX sit down next to PersonY
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX sit down next to PersonY' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX have be wait for something, thus as a result on PersonX's emotion, PersonX sit down next to PersonY" plausible?
+A: Commonsense
+--209
+
+Statement: PersonX feel nervous, thus as a result on PersonX's emotion, PersonX can not move
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX can not move' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX feel nervous, thus as a result on PersonX's emotion, PersonX can not move" plausible?
+A: Commonsense
+--210
+
+Statement: PersonX could realise it, thus as a result on PersonX's emotion, PersonX lose PersonX composure
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX lose PersonX composure' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX could realise it, thus as a result on PersonX's emotion, PersonX lose PersonX composure" plausible?
+A: Commonsense
+--211
+
+Statement: PersonX start to date, thus as a result on PersonX's emotion, PersonX feel PersonX be optimistic
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be optimistic' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX start to date, thus as a result on PersonX's emotion, PersonX feel PersonX be optimistic" plausible?
+A: Commonsense
+--212
+
+Statement: PersonX need to pee, thus as a result on PersonX's emotion, PersonX realize
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX realize' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX need to pee, thus as a result on PersonX's emotion, PersonX realize" plausible?
+A: No, the statement is not commonsense. The
+--213
+
+Statement: PersonX want to lose weight, thus as a result on PersonX's emotion, PersonX should reconsider
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX should reconsider' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX want to lose weight, thus as a result on PersonX's emotion, PersonX should reconsider" plausible?
+A: No, the statement is not commonsense.
+--214
+
+Statement: PersonX put pen to paper, thus as a result on PersonX's emotion, PersonX must write
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX must write' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX put pen to paper, thus as a result on PersonX's emotion, PersonX must write" plausible?
+A: No, the statement is not commonsense.
+--215
+
+Statement: PersonX be efficient, thus as a result on PersonX's emotion, PersonX make arrangement
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX make arrangement' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX be efficient, thus as a result on PersonX's emotion, PersonX make arrangement" plausible?
+A: Commonsense.
+--507
+
+Statement: PersonX run three mile, thus as a result on PersonX's emotion, PersonX feel PersonX be in shape
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be in shape' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX run three mile, thus as a result on PersonX's emotion, PersonX feel PersonX be in shape" plausible?
+A: Yes, it is commonsense.
+--508
+
+Statement: PersonX follow PersonY, thus as a result on PersonX's emotion, PersonX get curious
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX get curious' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX follow PersonY, thus as a result on PersonX's emotion, PersonX get curious" plausible?
+A: Commonsense.
+--509
+
+Statement: PersonX ask, thus as a result on PersonX's emotion, PersonX feel PersonX be needy
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be needy' express. Answer the choice only.
+A: 3. Mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX ask, thus as a result on PersonX's emotion, PersonX feel PersonX be needy" plausible?
+A: Commonsense
+--510
+
+Statement: PersonX have wait over hour, thus as a result on PersonX's emotion, PersonX feel PersonX be disappointed
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be disappointed' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX have wait over hour, thus as a result on PersonX's emotion, PersonX feel PersonX be disappointed" plausible?
+A: Yes, it is commonsense.
+--511
+
+Statement: PersonX always wonder, thus as a result on PersonX's emotion, PersonX feel PersonX be just curious
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be just curious' express. Answer the choice only.
+A: mental state
+
+Is it
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX always wonder, thus as a result on PersonX's emotion, PersonX feel PersonX be just curious" plausible?
+A: Yes, it is commonsense.
+--512
+
+Statement: PersonX order, thus as a result on PersonX's emotion, PersonX feel PersonX be pretty hungry
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be pretty hungry' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX order, thus as a result on PersonX's emotion, PersonX feel PersonX be pretty hungry" plausible?
+A: Commonsense
+--706
+
+Statement: PersonX pay cash, thus as a result on PersonX's emotion, PersonX credit card do not work
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX credit card do not work' express. Answer the choice only.
+A: Persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX pay cash, thus as a result on PersonX's emotion, PersonX credit card do not work" plausible?
+A: No, the statement is not commonsense.
+--707
+
+Statement: PersonX belong here, thus as a result on PersonX's emotion, PersonX feel PersonX be here
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be here' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX belong here, thus as a result on PersonX's emotion, PersonX feel PersonX be here" plausible?
+A: Commonsense
+--708
+
+Statement: PersonX go eat, thus as a result on PersonX's emotion, PersonX feel PersonX be hungry
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be hungry' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX go eat, thus as a result on PersonX's emotion, PersonX feel PersonX be hungry" plausible?
+A: No, the statement is not commonsense.
+--709
+
+Statement: PersonX eat a good portion of it, thus as a result on PersonX's emotion, PersonX feel PersonX be hungry
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be hungry' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX eat a good portion of it, thus as a result on PersonX's emotion, PersonX feel PersonX be hungry" plausible?
+A: No, the statement is not commonsense.
+--710
+
+Statement: PersonX forget PersonX password, thus as a result on PersonX's emotion, PersonX can not log
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX can not log' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX forget PersonX password, thus as a result on PersonX's emotion, PersonX can not log" plausible?
+A: Yes, it is plausible.
+--711
+
+Statement: PersonX do not have diabetes, thus as a result on PersonX's emotion, PersonX feel PersonX be healthy
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be healthy' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX do not have diabetes, thus as a result on PersonX's emotion, PersonX feel PersonX be healthy" plausible?
+A: No, the statement is not commonsense.
+--712
+
+Statement: PersonX put on suit, thus as a result on PersonX's emotion, PersonX wear
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX wear' express. Answer the choice only.
+A: 2. persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX put on suit, thus as a result on PersonX's emotion, PersonX wear" plausible?
+A: No.
+--713
+
+Statement: PersonX be a cancer survivor, thus as a result on PersonX's emotion, PersonX feel PersonX be hopeful
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be hopeful' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX be a cancer survivor, thus as a result on PersonX's emotion, PersonX feel PersonX be hopeful" plausible?
+A: Commonsense
+--714
+
+Statement: PersonX have a nervous breakdown, thus as a result on PersonX's emotion, PersonX need help
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX need help' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX have a nervous breakdown, thus as a result on PersonX's emotion, PersonX need help" plausible?
+A: Commonsense.
+--715
+
+Statement: PersonX have the fried chicken, thus as a result on PersonX's emotion, PersonX taste
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX taste' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX have the fried chicken, thus as a result on PersonX's emotion, PersonX taste" plausible?
+A: No.
+--716
+
+Statement: PersonX dance, thus as a result on PersonX's emotion, PersonX must practice
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX must practice' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX dance, thus as a result on PersonX's emotion, PersonX must practice" plausible?
+A: No.
+--717
+
+Statement: PersonX do well, thus as a result on PersonX's emotion, PersonX cheer
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX cheer' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX do well, thus as a result on PersonX's emotion, PersonX cheer" plausible?
+A: Commonsense
+--718
+
+Statement: PersonX suppose, thus as a result on PersonX's emotion, PersonX feel PersonX be imagine
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be imagine' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX suppose, thus as a result on PersonX's emotion, PersonX feel PersonX be imagine" plausible?
+A: No.
+--719
+
+Statement: PersonX be run, thus as a result on PersonX's emotion, PersonX feel PersonX be slow
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be slow' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be run, thus as a result on PersonX's emotion, PersonX feel PersonX be slow" plausible?
+A: No, the statement is not commonsense.
+--720
+
+Statement: PersonX land, thus as a result on PersonX's emotion, PersonX have land
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX have land' express. Answer the choice only.
+A: Persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX land, thus as a result on PersonX's emotion, PersonX have land" plausible?
+A: No, the statement is not commonsense.
+--721
+
+Statement: PersonX snack a bit, thus as a result on PersonX's emotion, PersonX get hungry
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX get hungry' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX snack a bit, thus as a result on PersonX's emotion, PersonX get hungry" plausible?
+A: No, the statement is not commonsense. Sn
+--722
+
+Statement: PersonX go up, thus as a result on PersonX's emotion, PersonX feel PersonX be go up
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be go up' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX go up, thus as a result on PersonX's emotion, PersonX feel PersonX be go up" plausible?
+A: No, the statement is not commonsense.
+--723
+
+Statement: PersonX explain PersonX situation, thus as a result on PersonX's emotion, PersonX speak
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX speak' express. Answer the choice only.
+A: persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX explain PersonX situation, thus as a result on PersonX's emotion, PersonX speak" plausible?
+A: Commonsense
+--724
+
+Statement: PersonX plan on overclocking, thus as a result on PersonX's emotion, PersonX want to overclock
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX want to overclock' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX plan on overclocking, thus as a result on PersonX's emotion, PersonX want to overclock" plausible?
+A: Yes, it is commonsense.
+--725
+
+Statement: PersonX get full price, thus as a result on PersonX's emotion, PersonX feel PersonX be glad
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be glad' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX get full price, thus as a result on PersonX's emotion, PersonX feel PersonX be glad" plausible?
+A: Commonsense
+--726
+
+Statement: PersonX imprison PersonY, thus as a result on PersonX's emotion, PersonX feel PersonX be savage
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be savage' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX imprison PersonY, thus as a result on PersonX's emotion, PersonX feel PersonX be savage" plausible?
+A: No, it is not commonsense.
+--727
+
+Statement: PersonX hear sound, thus as a result on PersonX's emotion, PersonX hear
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX hear' express. Answer the choice only.
+A: persona
+
+Q: Can
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX hear sound, thus as a result on PersonX's emotion, PersonX hear" plausible?
+A: No, the statement does not make sense.
+--728
+
+Statement: PersonX resign, thus as a result on PersonX's emotion, PersonX feel PersonX be sack
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be sack' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX resign, thus as a result on PersonX's emotion, PersonX feel PersonX be sack" plausible?
+A: No, the statement is not commonsense.
+--729
+
+Statement: PersonX never join the military, thus as a result on PersonX's emotion, PersonX feel PersonX be a civilian
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be a civilian' express. Answer the choice only.
+A: Persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX never join the military, thus as a result on PersonX's emotion, PersonX feel PersonX be a civilian" plausible?
+A: Yes, it is plausible.
+--730
+
+Statement: PersonX disapprove of PersonY, thus as a result on PersonX's emotion, PersonX feel PersonX be sorry
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be sorry' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX disapprove of PersonY, thus as a result on PersonX's emotion, PersonX feel PersonX be sorry" plausible?
+A: No, the statement is not commonsense. Dis
+--731
+
+Statement: PersonX earnestly pray, thus as a result on PersonX's emotion, PersonX hope
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX hope' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX earnestly pray, thus as a result on PersonX's emotion, PersonX hope" plausible?
+A: Commonsense.
+--732
+
+Statement: PersonX can guess the rest, thus as a result on PersonX's emotion, PersonX feel PersonX be not stupid
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be not stupid' express. Answer the choice only.
+A: Persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX can guess the rest, thus as a result on PersonX's emotion, PersonX feel PersonX be not stupid" plausible?
+A: No, the statement is not commonsense.
+--733
+
+Statement: PersonX go back to school, thus as a result on PersonX's emotion, PersonX drop out of school
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX drop out of school' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX go back to school, thus as a result on PersonX's emotion, PersonX drop out of school" plausible?
+A: No, the statement is not commonsense.
+--734
+
+Statement: PersonX could fly, thus as a result on PersonX's emotion, PersonX have wing
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX have wing' express. Answer the choice only.
+A: Persona
+
+Q: Can
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX could fly, thus as a result on PersonX's emotion, PersonX have wing" plausible?
+A: No, the statement is not commonsense.
+--735
+
+Statement: PersonX dont, thus as a result on PersonX's emotion, PersonX feel PersonX be hopeless
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be hopeless' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX dont, thus as a result on PersonX's emotion, PersonX feel PersonX be hopeless" plausible?
+A: No, the statement is not commonsense.
+--736
+
+Statement: PersonX sleep through day, thus as a result on PersonX's emotion, PersonX wake up
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX wake up' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX sleep through day, thus as a result on PersonX's emotion, PersonX wake up" plausible?
+A: No, the statement does not make sense. Sleeping
+--737
+
+Statement: PersonX die, thus as a result on PersonX's emotion, PersonX ventilator fail
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX ventilator fail' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX die, thus as a result on PersonX's emotion, PersonX ventilator fail" plausible?
+A: No, the statement is not commonsense.
+--738
+
+Statement: PersonX be book, thus as a result on PersonX's emotion, PersonX feel PersonX be book
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be book' express. Answer the choice only.
+A: persona
+
+Q: Can
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be book, thus as a result on PersonX's emotion, PersonX feel PersonX be book" plausible?
+A: No, the statement is not commonsense.
+--739
+
+Statement: PersonX be home, thus as a result on PersonX's emotion, PersonX feel PersonX be not home yet
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be not home yet' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX be home, thus as a result on PersonX's emotion, PersonX feel PersonX be not home yet" plausible?
+A: No, the statement is not commonsense.
+--740
+
+Statement: PersonX lay the fire, thus as a result on PersonX's emotion, PersonX feel PersonX be so warm
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be so warm' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX lay the fire, thus as a result on PersonX's emotion, PersonX feel PersonX be so warm" plausible?
+A: Commonsense
+--741
+
+Statement: PersonX be not online, thus as a result on PersonX's emotion, PersonX disconnect
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX disconnect' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be not online, thus as a result on PersonX's emotion, PersonX disconnect" plausible?
+A: No, the statement is not commonsense.
+--742
+
+Statement: PersonX hitch, thus as a result on PersonX's emotion, PersonX can not have get far
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX can not have get far' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX hitch, thus as a result on PersonX's emotion, PersonX can not have get far" plausible?
+A: No, the statement is not commonsense.
+--743
+
+Statement: PersonX pursue PersonX inquiry, thus as a result on PersonX's emotion, PersonX learn
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX learn' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX pursue PersonX inquiry, thus as a result on PersonX's emotion, PersonX learn" plausible?
+A: Commonsense.
+--744
+
+Statement: PersonX fall back on bed, thus as a result on PersonX's emotion, PersonX feel PersonX be too dizzy
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be too dizzy' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX fall back on bed, thus as a result on PersonX's emotion, PersonX feel PersonX be too dizzy" plausible?
+A: Yes, it is commonsense.
+--745
+
+Statement: PersonX must have see something scary, thus as a result on PersonX's emotion, PersonX feel PersonX be scare
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be scare' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX must have see something scary, thus as a result on PersonX's emotion, PersonX feel PersonX be scare" plausible?
+A: Yes, it is commonsense.
+--139
+
+Statement: PersonX do not want to miss that, thus as a result on PersonY's emotion, PersonY hear
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY hear' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX do not want to miss that, thus as a result on PersonY's emotion, PersonY hear" plausible?
+A: No.
+--140
+
+Statement: PersonX msg, thus as a result on PersonY's emotion, PersonY follow back
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY follow back' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX msg, thus as a result on PersonY's emotion, PersonY follow back" plausible?
+A: No, the statement is not commonsense.
+--141
+
+Statement: PersonX be very skinny, thus as a result on PersonY's emotion, PersonY wake PersonX
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY wake PersonX' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be very skinny, thus as a result on PersonY's emotion, PersonY wake PersonX" plausible?
+A: No, the statement is not commonsense.
+--142
+
+Statement: PersonX be not there, thus as a result on PersonY's emotion, PersonY get so scared
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY get so scared' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be not there, thus as a result on PersonY's emotion, PersonY get so scared" plausible?
+A: Yes, it is plausible.
+--143
+
+Statement: PersonX grab PersonY hair, thus as a result on PersonY's emotion, PersonY feel PersonY be hurt
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY be hurt' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX grab PersonY hair, thus as a result on PersonY's emotion, PersonY feel PersonY be hurt" plausible?
+A: Yes, it is commonsense.
+--144
+
+Statement: PersonX want to hurt PersonY, thus as a result on PersonY's emotion, PersonY feel PersonY be feel betray
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY be feel betray' express. Answer the choice only.
+A: mental state
+
+Is it
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX want to hurt PersonY, thus as a result on PersonY's emotion, PersonY feel PersonY be feel betray" plausible?
+A: Yes, it is commonsense.
+--145
+
+Statement: PersonX have a golf course, thus as a result on PersonY's emotion, PersonY hit it
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY hit it' express. Answer the choice only.
+A: event/activity
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: No.
+--146
+
+Statement: PersonX sign up for class, thus as a result on PersonY's emotion, PersonY can tell PersonX
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY can tell PersonX' express. Answer the choice only.
+A: mental state
+
+Is it
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX sign up for class, thus as a result on PersonY's emotion, PersonY can tell PersonX" plausible?
+A: No, the statement is not commonsense. The
+--147
+
+Statement: PersonX want a cat, thus as a result on PersonY's emotion, PersonX be affectionate
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be affectionate' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX want a cat, thus as a result on PersonY's emotion, PersonX be affectionate" plausible?
+A: No.
+--148
+
+Statement: PersonY be happily surprised, thus as a result on PersonY's emotion, PersonX catch PersonY 's attention
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX catch PersonY 's attention' express. Answer the choice only.
+A: persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonY be happily surprised, thus as a result on PersonY's emotion, PersonX catch PersonY 's attention" plausible?
+A: Commonsense
+--149
+
+Statement: PersonX donate plasma, thus as a result on PersonY's emotion, PersonY feel PersonY be glad
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY be glad' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX donate plasma, thus as a result on PersonY's emotion, PersonY feel PersonY be glad" plausible?
+A: No, the statement is not commonsense.
+--150
+
+Statement: PersonX make food, thus as a result on PersonY's emotion, PersonY will have to wait
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY will have to wait' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX make food, thus as a result on PersonY's emotion, PersonY will have to wait" plausible?
+A: No.
+--151
+
+Statement: PersonX grant PersonZ request, thus as a result on PersonY's emotion, PersonY will try it
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY will try it' express. Answer the choice only.
+A: mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX grant PersonZ request, thus as a result on PersonY's emotion, PersonY will try it" plausible?
+A: No, the statement is not commonsense.
+--152
+
+Statement: PersonX meet PersonX father, thus as a result on PersonY's emotion, PersonX get the part
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX get the part' express. Answer the choice only.
+A: persona
+
+Is it common
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX meet PersonX father, thus as a result on PersonY's emotion, PersonX get the part" plausible?
+A: No, it is not commonsense.
+--153
+
+Statement: PersonX give PersonY PersonX name, thus as a result on PersonY's emotion, PersonY feel PersonY be influential
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY be influential' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX give PersonY PersonX name, thus as a result on PersonY's emotion, PersonY feel PersonY be influential" plausible?
+A: No.
+--154
+
+Statement: PersonX love makeup, thus as a result on PersonY's emotion, PersonY get PersonX
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY get PersonX' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX love makeup, thus as a result on PersonY's emotion, PersonY get PersonX" plausible?
+A: No, the statement is not commonsense.
+--155
+
+Statement: PersonX explain everything thoroughly, thus as a result on PersonY's emotion, PersonY feel PersonY be get
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY be get' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX explain everything thoroughly, thus as a result on PersonY's emotion, PersonY feel PersonY be get" plausible?
+A: No.
+--746
+
+Statement: PersonX share PersonX blanket, thus as a result on PersonY's emotion, PersonY feel PersonY be cold
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY be cold' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX share PersonX blanket, thus as a result on PersonY's emotion, PersonY feel PersonY be cold" plausible?
+A: Yes, it is commonsense.
+--747
+
+Statement: PersonX praise PersonZ virtue, thus as a result on PersonY's emotion, PersonY show kindly
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY show kindly' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX praise PersonZ virtue, thus as a result on PersonY's emotion, PersonY show kindly" plausible?
+A: Commonsense.
+--748
+
+Statement: PersonX stay, thus as a result on PersonY's emotion, PersonY will stay too
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY will stay too' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX stay, thus as a result on PersonY's emotion, PersonY will stay too" plausible?
+A: Commonsense
+--749
+
+Statement: PersonX start on trip, thus as a result on PersonY's emotion, PersonY must go
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY must go' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX start on trip, thus as a result on PersonY's emotion, PersonY must go" plausible?
+A: No.
+--750
+
+Statement: PersonX get PersonX supper, thus as a result on PersonY's emotion, PersonY have
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY have' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX get PersonX supper, thus as a result on PersonY's emotion, PersonY have" plausible?
+A: No. The statement does not make sense as it
+--751
+
+Statement: PersonX think of family, thus as a result on PersonY's emotion, PersonY think about family
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY think about family' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX think of family, thus as a result on PersonY's emotion, PersonY think about family" plausible?
+A: Commonsense
+--752
+
+Statement: PersonX advise PersonY, thus as a result on PersonY's emotion, PersonY ask
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY ask' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX advise PersonY, thus as a result on PersonY's emotion, PersonY ask" plausible?
+A: Yes, it is plausible.
+--753
+
+Statement: PersonX break PersonY spirit at age, thus as a result on PersonY's emotion, PersonY feel PersonY be weak
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY be weak' express. Answer the choice only.
+A: mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX break PersonY spirit at age, thus as a result on PersonY's emotion, PersonY feel PersonY be weak" plausible?
+A: Yes, it is plausible.
+--754
+
+Statement: PersonX run away, thus as a result on PersonY's emotion, PersonY scare
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY scare' express. Answer the choice only.
+A: mental state
+
+Is it
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX run away, thus as a result on PersonY's emotion, PersonY scare" plausible?
+A: Yes, it is plausible.
+--755
+
+Statement: PersonX let PersonZ wake up, thus as a result on PersonY's emotion, PersonY will let
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY will let' express. Answer the choice only.
+A: mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX let PersonZ wake up, thus as a result on PersonY's emotion, PersonY will let" plausible?
+A: Not commonsense.
+--756
+
+Statement: PersonX hear the shot, thus as a result on PersonY's emotion, PersonY turn
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY turn' express. Answer the choice only.
+A: persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX hear the shot, thus as a result on PersonY's emotion, PersonY turn" plausible?
+A: No, the statement is not commonsense.
+--757
+
+Statement: PersonX need PersonZ, thus as a result on PersonY's emotion, PersonY need PersonX
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY need PersonX' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX need PersonZ, thus as a result on PersonY's emotion, PersonY need PersonX" plausible?
+A: No, the statement is not commonsense.
+--758
+
+Statement: PersonX see PersonZ do, thus as a result on PersonY's emotion, PersonY want
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY want' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX see PersonZ do, thus as a result on PersonY's emotion, PersonY want" plausible?
+A: Yes, it is plausible.
+--759
+
+Statement: PersonX pm PersonY, thus as a result on PersonY's emotion, PersonY do not know
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY do not know' express. Answer the choice only.
+A: mental state
+
+Is it
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX pm PersonY, thus as a result on PersonY's emotion, PersonY do not know" plausible?
+A: No, the statement is not commonsense.
+--760
+
+Statement: PersonX be taller than PersonY, thus as a result on PersonY's emotion, PersonY feel PersonY be so tall
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY be so tall' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be taller than PersonY, thus as a result on PersonY's emotion, PersonY feel PersonY be so tall" plausible?
+A: No, the statement is not commonsense.
+--761
+
+Statement: PersonX be diagnose, thus as a result on PersonY's emotion, PersonY feel PersonY be diagnose
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY be diagnose' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX be diagnose, thus as a result on PersonY's emotion, PersonY feel PersonY be diagnose" plausible?
+A: No, the statement is not commonsense.
+--762
+
+Statement: PersonX read PersonZ comment, thus as a result on PersonY's emotion, PersonY feel PersonY be be sarcastic
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY be be sarcastic' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX read PersonZ comment, thus as a result on PersonY's emotion, PersonY feel PersonY be be sarcastic" plausible?
+A: No.
+--763
+
+Statement: PersonX hold PersonY, thus as a result on PersonY's emotion, PersonY feel PersonY become breathless
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonY become breathless' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX hold PersonY, thus as a result on PersonY's emotion, PersonY feel PersonY become breathless" plausible?
+A: No, the statement is not commonsense.
+--216
+
+Statement: PersonX practice again, thus it can be seen about PersonX's attribute that PersonX shall be glad
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX shall be glad' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX practice again, thus it can be seen about PersonX's attribute that PersonX shall be glad" plausible?
+A: No, the statement is not commonsense. The
+--217
+
+Statement: PersonX see PersonY alone, thus it can be seen about PersonX's attribute that PersonX confess
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX confess' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX see PersonY alone, thus it can be seen about PersonX's attribute that PersonX confess" plausible?
+A: No.
+--218
+
+Statement: PersonX have tomorrow, thus it can be seen about PersonX's attribute that PersonX stand up to PersonY
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX stand up to PersonY' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX have tomorrow, thus it can be seen about PersonX's attribute that PersonX stand up to PersonY" plausible?
+A: No
+--219
+
+Statement: PersonX be vigilent, thus it can be seen about PersonX's attribute that PersonX be consciencious
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be consciencious' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be vigilent, thus it can be seen about PersonX's attribute that PersonX be consciencious" plausible?
+A: Yes, it is commonsense.
+--220
+
+Statement: PersonX get large, thus it can be seen about PersonX's attribute that PersonX be grow
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be grow' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX get large, thus it can be seen about PersonX's attribute that PersonX be grow" plausible?
+A: No, the statement is not commonsense.
+--221
+
+Statement: PersonX get to patch, thus it can be seen about PersonX's attribute that PersonX get there
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX get there' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX get to patch, thus it can be seen about PersonX's attribute that PersonX get there" plausible?
+A: Yes, it is commonsense.
+--222
+
+Statement: PersonX feel emotionally happy, thus it can be seen about PersonX's attribute that PersonX be a dreamer
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be a dreamer' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX feel emotionally happy, thus it can be seen about PersonX's attribute that PersonX be a dreamer" plausible?
+A: No, the statement is not commonsense.
+--223
+
+Statement: PersonX sell PersonX jewelry, thus it can be seen about PersonX's attribute that PersonX fall into poverty
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX fall into poverty' express. Answer the choice only.
+A: Persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX sell PersonX jewelry, thus it can be seen about PersonX's attribute that PersonX fall into poverty" plausible?
+A: No, the statement is not commonsense.
+--224
+
+Statement: PersonX be a heavy sleeper, thus it can be seen about PersonX's attribute that PersonX would pick up
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX would pick up' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX be a heavy sleeper, thus it can be seen about PersonX's attribute that PersonX would pick up" plausible?
+A: No.
+--225
+
+Statement: PersonX visit PersonY cousin, thus it can be seen about PersonX's attribute that PersonX be friendly
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be friendly' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX visit PersonY cousin, thus it can be seen about PersonX's attribute that PersonX be friendly" plausible?
+A: Yes, it is commonsense.
+--226
+
+Statement: PersonX be at grandma 's house, thus it can be seen about PersonX's attribute that PersonX eat here
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX eat here' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be at grandma 's house, thus it can be seen about PersonX's attribute that PersonX eat here" plausible?
+A: No, the statement is not commonsense. Just
+--227
+
+Statement: PersonX break free, thus it can be seen about PersonX's attribute that PersonX be reach for it
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be reach for it' express. Answer the choice only.
+A: persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX break free, thus it can be seen about PersonX's attribute that PersonX be reach for it" plausible?
+A: No, the statement is not commonsense.
+--228
+
+Statement: PersonX do not mind make a appointment, thus it can be seen about PersonX's attribute that PersonX car be in great hand
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX car be in great hand' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX do not mind make a appointment, thus it can be seen about PersonX's attribute that PersonX car be in great hand" plausible?
+A: Yes, it is commonsense.
+--229
+
+Statement: PersonX delete PersonY number, thus it can be seen about PersonX's attribute that PersonX wouldn
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX wouldn' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX delete PersonY number, thus it can be seen about PersonX's attribute that PersonX wouldn" plausible?
+A: No, the statement is not commonsense.
+--230
+
+Statement: PersonX form PersonX acquaintance PeopleX at theatre, thus it can be seen about PersonX's attribute that PersonX be not easily disgust by vulgarity
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be not easily disgust by vulgarity' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX form PersonX acquaintance PeopleX at theatre, thus it can be seen about PersonX's attribute that PersonX be not easily disgust by vulgarity" plausible?
+A: Yes, it is plausible.
+--231
+
+Statement: PersonX be brave, thus it can be seen about PersonX's attribute that PersonX watch scary movie
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX watch scary movie' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be brave, thus it can be seen about PersonX's attribute that PersonX watch scary movie" plausible?
+A: No, the statement is not commonsense. Just
+--232
+
+Statement: PersonX have a couch, thus it can be seen about PersonX's attribute that PersonX be
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be' express. Answer the choice only.
+A: 2. persona
+
+Q
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX have a couch, thus it can be seen about PersonX's attribute that PersonX be" plausible?
+A: Yes, it is commonsense.
+--233
+
+Statement: PersonX face be downcast, thus it can be seen about PersonX's attribute that PersonX breast rise
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX breast rise' express. Answer the choice only.
+A: Persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX face be downcast, thus it can be seen about PersonX's attribute that PersonX breast rise" plausible?
+A: No, the statement is not commonsense. There
+--234
+
+Statement: PersonX be to have a heaven of own hereafter, thus it can be seen about PersonX's attribute that PersonX will be its god
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX will be its god' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be to have a heaven of own hereafter, thus it can be seen about PersonX's attribute that PersonX will be its god" plausible?
+A: No, the statement is not commonsense.
+--235
+
+Statement: PersonX have get yourself into hole, thus it can be seen about PersonX's attribute that PersonX will not let
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX will not let' express. Answer the choice only.
+A: persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX have get yourself into hole, thus it can be seen about PersonX's attribute that PersonX will not let" plausible?
+A: No, the statement is not commonsense.
+--236
+
+Statement: PersonX will provide link, thus it can be seen about PersonX's attribute that PersonX be back home
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be back home' express. Answer the choice only.
+A: Persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX will provide link, thus it can be seen about PersonX's attribute that PersonX be back home" plausible?
+A: Commonsense
+--237
+
+Statement: PersonX mission here be end, thus it can be seen about PersonX's attribute that PersonX will go back to america
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX will go back to america' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX mission here be end, thus it can be seen about PersonX's attribute that PersonX will go back to america" plausible?
+A: No, the statement is not commonsense.
+--238
+
+Statement: PersonX have grocery, thus it can be seen about PersonX's attribute that PersonX get older
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX get older' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX have grocery, thus it can be seen about PersonX's attribute that PersonX get older" plausible?
+A: No, the statement is not commonsense.
+--239
+
+Statement: PersonX want to have fun, thus it can be seen about PersonX's attribute that PersonX be sit there
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be sit there' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX want to have fun, thus it can be seen about PersonX's attribute that PersonX be sit there" plausible?
+A: No, the statement is not commonsense. It
+--240
+
+Statement: PersonX be at grandmother 's house, thus it can be seen about PersonX's attribute that PersonX be respectful
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be respectful' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be at grandmother 's house, thus it can be seen about PersonX's attribute that PersonX be respectful" plausible?
+A: Yes, it is commonsense.
+--241
+
+Statement: PersonX avoid that, thus it can be seen about PersonX's attribute that PersonX avoid that
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX avoid that' express. Answer the choice only.
+A: 2. persona
+
+Q
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX avoid that, thus it can be seen about PersonX's attribute that PersonX avoid that" plausible?
+A: Yes, it is commonsense.
+--242
+
+Statement: PersonX have a new toy, thus it can be seen about PersonX's attribute that PersonX be content
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be content' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX have a new toy, thus it can be seen about PersonX's attribute that PersonX be content" plausible?
+A: No, the statement is not commonsense. Just
+--243
+
+Statement: PersonX be just like a whine little girl, thus it can be seen about PersonX's attribute that PersonX be a liar
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be a liar' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be just like a whine little girl, thus it can be seen about PersonX's attribute that PersonX be a liar" plausible?
+A: No, the statement is not commonsense.
+--244
+
+Statement: PersonX do not even wear, thus it can be seen about PersonX's attribute that PersonX guess
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX guess' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX do not even wear, thus it can be seen about PersonX's attribute that PersonX guess" plausible?
+A: No, the statement is not commonsense.
+--245
+
+Statement: PersonX like the rest of theory, thus it can be seen about PersonX's attribute that PersonX agree with observation
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX agree with observation' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX like the rest of theory, thus it can be seen about PersonX's attribute that PersonX agree with observation" plausible?
+A: Yes, it is commonsense.
+--246
+
+Statement: PersonX find a piece of hair in soup, thus it can be seen about PersonX's attribute that PersonX first time eat here
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX first time eat here' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX find a piece of hair in soup, thus it can be seen about PersonX's attribute that PersonX first time eat here" plausible?
+A: No, it is not commonsense. Finding a
+--247
+
+Statement: PersonX do not get it, thus it can be seen about PersonX's attribute that PersonX be a teenager
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be a teenager' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX do not get it, thus it can be seen about PersonX's attribute that PersonX be a teenager" plausible?
+A: No, the statement is not commonsense.
+--248
+
+Statement: PersonX love to play with it, thus it can be seen about PersonX's attribute that PersonX be a kid
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be a kid' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX love to play with it, thus it can be seen about PersonX's attribute that PersonX be a kid" plausible?
+A: No, the statement is not commonsense. Loving
+--249
+
+Statement: PersonX be on school 's basketball team, thus it can be seen about PersonX's attribute that PersonX wear something everyday
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX wear something everyday' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be on school 's basketball team, thus it can be seen about PersonX's attribute that PersonX wear something everyday" plausible?
+A: No, the statement is not commonsense.
+--250
+
+Statement: PersonX mom be in bad shape, thus it can be seen about PersonX's attribute that PersonX need PersonY
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX need PersonY' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX mom be in bad shape, thus it can be seen about PersonX's attribute that PersonX need PersonY" plausible?
+A: No, the statement is not commonsense.
+--251
+
+Statement: PersonX get a call back, thus it can be seen about PersonX's attribute that PersonX order be correct
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX order be correct' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX get a call back, thus it can be seen about PersonX's attribute that PersonX order be correct" plausible?
+A: No, the statement is not commonsense. The
+--252
+
+Statement: PersonX share, thus it can be seen about PersonX's attribute that PersonX be social
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be social' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX share, thus it can be seen about PersonX's attribute that PersonX be social" plausible?
+A: Yes, it is commonsense.
+--253
+
+Statement: PersonX be on a stage, thus it can be seen about PersonX's attribute that PersonX can experience
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX can experience' express. Answer the choice only.
+A: persona
+
+Is it common
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be on a stage, thus it can be seen about PersonX's attribute that PersonX can experience" plausible?
+A: Commonsense
+--254
+
+Statement: PersonX be obidient, thus it can be seen about PersonX's attribute that PersonX be accomplish
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be accomplish' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be obidient, thus it can be seen about PersonX's attribute that PersonX be accomplish" plausible?
+A: No, the statement is not commonsense. Being
+--255
+
+Statement: PersonX be peaceful, thus it can be seen about PersonX's attribute that PersonX be happy
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be happy' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be peaceful, thus it can be seen about PersonX's attribute that PersonX be happy" plausible?
+A: No, the statement is not commonsense. Just
+--256
+
+Statement: PersonX could scarcely pronounce the word, thus it can be seen about PersonX's attribute that PersonX lip begin to quiver
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX lip begin to quiver' express. Answer the choice only.
+A: Persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX could scarcely pronounce the word, thus it can be seen about PersonX's attribute that PersonX lip begin to quiver" plausible?
+A: Commonsense
+--257
+
+Statement: PersonX go simply, thus it can be seen about PersonX's attribute that PersonX should do so
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX should do so' express. Answer the choice only.
+A: persona
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX go simply, thus it can be seen about PersonX's attribute that PersonX should do so" plausible?
+A: No, the statement is not commonsense.
+--258
+
+Statement: PersonX post it, thus it can be seen about PersonX's attribute that PersonX comment be at the top
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX comment be at the top' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX post it, thus it can be seen about PersonX's attribute that PersonX comment be at the top" plausible?
+A: Yes, it is commonsense.
+--259
+
+Statement: PersonX hear the news, thus it can be seen about PersonX's attribute that PersonX so move
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX so move' express. Answer the choice only.
+A: persona
+
+Is it common
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX hear the news, thus it can be seen about PersonX's attribute that PersonX so move" plausible?
+A: No, it is not commonsense.
+--260
+
+Statement: PersonX heart seem to jump up into throat, thus it can be seen about PersonX's attribute that PersonX have not know
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX have not know' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX heart seem to jump up into throat, thus it can be seen about PersonX's attribute that PersonX have not know" plausible?
+A: Yes, it is plausible.
+--261
+
+Statement: PersonX will much watch anything, thus it can be seen about PersonX's attribute that PersonX do not care it at all
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX do not care it at all' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX will much watch anything, thus it can be seen about PersonX's attribute that PersonX do not care it at all" plausible?
+A: Yes, it is commonsense.
+--262
+
+Statement: PersonX be clever, thus it can be seen about PersonX's attribute that PersonX be assist
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be assist' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be clever, thus it can be seen about PersonX's attribute that PersonX be assist" plausible?
+A: No, the statement is not commonsense. The
+--263
+
+Statement: PersonX would be in super big trouble, thus it can be seen about PersonX's attribute that PersonX mom know
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX mom know' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX would be in super big trouble, thus it can be seen about PersonX's attribute that PersonX mom know" plausible?
+A: No, the statement is not commonsense.
+--264
+
+Statement: PersonX would not give PersonY pain, thus it can be seen about PersonX's attribute that PersonX love PersonZ
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX love PersonZ' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX would not give PersonY pain, thus it can be seen about PersonX's attribute that PersonX love PersonZ" plausible?
+A: Yes, it is commonsense.
+--265
+
+Statement: PersonX could play PeopleX, thus it can be seen about PersonX's attribute that PersonX get lucky
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX get lucky' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX could play PeopleX, thus it can be seen about PersonX's attribute that PersonX get lucky" plausible?
+A: No, the statement is not commonsense.
+--513
+
+Statement: PersonX have a gift certificate, thus it can be seen about PersonX's attribute that PersonX be glad
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be glad' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX have a gift certificate, thus it can be seen about PersonX's attribute that PersonX be glad" plausible?
+A: No, the statement is not commonsense. Just
+--514
+
+Statement: PersonX be patiently wait, thus it can be seen about PersonX's attribute that PersonX be hope
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be hope' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX be patiently wait, thus it can be seen about PersonX's attribute that PersonX be hope" plausible?
+A: No.
+--515
+
+Statement: PersonX do little research, thus it can be seen about PersonX's attribute that PersonX be naive
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be naive' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX do little research, thus it can be seen about PersonX's attribute that PersonX be naive" plausible?
+A: Yes, it is plausible.
+--516
+
+Statement: PersonX often do, thus it can be seen about PersonX's attribute that PersonX feel cheerful
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX feel cheerful' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX often do, thus it can be seen about PersonX's attribute that PersonX feel cheerful" plausible?
+A: No, the statement is not commonsense. Just
+--517
+
+Statement: PersonX smile through tear, thus it can be seen about PersonX's attribute that PersonX cry
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX cry' express. Answer the choice only.
+A: Persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX smile through tear, thus it can be seen about PersonX's attribute that PersonX cry" plausible?
+A: Yes, it is commonsense.
+--518
+
+Statement: PersonX lose the money in trading, thus it can be seen about PersonX's attribute that PersonX be broke
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be broke' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX lose the money in trading, thus it can be seen about PersonX's attribute that PersonX be broke" plausible?
+A: No, the statement is not commonsense. Losing
+--519
+
+Statement: PersonX run about house, thus it can be seen about PersonX's attribute that PersonX be tired
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be tired' express. Answer the choice only.
+A: Mental state
+
+Q
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX run about house, thus it can be seen about PersonX's attribute that PersonX be tired" plausible?
+A: Commonsense
+--520
+
+Statement: PersonX run on errand, thus it can be seen about PersonX's attribute that PersonX be happy
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be happy' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX run on errand, thus it can be seen about PersonX's attribute that PersonX be happy" plausible?
+A: No, the statement is not commonsense. Running
+--521
+
+Statement: PersonX be go through, thus it can be seen about PersonX's attribute that PersonX feel stressed
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX feel stressed' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be go through, thus it can be seen about PersonX's attribute that PersonX feel stressed" plausible?
+A: No, the statement is not commonsense.
+--764
+
+Statement: PersonX understand PersonY sympathy, thus it can be seen about PersonX's attribute that PersonX be sympathetic to people
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be sympathetic to people' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX understand PersonY sympathy, thus it can be seen about PersonX's attribute that PersonX be sympathetic to people" plausible?
+A: Yes, it is commonsense.
+--765
+
+Statement: PersonX like golf, thus it can be seen about PersonX's attribute that PersonX play
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX play' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX like golf, thus it can be seen about PersonX's attribute that PersonX play" plausible?
+A: No, the statement is not commonsense. L
+--766
+
+Statement: PersonX dress be stunning, thus it can be seen about PersonX's attribute that PersonX be pretty
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be pretty' express. Answer the choice only.
+A: 2. persona
+
+Q
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX dress be stunning, thus it can be seen about PersonX's attribute that PersonX be pretty" plausible?
+A: No, the statement is not commonsense. Dress
+--767
+
+Statement: PersonX conclude, thus it can be seen about PersonX's attribute that PersonX be sensible
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be sensible' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX conclude, thus it can be seen about PersonX's attribute that PersonX be sensible" plausible?
+A: Yes, it is commonsense.
+--768
+
+Statement: PersonX rob, thus it can be seen about PersonX's attribute that PersonX steal
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX steal' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX rob, thus it can be seen about PersonX's attribute that PersonX steal" plausible?
+A: No, the statement is not commonsense. Just
+--769
+
+Statement: PersonX get night 's sleep, thus it can be seen about PersonX's attribute that PersonX wake up
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX wake up' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX get night 's sleep, thus it can be seen about PersonX's attribute that PersonX wake up" plausible?
+A: Yes, it is commonsense.
+--770
+
+Statement: PersonX scan, thus it can be seen about PersonX's attribute that PersonX see
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX see' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX scan, thus it can be seen about PersonX's attribute that PersonX see" plausible?
+A: No, the statement is not commonsense.
+--771
+
+Statement: PersonX twist PersonX lip, thus it can be seen about PersonX's attribute that PersonX be frustrated
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be frustrated' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX twist PersonX lip, thus it can be seen about PersonX's attribute that PersonX be frustrated" plausible?
+A: Yes, it is plausible.
+--772
+
+Statement: PersonX stop yesterday for lunch, thus it can be seen about PersonX's attribute that PersonX be glad
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be glad' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX stop yesterday for lunch, thus it can be seen about PersonX's attribute that PersonX be glad" plausible?
+A: No, the statement is not commonsense. Just
+--773
+
+Statement: PersonX tear burst forth, thus it can be seen about PersonX's attribute that PersonX cry
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX cry' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--774
+
+Statement: PersonX deny this, thus it can be seen about PersonX's attribute that PersonX be disingenuous
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be disingenuous' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX deny this, thus it can be seen about PersonX's attribute that PersonX be disingenuous" plausible?
+A: Yes, it is plausible.
+--775
+
+Statement: PersonX pull a nighter, thus it can be seen about PersonX's attribute that PersonX be pretty tired
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be pretty tired' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX pull a nighter, thus it can be seen about PersonX's attribute that PersonX be pretty tired" plausible?
+A: Commonsense
+--776
+
+Statement: PersonX miss curfew, thus it can be seen about PersonX's attribute that PersonX be sorry
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be sorry' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX miss curfew, thus it can be seen about PersonX's attribute that PersonX be sorry" plausible?
+A: Yes, it is commonsense.
+--777
+
+Statement: PersonX applaud PersonY effort, thus it can be seen about PersonX's attribute that PersonX be genuinely impressed
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be genuinely impressed' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX applaud PersonY effort, thus it can be seen about PersonX's attribute that PersonX be genuinely impressed" plausible?
+A: Yes, it is plausible.
+--778
+
+Statement: PersonX have eczema, thus it can be seen about PersonX's attribute that PersonX skin be very sensitive
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX skin be very sensitive' express. Answer the choice only.
+A: 2. persona
+
+Q
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX have eczema, thus it can be seen about PersonX's attribute that PersonX skin be very sensitive" plausible?
+A: Yes, it is commonsense.
+--779
+
+Statement: PersonX love green tea, thus it can be seen about PersonX's attribute that PersonX be use to flavor
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be use to flavor' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX love green tea, thus it can be seen about PersonX's attribute that PersonX be use to flavor" plausible?
+A: No.
+--780
+
+Statement: PersonX fall into doze, thus it can be seen about PersonX's attribute that PersonX feel tired
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX feel tired' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX fall into doze, thus it can be seen about PersonX's attribute that PersonX feel tired" plausible?
+A: Yes, it is commonsense.
+--781
+
+Statement: PersonX graduate in 2007, thus it can be seen about PersonX's attribute that PersonX be glad
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be glad' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX graduate in 2007, thus it can be seen about PersonX's attribute that PersonX be glad" plausible?
+A: No, the statement is not commonsense. Grad
+--782
+
+Statement: PersonX wear mine out, thus it can be seen about PersonX's attribute that PersonX need more
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX need more' express. Answer the choice only.
+A: persona
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--783
+
+Statement: PersonX flash a boob, thus it can be seen about PersonX's attribute that PersonX be pretty
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be pretty' express. Answer the choice only.
+A: 2. persona
+
+Q
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX flash a boob, thus it can be seen about PersonX's attribute that PersonX be pretty" plausible?
+A: No.
+--784
+
+Statement: PersonX wear a black bonnet, thus it can be seen about PersonX's attribute that PersonX be dress in black
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be dress in black' express. Answer the choice only.
+A: 2. persona
+
+Q
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX wear a black bonnet, thus it can be seen about PersonX's attribute that PersonX be dress in black" plausible?
+A: Yes, it is commonsense.
+--785
+
+Statement: PersonX go bed at night, thus it can be seen about PersonX's attribute that PersonX sleep
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX sleep' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX go bed at night, thus it can be seen about PersonX's attribute that PersonX sleep" plausible?
+A: Yes, it is commonsense.
+--786
+
+Statement: PersonX break into laugh, thus it can be seen about PersonX's attribute that PersonX laugh
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX laugh' express. Answer the choice only.
+A: Persona
+
+Is it common
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX break into laugh, thus it can be seen about PersonX's attribute that PersonX laugh" plausible?
+A: Yes, it is commonsense.
+--787
+
+Statement: PersonX seriously love this place, thus it can be seen about PersonX's attribute that PersonX be glad
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be glad' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX seriously love this place, thus it can be seen about PersonX's attribute that PersonX be glad" plausible?
+A: Yes, it is commonsense.
+--788
+
+Statement: PersonX get a good angle, thus it can be seen about PersonX's attribute that PersonX see
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX see' express. Answer the choice only.
+A: Persona
+
+Is it common
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX get a good angle, thus it can be seen about PersonX's attribute that PersonX see" plausible?
+A: Commonsense
+--789
+
+Statement: PersonX have a uterus, thus it can be seen about PersonX's attribute that PersonX be a female
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be a female' express. Answer the choice only.
+A: 2. Persona
+
+Q
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX have a uterus, thus it can be seen about PersonX's attribute that PersonX be a female" plausible?
+A: Yes, it is commonsense.
+--790
+
+Statement: PersonX give PersonY some good advice, thus it can be seen about PersonX's attribute that PersonX be right
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be right' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX give PersonY some good advice, thus it can be seen about PersonX's attribute that PersonX be right" plausible?
+A: Yes, it is commonsense.
+--791
+
+Statement: PersonX go scot free, thus it can be seen about PersonX's attribute that PersonX be innocent
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be innocent' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX go scot free, thus it can be seen about PersonX's attribute that PersonX be innocent" plausible?
+A: No, the statement is not commonsense.
+--792
+
+Statement: PersonX make lot mistake, thus it can be seen about PersonX's attribute that PersonX be sorry
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be sorry' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX make lot mistake, thus it can be seen about PersonX's attribute that PersonX be sorry" plausible?
+A: Yes, it is commonsense.
+--793
+
+Statement: PersonX husband enjoy PersonY cocktail, thus it can be seen about PersonX's attribute that PersonX enjoy
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX enjoy' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX husband enjoy PersonY cocktail, thus it can be seen about PersonX's attribute that PersonX enjoy" plausible?
+A: Yes, it is commonsense.
+--794
+
+Statement: PersonX comfort PersonY, thus it can be seen about PersonX's attribute that PersonX be good
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be good' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX comfort PersonY, thus it can be seen about PersonX's attribute that PersonX be good" plausible?
+A: Yes, it is commonsense.
+--795
+
+Statement: PersonX go into forest, thus it can be seen about PersonX's attribute that PersonX must be careful
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX must be careful' express. Answer the choice only.
+A: Persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX go into forest, thus it can be seen about PersonX's attribute that PersonX must be careful" plausible?
+A: Commonsense
+--796
+
+Statement: PersonX have a pair, thus it can be seen about PersonX's attribute that PersonX have
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX have' express. Answer the choice only.
+A: 2. persona
+
+Q
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX have a pair, thus it can be seen about PersonX's attribute that PersonX have" plausible?
+A: Commonsense.
+--797
+
+Statement: PersonX doze off, thus it can be seen about PersonX's attribute that PersonX be tire
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be tire' express. Answer the choice only.
+A: Persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX doze off, thus it can be seen about PersonX's attribute that PersonX be tire" plausible?
+A: Commonsense
+--798
+
+Statement: PersonX apply for scholarship, thus it can be seen about PersonX's attribute that PersonX be accept to college
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be accept to college' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX apply for scholarship, thus it can be seen about PersonX's attribute that PersonX be accept to college" plausible?
+A: No, the statement is not commonsense. Applying
+--799
+
+Statement: PersonX heel strike ground, thus it can be seen about PersonX's attribute that PersonX stagger
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX stagger' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX heel strike ground, thus it can be seen about PersonX's attribute that PersonX stagger" plausible?
+A: No, the statement is not commonsense.
+--800
+
+Statement: PersonX beauty fill PersonY heart love song, thus it can be seen about PersonX's attribute that PersonX be beautiful
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be beautiful' express. Answer the choice only.
+A: 2. persona
+
+Q
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX beauty fill PersonY heart love song, thus it can be seen about PersonX's attribute that PersonX be beautiful" plausible?
+A: No.
+--801
+
+Statement: PersonX do jazz, thus it can be seen about PersonX's attribute that PersonX dance
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX dance' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX do jazz, thus it can be seen about PersonX's attribute that PersonX dance" plausible?
+A: No, the statement is not commonsense. Just
+--802
+
+Statement: PersonX be never convict of anything, thus it can be seen about PersonX's attribute that PersonX be innocent
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be innocent' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be never convict of anything, thus it can be seen about PersonX's attribute that PersonX be innocent" plausible?
+A: Commonsense
+--803
+
+Statement: PersonX arrive, thus it can be seen about PersonX's attribute that PersonX be greet pleasantly
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be greet pleasantly' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX arrive, thus it can be seen about PersonX's attribute that PersonX be greet pleasantly" plausible?
+A: Yes, it is commonsense.
+--804
+
+Statement: PersonX be in charge, thus it can be seen about PersonX's attribute that PersonX charge
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX charge' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX be in charge, thus it can be seen about PersonX's attribute that PersonX charge" plausible?
+A: Commonsense
+--805
+
+Statement: PersonX live a long life, thus it can be seen about PersonX's attribute that PersonX die
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX die' express. Answer the choice only.
+A: Persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX live a long life, thus it can be seen about PersonX's attribute that PersonX die" plausible?
+A: No, the statement is not commonsense.
+--806
+
+Statement: PersonX look up in sky, thus it can be seen about PersonX's attribute that PersonX can not see clear
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX can not see clear' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX look up in sky, thus it can be seen about PersonX's attribute that PersonX can not see clear" plausible?
+A: No, the statement is not commonsense.
+--807
+
+Statement: PersonX provide excellent service, thus it can be seen about PersonX's attribute that PersonX be appreciate
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be appreciate' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX provide excellent service, thus it can be seen about PersonX's attribute that PersonX be appreciate" plausible?
+A: Commonsense.
+--808
+
+Statement: PersonX hear a noise, thus it can be seen about PersonX's attribute that PersonX be wake up
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be wake up' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX hear a noise, thus it can be seen about PersonX's attribute that PersonX be wake up" plausible?
+A: Yes, it is commonsense.
+--809
+
+Statement: PersonX turn 19, thus it can be seen about PersonX's attribute that PersonX mature
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX mature' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX turn 19, thus it can be seen about PersonX's attribute that PersonX mature" plausible?
+A: Commonsense
+--810
+
+Statement: PersonX fail a drug test, thus it can be seen about PersonX's attribute that PersonX be clean
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be clean' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX fail a drug test, thus it can be seen about PersonX's attribute that PersonX be clean" plausible?
+A: No, the statement is not commonsense.
+--811
+
+Statement: PersonX work be translate into german, thus it can be seen about PersonX's attribute that PersonX work have be translate
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX work have be translate' express. Answer the choice only.
+A: 1. event/activity
+Q: Is the above answer different from option 1. event/activity?
+A: No
+--812
+
+Statement: PersonX have select, thus it can be seen about PersonX's attribute that PersonX be please with choice
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be please with choice' express. Answer the choice only.
+A: Mental state
+
+Q
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX have select, thus it can be seen about PersonX's attribute that PersonX be please with choice" plausible?
+A: Yes, it is commonsense.
+--813
+
+Statement: PersonX have a big brain, thus it can be seen about PersonX's attribute that PersonX be very clever
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be very clever' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX have a big brain, thus it can be seen about PersonX's attribute that PersonX be very clever" plausible?
+A: Yes, it is commonsense.
+--814
+
+Statement: PersonX calmly tell PersonY, thus it can be seen about PersonX's attribute that PersonX understand
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX understand' express. Answer the choice only.
+A: 3. mental state
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX calmly tell PersonY, thus it can be seen about PersonX's attribute that PersonX understand" plausible?
+A: Commonsense.
+--815
+
+Statement: PersonX make no move, thus it can be seen about PersonX's attribute that PersonX be very shy
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be very shy' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX make no move, thus it can be seen about PersonX's attribute that PersonX be very shy" plausible?
+A: Yes, it is commonsense.
+--816
+
+Statement: PersonX kiss PersonY white forehead, thus it can be seen about PersonX's attribute that PersonX hold
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX hold' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX kiss PersonY white forehead, thus it can be seen about PersonX's attribute that PersonX hold" plausible?
+A: Commonsense
+--817
+
+Statement: PersonX feel warm, thus it can be seen about PersonX's attribute that PersonX feel cold
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX feel cold' express. Answer the choice only.
+A: Mental state
+
+Q
+Q: Is the above answer different from option 1. event/activity?
+A: Yes,
+Q: Is the statement "PersonX feel warm, thus it can be seen about PersonX's attribute that PersonX feel cold" plausible?
+A: No, the statement is not commonsense. Feeling
+--818
+
+Statement: PersonX just move to area, thus it can be seen about PersonX's attribute that PersonX be new to area
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be new to area' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes.
+Q: Is the statement "PersonX just move to area, thus it can be seen about PersonX's attribute that PersonX be new to area" plausible?
+A: Yes, it is commonsense.
+--819
+
+Statement: PersonX would probably go back, thus it can be seen about PersonX's attribute that PersonX be back
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be back' express. Answer the choice only.
+A: persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX would probably go back, thus it can be seen about PersonX's attribute that PersonX be back" plausible?
+A: No, the statement is not commonsense. The
+--820
+
+Statement: PersonX come down stair, thus it can be seen about PersonX's attribute that PersonX fall
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX fall' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX come down stair, thus it can be seen about PersonX's attribute that PersonX fall" plausible?
+A: No, the statement is not commonsense.
+--821
+
+Statement: PersonX step down from bridge, thus it can be seen about PersonX's attribute that PersonX stagger
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX stagger' express. Answer the choice only.
+A: Persona
+
+Q: Is
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX step down from bridge, thus it can be seen about PersonX's attribute that PersonX stagger" plausible?
+A: No, the statement is not commonsense.
+--822
+
+Statement: PersonX don, thus it can be seen about PersonX's attribute that PersonX give
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX give' express. Answer the choice only.
+A: persona
+
+Q: Does
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX don, thus it can be seen about PersonX's attribute that PersonX give" plausible?
+A: No, the statement is not commonsense. The
+--823
+
+Statement: PersonX will mourn, thus it can be seen about PersonX's attribute that PersonX be bereaved
+Q: Which aspect (among three options 1. event/activity, 2. persona, 3. mental state) of the subject does the clause 'PersonX be bereaved' express. Answer the choice only.
+A: mental state
+
+Q:
+Q: Is the above answer different from option 1. event/activity?
+A: Yes
+Q: Is the statement "PersonX will mourn, thus it can be seen about PersonX's attribute that PersonX be bereaved" plausible?
+A: Yes, it is commonsense.
+--294
+
+Statement: PersonX be near the goal, thus it can be seen about PersonX's intention that PersonX have not
+Q: Which one of the following two related statements is more plausible:
+0. PersonX have not before PersonX be near the goal
+1. PersonX have not after PersonX be near the goal
+Answer 0 or 1 only.
+A: Cannot determine without additional information
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "PersonX be near the goal, thus it can be seen about PersonX's intention that PersonX have not" plausible?
+A: Cannot determine without additional information.
+--295
+
+Statement: PersonX want to try it, thus it can be seen about PersonX's intention that PersonX notice
+Q: Which one of the following two related statements is more plausible:
+0. PersonX notice before PersonX want to try it
+1. PersonX notice after PersonX want to try it
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "PersonX want to try it, thus it can be seen about PersonX's intention that PersonX notice" plausible?
+A: Commonsense
+--296
+
+Statement: PersonX take some artistic liberty, thus it can be seen about PersonX's intention that PersonX do not remember
+Q: Which one of the following two related statements is more plausible:
+0. PersonX do not remember before PersonX take some artistic liberty
+1. PersonX do not remember after PersonX take some artistic liberty
+Answer 0 or 1 only.
+A: Not commonsense. The
+Q: Is the above answer different from 1?
+A: No.
+--297
+
+Statement: PersonX want to make art, thus it can be seen about PersonX's intention that PersonX make a decision
+Q: Which one of the following two related statements is more plausible:
+0. PersonX make a decision before PersonX want to make art
+1. PersonX make a decision after PersonX want to make art
+Answer 0 or 1 only.
+A: 1 (PersonX makes
+Q: Is the above answer different from 1?
+A: No.
+--298
+
+Statement: PersonX be at the party, thus it can be seen about PersonX's intention that PersonX be there
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be there before PersonX be at the party
+1. PersonX be there after PersonX be at the party
+Answer 0 or 1 only.
+A: 1 (PersonX be
+Q: Is the above answer different from 1?
+A: No.
+--299
+
+Statement: PersonX go to work day, thus it can be seen about PersonX's intention that PersonX feel great
+Q: Which one of the following two related statements is more plausible:
+0. PersonX feel great before PersonX go to work day
+1. PersonX feel great after PersonX go to work day
+Answer 0 or 1 only.
+A: Cannot determine.
+Q: Is the above answer different from 1?
+A: Yes.
+Q: Is the statement "PersonX go to work day, thus it can be seen about PersonX's intention that PersonX feel great" plausible?
+A: No.
+--300
+
+Statement: PersonX get super spook, thus it can be seen about PersonX's intention that PersonX be very young
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be very young before PersonX get super spook
+1. PersonX be very young after PersonX get super spook
+Answer 0 or 1 only.
+A: Cannot determine. The statement
+Q: Is the above answer different from 1?
+A: No.
+--301
+
+Statement: PersonX wear PersonY boot, thus it can be seen about PersonX's intention that PersonX show off the boot
+Q: Which one of the following two related statements is more plausible:
+0. PersonX show off the boot before PersonX wear PersonY boot
+1. PersonX show off the boot after PersonX wear PersonY boot
+Answer 0 or 1 only.
+A: Cannot determine if statement is
+Q: Is the above answer different from 1?
+A: N/A
+Q: Is the statement "PersonX wear PersonY boot, thus it can be seen about PersonX's intention that PersonX show off the boot" plausible?
+A: Yes.
+--302
+
+Statement: PersonX seek, thus it can be seen about PersonX's intention that PersonX love PersonY more
+Q: Which one of the following two related statements is more plausible:
+0. PersonX love PersonY more before PersonX seek
+1. PersonX love PersonY more after PersonX seek
+Answer 0 or 1 only.
+A: Cannot determine if the statement
+Q: Is the above answer different from 1?
+A: Yes,
+Q: Is the statement "PersonX seek, thus it can be seen about PersonX's intention that PersonX love PersonY more" plausible?
+A: Cannot determine if the statement is commonsense.
+--303
+
+Statement: PersonX never lose, thus it can be seen about PersonX's intention that PersonX win everything
+Q: Which one of the following two related statements is more plausible:
+0. PersonX win everything before PersonX never lose
+1. PersonX win everything after PersonX never lose
+Answer 0 or 1 only.
+A: Cannot determine without additional information
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "PersonX never lose, thus it can be seen about PersonX's intention that PersonX win everything" plausible?
+A: Cannot determine without additional information.
+--304
+
+Statement: PersonX usually do that, thus it can be seen about PersonX's intention that PersonX like to do that
+Q: Which one of the following two related statements is more plausible:
+0. PersonX like to do that before PersonX usually do that
+1. PersonX like to do that after PersonX usually do that
+Answer 0 or 1 only.
+A: 1 (commonsense)
+Q: Is the above answer different from 1?
+A: No (
+--305
+
+Statement: PersonX should share some the burden, thus it can be seen about PersonX's intention that PersonX be marry to cody
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be marry to cody before PersonX should share some the burden
+1. PersonX be marry to cody after PersonX should share some the burden
+Answer 0 or 1 only.
+A: Cannot determine if the statement
+Q: Is the above answer different from 1?
+A: Cannot determine
+--306
+
+Statement: PersonX hit the headline, thus it can be seen about PersonX's intention that PersonX be not a know celebrity
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be not a know celebrity before PersonX hit the headline
+1. PersonX be not a know celebrity after PersonX hit the headline
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No.
+--307
+
+Statement: PersonX like gift, thus it can be seen about PersonX's intention that PersonX say sorry
+Q: Which one of the following two related statements is more plausible:
+0. PersonX say sorry before PersonX like gift
+1. PersonX say sorry after PersonX like gift
+Answer 0 or 1 only.
+A: Cannot determine if the statement
+Q: Is the above answer different from 1?
+A: Cannot determine
+--308
+
+Statement: PersonX understand the question right, thus it can be seen about PersonX's intention that PersonX be not quite sure
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be not quite sure before PersonX understand the question right
+1. PersonX be not quite sure after PersonX understand the question right
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "PersonX understand the question right, thus it can be seen about PersonX's intention that PersonX be not quite sure" plausible?
+A: No (not commonsense)
+--309
+
+Statement: PersonX never drink, thus it can be seen about PersonX's intention that PersonX recognize
+Q: Which one of the following two related statements is more plausible:
+0. PersonX recognize before PersonX never drink
+1. PersonX recognize after PersonX never drink
+Answer 0 or 1 only.
+A: Cannot determine if the statement
+Q: Is the above answer different from 1?
+A: Cannot determine
+--310
+
+Statement: PersonX have only try a few thing on menu, thus it can be seen about PersonX's intention that PersonX be a creature of habit
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be a creature of habit before PersonX have only try a few thing on menu
+1. PersonX be a creature of habit after PersonX have only try a few thing on menu
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No.
+--311
+
+Statement: PersonX throw a ball, thus it can be seen about PersonX's intention that PersonX play
+Q: Which one of the following two related statements is more plausible:
+0. PersonX play before PersonX throw a ball
+1. PersonX play after PersonX throw a ball
+Answer 0 or 1 only.
+A: 1 (PersonX play
+Q: Is the above answer different from 1?
+A: No.
+--312
+
+Statement: PersonX better wait about hour, thus it can be seen about PersonX's intention that PersonX want answer
+Q: Which one of the following two related statements is more plausible:
+0. PersonX want answer before PersonX better wait about hour
+1. PersonX want answer after PersonX better wait about hour
+Answer 0 or 1 only.
+A: Cannot determine. The statement
+Q: Is the above answer different from 1?
+A: Yes,
+Q: Is the statement "PersonX better wait about hour, thus it can be seen about PersonX's intention that PersonX want answer" plausible?
+A: Cannot determine.
+--313
+
+Statement: PersonX can print letter, thus it can be seen about PersonX's intention that PersonX try
+Q: Which one of the following two related statements is more plausible:
+0. PersonX try before PersonX can print letter
+1. PersonX try after PersonX can print letter
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "PersonX can print letter, thus it can be seen about PersonX's intention that PersonX try" plausible?
+A: Commonsense
+--522
+
+Statement: PersonX marry PersonY, thus it can be seen about PersonX's intention that PersonX love ya
+Q: Which one of the following two related statements is more plausible:
+0. PersonX love ya before PersonX marry PersonY
+1. PersonX love ya after PersonX marry PersonY
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "PersonX marry PersonY, thus it can be seen about PersonX's intention that PersonX love ya" plausible?
+A: Commonsense
+--523
+
+Statement: PersonX make home alive, thus it can be seen about PersonX's intention that PersonX survive
+Q: Which one of the following two related statements is more plausible:
+0. PersonX survive before PersonX make home alive
+1. PersonX survive after PersonX make home alive
+Answer 0 or 1 only.
+A: 1 (PersonX survive
+Q: Is the above answer different from 1?
+A: No.
+--524
+
+Statement: PersonX close PersonX mouth firmly, thus it can be seen about PersonX's intention that PersonX stifle
+Q: Which one of the following two related statements is more plausible:
+0. PersonX stifle before PersonX close PersonX mouth firmly
+1. PersonX stifle after PersonX close PersonX mouth firmly
+Answer 0 or 1 only.
+A: Cannot determine if the statement
+Q: Is the above answer different from 1?
+A: Cannot determine
+--525
+
+Statement: PersonX order the classic burger, thus it can be seen about PersonX's intention that PersonX love a great burger
+Q: Which one of the following two related statements is more plausible:
+0. PersonX love a great burger before PersonX order the classic burger
+1. PersonX love a great burger after PersonX order the classic burger
+Answer 0 or 1 only.
+A: 0 (The statement is
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "PersonX order the classic burger, thus it can be seen about PersonX's intention that PersonX love a great burger" plausible?
+A: Yes, the statement is commonsense.
+--526
+
+Statement: PersonX contradict yourself, thus it can be seen about PersonX's intention that PersonX be in disagreement
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be in disagreement before PersonX contradict yourself
+1. PersonX be in disagreement after PersonX contradict yourself
+Answer 0 or 1 only.
+A: 1 (commonsense)
+Q: Is the above answer different from 1?
+A: No (
+--824
+
+Statement: PersonX take off PersonX sweater, thus it can be seen about PersonX's intention that PersonX be hot
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be hot before PersonX take off PersonX sweater
+1. PersonX be hot after PersonX take off PersonX sweater
+Answer 0 or 1 only.
+A: 1 (PersonX became
+Q: Is the above answer different from 1?
+A: No.
+--825
+
+Statement: PersonX drink, thus it can be seen about PersonX's intention that PersonX be fill
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be fill before PersonX drink
+1. PersonX be fill after PersonX drink
+Answer 0 or 1 only.
+A: Cannot determine. The statement
+Q: Is the above answer different from 1?
+A: Yes,
+Q: Is the statement "PersonX drink, thus it can be seen about PersonX's intention that PersonX be fill" plausible?
+A: No.
+--826
+
+Statement: PersonX go by it, thus it can be seen about PersonX's intention that PersonX can not avoid it
+Q: Which one of the following two related statements is more plausible:
+0. PersonX can not avoid it before PersonX go by it
+1. PersonX can not avoid it after PersonX go by it
+Answer 0 or 1 only.
+A: 1 (PersonX can
+Q: Is the above answer different from 1?
+A: No.
+--827
+
+Statement: PersonX move to county, thus it can be seen about PersonX's intention that PersonX live in county
+Q: Which one of the following two related statements is more plausible:
+0. PersonX live in county before PersonX move to county
+1. PersonX live in county after PersonX move to county
+Answer 0 or 1 only.
+A: 1 (PersonX live
+Q: Is the above answer different from 1?
+A: No.
+--828
+
+Statement: PersonX love corn tortilla, thus it can be seen about PersonX's intention that PersonX be happy
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be happy before PersonX love corn tortilla
+1. PersonX be happy after PersonX love corn tortilla
+Answer 0 or 1 only.
+A: 0 (Not commonsense
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "PersonX love corn tortilla, thus it can be seen about PersonX's intention that PersonX be happy" plausible?
+A: Not commonsense.
+--829
+
+Statement: PersonX be fat, thus it can be seen about PersonX's intention that PersonX hate be fat
+Q: Which one of the following two related statements is more plausible:
+0. PersonX hate be fat before PersonX be fat
+1. PersonX hate be fat after PersonX be fat
+Answer 0 or 1 only.
+A: Cannot determine if the statement
+Q: Is the above answer different from 1?
+A: Cannot determine
+--830
+
+Statement: PersonX wait for table, thus it can be seen about PersonX's intention that PersonX table be ready
+Q: Which one of the following two related statements is more plausible:
+0. PersonX table be ready before PersonX wait for table
+1. PersonX table be ready after PersonX wait for table
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No.
+--831
+
+Statement: PersonX add air, thus it can be seen about PersonX's intention that PersonX tire pressure be low
+Q: Which one of the following two related statements is more plausible:
+0. PersonX tire pressure be low before PersonX add air
+1. PersonX tire pressure be low after PersonX add air
+Answer 0 or 1 only.
+A: Cannot determine. The statement
+Q: Is the above answer different from 1?
+A: Yes,
+Q: Is the statement "PersonX add air, thus it can be seen about PersonX's intention that PersonX tire pressure be low" plausible?
+A: No.
+--832
+
+Statement: PersonX can get anywhere, thus it can be seen about PersonX's intention that PersonX have ability
+Q: Which one of the following two related statements is more plausible:
+0. PersonX have ability before PersonX can get anywhere
+1. PersonX have ability after PersonX can get anywhere
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "PersonX can get anywhere, thus it can be seen about PersonX's intention that PersonX have ability" plausible?
+A: Commonsense
+--833
+
+Statement: PersonX suck at cooking, thus it can be seen about PersonX's intention that PersonX be a terrible cook
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be a terrible cook before PersonX suck at cooking
+1. PersonX be a terrible cook after PersonX suck at cooking
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No.
+--834
+
+Statement: PersonX come, thus it can be seen about PersonX's intention that PersonX be active
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be active before PersonX come
+1. PersonX be active after PersonX come
+Answer 0 or 1 only.
+A: Cannot determine. The statement
+Q: Is the above answer different from 1?
+A: Cannot determine
+--835
+
+Statement: PersonX prefer, thus it can be seen about PersonX's intention that PersonX be happy
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be happy before PersonX prefer
+1. PersonX be happy after PersonX prefer
+Answer 0 or 1 only.
+A: 1 (PersonX's
+Q: Is the above answer different from 1?
+A: No.
+--836
+
+Statement: PersonX wreck ball, thus it can be seen about PersonX's intention that PersonX be a ball
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be a ball before PersonX wreck ball
+1. PersonX be a ball after PersonX wreck ball
+Answer 0 or 1 only.
+A: Not commonsense. The
+Q: Is the above answer different from 1?
+A: No.
+--837
+
+Statement: PersonX thank PersonY, thus it can be seen about PersonX's intention that PersonX truly care
+Q: Which one of the following two related statements is more plausible:
+0. PersonX truly care before PersonX thank PersonY
+1. PersonX truly care after PersonX thank PersonY
+Answer 0 or 1 only.
+A: 0 (PersonX truly
+Q: Is the above answer different from 1?
+A: Yes,
+Q: Is the statement "PersonX thank PersonY, thus it can be seen about PersonX's intention that PersonX truly care" plausible?
+A: Yes.
+--838
+
+Statement: PersonX reach the age of 90, thus it can be seen about PersonX's intention that PersonX be retire
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be retire before PersonX reach the age of 90
+1. PersonX be retire after PersonX reach the age of 90
+Answer 0 or 1 only.
+A: Cannot determine.
+Q: Is the above answer different from 1?
+A: Yes.
+Q: Is the statement "PersonX reach the age of 90, thus it can be seen about PersonX's intention that PersonX be retire" plausible?
+A: Yes.
+--839
+
+Statement: PersonX ask PersonX question, thus it can be seen about PersonX's intention that PersonX have be formulate the perfect question
+Q: Which one of the following two related statements is more plausible:
+0. PersonX have be formulate the perfect question before PersonX ask PersonX question
+1. PersonX have be formulate the perfect question after PersonX ask PersonX question
+Answer 0 or 1 only.
+A: 1 (The statement implies
+Q: Is the above answer different from 1?
+A: No.
+--840
+
+Statement: PersonX get to appointment early, thus it can be seen about PersonX's intention that PersonX stylist be there
+Q: Which one of the following two related statements is more plausible:
+0. PersonX stylist be there before PersonX get to appointment early
+1. PersonX stylist be there after PersonX get to appointment early
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "PersonX get to appointment early, thus it can be seen about PersonX's intention that PersonX stylist be there" plausible?
+A: Commonsense
+--841
+
+Statement: PersonX fly free, thus it can be seen about PersonX's intention that PersonX can fly
+Q: Which one of the following two related statements is more plausible:
+0. PersonX can fly before PersonX fly free
+1. PersonX can fly after PersonX fly free
+Answer 0 or 1 only.
+A: 0 (The statement is
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "PersonX fly free, thus it can be seen about PersonX's intention that PersonX can fly" plausible?
+A: No
+--842
+
+Statement: PersonX get job, thus it can be seen about PersonX's intention that PersonX be fire
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be fire before PersonX get job
+1. PersonX be fire after PersonX get job
+Answer 0 or 1 only.
+A: Cannot determine if the statement
+Q: Is the above answer different from 1?
+A: Cannot determine
+--843
+
+Statement: PersonX have no hair, thus it can be seen about PersonX's intention that PersonX buzz it off
+Q: Which one of the following two related statements is more plausible:
+0. PersonX buzz it off before PersonX have no hair
+1. PersonX buzz it off after PersonX have no hair
+Answer 0 or 1 only.
+A: 1 (PersonX buzz
+Q: Is the above answer different from 1?
+A: No.
+--844
+
+Statement: PersonX grow up in minneapolis, thus it can be seen about PersonX's intention that PersonX family move to town
+Q: Which one of the following two related statements is more plausible:
+0. PersonX family move to town before PersonX grow up in minneapolis
+1. PersonX family move to town after PersonX grow up in minneapolis
+Answer 0 or 1 only.
+A: Cannot determine from the given
+Q: Is the above answer different from 1?
+A: Cannot determine
+--845
+
+Statement: PersonX get a puncture, thus it can be seen about PersonX's intention that PersonX be not careful
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be not careful before PersonX get a puncture
+1. PersonX be not careful after PersonX get a puncture
+Answer 0 or 1 only.
+A: Cannot determine if the statement
+Q: Is the above answer different from 1?
+A: Cannot determine
+--266
+
+Statement: The event PersonX can see 'em will not happen unless PersonX can smell 'em
+Q: Which one of the following two related statements is more plausible:
+0. PersonX can smell 'em before PersonX can see 'em
+1. PersonX can smell 'em after PersonX can see 'em
+Answer 0 or 1 only.
+A: 0 (PersonX can
+Q: Is the above answer different from 1?
+A: Yes,
+Q: Is the statement "The event PersonX can see 'em will not happen unless PersonX can smell 'em" plausible?
+A: Yes, it is commonsense.
+--267
+
+Statement: The event PersonX make PersonY assault will not happen unless PersonX give PersonY a weapon
+Q: Which one of the following two related statements is more plausible:
+0. PersonX give PersonY a weapon before PersonX make PersonY assault
+1. PersonX give PersonY a weapon after PersonX make PersonY assault
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX make PersonY assault will not happen unless PersonX give PersonY a weapon" plausible?
+A: Commonsense
+--268
+
+Statement: The event PersonX wife be in the city will not happen unless PersonX bring home a lady friend
+Q: Which one of the following two related statements is more plausible:
+0. PersonX bring home a lady friend before PersonX wife be in the city
+1. PersonX bring home a lady friend after PersonX wife be in the city
+Answer 0 or 1 only.
+A: Cannot determine without additional information
+Q: Is the above answer different from 1?
+A: Cannot determine
+--269
+
+Statement: The event PersonX go to office will not happen unless PersonX money
+Q: Which one of the following two related statements is more plausible:
+0. PersonX need to money before PersonX go to office
+1. PersonX need to money after PersonX go to office
+Answer 0 or 1 only.
+A: 0 (PersonX needs
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX go to office will not happen unless PersonX money" plausible?
+A: Yes, it is commonsense.
+--270
+
+Statement: The event PersonX rest on shoulder will not happen unless PersonX come to PersonY
+Q: Which one of the following two related statements is more plausible:
+0. PersonX come to PersonY before PersonX rest on shoulder
+1. PersonX come to PersonY after PersonX rest on shoulder
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX rest on shoulder will not happen unless PersonX come to PersonY" plausible?
+A: Commonsense
+--271
+
+Statement: The event PersonX share will not happen unless PersonX make a agreement
+Q: Which one of the following two related statements is more plausible:
+0. PersonX make a agreement before PersonX share
+1. PersonX make a agreement after PersonX share
+Answer 0 or 1 only.
+A: 0 (PersonX make
+Q: Is the above answer different from 1?
+A: Yes,
+Q: Is the statement "The event PersonX share will not happen unless PersonX make a agreement" plausible?
+A: Commonsense.
+--272
+
+Statement: The event PersonX go to do something will not happen unless PersonX look back
+Q: Which one of the following two related statements is more plausible:
+0. PersonX look back before PersonX go to do something
+1. PersonX look back after PersonX go to do something
+Answer 0 or 1 only.
+A: 0 (PersonX look
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX go to do something will not happen unless PersonX look back" plausible?
+A: Not commonsense.
+--273
+
+Statement: The event PersonX will be bite to death will not happen unless PersonX meet PeopleX
+Q: Which one of the following two related statements is more plausible:
+0. PersonX meet PeopleX before PersonX will be bite to death
+1. PersonX meet PeopleX after PersonX will be bite to death
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX will be bite to death will not happen unless PersonX meet PeopleX" plausible?
+A: Commonsense
+--274
+
+Statement: The event PersonX need to reach out to customer will not happen unless PersonX get money for account
+Q: Which one of the following two related statements is more plausible:
+0. PersonX need to get money for account before PersonX need to reach out to customer
+1. PersonX need to get money for account after PersonX need to reach out to customer
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX need to reach out to customer will not happen unless PersonX get money for account" plausible?
+A: Commonsense
+--275
+
+Statement: The event PersonX credit will not happen unless PersonX take up cycling
+Q: Which one of the following two related statements is more plausible:
+0. PersonX take up cycling before PersonX credit
+1. PersonX take up cycling after PersonX credit
+Answer 0 or 1 only.
+A: 0 (PersonX needs
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX credit will not happen unless PersonX take up cycling" plausible?
+A: No, it is not commonsense.
+--276
+
+Statement: The event PersonX lose PersonX sight will not happen unless PersonX father collect book
+Q: Which one of the following two related statements is more plausible:
+0. PersonX father collect book before PersonX lose PersonX sight
+1. PersonX father collect book after PersonX lose PersonX sight
+Answer 0 or 1 only.
+A: 1 (not commonsense
+Q: Is the above answer different from 1?
+A: No.
+--277
+
+Statement: The event PersonX make much money will not happen unless PersonX play the lottery
+Q: Which one of the following two related statements is more plausible:
+0. PersonX play the lottery before PersonX make much money
+1. PersonX play the lottery after PersonX make much money
+Answer 0 or 1 only.
+A: 0 (PersonX play
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX make much money will not happen unless PersonX play the lottery" plausible?
+A: No
+--278
+
+Statement: The event PersonX decide to play will not happen unless PersonX love
+Q: Which one of the following two related statements is more plausible:
+0. PersonX love before PersonX decide to play
+1. PersonX love after PersonX decide to play
+Answer 0 or 1 only.
+A: 0 (PersonX must
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX decide to play will not happen unless PersonX love" plausible?
+A: Yes, it is commonsense.
+--279
+
+Statement: The event PersonX bow PersonX head will not happen unless PersonX get dresss
+Q: Which one of the following two related statements is more plausible:
+0. PersonX get dresss before PersonX bow PersonX head
+1. PersonX get dresss after PersonX bow PersonX head
+Answer 0 or 1 only.
+A: 0 (PersonX getting
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX bow PersonX head will not happen unless PersonX get dresss" plausible?
+A: Commonsense
+--280
+
+Statement: The event PersonX use to think about it will not happen unless PersonX make the deal
+Q: Which one of the following two related statements is more plausible:
+0. PersonX make the deal before PersonX use to think about it
+1. PersonX make the deal after PersonX use to think about it
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No.
+--281
+
+Statement: The event PersonX assume something will not happen unless PersonX work on skill
+Q: Which one of the following two related statements is more plausible:
+0. PersonX need to work on skill before PersonX assume something
+1. PersonX need to work on skill after PersonX assume something
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX assume something will not happen unless PersonX work on skill" plausible?
+A: Yes (commonsense)
+--282
+
+Statement: The event PersonX devise a plan will not happen unless PersonX consolidate PersonX position
+Q: Which one of the following two related statements is more plausible:
+0. PersonX consolidate PersonX position before PersonX devise a plan
+1. PersonX consolidate PersonX position after PersonX devise a plan
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX devise a plan will not happen unless PersonX consolidate PersonX position" plausible?
+A: Commonsense
+--283
+
+Statement: The event PersonX be not interested in it will not happen unless PersonX see
+Q: Which one of the following two related statements is more plausible:
+0. PersonX see before PersonX be not interested in it
+1. PersonX see after PersonX be not interested in it
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX be not interested in it will not happen unless PersonX see" plausible?
+A: Commonsense
+--284
+
+Statement: The event PersonX need to put it into player will not happen unless PersonX put PersonX phone away
+Q: Which one of the following two related statements is more plausible:
+0. PersonX put PersonX phone away before PersonX need to put it into player
+1. PersonX put PersonX phone away after PersonX need to put it into player
+Answer 0 or 1 only.
+A: 1 (PersonX put
+Q: Is the above answer different from 1?
+A: No.
+--285
+
+Statement: The event PersonX will take a photograph of PersonY will not happen unless PersonX locate PersonY
+Q: Which one of the following two related statements is more plausible:
+0. PersonX locate PersonY before PersonX will take a photograph of PersonY
+1. PersonX locate PersonY after PersonX will take a photograph of PersonY
+Answer 0 or 1 only.
+A: 0 (PersonX must
+Q: Is the above answer different from 1?
+A: Yes,
+Q: Is the statement "The event PersonX will take a photograph of PersonY will not happen unless PersonX locate PersonY" plausible?
+A: Commonsense.
+--286
+
+Statement: The event PersonX need to confront PersonY 's friend will not happen unless PersonX challenge PersonY 's friend
+Q: Which one of the following two related statements is more plausible:
+0. PersonX challenge PersonY 's friend before PersonX need to confront PersonY 's friend
+1. PersonX challenge PersonY 's friend after PersonX need to confront PersonY 's friend
+Answer 0 or 1 only.
+A: 1 (PersonX challenge
+Q: Is the above answer different from 1?
+A: No.
+--287
+
+Statement: The event PersonX choke the chicken will not happen unless PersonX find a chicken
+Q: Which one of the following two related statements is more plausible:
+0. PersonX need to find a chicken before PersonX choke the chicken
+1. PersonX need to find a chicken after PersonX choke the chicken
+Answer 0 or 1 only.
+A: 0 (PersonX needs
+Q: Is the above answer different from 1?
+A: Yes,
+Q: Is the statement "The event PersonX choke the chicken will not happen unless PersonX find a chicken" plausible?
+A: Commonsense.
+--288
+
+Statement: The event PersonX send a letter will not happen unless PersonX write a letter
+Q: Which one of the following two related statements is more plausible:
+0. PersonX need to write a letter before PersonX send a letter
+1. PersonX need to write a letter after PersonX send a letter
+Answer 0 or 1 only.
+A: 0 (This statement is
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX send a letter will not happen unless PersonX write a letter" plausible?
+A: Yes, it is commonsense.
+--289
+
+Statement: The event PersonX get lose will not happen unless PersonX try to explain it
+Q: Which one of the following two related statements is more plausible:
+0. PersonX try to explain it before PersonX get lose
+1. PersonX try to explain it after PersonX get lose
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX get lose will not happen unless PersonX try to explain it" plausible?
+A: Commonsense
+--290
+
+Statement: The event PersonX hang PersonX clothes will not happen unless PersonX pick out a game
+Q: Which one of the following two related statements is more plausible:
+0. PersonX pick out a game before PersonX hang PersonX clothes
+1. PersonX pick out a game after PersonX hang PersonX clothes
+Answer 0 or 1 only.
+A: 0 (PersonX pick
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX hang PersonX clothes will not happen unless PersonX pick out a game" plausible?
+A: Commonsense
+--291
+
+Statement: The event PersonX jump into race will not happen unless PersonX have a idea
+Q: Which one of the following two related statements is more plausible:
+0. PersonX have a idea before PersonX jump into race
+1. PersonX have a idea after PersonX jump into race
+Answer 0 or 1 only.
+A: 0 (PersonX must
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX jump into race will not happen unless PersonX have a idea" plausible?
+A: Commonsense
+--292
+
+Statement: The event PersonX open door will not happen unless PersonX walk
+Q: Which one of the following two related statements is more plausible:
+0. PersonX need to walk before PersonX open door
+1. PersonX need to walk after PersonX open door
+Answer 0 or 1 only.
+A: 0 (PersonX need
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX open door will not happen unless PersonX walk" plausible?
+A: Commonsense.
+--293
+
+Statement: The event PersonX demand PersonY attention will not happen unless PersonX send PersonY dozen letter
+Q: Which one of the following two related statements is more plausible:
+0. PersonX send PersonY dozen letter before PersonX demand PersonY attention
+1. PersonX send PersonY dozen letter after PersonX demand PersonY attention
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX demand PersonY attention will not happen unless PersonX send PersonY dozen letter" plausible?
+A: Yes (commonsense)
+--527
+
+Statement: The event PersonX eat anyway will not happen unless PersonX body need food
+Q: Which one of the following two related statements is more plausible:
+0. PersonX body need food before PersonX eat anyway
+1. PersonX body need food after PersonX eat anyway
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX eat anyway will not happen unless PersonX body need food" plausible?
+A: Commonsense
+--528
+
+Statement: The event PersonX join the church will not happen unless PersonX get religion
+Q: Which one of the following two related statements is more plausible:
+0. PersonX get religion before PersonX join the church
+1. PersonX get religion after PersonX join the church
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX join the church will not happen unless PersonX get religion" plausible?
+A: Commonsense
+--529
+
+Statement: The event PersonX iove PersonY will not happen unless PersonX want PersonY
+Q: Which one of the following two related statements is more plausible:
+0. PersonX want PersonY before PersonX iove PersonY
+1. PersonX want PersonY after PersonX iove PersonY
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: No (
+--530
+
+Statement: The event PersonX mistake will not happen unless PersonX be mistaken
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be mistaken before PersonX mistake
+1. PersonX be mistaken after PersonX mistake
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX mistake will not happen unless PersonX be mistaken" plausible?
+A: Commonsense
+--531
+
+Statement: The event PersonX have it on hand will not happen unless PersonX use it
+Q: Which one of the following two related statements is more plausible:
+0. PersonX use it before PersonX have it on hand
+1. PersonX use it after PersonX have it on hand
+Answer 0 or 1 only.
+A: 1 (PersonX must
+Q: Is the above answer different from 1?
+A: No.
+--846
+
+Statement: The event PersonX do judge will not happen unless PersonX judgment be true
+Q: Which one of the following two related statements is more plausible:
+0. PersonX judgment be true before PersonX do judge
+1. PersonX judgment be true after PersonX do judge
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX do judge will not happen unless PersonX judgment be true" plausible?
+A: Commonsense
+--847
+
+Statement: The event PersonX like to poop will not happen unless PersonX want to poop
+Q: Which one of the following two related statements is more plausible:
+0. PersonX want to poop before PersonX like to poop
+1. PersonX want to poop after PersonX like to poop
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX like to poop will not happen unless PersonX want to poop" plausible?
+A: Commonsense
+--848
+
+Statement: The event PersonX bring solution for problem will not happen unless PersonX be a problem solver
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be a problem solver before PersonX bring solution for problem
+1. PersonX be a problem solver after PersonX bring solution for problem
+Answer 0 or 1 only.
+A: 0 (PersonX must
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX bring solution for problem will not happen unless PersonX be a problem solver" plausible?
+A: Commonsense
+--849
+
+Statement: The event PersonX ask a straightforward question will not happen unless PersonX be curious
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be curious before PersonX ask a straightforward question
+1. PersonX be curious after PersonX ask a straightforward question
+Answer 0 or 1 only.
+A: 0 (PersonX be
+Q: Is the above answer different from 1?
+A: Yes,
+Q: Is the statement "The event PersonX ask a straightforward question will not happen unless PersonX be curious" plausible?
+A: Commonsense.
+--850
+
+Statement: The event PersonX eat will not happen unless PersonX gulp
+Q: Which one of the following two related statements is more plausible:
+0. PersonX gulp before PersonX eat
+1. PersonX gulp after PersonX eat
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX eat will not happen unless PersonX gulp" plausible?
+A: Commonsense
+--851
+
+Statement: The event PersonX say spicy will not happen unless PersonX mean spicy
+Q: Which one of the following two related statements is more plausible:
+0. PersonX mean spicy before PersonX say spicy
+1. PersonX mean spicy after PersonX say spicy
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX say spicy will not happen unless PersonX mean spicy" plausible?
+A: Commonsense
+--852
+
+Statement: The event PersonX play in championship will not happen unless PersonX be not select for championship
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be not select for championship before PersonX play in championship
+1. PersonX be not select for championship after PersonX play in championship
+Answer 0 or 1 only.
+A: 0 (The statement is
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX play in championship will not happen unless PersonX be not select for championship" plausible?
+A: Yes, the statement is commonsense.
+--853
+
+Statement: The event PersonX get to front will not happen unless PersonX be close
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be close before PersonX get to front
+1. PersonX be close after PersonX get to front
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX get to front will not happen unless PersonX be close" plausible?
+A: Commonsense
+--854
+
+Statement: The event PersonX feed PersonX cat will not happen unless PersonX take out its litter box
+Q: Which one of the following two related statements is more plausible:
+0. PersonX take out its litter box before PersonX feed PersonX cat
+1. PersonX take out its litter box after PersonX feed PersonX cat
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX feed PersonX cat will not happen unless PersonX take out its litter box" plausible?
+A: Commonsense
+--855
+
+Statement: The event PersonX hurt your feeling will not happen unless PersonX be sorry
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be sorry before PersonX hurt your feeling
+1. PersonX be sorry after PersonX hurt your feeling
+Answer 0 or 1 only.
+A: 1 (PersonX be
+Q: Is the above answer different from 1?
+A: No.
+--856
+
+Statement: The event PersonX be particularly concerned will not happen unless PersonX worry
+Q: Which one of the following two related statements is more plausible:
+0. PersonX worry before PersonX be particularly concerned
+1. PersonX worry after PersonX be particularly concerned
+Answer 0 or 1 only.
+A: 0 (PersonX worry
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX be particularly concerned will not happen unless PersonX worry" plausible?
+A: No, it is not commonsense.
+--857
+
+Statement: The event PersonX take pain will not happen unless PersonX do take pain
+Q: Which one of the following two related statements is more plausible:
+0. PersonX do take pain before PersonX take pain
+1. PersonX do take pain after PersonX take pain
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX take pain will not happen unless PersonX do take pain" plausible?
+A: Commonsense
+--858
+
+Statement: The event PersonX scarf down will not happen unless PersonX be famish
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be famish before PersonX scarf down
+1. PersonX be famish after PersonX scarf down
+Answer 0 or 1 only.
+A: 0 (PersonX must
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX scarf down will not happen unless PersonX be famish" plausible?
+A: Commonsense
+--859
+
+Statement: The event PersonX question one side will not happen unless PersonX question the other as
+Q: Which one of the following two related statements is more plausible:
+0. PersonX have to question the other as before PersonX question one side
+1. PersonX have to question the other as after PersonX question one side
+Answer 0 or 1 only.
+A: Neither statement is more plausible
+Q: Is the above answer different from 1?
+A: No.
+--860
+
+Statement: The event PersonX be perform will not happen unless PersonX aren t perform
+Q: Which one of the following two related statements is more plausible:
+0. PersonX aren t perform before PersonX be perform
+1. PersonX aren t perform after PersonX be perform
+Answer 0 or 1 only.
+A: 1 (PersonX must
+Q: Is the above answer different from 1?
+A: No.
+--861
+
+Statement: The event PersonX spoil PersonY wedding plan will not happen unless PersonX be sorry
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be sorry before PersonX spoil PersonY wedding plan
+1. PersonX be sorry after PersonX spoil PersonY wedding plan
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX spoil PersonY wedding plan will not happen unless PersonX be sorry" plausible?
+A: Commonsense
+--862
+
+Statement: The event PersonX literally feel will not happen unless PersonX feel
+Q: Which one of the following two related statements is more plausible:
+0. PersonX feel before PersonX literally feel
+1. PersonX feel after PersonX literally feel
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX literally feel will not happen unless PersonX feel" plausible?
+A: Commonsense
+--863
+
+Statement: The event PersonX read the novel will not happen unless PersonX love it
+Q: Which one of the following two related statements is more plausible:
+0. PersonX love it before PersonX read the novel
+1. PersonX love it after PersonX read the novel
+Answer 0 or 1 only.
+A: 1 (PersonX may
+Q: Is the above answer different from 1?
+A: No.
+--864
+
+Statement: The event PersonX work in hospital will not happen unless PersonX wear scrub
+Q: Which one of the following two related statements is more plausible:
+0. PersonX wear scrub before PersonX work in hospital
+1. PersonX wear scrub after PersonX work in hospital
+Answer 0 or 1 only.
+A: 0 (PersonX wear
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX work in hospital will not happen unless PersonX wear scrub" plausible?
+A: Commonsense
+--865
+
+Statement: The event PersonX ask PersonY partner will not happen unless PersonX have a question for partner
+Q: Which one of the following two related statements is more plausible:
+0. PersonX have a question for partner before PersonX ask PersonY partner
+1. PersonX have a question for partner after PersonX ask PersonY partner
+Answer 0 or 1 only.
+A: 0 (PersonX have
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX ask PersonY partner will not happen unless PersonX have a question for partner" plausible?
+A: Commonsense
+--866
+
+Statement: The event PersonX comprehend will not happen unless PersonX be aware
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be aware before PersonX comprehend
+1. PersonX be aware after PersonX comprehend
+Answer 0 or 1 only.
+A: 0 (PersonX needs
+Q: Is the above answer different from 1?
+A: Yes,
+Q: Is the statement "The event PersonX comprehend will not happen unless PersonX be aware" plausible?
+A: Commonsense.
+--867
+
+Statement: The event PersonX go get martin weir will not happen unless PersonX want martin weir
+Q: Which one of the following two related statements is more plausible:
+0. PersonX want martin weir before PersonX go get martin weir
+1. PersonX want martin weir after PersonX go get martin weir
+Answer 0 or 1 only.
+A: 0 (PersonX must
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX go get martin weir will not happen unless PersonX want martin weir" plausible?
+A: Commonsense
+--868
+
+Statement: The event PersonX roll over will not happen unless PersonX fall on ass
+Q: Which one of the following two related statements is more plausible:
+0. PersonX fall on ass before PersonX roll over
+1. PersonX fall on ass after PersonX roll over
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX roll over will not happen unless PersonX fall on ass" plausible?
+A: Commonsense
+--869
+
+Statement: The event PersonX have the flu will not happen unless PersonX lay down on bed
+Q: Which one of the following two related statements is more plausible:
+0. PersonX lay down on bed before PersonX have the flu
+1. PersonX lay down on bed after PersonX have the flu
+Answer 0 or 1 only.
+A: 0 (PersonX lay
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX have the flu will not happen unless PersonX lay down on bed" plausible?
+A: No, it is not commonsense.
+--870
+
+Statement: The event PersonX click accept will not happen unless PersonX accept
+Q: Which one of the following two related statements is more plausible:
+0. PersonX accept before PersonX click accept
+1. PersonX accept after PersonX click accept
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX click accept will not happen unless PersonX accept" plausible?
+A: Commonsense
+--871
+
+Statement: The event PersonX hurt PersonY feeliss will not happen unless PersonX be sorry
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be sorry before PersonX hurt PersonY feeliss
+1. PersonX be sorry after PersonX hurt PersonY feeliss
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX hurt PersonY feeliss will not happen unless PersonX be sorry" plausible?
+A: Commonsense
+--872
+
+Statement: The event PersonX leave PersonX room will not happen unless PersonX shut the window
+Q: Which one of the following two related statements is more plausible:
+0. PersonX shut the window before PersonX leave PersonX room
+1. PersonX shut the window after PersonX leave PersonX room
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX leave PersonX room will not happen unless PersonX shut the window" plausible?
+A: Commonsense
+--873
+
+Statement: The event PersonX pop PersonX top will not happen unless PersonX want a cup
+Q: Which one of the following two related statements is more plausible:
+0. PersonX want a cup before PersonX pop PersonX top
+1. PersonX want a cup after PersonX pop PersonX top
+Answer 0 or 1 only.
+A: 0 (PersonX wants
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX pop PersonX top will not happen unless PersonX want a cup" plausible?
+A: Commonsense
+--874
+
+Statement: The event PersonX have the lobster spaghetti will not happen unless PersonX love spaghetti
+Q: Which one of the following two related statements is more plausible:
+0. PersonX love spaghetti before PersonX have the lobster spaghetti
+1. PersonX love spaghetti after PersonX have the lobster spaghetti
+Answer 0 or 1 only.
+A: 0 (PersonX would
+Q: Is the above answer different from 1?
+A: Yes
+Q: Is the statement "The event PersonX have the lobster spaghetti will not happen unless PersonX love spaghetti" plausible?
+A: Commonsense
+--875
+
+Statement: The event PersonX have curly hair will not happen unless PersonX do not
+Q: Which one of the following two related statements is more plausible:
+0. PersonX do not before PersonX have curly hair
+1. PersonX do not after PersonX have curly hair
+Answer 0 or 1 only.
+A: 1
+Q: Is the above answer different from 1?
+A: No.
+--876
+
+Statement: The event PersonX accept it will not happen unless PersonX accept it
+Q: Which one of the following two related statements is more plausible:
+0. PersonX have to accept it before PersonX accept it
+1. PersonX have to accept it after PersonX accept it
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX accept it will not happen unless PersonX accept it" plausible?
+A: Commonsense
+--877
+
+Statement: The event PersonX work PersonY magic will not happen unless PersonX be thrill
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be thrill before PersonX work PersonY magic
+1. PersonX be thrill after PersonX work PersonY magic
+Answer 0 or 1 only.
+A: 0 (PersonX needs
+Q: Is the above answer different from 1?
+A: Yes,
+Q: Is the statement "The event PersonX work PersonY magic will not happen unless PersonX be thrill" plausible?
+A: Commonsense.
+--878
+
+Statement: The event PersonX deal with problem will not happen unless PersonX want to get counselling
+Q: Which one of the following two related statements is more plausible:
+0. PersonX want to get counselling before PersonX deal with problem
+1. PersonX want to get counselling after PersonX deal with problem
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX deal with problem will not happen unless PersonX want to get counselling" plausible?
+A: Commonsense
+--879
+
+Statement: The event PersonX date PersonY will not happen unless PersonX have never date anyone
+Q: Which one of the following two related statements is more plausible:
+0. PersonX have never date anyone before PersonX date PersonY
+1. PersonX have never date anyone after PersonX date PersonY
+Answer 0 or 1 only.
+A: Cannot determine without additional information
+Q: Is the above answer different from 1?
+A: Cannot determine
+--880
+
+Statement: The event PersonX be a gentleman will not happen unless PersonX must be gentleman
+Q: Which one of the following two related statements is more plausible:
+0. PersonX must be gentleman before PersonX be a gentleman
+1. PersonX must be gentleman after PersonX be a gentleman
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX be a gentleman will not happen unless PersonX must be gentleman" plausible?
+A: Commonsense
+--881
+
+Statement: The event PersonX survive will not happen unless PersonX be revive
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be revive before PersonX survive
+1. PersonX be revive after PersonX survive
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX survive will not happen unless PersonX be revive" plausible?
+A: Commonsense
+--882
+
+Statement: The event PersonX can not bear it will not happen unless PersonX be nervous
+Q: Which one of the following two related statements is more plausible:
+0. PersonX be nervous before PersonX can not bear it
+1. PersonX be nervous after PersonX can not bear it
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX can not bear it will not happen unless PersonX be nervous" plausible?
+A: Commonsense
+--883
+
+Statement: The event PersonX dig will not happen unless PersonX bury
+Q: Which one of the following two related statements is more plausible:
+0. PersonX bury before PersonX dig
+1. PersonX bury after PersonX dig
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX dig will not happen unless PersonX bury" plausible?
+A: Commonsense
+--884
+
+Statement: The event PersonX have strength will not happen unless PersonX choose to exert it
+Q: Which one of the following two related statements is more plausible:
+0. PersonX choose to exert it before PersonX have strength
+1. PersonX choose to exert it after PersonX have strength
+Answer 0 or 1 only.
+A: 0 (commonsense)
+Q: Is the above answer different from 1?
+A: Yes (
+Q: Is the statement "The event PersonX have strength will not happen unless PersonX choose to exert it" plausible?
+A: Commonsense

@@ -1,0 +1,1152 @@
+[
+    {
+        "dataset_idx": 79,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': After PersonX do something to PersonY, PersonY do something",
+        "answer": 0,
+        "entropy": 1.0549201679861442,
+        "occurrence": {
+            "true": 0,
+            "false": 2,
+            "no": 1,
+            "-10086": 2
+        },
+        "disagreement": 4
+    },
+    {
+        "dataset_idx": 13,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX escape, thus, PersonY want to escape",
+        "answer": 0,
+        "entropy": 0.9502705392332347,
+        "occurrence": {
+            "true": 1,
+            "false": 3,
+            "-10086": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 100,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX wish for it will not happen, if it be desirable",
+        "answer": 0,
+        "entropy": 0.9502705392332347,
+        "occurrence": {
+            "true": 1,
+            "false": 3,
+            "-10086": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 1,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX go to fridge, thus, PersonX want to get a glass of wine",
+        "answer": 1,
+        "entropy": 0.6730116670092565,
+        "occurrence": {
+            "true": 3,
+            "false": 2
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 9,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX give PersonY a substantial amount, thus, PersonX want PersonX could not pay it back",
+        "answer": 0,
+        "entropy": 0.6730116670092565,
+        "occurrence": {
+            "true": 3,
+            "false": 2
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 15,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX loan succeed, thus, PersonY want to prefer",
+        "answer": 0,
+        "entropy": 0.6730116670092565,
+        "occurrence": {
+            "true": 0,
+            "false": 3,
+            "-10086": 2
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 18,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX leave food, thus as an result, PersonX be only ask",
+        "answer": 0,
+        "entropy": 0.6730116670092565,
+        "occurrence": {
+            "true": 0,
+            "false": 3,
+            "-10086": 2
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 19,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX collapse in courthouse, thus as an result, PersonX body reject the transplant liver",
+        "answer": 0,
+        "entropy": 0.6730116670092565,
+        "occurrence": {
+            "true": 3,
+            "false": 2
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 28,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX move out to live on own, thus as an result, PersonX wont be able",
+        "answer": 0,
+        "entropy": 0.6730116670092565,
+        "occurrence": {
+            "true": 0,
+            "false": 3,
+            "-10086": 2
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 30,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX get in shape, thus as an result, PersonY bet",
+        "answer": 0,
+        "entropy": 0.6730116670092565,
+        "occurrence": {
+            "true": 2,
+            "false": 3
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 31,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX cause PersonZ death, thus as an result, PersonY do not actually cause the harm",
+        "answer": 0,
+        "entropy": 0.6730116670092565,
+        "occurrence": {
+            "true": 3,
+            "false": 2
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 52,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX hand slip, thus it can be seen about PersonX's attribute that PersonX fall",
+        "answer": 0,
+        "entropy": 0.6730116670092565,
+        "occurrence": {
+            "true": 2,
+            "false": 3
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 55,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX have nothing else, thus it can be seen about PersonX's attribute that PersonX see PersonY",
+        "answer": 0,
+        "entropy": 0.6730116670092565,
+        "occurrence": {
+            "true": 0,
+            "false": 2,
+            "-10086": 3
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 56,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX have not hear a car drive up, thus it can be seen about PersonX's attribute that PersonX be startle",
+        "answer": 0,
+        "entropy": 0.6730116670092565,
+        "occurrence": {
+            "true": 3,
+            "false": 2
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 58,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX relate, thus it can be seen about PersonX's attribute that PersonX feel",
+        "answer": 0,
+        "entropy": 0.6730116670092565,
+        "occurrence": {
+            "true": 0,
+            "false": 3,
+            "-10086": 2
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 88,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonY play by herself will not happen, if PersonY be happier",
+        "answer": 0,
+        "entropy": 0.6730116670092565,
+        "occurrence": {
+            "true": 0,
+            "false": 3,
+            "-10086": 2
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 90,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX run away will not happen, if PersonY would better hurry",
+        "answer": 0,
+        "entropy": 0.6730116670092565,
+        "occurrence": {
+            "true": 2,
+            "false": 3
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 93,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX send PersonY home will not happen, if now it be up",
+        "answer": 0,
+        "entropy": 0.6730116670092565,
+        "occurrence": {
+            "true": 0,
+            "false": 3,
+            "-10086": 2
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 94,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX be misbehave will not happen, if PeopleX be misbehave",
+        "answer": 0,
+        "entropy": 0.6730116670092565,
+        "occurrence": {
+            "true": 0,
+            "false": 3,
+            "-10086": 2
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 0,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX ejaculate, thus, PersonX want PersonX orgasm",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 4,
+            "false": 1
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 6,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX shit, thus, PersonX want to have to put down some toilet paper in toilet",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 4,
+            "false": 0,
+            "-10086": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 12,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX wire PersonY, thus, PersonX want to get a telegram",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 0,
+            "false": 4,
+            "-10086": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 17,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX be not use PersonX ability, thus, PersonY want to mean",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 0,
+            "false": 4,
+            "-10086": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 24,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX decide, thus as an result, PersonX be indecisive",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 0,
+            "false": 4,
+            "-10086": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 27,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX be a baby, thus as an result, PersonX could not be",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 0,
+            "false": 4,
+            "no": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 29,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX join, thus as an result, PersonX fill out paperwork",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 4,
+            "false": 0,
+            "-10086": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 32,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX steal PersonZ boyfriend, thus as an result, PersonY have a boyfriend",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 1,
+            "false": 4
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 34,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX prevent PersonY, thus as a result on PersonX's emotion, PersonX never reach out to anyone",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 1,
+            "false": 4
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 35,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX go to sleep on hollow, thus as a result on PersonX's emotion, PersonX feel PersonX be tired",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 4,
+            "false": 1
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 41,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX go PersonX separate way, thus as a result on PersonX's emotion, PersonX don t",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 0,
+            "false": 4,
+            "-10086": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 53,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX first start this job, thus it can be seen about PersonX's attribute that PersonX be work",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 0,
+            "false": 4,
+            "-10086": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 66,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX make wedding cake will not happen unless PersonX make PeopleX for everyone",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 0,
+            "false": 4,
+            "-10086": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 68,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX go lady at counter will not happen unless PersonX be intolerant",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 0,
+            "false": 4,
+            "-10086": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 74,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': Because PeopleX go faster, PeopleX be fast",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 1,
+            "false": 4
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 75,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': Because harvey have a secret, PersonY ask",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 0,
+            "false": 4,
+            "no": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 76,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': Because PeopleX retire, PeopleX be older",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 4,
+            "false": 1
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 80,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': After PersonX love this soup, PersonX be a soup fan",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 4,
+            "false": 1
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 83,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': Before PersonX wouldnt, PersonX have faith",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 0,
+            "false": 4,
+            "-10086": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 85,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX watch one will not happen, if PersonX be interested",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 0,
+            "false": 4,
+            "-10086": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 89,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX achieve that will not happen, if PersonX could have",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 0,
+            "false": 4,
+            "-10086": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 98,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX look pale will not happen, if PersonY grow pale",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 0,
+            "false": 4,
+            "-10086": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 99,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX see a opening will not happen, if PersonX just have to be careful",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 1,
+            "false": 4
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 101,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX see includes the event/action that some see",
+        "answer": 0,
+        "entropy": 0.5004024235381879,
+        "occurrence": {
+            "true": 0,
+            "false": 4,
+            "-10086": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 2,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX work tirelessly, thus, PersonX want to die",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 3,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX set off, thus, PersonX want to leave",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 4,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX enlist, thus, PersonX want to fight for country",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 5,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX fall into pool, thus, PersonX want to mother enrol PersonX in school",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 7,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX come, thus, PersonX want to be paranoid",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 8,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX look back at footage, thus, PersonX want PersonX will bet",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 10,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX withdraw money, thus, PersonX want to pay bill",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 11,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX have cavity, thus, PersonX want to have a toothache",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 14,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX be work from home, thus, PersonY want to be a remote worker",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 16,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX look at PersonY, thus, PersonY want PersonY wasn t look",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 20,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX get really paranoid, thus as an result, PersonX be nervous",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 21,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX have food poisoning, thus as an result, PersonX throw up",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 22,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX earn more money, thus as an result, PersonX want to stay there",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 23,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX feel very sick, thus as an result, PersonX have medicine",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 25,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX see a dead body, thus as an result, PersonX just will not cry",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 26,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX go to fill up, thus as an result, PersonX need gas",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 33,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX pull off, thus as a result on PersonX's emotion, PersonX wait",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 36,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX prepare it, thus as a result on PersonX's emotion, PersonX always win",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 37,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX read non fiction, thus as a result on PersonX's emotion, PersonX feel PersonX be curious",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 38,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX ruin PersonX own marriage, thus as a result on PersonX's emotion, PersonX feel PersonX be selfish",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 39,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX hair be gray, thus as a result on PersonX's emotion, PersonX feel PersonX be elderly",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 40,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX eat the sub, thus as a result on PersonX's emotion, PersonX feel PersonX be full",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 42,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX create that, thus as a result on PersonX's emotion, PersonX love to do that",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 43,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX put PersonY in mind, thus as a result on PersonX's emotion, PersonX feel PersonX be nostalgic",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 44,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX bear PersonY, thus as a result on PersonY's emotion, PersonY feel PersonY be here",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 45,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX take liberty, thus as a result on PersonY's emotion, PersonY feel PersonY be kind",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 46,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX gaze at PersonY, thus as a result on PersonY's emotion, PersonY blush",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 47,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX play ana, thus as a result on PersonY's emotion, PersonY feel PersonY be fun",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 48,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX baby brother die, thus it can be seen about PersonX's attribute that PersonX be babysit",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 49,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX walk PersonY through process, thus it can be seen about PersonX's attribute that PersonX be professional",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 50,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX preorder, thus it can be seen about PersonX's attribute that PersonX get",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 51,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX stay happy, thus it can be seen about PersonX's attribute that PersonX be well pay",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 54,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX readily believe so, thus it can be seen about PersonX's attribute that PersonX be convinced",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 57,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX miss, thus it can be seen about PersonX's attribute that PersonX be promise",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 59,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX mistakenly shave PersonY head, thus it can be seen about PersonX's attribute that PersonX be upset",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 60,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX believe thing, thus it can be seen about PersonX's intention that PersonX belief be true",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 61,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX ride the light rail, thus it can be seen about PersonX's intention that PersonX do not need a car",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 62,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX would at have one person, thus it can be seen about PersonX's intention that PersonX wish",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 63,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX can form a opinion, thus it can be seen about PersonX's intention that PersonX have a opinion",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 64,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': PersonX wake up late for work, thus it can be seen about PersonX's intention that PersonX almost die",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 65,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX get even happier will not happen unless PersonX be happy",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 67,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX just activate it will not happen unless PersonX use it",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 69,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX pay by card will not happen unless PersonX can use PersonX debit card",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 70,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX want to be a actor will not happen unless PersonX make plan",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 71,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX make a speech will not happen unless PersonX start",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 72,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX get sick of that will not happen unless PersonX breathe",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 73,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': Because PersonX break PersonX hip, PersonX have begin to recover",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 77,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': Because PersonX do that well, it be so crazy",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 78,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': After PeopleX be not home, PersonX live a married life",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 81,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': Before PersonX lock the door, no one could intrude",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 82,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': Before PersonX have a break, PersonX totally get it",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 84,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': Before PersonX be write a play, PersonX use a corny pick up line",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 86,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX show % certainty in claim will not happen, if there be certainty",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 87,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX clean PersonY bathroom will not happen, if PersonX run out of supplies",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 91,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX know PersonY will not happen, if y don",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 92,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PeopleX be gon na take pete there will not happen, if PeopleY do not call PersonX bitch",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 95,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX do not think PersonY will not happen, if there be actually something",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 96,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event PersonX get this job will not happen, if PersonX have little experience",
+        "answer": 1,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 5,
+            "false": 0
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 97,
+        "question": "Judge the following statement if it's likely to occur, only answer 'True' or 'False': The event that be deep will not happen, if PersonX probably deserve it",
+        "answer": 0,
+        "entropy": 0.0,
+        "occurrence": {
+            "true": 0,
+            "false": 5
+        },
+        "disagreement": 2
+    }
+]

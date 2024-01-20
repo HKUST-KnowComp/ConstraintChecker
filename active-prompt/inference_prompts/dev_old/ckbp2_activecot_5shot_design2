@@ -1,0 +1,30 @@
+{
+    "prompt": [
+        {
+            "question": "Q: Answer whether the following statement is plausible. Answer with only Yes or No: 'PersonX shit, thus, PersonX want to have to put down some toilet paper in toilet.'\nA:",
+            "rationale": "Let's think step by step. When PersonX go to toilet, PersonX likely want to use toilet paper to for cleaning purpose, while the action 'put down some toilet paper in toilet' just follows that cleaning action instead of being what PersonX want to do.",
+            "pred_ans": "No"
+        },
+        {
+            "question": "Q: Answer whether the following statement is plausible. Answer with only Yes or No: 'Because PersonX break PersonX hip, PersonX have begin to recover.'\nA:",
+            "rationale": "Let's think step by step. Because PersonX break PersonX's hip, PersonX's hip is injured. Thus, PersonX will undergo some treatment and have begin to recover.",
+            "pred_ans": "Yes"
+        },
+        {
+            "question": "Q: Answer whether the following statement is plausible. Answer with only Yes or No: 'Before PersonX have a break, PersonX totally get it.'\nA:",
+            "rationale": "Let's think step by step. Normally when a person have a break, he/she needs to finish a certain amount of work. In this case, 'totally get it' can be understood as 'have done something'. Thus, PersonX totally get it before PersonX have a break likely to occur.",
+            "pred_ans": "Yes"
+        },
+        {
+            "question": "Q: Answer whether the following statement is plausible. Answer with only Yes or No: 'The event PersonX see a opening will not happen, if PersonX just have to be careful.'\nA:",
+            "rationale": "Let's think step by step. It's not clear what 'seeing an opening' means. Second, it's also not clear how being careful relates to the event. Thus, the statement is not likely to occur.",
+            "pred_ans": "No"
+        },
+        {
+            "question": "Q: Answer whether the following statement is plausible. Answer with only Yes or No: 'The event PersonX see includes the event/action that some see.'\nA:",
+            "rationale": "Let's think step by step. 'some' here may refer to someone, i.e other people. However, PersonX sees something does not always mean others see it. Thus the statement is not likely to occur.",
+            "pred_ans": "No"
+        }
+
+    ]
+}

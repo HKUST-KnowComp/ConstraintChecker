@@ -1,0 +1,1000 @@
+----False. This statement does not make sense.
+--------------Step 1: PersonX sees a snake.--Step 2: PersonX is frightened.----Conclusion: True
+--------------False. PersonX must swim in the water in order for the event to occur.
+--------------Step 1: PersonX makes PersonY smile.--True----Step 2: PersonX's intention is to make PersonY feel loved.--True----Conclusion: True
+--------------True. It is likely that PersonX's emotion will be affected by the fact that they can play with PersonY, and that they will decide to play a game as a result.
+----Step 1: PersonX wants to sleep. True--Step 2: As a result, PersonX's emotion is affected. True--Step 3: PersonX feels more rested for the next day. True----Conclusion: True
+--------------False. Meeting someone for lunch does not necessarily mean that PersonX is entertaining.
+--------------Step 1: PersonX does not want to waste it.--Step 2: PersonX intends to make a budget.--Conclusion: True
+--------------True. PersonX's intention to take care of the patient is evident in the statement.
+--------------False. Wearing sunglasses is not necessarily a result of a person's emotions. It could be due to a variety of other factors, such as the weather, the brightness of the sun, or a fashion choice.
+----True. Throwing a ball is a common way to play catch, so it is likely that PersonX intended to play catch.
+--------------False. Throwing a hat in the ring is a metaphor for entering a competition or challenge, so it would not make sense for PersonX to throw their own hat in the ring unless they challenge someone to a fight.
+--------------False. It is unlikely that someone's emotions would be so directly affected by another person's opinion of them.
+--------------True. PersonX must wait for the manicurist in order for the event to occur.
+--------------False. PersonX may have trouble falling asleep even if they are not under covers.
+----False. The event of PersonX getting a call will not happen unless PersonX is feeling happy, but feeling happy does not guarantee that the event will occur.
+--------------False. PersonX must be inquisitive in order for the event to occur.
+--------------True. PersonX's intention to finish their job is evident by their actions of going about their work.
+--------------False. Unless PersonX is stressed, the event of PersonX paying late will not happen.
+--------------True
+----False. The statement is incomplete and does not provide enough information to make a judgment.
+--------------Step 1: PersonX must intend to give a great performance.--Step 2: PersonX must give a great performance.--Step 3: The event PersonX brings down the house will occur.----Conclusion: True
+--------------True. Giving help to someone is a sign of feeling helpful, so the statement is likely to be true.
+--------------True. PersonX has found a good spot, which indicates that they were looking for something specific and have found it.
+--------------False. It is unlikely that PersonX would stand on their own head in order to show off to PersonY, as this would be physically impossible.
+----False. It is unlikely that PersonX's seeing all of the animals would result in PersonY's emotion causing PersonX to visit a zoo.
+--------------False. Throwing a baby out with the bathwater is an expression that means to discard something valuable along with something that is not valuable. It does not necessarily indicate a sense of loss.
+--------------True. Meeting the love of one's life is a hopeful event, so the statement is likely to occur.
+--------------True. Taking someone out for a ride can make a person feel glad, depending on the context.
+--------------False. PersonX changing frequently will not happen unless PersonX is free-spirited, which means that PersonX must be free-spirited in order for the event to occur.
+----False. Confronting someone's roommate does not necessarily mean that PersonX is honest. It could mean that PersonX is confrontational, aggressive, or has some other attribute.
+--------------Step 1: PersonX tried sushi before.--Step 2: PersonX intended to eat something.----Conclusion: True
+--------------False. PersonX needs to be full of life in order for the event to happen.
+--------------True. Taking someone up on an offer is an indication of intention to do something with them.
+--------------False. It is not likely that a person can "blow someone's mind" and be seen as feeling "cool". This statement is not likely to occur.
+----False. The event cannot occur unless PersonX goes to the office.
+--------------Step 1: PersonX watches PersonY go.--True----Step 2: It can be seen about PersonX's attribute that PersonX intended to see where person goes.--True----Conclusion: True
+--------------Step 1: PersonX helps ___ with problems.--True----Step 2: PersonX intended to see his company's success.--True----Conclusion: True
+--------------True
+--------------True
+----Step 1: PersonX wiped their forehead.--Step 2: PersonX intended to be clean.--Conclusion: True
+--------------False. The statement implies that the event will not occur unless PersonX has done it before, which is not likely to occur.
+--------------False. The statement is incomplete and does not provide enough information to judge PersonX's attribute.
+--------------False. It is not likely that a person would feel both terrible and mad at the same time.
+--------------False. It is not likely that PersonX would pull PersonY's car over.
+----Step 1: Is PersonX standing on stage?--Yes----Step 2: Does standing on stage indicate confidence?--Yes----Conclusion: True
+--------------Step 1: PersonX gives PersonY what-for - True--Step 2: PersonX must be angry for this to happen - True----Conclusion: True
+--------------True. The statement implies that if PersonX has zeal, then the event will have extreme enthusiasm, which is likely to occur.
+--------------Step 1: PersonX gets dressed.--Step 2: PersonX intended to look nice.----Conclusion: True
+--------------False. Throwing food does not necessarily indicate dissatisfaction. It could be a sign of frustration, anger, or even excitement.
+----False. Going down the toilet does not necessarily indicate that PersonX is untalented.
+--------------Step 1: PersonX must be thoughtful in order for the event to occur.--Step 2: PersonX lighting a candle is dependent on PersonX being thoughtful.----Conclusion: True
+--------------Step 1: PersonX kisses PersonY's cheek.--True----Step 2: As a result, PersonY's emotion is affected.--True----Step 3: PersonX is expressive.--True----Conclusion: True
+--------------Step 1: PersonX employs another person.--True----Step 2: PersonX intended to watch something interesting.--True----Conclusion: True
+--------------Step 1: PersonX watches something with PersonY.--True----Step 2: As a result of PersonY's emotion, PersonX intended to be entertained.--True----Conclusion: True
+----Step 1: Is PersonX referring to a specific god?----Step 2: Is PersonX referring to a god from the Bible?----Step 3: Does PersonX's reference to the god indicate that PersonX is biblical?----Answer: False
+--------------True. PersonX must learn from PersonY in order for the event to occur.
+--------------Step 1: Is PersonX spending a certain amount of time working?--Yes----Step 2: Is PersonX intending to earn money?--Unknown----Conclusion: False
+--------------True
+--------------False. Unless PersonX does research, the event they are linking together will not happen.
+----True
+--------------Step 1: PersonX takes a bow.--Step 2: Taking a bow is a sign of respect or humility.--Step 3: PersonX's intention is to take the heat.----Conclusion: True
+--------------False.
+--------------False. Encouraging oneself does not necessarily mean that the person intended to be motivated. It could be that the person was simply trying to be positive or was trying to encourage themselves to take action.
+--------------True
+----False. It is not likely to occur because PersonX cannot be awake and asleep at the same time.
+--------------False. It is not likely that PersonX will be aggressive as a result of PersonY's emotion changing. It is more likely that PersonX will be frustrated or disappointed if PersonY does not change in the way that PersonX desires.
+--------------Step 1: PersonX leaves PersonY alone.--Step 2: It can be seen about PersonX's attribute that PersonX walk away.--True
+--------------False. Taking medicine is not the only factor that can make PersonX feel better. Other factors such as rest, exercise, and a healthy diet can also contribute to feeling better.
+--------------False. PersonX finishing something last night does not necessarily mean that PersonX has to do something as a result of PersonY's emotion.
+----True. It is likely that PersonX's emotion of seeing PersonY again would lead to the intention of meeting an old friend.
+--------------False. PersonX will continue driving unless they see a car incident, not the other way around.
+--------------False. The statement is incomplete and does not make sense as it is.
+--------------False. It is not possible to conclude anything about PersonX's attribute based on the statement alone.
+--------------Step 1: PersonX has a test tomorrow.--Step 2: PersonX must show up for class in order for the test to happen.--Step 3: Therefore, the event will not happen unless PersonX shows up for class.----Conclusion: True
+----True
+--------------Step 1: PersonX takes matters.--Step 2: PersonX intended to do a perfect job.----Conclusion: True
+--------------False. Unless PersonX is already annoyed, the event of needing a shot will not happen.
+--------------False. It is impossible to determine the intention of PersonX without further context.
+--------------Step 1: PersonX eats less. True--Step 2: As a result, PersonX's emotion is affected. True--Step 3: PersonX reads a book about healthy eating. True----Conclusion: True
+----Step 1: PersonX beats around the bush.--Step 2: PersonX intended to not talk about something.--Conclusion: True
+--------------False. Knowing a lot of information does not necessarily mean that a person intended to be intimidating.
+--------------True. PersonX must turn in his keys in order for the event to occur.
+--------------True
+--------------True. Learning a new skill is an indication that a person wants to feel skillful.
+----False. PersonX must know CPR in order for the event to occur.
+--------------Step 1: PersonX must know what to do in order for the event to occur.----Step 2: PersonY must receive instruction from PersonX in order for the event to occur.----Conclusion: True
+--------------Step 1: PersonX gets PersonX's hands dirty.--True----Step 2: It can be seen about PersonX's intention that PersonX intended to do some labor intensive work.--True----Conclusion: True
+--------------False. It is unlikely that PersonX's nervousness would cause PersonY to buy a plane ticket.
+--------------Step 1: Is PersonX trying to get rid of him?--Step 2: Is PersonX's action of 'scaring away' likely to achieve this goal?----Answer: True
+----True. PersonX must get close to PersonY in order for the event to occur.
+--------------False. The statement implies that PersonX must be holy in order for the event to occur, but there is no evidence to suggest that this is the case.
+--------------False. It is not likely to occur that PersonX holds PersonY's chin.
+--------------Step 1: PersonX stops at the store.--Step 2: PersonX intended to pick up some broccoli.----Conclusion: True
+--------------False. The event will not happen unless PersonX notices the bad weather, regardless of whether it is likely to occur or not.
+----Step 1: PersonX decides to purchase something.--True----Step 2: PersonX intends to save up for something.--True----Conclusion: True
+--------------False. It is highly unlikely that PersonX would find someone selling people as a result of PersonY's emotion.
+--------------True. If PersonX practices, then it is likely that they will make the team.
+--------------False. PersonX must feel happy in order for the event to occur.
+--------------False. The statement is incomplete and does not provide enough information to make a judgment.
+----Step 1: PersonX starts working out every day.--True----Step 2: PersonX's intention is to be in shape.--True----Conclusion: True
+--------------False. The event of PersonX spilling their coffee is not dependent on them feeling clumsy. It could happen if they are distracted, not paying attention, or if the cup is too full.
+--------------Step 1: PersonX stops being friends.--Step 2: PersonX feel upset.----Conclusion: True
+--------------Step 1: Is PersonX considering something briefly?--Yes----Step 2: Is it likely that PersonX is pensive?--Yes----Conclusion: True
+--------------False. PersonX's eagerness is not necessarily a result of PersonY's emotion. PersonX's eagerness could be a result of their own desire to fly.
+----True. PersonX must practice their skills in order for the event to occur.
+--------------Step 1: PersonX is happy for PersonY.--True----Step 2: As a result of PersonX's emotion, PersonX gets to know PersonY.--False
+--------------Step 1: Does PersonX feel proud?--Step 2: If PersonX feels proud, will the event occur?----Conclusion: True
+--------------Step 1: Does PersonX believe in PersonY?--Yes----Step 2: Does this belief indicate that PersonX is supportive?--Yes----Conclusion: True
+--------------True. PersonX is running full speed, which indicates that PersonX has started moving and gaining speed.
+----False. The event will happen regardless of whether PersonX writes about what they know or not.
+--------------Step 1: PersonX would work.--Step 2: It can be seen about PersonX's attribute that PersonX be diligent.----Conclusion: True
+--------------Step 1: Did PersonX give PersonY a name?--Yes----Step 2: Was PersonX's intention to be kind?--Yes----Conclusion: True
+--------------False. PersonX must also be a good listener in order for the event to occur.
+--------------False. Breaking someone's heart does not necessarily mean that the person talks. It could mean that the person is not honest, or that the person is not trustworthy, or that the person is not reliable.
+----False. It is unlikely that PersonX getting to PersonY's feet would result in PersonX being understanding of PersonY's emotions.
+--------------False. Meeting all demands does not guarantee that the event will happen. It is possible that PersonX could meet all demands and the event still not occur.
+--------------False. This statement does not provide enough information to make a conclusion about PersonX's attribute.
+--------------True. It is likely that PersonX's compassionate behavior towards PersonY would result from PersonX keeping PersonY from starving.
+--------------False. PersonX getting a second job will not happen unless PersonX gets in the car, but getting in the car does not guarantee that PersonX will get a second job.
+----False. It is unlikely that PersonX would carry PersonY from the couch to the bed.
+--------------False. Giving the children something does not necessarily mean that PersonY's emotion will be affected, and that PersonX will be friendly as a result.
+--------------False. Burning one's own arm does not necessarily indicate that the person is violent. It could be a sign of self-harm or a mental health issue.
+--------------True. If PersonX finds the parts, then the event will likely occur.
+--------------Step 1: PersonX buys a computer.--True----Step 2: As a result, PersonY has an emotion.--False----Step 3: PersonX intended to learn how to use a computer.--True----Conclusion: True
+----True. PersonX's intention to prevent others from accessing something implies that PersonX intended to save the important thing from others.
+--------------Step 1: PersonX plays PersonY's favorite song.--Step 2: PersonX's intention is to be musical.----Conclusion: False
+--------------False. PersonX may have grocery shopping, but that does not guarantee that the event will happen.
+--------------False. It is not possible to judge PersonX's attribute based on this statement alone.
+--------------True. If PersonX trains, then the event will likely occur.
+----True. If PersonX is efficient, then the event will likely occur.
+--------------False. The statement implies that PersonX must feel relieved in order for the event to occur, which is not necessarily true.
+--------------False. PersonX needs to make some friends in order for the event to occur.
+--------------Step 1: Does PersonX mix things up?--Yes----Step 2: Can it be seen that PersonX is bizarre?--Yes----Conclusion: True
+--------------False. It is not likely that PersonX would be regretful just because they did not fit.
+----False. Taking place on the day does not necessarily lead to feeling nervous. It is possible that PersonX could feel excited, happy, or any other emotion.
+--------------False. It is not likely that a person would be narcissistic as a result of playing for themselves.
+--------------False. Laying on someone else's bed does not necessarily mean that PersonX feels refreshed. It could mean any number of things, such as feeling tired, feeling comfortable, or feeling relaxed.
+--------------True. PersonX's intention to gain knowledge is evident by their willingness to learn new things.
+--------------True. PersonX will need to adopt the puppy in order for the event of bringing the puppy home to occur.
+----Step 1: Determine what is being granted by the ccc.----Step 2: Determine if PersonX intended to have something.----Step 3: Determine if the statement is true or false.----False. Depending on what is being granted by the ccc, PersonX may or may not have intended to have something.
+--------------Step 1: PersonX tastes the food.--True----Step 2: PersonX intended to make sure it tastes okay.--True----Conclusion: True
+--------------True. The statement is likely to occur because PersonX needs to freshen up before going to dinner.
+--------------Step 1: What is PersonX passing around?----Step 2: Is it something that would indicate PersonX is open?----Answer: False
+--------------False. Unless PersonX cooks something, there will be nothing to leave on the table.
+----False. The event will not happen unless PersonX finds something to play with.
+--------------True
+--------------Step 1: PersonX tunes PersonX's guitar.--True----Step 2: PersonX intended to play a song on the guitar.--True----Conclusion: True
+--------------False. Unless PersonX is content, the event will not happen.
+--------------True. The statement is likely to occur and is therefore true.
+----False. Waiting for someone does not necessarily mean that the person is happy. It could mean that the person is anxious, impatient, or simply resigned to the situation.
+--------------False. It is not possible to determine a person's attribute based on the fact that they feel closer. Feelings of closeness can be caused by a variety of factors, and it is not possible to determine a person's attribute based on this alone.
+--------------False. Unless PersonX and PersonY are in close proximity, it is unlikely that PersonX will be able to hang PersonY's head.
+--------------Step 1: PersonX escorts PersonY back.--Step 2: PersonX has asked PersonY to go with them.----Conclusion: True
+--------------False. The statement does not provide enough information to make a judgment.
+----Step 1: PersonX looks into PersonY's face.--True----Step 2: It can be seen about PersonX's attribute that PersonX intended to express affection for PersonY.--True----Conclusion: True
+--------------True. PersonX will not have fun playing unless they feel excited with the activities, so the statement is likely to occur.
+--------------False. Without knowing what PersonX bought, it is impossible to make a judgement about PersonX's attribute.
+--------------True. Relief is a feeling that occurs when pain has been lessened, so it can be inferred that PersonX feels like pain has been lessened.
+--------------Step 1: PersonX loves the experience.--Step 2: PersonX's intention is to think about it.----Conclusion: True
+----False. The event will not happen unless PersonX feels satisfied, regardless of how much they spend on the beach.
+--------------False. Revenge is an action that is taken out of anger or a desire for retribution, so unless PersonX feels bad, it is unlikely that they will take revenge.
+--------------Step 1: PersonX knows how to dance.--True----Step 2: PersonX feels good.--Unknown----Conclusion: False
+--------------False. PersonX spitting nails is not a likely event, as it is not a natural occurrence.
+--------------False. PersonX dropping PersonY off at home does not necessarily mean that PersonX will be alone. It depends on what PersonX chooses to do after dropping PersonY off.
+----False. Wearing boots does not necessarily indicate that PersonX intended to rush for the tennis court. It could be that PersonX was simply wearing the boots for comfort or style.
+--------------Step 1: Does PersonX go to the lake?--Yes----Step 2: Does PersonX intend to relax?--Yes----Step 3: Does PersonX's action at the lake affect PersonY's emotion?--Yes----Conclusion: True
+--------------Step 1: PersonX brings the puppy.--Step 2: PersonX intended to entertain his children.--Conclusion: True
+--------------Step 1: PersonX wants to get fit.--Step 2: Eating less is one way to get fit.--Conclusion: True
+--------------False. Putting someone to death does not necessarily mean that the person is scary. It could mean that the person is vengeful, cruel, or has a disregard for life, but not necessarily scary.
+----Step 1: PersonX got their belly button pierced.--Step 2: PersonX intended to look cool.----Conclusion: True
+--------------False. It is not likely that a person's emotions would be the cause of them learning information.
+--------------False.
+--------------False. Splashing something on someone's face does not necessarily indicate that PersonX sees PersonY.
+--------------False. Falling on someone's neck is usually a sign of affection, not anger.
+----Step 1: PersonX rises to the challenge.--Step 2: PersonX is boasting.----Conclusion: False
+--------------True. Playing outside can often lead to feeling relaxed and refreshed, so it is likely that PersonX would experience this emotion.
+--------------Step 1: PersonX made a deal.--Step 2: Making a deal implies that PersonX intended to cooperate with someone.--Conclusion: True
+--------------Step 1: Is PersonX socially conscious?----Step 2: If PersonX is socially conscious, will the event happen?----Conclusion: True
+--------------False. The statement is too vague to make a judgment about PersonX's attribute. More information is needed to determine if PersonX is mean or not.
+----True
+--------------Step 1: PersonX eats quickly.--Step 2: PersonX's intention is to feel eager.----Conclusion: True
+--------------False. Breaking one's own hip would not cause them to become old.
+--------------True
+--------------Step 1: Does PersonX have the ability to help the children?--Step 2: Is PersonX willing to help the children?--Step 3: Is PersonX actively engaging in helping the children?----Conclusion: False
+----False. PersonX feeling happy is not a necessary condition for the event to occur.
+--------------Step 1: What is the object that PersonX puts in the box?----Step 2: Does the object have any value to PersonX?----Step 3: Does PersonX have any intention to keep the object?----Conclusion: False
+--------------False. PersonX seeing wood would not necessarily result in PersonY having an emotion, so PersonX would not necessarily be aware of it.
+--------------Step 1: PersonX gets a call from PersonY.--True----Step 2: PersonX feels happy.--True----Conclusion: True
+--------------True
+----True. PersonX will need to pack supplies in order for the event to occur.
+--------------False. It is unlikely that a person would grab their own property after disposing of it.
+--------------False. Sharing something equally does not necessarily indicate that a person feels ecstatic.
+--------------False. PersonX must first buy land before they can build anything on the site.
+--------------False. PersonX must prepare for consumption before they can begin to eat.
+----Step 1: Does PersonX make something every morning?--Yes----Step 2: Does PersonX need to feel good for getting it done?--Yes----Step 3: Will the event happen unless PersonX feel good for getting it done?--No----Conclusion: False
+--------------False. This statement does not make sense because PersonX cannot owe something to themselves.
+--------------Step 1: Is PersonX able to surmount every ___?----Step 2: Does PersonX move forward with a plan?----Answer: True
+--------------False. Unless PersonX intended to be nice, the event of revising every ___ will not happen.
+--------------Step 1: PersonX thinks something will happen.--Step 2: PersonX intended to feel positive.--Conclusion: True
+----Step 1: PersonX called the fire department.--True----Step 2: PersonX intended to save a house.--True----Conclusion: True
+--------------False. Visiting a friend does not necessarily mean that PersonX is excited. It could mean that PersonX is simply being polite or friendly.
+--------------False. Going down the pan does not necessarily mean that PersonX will feel like a failure. It depends on the individual's interpretation of the situation and their emotional resilience.
+--------------True. Wiping someone's forehead is a sign of care and concern, and it is likely that PersonX intended to help their friend.
+--------------False. Unless PersonX takes the phone, the event of PersonX putting PersonY's phone will not happen.
+----False. The statement is incomplete and does not provide enough information to judge PersonX's intention.
+--------------True
+--------------False. Pulling over a car does not necessarily indicate guilt. It could be for any number of reasons, such as to check a map, take a break, or to avoid a traffic violation.
+--------------False. Unless PersonX intended to see PersonY, it is unlikely that PersonX will look PersonY in the face.
+--------------False. PersonX's intention cannot be determined from the statement alone.
+----Step 1: PersonX got home.--True----Step 2: PersonX intended to fix dinner.--Unknown----Conclusion: False
+--------------True. Enjoying life can lead to positive emotions, which can lead to being amiable.
+--------------Step 1: PersonX wants to play an instrument.--True----Step 2: PersonX's intention is to feel accomplished.--True----Conclusion: True
+--------------True
+--------------True
+----Step 1: Is PersonX taking something of PersonY's?--Yes----Step 2: Is PersonX taking it in vain?--Yes----Step 3: Is PersonX intending to insult PersonY?--Yes----Conclusion: True
+--------------Step 1: PersonX helps PersonX's brother.--True----Step 2: PersonX intended to make things easier for them.--True----Conclusion: True
+--------------False. It is not possible to determine PersonX's intention based on the statement alone. More information is needed to make a judgement.
+--------------Step 1: PersonX is watching a scary movie.--True----Step 2: PersonX feels frightened.--False (This is not a given, it depends on the individual's reaction to the movie)----Conclusion: False
+--------------False. It is unlikely that seeing PersonY's wife would cause PersonX to go out shopping.
+----False. Making bread does not necessarily mean that PersonX has an oven. PersonX could be making bread using a stovetop or other methods.
+--------------Step 1: PersonX catches the bus to work.--True----Step 2: PersonX's intention is to make money.--True----Conclusion: True
+--------------Step 1: Is PersonX well-educated?----Step 2: Did PersonX come up with a solution?----Answer: True
+--------------False. PersonX must apply to run for class president in order for the event to occur.
+--------------False. It is unlikely that PersonX would be running as a result of their emotions if they are hard to find.
+----False. It is not likely that a person would ask their own doctor, as this would be confusing for both the doctor and the patient.
+--------------True. PersonX will need to measure out scoops of oatmeal in order for the event of eating oatmeal to occur.
+--------------Step 1: PersonX is at the library.--Step 2: PersonX intends to leave the library.--Step 3: PersonX intends to get dinner.----Conclusion: True
+--------------Step 1: Is PersonX always trying to win?----Answer: True----Step 2: Is PersonX likely to be a winner?----Answer: True----Conclusion: True
+--------------True. PersonX's intention to have transportation is evident from the statement that PersonX wants a car.
+----Step 1: PersonX must feel fun in order for the event to occur.--Step 2: If PersonX does not feel fun, the event will not happen.----Conclusion: True
+--------------False. Unless PersonX is caring, the event of PersonX searching for PersonY is unlikely to occur.
+--------------False. Losing someone else's phone does not necessarily mean that PersonX is careless. It could be an accident or a misunderstanding.
+--------------False. PersonX may come to PersonY's house even if they don't feel happy or friendly towards them.
+--------------False. The statement does not make sense because it is impossible for PersonX to have seen their own day.
+----False. PersonX feeling determined is not a requirement for the event to happen.
+--------------True. Feeling sick can lead to exhaustion, so it is likely that PersonX would feel exhausted as a result of their emotion.
+--------------Step 1: PersonX makes a speech.--Step 2: PersonX has a topic to speak on.----Conclusion: True
+--------------Step 1: Did PersonX turn PersonY's life around?--Step 2: Was PersonX's intention to be helpful?----Conclusion: True
+--------------Step 1: What did PersonX put to PersonY's lips?----Step 2: Was the action of PersonX likely to be interpreted as a sign of seduction?----Answer: False
+----False. PersonX getting PersonY's mother is unlikely to occur unless PersonX goes to the room, but it is not impossible.
+--------------Step 1: Is PersonX a mother?----Step 2: Does PersonX visit their daughter?----Step 3: Does PersonX have a motherly intention when visiting their daughter?----Answer: True
+--------------False. Offering an opinion does not necessarily result in a helpful emotion for the person offering the opinion.
+--------------True. It is likely that when someone catches another person's eye, the other person will feel good about themselves as a result of the positive emotion that is created.
+--------------False. Meeting the band would not necessarily result in PersonX being fun to be around. It depends on the individual's personality and how they interact with the band.
+----Step 1: PersonX must watch the kids.--Step 2: PersonX must intend to make sure they are okay.----Conclusion: True
+--------------False. It is not necessarily true that a person who dies peacefully is old. It is possible for a person of any age to die peacefully.
+--------------False. Unless PersonX is already feeling broke, it is unlikely that they will pump their own gas.
+--------------Step 1: Is PersonX avoiding something?--Yes----Step 2: Will the event happen unless PersonX intended to remain neutral?--Yes----Conclusion: True
+--------------False. It is not possible to determine PersonX's intention from the statement alone. Additional information would be needed to make a judgement about PersonX's intention.
+----True. If PersonX intends to be the best he can be, then it is likely that he will achieve PersonY level.
+--------------False. Setting someone up does not necessarily mean that the person is mean. It could be a prank or a joke, or it could be done out of kindness. It is impossible to judge a person's character based on one action.
+--------------False. The statement does not provide enough information to make a judgement about PersonX's attribute.
+--------------False. The statement is too vague to make a judgement. It does not provide enough information to determine whether PersonX has negative motives or not.
+--------------True
+----Step 1: Is PersonX keeping the peace?--Yes----Step 2: Is PersonX working with both sides?--Yes----Conclusion: True
+--------------Step 1: PersonX lied to PersonY.--Step 2: Lying is an act of dishonesty.--Step 3: Therefore, PersonX intended to be dishonest.----Conclusion: True
+--------------Step 1: Is PersonX describing something?--Yes----Step 2: Is PersonX intending to teach something?--Yes----Conclusion: True
+--------------False. Eating and drinking do not necessarily indicate that PersonX is preparing food.
+--------------True. PersonX must consider the ___ carefully in order for the event to occur.
+----True. It is likely that PersonX would feel guilty if they stopped calling PersonY, as they may feel like they are neglecting their relationship with PersonY.
+--------------True. Earning money is a sign of intention to work.
+--------------True. PersonX needs to get to a pool in order for the event to happen.
+--------------Step 1: PersonX needs to think about what to write.--Step 2: PersonX needs to write something on the paper.--Step 3: The event PersonX gets something on the paper will occur.----True
+--------------Step 1: PersonX visits my friend.--Step 2: Visiting my friend implies that PersonX feels companionship.----Conclusion: True
+----True. It is likely that PersonX intended to be clothed in order to have an effect on PersonY's emotion.
+--------------True. If PersonX practices, then it is likely that they will be on PersonY's school's basketball team.
+--------------False. Without more information, it is impossible to conclude anything about PersonX's attribute.
+--------------Step 1: PersonX sees what had happened. True----Step 2: As a result of PersonX's emotion, PersonX is interested. True----Conclusion: True
+--------------False. Taking a stand does not necessarily mean that PersonX is willing to testify. It could mean that PersonX is willing to speak out in support of PersonY's emotions, but not necessarily testify in a court of law.
+----Step 1: PersonX leans back in PersonY's chair.--True----Step 2: It can be seen about PersonX's intention that PersonX feel relaxed.--True----Conclusion: True
+--------------True. Shouting someone's name is a common way to get their attention, so it is likely that PersonX intended to get PersonY's attention.
+--------------Step 1: PersonX gives it PersonY's name.--True----Step 2: The event will not happen unless PersonX intended it to not easily be forgotten.--True----Conclusion: True
+--------------Step 1: Is PersonX a person or an object?----Answer: PersonX is a person.----Step 2: Does PersonX need a lot of work?----Answer: It depends on the context.----Step 3: Can it be seen about PersonX's attribute that PersonX feel downtrodden?----Answer: It depends on the context.----Conclusion: False
+--------------Step 1: What is the statement saying?----The statement is saying that PersonX has a certain attribute because they want something badly.----Step 2: Is this statement likely to occur?----Yes, this statement is likely to occur.----Conclusion: True
+----True
+--------------False. Unless PersonX gets divorced, the event of PersonX finding PersonY another ___ will not happen.
+--------------False. PersonX walking behind PersonY will not happen unless PersonX goes to school and PersonY also goes to school.
+--------------Step 1: PersonX has to take care of PersonY.--Step 2: Taking care of someone is a sign of responsibility.--Conclusion: True
+--------------Step 1: PersonX goes golfing. True----Step 2: As a result, PersonX's emotion is relaxed. True----Conclusion: True
+----False. Taking off a watch does not necessarily mean that the person wears a watch.
+--------------False. PersonX feeling like a boss is not a necessary condition for the event to occur.
+--------------True
+--------------False. It is not likely that a person would lean back in someone else's seat, as this would be considered rude and disrespectful.
+--------------Step 1: PersonX said grace.--Step 2: Saying grace is an indication of praying.--Step 3: Therefore, PersonX intended to pray.----Conclusion: True
+----False. The statement is incomplete and does not provide enough information to judge its likelihood of occurring.
+--------------Step 1: Does PersonX intend to take PersonY as an example?----Step 2: Will the event happen if PersonX intends to take PersonY as an example?----Answer: True
+--------------False. Giving one's own name does not necessarily indicate an intention to communicate.
+--------------False. Unless PersonX pays off their debt, the event will not occur.
+--------------False. The statement does not provide enough information to judge PersonX's intention.
+----Step 1: PersonX tells PersonY it was okay.--Step 2: PersonX's intention is to make PersonY feel good.----Conclusion: True
+--------------True. In order for PersonX to order something at a restaurant, they must first get the attention of the waiter. Without doing so, the event of PersonX ordering something at a restaurant will not occur.
+--------------Step 1: PersonX sits down across from PersonY.--Step 2: PersonX intended to sit with PersonY.----Conclusion: True
+--------------Step 1: PersonX does not know what to expect.--Step 2: Therefore, PersonX is confused.----Conclusion: True
+--------------False. PersonX cannot be mad at themselves, so the statement is not likely to occur.
+----Step 1: What is 'fudging the issue'?--Fudging the issue means avoiding a direct answer or making a vague statement in order to avoid addressing the issue.----Step 2: Does PersonX think of consequences of actions?--It is not possible to answer this question without more information about PersonX.----Conclusion: False
+--------------True
+--------------False. PersonX breaking PersonY's heart does not necessarily require PersonX to date PersonY. It could happen if PersonX does something to hurt PersonY emotionally, even if they are not dating.
+--------------False. Unless PersonX has something fail, the event will likely occur and PersonX will not be disappointed.
+--------------Step 1: PersonX practices for weeks.--Step 2: PersonX intended to get better.----Conclusion: True
+----True
+--------------True. If PersonX loses their balance or slips while on the truck, then the event of PersonX falling off the back of the truck is likely to occur.
+--------------Step 1: PersonX washes the car.--Step 2: PersonX gets a bucket of water.----Conclusion: True
+--------------False. It is impossible to judge someone's intention based on a single action.
+--------------False. It is not possible to accurately judge PersonX's intention based on the statement alone. More information is needed to make an accurate judgement.
+----Step 1: PersonX plays dodgeball.--True----Step 2: As a result of PersonX playing dodgeball, PersonX's emotion changes.--True----Step 3: As a result of PersonX's emotion changing, PersonX becomes athletic.--False----Conclusion: False
+--------------Step 1: Is PersonX meeting PersonY's need?--Yes----Step 2: Does this indicate that PersonX is caring?--Yes----Conclusion: True
+--------------True. PersonX's attribute of being caring is demonstrated by the fact that PersonX found their daughter.
+--------------Step 1: PersonX needs to get to know PersonY.--Step 2: PersonX needs to understand PersonY's purposes.--Step 3: PersonX needs to decide if the event suits PersonY's purposes.--Step 4: If the event suits PersonY's purposes, then it is likely to occur.----Conclusion: True
+--------------False. Unless PersonX is helpful, the event will not happen.
+----Step 1: A small smile can be seen as a sign of self-assurance.--Step 2: PersonX gave a small smile.--Step 3: Therefore, it can be seen that PersonX is self-assured.----Conclusion: True
+--------------Step 1: What did PersonX buy?----Step 2: Is the purchase adventurous?----Step 3: Does the purchase reflect PersonX's adventurous attribute?----Answer: False
+--------------Step 1: PersonX smells something foul.--True----Step 2: As a result, PersonY's emotion is affected.--True----Step 3: PersonX is appalled.--True----Conclusion: True
+--------------False. Unless PersonX intended to be caring, it is unlikely that the event will occur.
+--------------Step 1: PersonX studies extra - True--Step 2: PersonX has asked the teacher about the next study - True----Conclusion: True
+----Step 1: PersonX minces words - True--Step 2: As a result of PersonX's emotion, PersonX is not articulate - False----False
+--------------False. The event PersonX takes place in the course will happen regardless of whether PersonX studies or not.
+--------------False. Unless PersonX feels uneasy about it, the event will not occur.
+--------------False. It is not possible to determine PersonX's intention based on the statement alone.
+--------------False. Arching someone's body does not necessarily lead to PersonX feeling athletic.
+----Step 1: PersonX misses PersonY a lot.--True----Step 2: Thus, it can be seen about PersonX's attribute that PersonX be desolate.--True----Conclusion: True
+--------------False. Unless PersonX is related to PersonY, it is unlikely that the event will occur.
+--------------False. The statement does not provide enough information to make a judgment about PersonX's attribute.
+--------------True. It is likely that a person's emotions can influence their decision-making.
+--------------True. PersonX's intention to gain more knowledge is evident by the fact that they are increasing their knowledge.
+----False. PersonX falling from the tree does not depend on whether or not they feel hurt. It depends on other factors such as the height of the tree, the stability of the branch, and the weight of PersonX.
+--------------Step 1: Is PersonX eating something quickly?--Yes----Step 2: Is PersonX intending to do something else?--Unknown----Conclusion: False
+--------------True
+--------------True. Riding a bike without training wheels can be an exciting experience, so it is likely that PersonX would feel excited.
+--------------False. The statement is incomplete and does not provide enough information to make a judgment.
+----True. It is likely that a person facing a difficult situation alone would feel overwhelmed.
+--------------False. Unless PersonX has the intention to take PersonY's watch off, it is unlikely to occur.
+--------------True. PersonX will not find a good job unless they search for it.
+--------------False.
+--------------True
+----False. PersonX forming PersonY's opinion will not happen unless PersonX has all the information.
+--------------False. It is unlikely that a person would never lose, and even if they did, it is unlikely that they would feel unbeatable as a result.
+--------------Step 1: What is PersonX taking in stride?----Step 2: What is PersonX's intention?----Step 3: Does PersonX's intention indicate that PersonX is strong?----Answer: False
+--------------False. PersonX's intention to the market is not necessarily based on PersonY's emotion.
+--------------True. PersonX must be modest in order for the event to occur.
+----True. PersonX will only see the event every day if they feel happy to have the same routine every day.
+--------------False. Unless PersonX learns, the event will not occur.
+--------------False. Sliding someone's tongue is not a sign of being unctuous.
+--------------False. The statement does not provide enough information to judge PersonX's attribute of bravery.
+--------------Step 1: PersonX curls PersonX's hair.--True----Step 2: It can be seen about PersonX's intention that PersonX switch on curler.--False
+----True
+--------------Step 1: PersonX grabs a gun.--Step 2: PersonX intended to protect themselves.----Conclusion: True
+--------------True. PersonX needs to eat breakfast in order to have the energy to go to work.
+--------------True
+--------------False. The event will happen regardless of whether PersonX feels amazed or not.
+----False. Blowing a popsicle stand is not necessarily an indication of recklessness. It could be an indication of impulsiveness, but not necessarily recklessness.
+--------------False. PersonX's success in school does not necessarily mean that PersonX will enter the testing room.
+--------------False. PersonX meeting someone new would not necessarily result in PersonY feeling a certain emotion, and thus PersonX being out somewhere where people are.
+--------------True. PersonX's intention of letting PersonY explain shows that PersonX intended to listen.
+--------------False. It is highly unlikely that PersonX will know PersonY from a can of paint unless PersonX is investigating.
+----False. Unless PersonX talks to the daughter, the event will not happen.
+--------------False. Making up numbers would not necessarily lead to PersonX feeling ashamed. It would depend on the context and the reaction of PersonY.
+--------------False. PersonX would need to be in the same crib as PersonY for the event to occur, which is unlikely.
+--------------False. Dressing in someone else's clothes does not necessarily indicate that the person is curious. It could be for a variety of reasons, such as wanting to fit in with a certain group or simply wanting to try something new.
+--------------False. It is highly unlikely that a person would be unaware of their own emotions after cutting their own leg.
+----Step 1: Did PersonX meet someone?--Yes----Step 2: Was PersonX's intention to be caring?--Unknown----Conclusion: False
+--------------False. Giving someone an account does not necessarily indicate that the giver is being expressive.
+--------------False. It is unlikely that PersonX would learn the rules of wrestling simply by wrestling and experiencing emotions. Learning the rules of wrestling requires studying and practice.
+--------------False. PersonX finding PersonY's car will not happen unless PersonX clicks the alarm button AND PersonY's car has an alarm system.
+--------------Step 1: PersonX catches PersonY red-handed.--Step 2: PersonX intended for society to be by the rules.----Conclusion: True
+----True. PersonX displaying something proudly can lead to PersonX feeling proud, so the statement is likely to occur.
+--------------Step 1: PersonX takes PersonY to the ER.--True----Step 2: As a result of PersonX's emotion, PersonX intended to help a friend.--True----Conclusion: True
+--------------False. Sending someone home does not necessarily indicate that the sender is feeling angry. It could be for any number of reasons, such as wanting to protect the other person from a dangerous situation or wanting to give them some space.
+--------------Step 1: PersonX gazes upon PersonY.--True----Step 2: As a result of PersonX's emotion, PersonX intended to be noticed by PersonY.--True----Conclusion: True
+--------------Step 1: PersonX curls PersonY's hair.--True----Step 2: PersonX intended to groom PersonY.--True----Conclusion: True
+----Step 1: PersonX pulls PersonY's hand back.--Step 2: PersonX intended to keep PersonY from doing something dangerous.----Conclusion: True
+--------------False. Unless PersonX gets out of the house, they will not be able to see their crush, so the event will not happen.
+--------------False. It is unlikely that PersonX would intend to play around with the pie in order to affect PersonY's emotions.
+--------------Step 1: Is PersonX bossing someone around?--Yes----Step 2: Is it likely that PersonX intended to be in charge?--Yes----Conclusion: True
+--------------Step 1: PersonX sends PersonY to the showers.--True----Step 2: As a result of PersonX's action, PersonX feels in charge.--True----Conclusion: True
+----False. Unless PersonX is incompetent, the event will not be a waste of money.
+--------------False. This statement does not make sense because it does not provide enough information to determine what PersonX is broadening and how reading books is a result of PersonX's emotion.
+--------------Step 1: Owning a pet, such as a dog, is often seen as a sign of companionship.----Step 2: If PersonX owns a dog, it can be assumed that PersonX wanted a friend.----Conclusion: True
+--------------False. It is unlikely that PersonX will ruck PersonY unless PersonX is screwed.
+--------------True. PersonX must save his salary in order to buy a house, so the statement is likely to occur.
+----False. Just because PersonX likes the movie does not necessarily mean that PersonX will buy a ticket to see it.
+--------------Step 1: PersonX gets beer.--Step 2: PersonX intends to drink it.----Conclusion: True
+--------------True
+--------------False. It is unlikely that PersonX will get attention as a result of PersonY not listening.
+--------------False. Winning a match does not necessarily mean that PersonX is strong. It could be attributed to luck, skill, or other factors.
+----Step 1: PersonX takes matters into PersonX's own hands.--True----Step 2: It can be seen about PersonX's intention.--True----Step 3: PersonX intended to handle their business.--True----Conclusion: True
+--------------False. Knowing math is not a prerequisite for the event to occur.
+--------------True. PersonX must go to the store in order for the event to occur.
+--------------True
+--------------Step 1: Did PersonX actually fall off the back of a lorry?----Step 2: If yes, can it be concluded that PersonX is clumsy?----Answer: False
+----False. It is not possible to determine PersonX's intention based on the fact that PersonX made the same mistake again.
+--------------True. If PersonX notices the event, then it is likely to occur.
+--------------False. It is not likely that someone's emotion would be directly affected by how they are perceived by others.
+--------------False. Putting someone else's lights out is not a sign of thriftiness.
+--------------False. The statement does not provide enough information to make a judgement about PersonX's intention.
+----True. If PersonX sets a date, then the event will likely occur.
+--------------False. This statement does not make sense. It is not likely to occur.
+--------------False. It is not likely that a person's intention in getting their hair cut is to look like an idiot.
+--------------Step 1: What is the statement saying?--PersonX loves something more than anything else, which shows that PersonX is admiring.----Step 2: Is this statement likely to occur?--Yes, it is likely to occur.----Conclusion: True
+--------------True. PersonX must assess the situation before they can protect the ___ from harm, so the statement is likely to occur.
+----False. This statement does not make sense.
+--------------False. Seeing all the animals does not necessarily mean that PersonX feels alert. It is possible that PersonX could feel scared, curious, or any other emotion.
+--------------False. PersonX would need to buy the product in order for the event to occur.
+--------------False. PersonX cannot be judged as duplicitous without knowing what PersonX did unbeknownst to PersonY.
+--------------True. PersonX turning off the lights is a necessary condition for the event of PersonX going to bed early to occur.
+----Step 1: Did PersonX tell PersonY that it was okay?--Step 2: Was PersonX listening to PersonY?----Answer: False
+--------------False. Donating plasma does not necessarily mean that a person is desperate. It could mean that the person is generous and wants to help others.
+--------------True. It is likely that PersonX studying for their exam would have an effect on PersonY's emotions, as PersonY may be concerned about PersonX's success or may be inspired by their dedication.
+--------------Step 1: PersonX makes pasta for dinner.--True----Step 2: PersonX's intention is to feel happy.--False (we cannot assume PersonX's intention without further evidence)----Conclusion: False
+--------------Step 1: PersonX must intend to show they are unsure.--Step 2: PersonX must shrug PersonY's shoulders.----Conclusion: True
+----False. This statement does not make sense.
+--------------True. PersonX is demonstrating a helpful attribute by offering to teach PersonY.
+--------------True. In order to rent an apartment, PersonX must put down a deposit. Therefore, the statement is likely to occur.
+--------------True. Making arrangements can be a way to prepare oneself emotionally, and if PersonX is making their own arrangements, it is likely that they are doing so with the intention of being prepared.
+--------------False. Just because PersonX watches old movies does not necessarily mean that PersonX is old-fashioned. It could mean that PersonX enjoys classic films or has an appreciation for older films.
+----Step 1: PersonX prevents PersonY's escape.--Step 2: PersonX intended to stop PersonY.----Conclusion: True
+--------------Step 1: Does PersonX have the authority to grant a ___ by ccc?----Step 2: Is PersonX likely to approve the event?----Answer: True
+--------------True. Inviting people is a sign of wanting to socialize, so it is likely that PersonX intended to be social.
+--------------True. Inviting someone over to play is an indication that PersonX intended to enjoy the activity.
+--------------False. PersonX cannot die on the vine unless they climb the plant, so the statement is not likely to occur.
+----Step 1: PersonX makes pasta.--Step 2: PersonX's intention is to feel better.----Conclusion: True
+--------------True. PersonX entering their car indicates that they have grabbed their keys and are intending to drive.
+--------------False. PersonX being great is not a requirement for the event to occur.
+--------------False. Building castles in the air is a metaphor for having unrealistic dreams or ambitions, so it would not be accurate to say that PersonX uses his hands.
+--------------False. PersonX's hard work does not directly affect PersonY's emotions.
+----False. Giving someone your name does not necessarily indicate that you are emotional.
+--------------Step 1: Does PersonX intend to help Bob?--Step 2: Will the event happen if PersonX intends to help Bob?----Conclusion: True
+--------------False. PersonX putting on perfume is not necessarily a result of PersonY's emotion. It could be that PersonX simply likes to wear perfume and has nothing to do with PersonY's emotion.
+--------------False. It is not necessarily true that PersonX wants money in order to provide help. It is possible that PersonX wants money for other reasons.
+--------------True. It is likely that PersonX's emotions will be relieved after finally getting around, and that PersonX will find a way to get there.
+----True. If PersonX is able to convince the officer, then the event will likely occur.
+--------------False. Knowing someone well is not a prerequisite for an event to affect them deeply. It is possible for an event to affect someone deeply even if the person does not know the other person well.
+--------------False.
+--------------False. Slipping someone's tongue is not a typical event, and it would not occur unless PersonX was intentionally trying to be hurtful.
+--------------True
+----True. This statement is likely to occur because it is possible for a person to feel elated about their luck.
+--------------False. PersonX's emotion would not cause them to start driving to the library. They would need to make a conscious decision to drive to the library, not be driven by emotion.
+--------------True. PersonX will find their shoes if they feel satisfied.
+--------------False. This statement does not make sense.
+--------------Step 1: PersonX exchanges numbers.--Step 2: PersonX intends to call each other.----Conclusion: True
+----True. If PersonX takes their backpack, then the event of putting something in the backpack is likely to occur.
+--------------False. PersonX must catch hold of PersonY's hand in order for PersonX to pull PersonY's hand away.
+--------------Step 1: PersonX puts it in the oven.--True----Step 2: As a result on PersonY's emotion.--False (PersonX's action does not directly affect PersonY's emotion)----Step 3: PersonX intended to make dinner.--True----Conclusion: False
+--------------True. It is likely that PersonX would feel satisfied, happy, and good about themselves after meeting PersonY's husband.
+--------------True. PersonX needs to be organized in order for the event to happen.
+----Step 1: What is the activity PersonX enjoys?----Step 2: Does enjoying the activity indicate that PersonX intended to be happy and take in the moment?----Answer: True
+--------------Step 1: PersonX must intend to keep PersonY on their feet.--Step 2: PersonX must maintain PersonY's equilibrium.--Step 3: The event will occur if PersonX intended to keep PersonY on their feet and maintain their equilibrium.----Conclusion: True
+--------------True. PersonX finding their car keys would indicate that they feel relieved, as they no longer have to worry about not being able to find them.
+--------------False. PersonX being smart is not a requirement for the event to occur.
+--------------True. It is likely that PersonX will buy cook books in order to learn how to cook.
+----False. Unless PersonX gets mad, the event of PersonX arguing with PersonX's boyfriend is unlikely to occur.
+--------------False. PersonX being nervous does not necessarily mean that they are short on money.
+--------------Step 1: PersonX speaks with PersonY.--Step 2: PersonX intended to communicate something.----Conclusion: True
+--------------True. It is likely that PersonX will feel anxious if they need a good grade.
+--------------False. Sitting across from someone does not necessarily indicate anything about a person's intentions or shoes.
+----Step 1: PersonX calls PersonY an ambulance.--Step 2: PersonX is worried about PersonY.--Conclusion: True
+--------------False. Buying someone a dog may make them feel happy, but it does not necessarily mean that PersonX will be prosperous as a result.
+--------------True. If PersonX has a plan to use the ___ as a means, then the event will likely occur.
+--------------True. It is likely that a person who does not have a lot of money will feel the need to be in a better financial situation.
+--------------False. Without knowing what PersonX found in the attic, it is impossible to make a judgement about PersonX's intention.
+----False. Attending someone's father's funeral does not necessarily mean that the person is remorseful. It could simply mean that the person is showing respect and sympathy.
+--------------Step 1: Does PersonX feel better than ever?--True----Step 2: Does PersonX intend to go to the movies?--Unknown----Conclusion: False
+--------------Step 1: PersonX gets the shot.--True----Step 2: It can be seen about PersonX's intention that PersonX intended to be healthy.--True----Conclusion: True
+--------------False. Without more information, it is impossible to determine PersonX's intention.
+--------------False. Unless PersonX is resistant, the event will not happen.
+----False. The statement implies that drinking water will cause PersonX to smell something burning, which is not likely to occur.
+--------------True. It is likely that when PersonX likes a girl, they will feel caring emotions towards her.
+--------------False. It is not possible to make a conclusion about PersonX's attribute based on one action.
+--------------False. Unlocking the door does not necessarily indicate that PersonX feels normal.
+--------------False. The event described is unlikely to occur unless PersonX takes action to prevent it from happening.
+----False. The statement implies that PersonX's appearance is dependent on their clothing, which is not necessarily true.
+--------------True. PersonX's intention of extending their knowledge to help others is evident in the statement.
+--------------Step 1: PersonX dyes PersonY's hair blonde.--True----Step 2: It can be seen about PersonX's attribute that PersonX put a smock on PersonY.--False
+--------------False. Missing class does not necessarily mean that PersonX feels sorry for it. It could be for any number of reasons, such as illness, family emergency, or simply not wanting to attend.
+--------------False. Unless PersonX passes judgement, the event will not occur.
+----False. Graduating from a university does not necessarily mean that PersonX will attend classes.
+--------------True
+--------------Step 1: PersonX keeps something at bay.--True----Step 2: As a result, PersonY's emotion is affected.--True----Step 3: PersonX feels heroic.--True----Conclusion: True
+--------------False. PersonX cannot tip PersonY's head unless they physically touch PersonY.
+--------------False. PersonX will need something else in their life in order for the event to occur.
+----Step 1: Is PersonX missing something to school?--Yes----Step 2: Is PersonX's intention to be late?--Unknown----Conclusion: False
+--------------Step 1: PersonX must ask PersonY to read something.--True----Step 2: PersonY must be willing to read it.--True----Step 3: PersonX must think PersonY might read it for them.--True----Conclusion: True
+--------------False. The statement implies that PersonX feeling sad is a cause and effect of PersonX being disappointed by something. However, PersonX feeling sad could be caused by any number of things, not just being disappointed by something.
+--------------Step 1: PersonX breaks the mold.--True----Step 2: It can be seen about PersonX's intention.--True----Step 3: PersonX feel glad.--True----Conclusion: True
+--------------False. A small smile does not necessarily result in a person being nice. It is possible that PersonX's emotion could be interpreted as being nice, but it is not guaranteed.
+----False. The event will not happen unless PersonX and PersonY both go home.
+--------------False. PersonX must first take the bread out of the package before they can throw it.
+--------------False. It is unlikely that PersonX's satisfaction is a result of PersonY's emotion.
+--------------False. PersonX waving PersonY does not depend on PersonX feeling happy.
+--------------True
+----False. PersonX needs to turn on the car before the long drive can happen.
+--------------False. The statement is incomplete and does not provide enough information to make a judgment.
+--------------Step 1: PersonX comes to PersonY's house.--Step 2: PersonX intended to visit PersonY.--Conclusion: True
+--------------Step 1: Did PersonX prevent PersonY from coming?--Yes----Step 2: Did PersonX intend to be alone?--Unknown----Conclusion: False
+--------------Step 1: PersonX wants to come back.--True----Step 2: PersonX's intention is to feel satisfied.--True----Conclusion: True
+----False. Taking a ride does not necessarily mean that PersonX intends to be in a train. It could mean that PersonX intends to be in a car, bus, or any other form of transportation.
+--------------Step 1: What is the statement saying?--PersonX puts PersonY's ___ into execution, thus it can be seen about PersonX's attribute that PersonX feel motivated.----Step 2: Is this statement likely to occur?--Yes, this statement is likely to occur.----Conclusion: True
+--------------False. It is not necessarily true that PersonX is unhappy just because they love another person. Love can bring joy and happiness, and it is possible for PersonX to be happy in their relationship.
+--------------False. The statement implies that PersonX will not cause any harm, so the event will not occur.
+--------------False. PersonX may purchase a lottery ticket without intending to be a millionaire.
+----False. Knitting one's eyebrows is a physical expression of confusion or disbelief, not necessarily an indication of wanting to express an opinion.
+--------------False. The statement does not make sense as it is written.
+--------------False. Playing a game does not necessarily mean that a person is trying to escape from something. It could simply be a way to pass the time or have fun.
+--------------Step 1: PersonX gives PersonY a name.--True----Step 2: Thus it can be seen about PersonX's attribute that PersonX be helpful.--True----Conclusion: True
+--------------False. PersonX's heart beat will not happen unless PersonX has been running.
+----Step 1: Does PersonX need to get a new job in order for the event to occur?----Yes.----Step 2: Is it likely that PersonX will get a new job?----That depends on the individual circumstances.----Conclusion: True or False?----False
+--------------True. Fear of another person can lead to feelings of anxiety.
+--------------Step 1: PersonX turns PersonX's nose up.--Step 2: PersonX intended to show disapproval.----Conclusion: True
+--------------Step 1: PersonX improves PersonY's appearance.--True----Step 2: PersonX intended for PersonY to be confident.--True----Conclusion: True
+--------------False. Dropping someone's head would likely cause PersonX to feel shock or fear, not clumsiness.
+----True. If PersonX has a dog, they will likely intend to feed it, and thus the event of PersonX buying dog food is likely to occur.
+--------------Step 1: PersonX adores PersonY.--Step 2: Adoring someone is an indication of admiration.--Step 3: Therefore, it can be seen that PersonX's intention is to admire PersonY.----Conclusion: True
+--------------False. The statement does not make sense because it is not clear what PersonX has lost in the war.
+--------------False. PersonX cannot approach someone as a result of PersonY's emotion.
+--------------False. The event will still happen even if PersonX does not feel good.
+----Step 1: Is PersonX capable of reducing the ___ to levels?--Step 2: Is PersonX intending to make an accomplishment?----Answer: True
+--------------True. It is possible for PersonX to send something home that would cause PersonY to feel a certain emotion, and for PersonX to compose a letter in their mind as a result.
+--------------False. It is unlikely that a person would feel relieved after blowing their load, as this is usually a sign of physical exhaustion.
+--------------True
+--------------Step 1: PersonX has a lot of money.--Step 2: Having a lot of money can make a person feel powerful.--Conclusion: True
+----Step 1: Does PersonX have a gun? Yes.--Step 2: Does PersonX need a gun permit to possess a gun? Yes.--Step 3: Is it likely that PersonX will apply for a gun permit? Yes.----Answer: True
+--------------False. The statement is incomplete and does not provide enough information to judge PersonX's intention.
+--------------False. Finishing someone else's homework does not necessarily mean that PersonX is competent. It could mean that PersonX is helpful, but it does not necessarily mean that PersonX is competent.
+--------------Step 1: Is PersonX likely to use ___ anymore?--Step 2: Is PersonX likely to want to give it away?----Conclusion: True
+--------------False. PersonX feeling relieved is not a necessary condition for the event to occur.
+----True. PersonX's intention to avoid injury is evident from their decision not to fight.
+--------------False. It is not possible to judge PersonX's intention based on the fact that they got PersonY's license.
+--------------False. This statement does not make sense as it is written.
+--------------False. The statement is incomplete and does not provide enough information to make a judgment.
+--------------False. It is unlikely that PersonX's driving would have an effect on PersonY's emotions.
+----Step 1: Gardening is a creative activity.--Step 2: PersonX loves to garden.--Step 3: Therefore, PersonX is likely to be creative.----Conclusion: True
+--------------True. PersonX will need to put on boots in order for the event to occur.
+--------------False. Living next door to someone does not necessarily mean that they are responsible. It is impossible to judge someone's attributes based on their location.
+--------------False. Knowing which end is up does not necessarily mean that PersonX is intrigued.
+--------------Step 1: PersonX prevents PersonY from taking something.--Step 2: PersonX's intention is to help PersonY.--Conclusion: True
+----False. Unless PersonX is cooking, it is unlikely that they will burn themselves badly.
+--------------Step 1: PersonX nursed their dog back to health.--True----Step 2: PersonX intended for their dog to live longer.--True----Conclusion: True
+--------------False. It is unlikely that PersonX would grab something as a result of dropping something on the floor. It is more likely that PersonX would feel frustrated or angry, but not necessarily take any action.
+--------------False. PersonX could get detention for any number of reasons, even if they did not intend to be rebellious.
+--------------False. Falling ill does not necessarily indicate that a person is tense. It could be due to a variety of factors, such as a virus, poor diet, or lack of sleep.
+----True
+--------------False. It is unlikely that PersonX would decide to change the gear based solely on PersonY's emotion.
+--------------False. This statement does not provide enough information to accurately judge PersonX's attribute.
+--------------False. Swinging for the fences means taking a big risk, so it is unlikely that PersonX would receive a pitch.
+--------------False. It is not possible to determine PersonX's intention based on the statement alone. It is possible that PersonX intended to kill the snake to save his friend, but it is also possible that PersonX had other intentions, such as scaring the snake away or using the gun to threaten the snake.
+----True. If PersonX leads PersonY's expedition, then PersonX must go with him for the event to occur.
+--------------False. Sneaking around does not necessarily mean that the person feels sneaky. It could be that the person is trying to avoid being seen or heard, or that they are trying to accomplish something without being noticed.
+--------------Step 1: French kissing involves two people pressing their lips together and using their tongues.----Step 2: If PersonX french kisses, it can be assumed that PersonX intended to feel tongue.----Conclusion: True
+--------------Step 1: PersonX must know about the event in order for it to occur.----Step 2: PersonY's course will be altered if PersonX knows about the event.----Conclusion: True
+--------------False. This statement does not provide enough information to make a conclusion about PersonX's attribute.
+----Step 1: Does PersonX dance all night?--Yes----Step 2: Does PersonX have some drinks?--Unknown----Conclusion: False
+--------------True. The statement is likely to occur and is true. PersonX's attribute of being courageous is demonstrated by protecting someone from harm.
+--------------Step 1: Is PersonX paying something to the king?--Yes----Step 2: Is PersonX being dutiful?--Yes----Conclusion: True
+--------------True. PersonX needs to go to the gym in order for the event of pumping iron to occur.
+--------------False. Pulling faces does not necessarily lead to feeling like a murderer, a soldier, or stressed. It is possible that PersonX could feel these emotions, but it is not likely to occur as a result of pulling faces.
+----False. Leaving the class does not necessarily mean that PersonX is distracted. It could be for any number of reasons, such as needing to use the restroom, feeling ill, or having an emergency. Therefore, it is not accurate to assume that PersonX is distracted just because they left the class.
+--------------Step 1: PersonX buys something for PersonY.--True----Step 2: As a result of PersonX's emotion, PersonX is sponsoring for PersonY.--False
+--------------True. The statement is likely to occur and is true. PersonX's attribute of being careful is demonstrated by preventing the ___ from breaking.
+--------------False. PersonX cannot give their own presentation unless someone else is present to give it.
+--------------True. PersonX will need to get the ingredients in order for the event to occur.
+----True. Gaining someone's confidence requires trust, and trust is built by keeping secrets. Therefore, it is likely that PersonX will gain PersonY's confidence if they keep PersonY's secrets.
+--------------True
+--------------False. The statement is incomplete and does not provide enough information to make a judgement.
+--------------False. Spilling one's guts does not necessarily mean that the person is guilty. It could mean that the person is simply being honest and open about their thoughts and feelings.
+--------------True. It is likely that a mother's emotions can influence her intentions towards her child.
+----Step 1: Does PersonX intend to prepare for a career after graduation?----Step 2: If the answer to Step 1 is 'Yes', then will the event PersonX studies ___ in college happen?----Conclusion: True
+--------------Step 1: PersonX wiped PersonY's hands.--True----Step 2: PersonX intended for PersonY's hands to be clean.--True----Conclusion: True
+--------------False. It is not necessary for PersonX to be muscular in order for the event to occur.
+--------------False. Exercising every ___ will not happen unless PersonX reads all manuals, which is unlikely to occur.
+--------------Step 1: PersonX bit his/her lip.--True----Step 2: PersonX intended to calm himself/herself down.--True----Conclusion: True
+----False. Unless PersonX and PersonY are in a relationship, the event PersonX really loves PersonY will not happen.
+--------------False. It is not likely that a person's emotion will cause them to become angry with a situation. It is more likely that a person's anger will cause them to react to a situation in an angry way.
+--------------Step 1: PersonX is selling jewelry.--Step 2: PersonX is likely doing this to make more money.--Conclusion: True
+--------------True. PersonX bringing people together is likely to result in PersonY feeling more peaceful.
+--------------False. The statement is impossible because PersonX cannot put their own phone unless they have a phone to begin with.
+----Step 1: Does PersonX want something very badly?--True----Step 2: Does PersonX's emotion lead to researching video game systems?--False----Conclusion: False
+--------------True. PersonX must determine the need within the movement in order for the event to occur.
+--------------False. It is not possible to make a conclusion about PersonX's attribute based on the statement given.
+--------------True
+--------------False. Unless PersonX rushes for something in a sale, it is unlikely that PersonX will get their hands on whatever is being referred to.
+----True. Smelling something terrible can cause a person to feel grossed out, so this statement is likely to occur.
+--------------False. PersonX may be giving PersonY an opinion, but that does not necessarily mean that PersonX is making a decision.
+--------------Step 1: PersonX must agree to help PersonY in order for the event to occur.----Step 2: PersonX has not yet agreed to help PersonY.----Conclusion: False
+--------------True. It is likely that PersonX intended to move PersonY's head back if they tipped their head back.
+--------------Step 1: Did PersonX splash something on their face?--Yes----Step 2: Was PersonX's intention to play joyfully?--Unknown----Conclusion: False
+----Step 1: PersonX wants to come.--True----Step 2: Thus it can be seen about PersonX's attribute that PersonX be outgoing.--True----Conclusion: True
+--------------False. PersonX's graduation does not necessarily mean that they have passed all of their classes.
+--------------True. PersonX's intention to buy something can be inferred from the fact that they are walking to the store.
+--------------False. PersonX meeting PersonY's customers will not happen unless PersonX gets a job at PersonY's business.
+--------------True. It is likely that PersonX loves riding their bike and that this emotion leads them to want to travel.
+----False.
+--------------Step 1: PersonX pierces PersonX's ears.--True----Step 2: As a result on PersonX's emotion, PersonX intended to show off.--True----Conclusion: True
+--------------False. PersonX's father's event will not happen unless PersonX buys an airline ticket, which is not likely to occur.
+--------------Step 1: Is PersonX visiting a hairdressing salon?----Answer: Unknown.----Step 2: Does PersonX intend to gossip?----Answer: Unknown.----Conclusion: False
+--------------True. If PersonX puts in non-stop efforts and feels proud of his efforts, then it is likely that he will try again next year.
+----True. This statement is likely to occur, as it is expressing a feeling of joy and love for something.
+--------------Step 1: PersonX helps PersonY stay awake.--True----Step 2: This can be seen as an attribute of PersonX.--True----Step 3: This attribute is that PersonX is thoughtful.--True----Conclusion: True
+--------------Step 1: PersonX buys a used car.--Step 2: PersonX looks on Craigslist.----Conclusion: True
+--------------True. Gaining confidence requires a person to adjust themselves mentally in order to make it happen.
+--------------False. PersonX feeling enlightened is not a necessary condition for the event to occur.
+----False. Having a fit does not necessarily indicate immaturity. It could be a sign of frustration, anger, or other emotions.
+--------------True. PersonX needs to see what they need in order for the event to occur.
+--------------Step 1: PersonX agrees to disagree.--Step 2: PersonX intended to conclude the argument/discussion and move on.----True
+--------------Step 1: PersonX does better in school. True----Step 2: As a result, PersonY's emotion is affected. True----Step 3: PersonX intends to succeed. True----Conclusion: True
+--------------True. PersonX must walk up to the person in order for the event to occur.
+----True. PersonX must stop the bleeding before they can take PersonY to the hospital.
+--------------Step 1: PersonX replaced the tire.--True----Step 2: PersonX intended to fix a flat.--True----Conclusion: True
+--------------Step 1: PersonX rings PersonY.--Step 2: PersonX's attribute is friendly.----Conclusion: True
+--------------False. Coming of age does not necessarily guarantee success for PersonY. Success is determined by a variety of factors, such as hard work, dedication, and luck.
+--------------False. It is unlikely that PersonX's emotions would directly affect PersonY's work.
+----Step 1: PersonX made a Thanksgiving dinner.--True----Step 2: PersonX intended for family and friends to come.--True----Conclusion: True
+--------------True. Sending a letter is an indication that PersonX can write a letter.
+--------------True. Friendship will not happen unless PersonX communicates, so it is likely to occur if PersonX communicates.
+--------------Step 1: PersonX gets PersonX's nails done.--Step 2: PersonX intended to make PersonX's nails look pretty.----Conclusion: True
+--------------Step 1: PersonX scrambles eggs for breakfast.--Step 2: Scrambling eggs requires some level of skill.--Step 3: Therefore, it can be seen that PersonX is skilled.----Conclusion: True
+----False. The statement does not make sense as written.
+--------------True. PersonX forming PersonY's impression will likely occur, even without PersonX guiding PersonY, as long as PersonX and PersonY interact in some way.
+--------------True. Following instructions is an indication of intention to listen to them.
+--------------False. Just because someone loves reading books does not necessarily mean they are nerdy. There are many other attributes that could be associated with PersonX.
+--------------False. Without more information, it is impossible to determine PersonX's attribute.
+----False. It is unlikely that a person's emotions would cause them to be generous as a result of making someone else part of something.
+--------------False. It is not necessarily true that PersonX is talkative just because they said PersonY's goodbyes. It could be that PersonX was simply being polite or friendly.
+--------------False. The statement does not make sense as it is grammatically incorrect.
+--------------False. Taking things does not necessarily mean that PersonX is a thief. It is possible that PersonX is taking things for a legitimate purpose, such as borrowing or buying something. Therefore, it is not accurate to assume that PersonX is a thief based on the fact that PersonX takes things.
+--------------False. Playing many games does not necessarily mean that PersonX turns on a game station. It could mean that PersonX plays games on a computer, phone, or other device.
+----Step 1: PersonX made cookies.--Step 2: PersonX intended to reveal his cooking skills.----Conclusion: True
+--------------Step 1: Is PersonX closing the day?--Yes----Step 2: Does PersonX feel responsible?--Unknown----Conclusion: False
+--------------False. Without more information, it is impossible to determine PersonX's intention.
+--------------True
+--------------True. PersonX asking PersonY to sit down is a polite gesture, and it is likely to result in PersonY feeling positive emotions.
+----False. Getting a second opinion does not necessarily indicate that PersonX is friendly.
+--------------False.
+--------------False. Losing one's sense does not necessarily lead to feeling out of control, especially when it comes to another person's emotions.
+--------------True. PersonX's intention to practice for the game is evident by the fact that they made the shot.
+--------------True. Giving someone a warning is a sign of caring, so the statement is likely to be true.
+----True
+--------------True. Hiding under the covers is a clear indication that PersonX intended to be hidden.
+--------------False. Spending hours does not necessarily indicate that PersonX is tolerant. It could indicate that PersonX is patient, but not necessarily tolerant.
+--------------True. PersonX needs to buy a bathing suit in order for the event to happen.
+--------------Step 1: Is PersonX taking down a peg?--Yes----Step 2: Does this action suggest that PersonX feels superior?--Yes----Conclusion: True
+----False. Bullying in school is not something that is dependent on a person's satisfaction. It is an act of aggression and power that is often done without regard for the feelings of the victim.
+--------------True. Starting a band is a creative endeavor that can bring a sense of satisfaction and accomplishment to the person who starts it.
+--------------True
+--------------False. Riding someone else's bike would not necessarily result in a person feeling strong.
+--------------True. It is likely that PersonX finds something that PersonY liked and, as a result, intends to show they care about PersonY's emotion.
+----True. PersonX must have communication skills in order for the event to occur.
+--------------Step 1: Is PersonX eating something?--Yes----Step 2: Is PersonX eating it quickly?--Yes----Step 3: Can we infer PersonX's intention from their eating speed?--Yes----Conclusion: True
+--------------True. PersonX will need to have eaten breakfast in order for them to walk to the bathroom.
+--------------Step 1: PersonX sits next to PersonY. True----Step 2: As a result of PersonX's emotion, PersonX intended to eat food with the person. False (There is no evidence that PersonX's emotion caused them to intend to eat food with the person)----Conclusion: False
+--------------False. Catching someone's eye does not necessarily mean that the person is interesting. It could mean that the person is attractive, or that the person is wearing something eye-catching, or that the person is doing something interesting.
+----True. PersonX must call their mother first in order for the event to occur.
+--------------False. It is not necessarily true that a person who commits murder is insane. There are many other factors that could have contributed to the murder, such as premeditation, revenge, or even self-defense.
+--------------False. Unless PersonX intended to pay an extra fine, the event of PersonX paying money to the government will not occur.
+--------------True. It is likely that PersonX's emotions would be affected by grinding for a week, and that PersonX would be motivated to finish the work as a result.
+--------------False. Meeting customers does not necessarily indicate that PersonX is dutiful.
+----True. Following a recipe exactly usually indicates that the person is trying to make a tasty dish.
+--------------True. Asking someone for money is a sign that the person is out of money and needs help.
+--------------Step 1: PersonX drives to the beach.--Step 2: Driving to the beach can be seen as an attribute of fun.--Conclusion: True
+--------------False. Rejecting someone does not necessarily mean that the person intended to be exclusive. It could be for a variety of reasons, such as not being interested in the other person, not wanting to be in a relationship, or simply not wanting to be friends.
+--------------True. Putting items in a purse can make a person feel organized, so this statement is likely to occur.
+----False. Eating pie does not necessarily mean that PersonX baked one.
+--------------Step 1: PersonX had a wonderful time on PersonX's trip.--True----Step 2: PersonX intended to have fun.--True----Conclusion: True
+--------------Step 1: Is PersonX bringing something to a head?--Yes----Step 2: Is it likely that PersonX intended to resolve all issues?--It is possible, but not necessarily likely.----Conclusion: False
+--------------Step 1: PersonX has something else to say.--Step 2: PersonX does not leave it at that.--Conclusion: False
+--------------False. Unless PersonX feels pain, the event of PersonX quickly falling is unlikely to occur.
+----False. Throwing something at a TV does not necessarily indicate that a person feels guilty. It could indicate anger, frustration, or any other emotion.
+--------------True. It is likely that PersonX would feel worried after hearing a scary noise.
+--------------False. The event will not happen unless PersonX decides what they need to touch.
+--------------Step 1: PersonX watches scary movies.--True----Step 2: PersonX intended to be scared.--False (It is not necessarily true that PersonX intended to be scared; they may have just wanted to be entertained.)----Conclusion: False
+--------------False. Pumping someone's gas does not necessarily result in the person being nice. It is possible that PersonX could be nice to PersonY regardless of pumping their gas, or that PersonX could be rude to PersonY even after pumping their gas.
+----False. PersonX cannot drop a log unless they are unbound.
+--------------Step 1: PersonX must have done something good in order for the event to occur.----Step 2: The event will only happen if PersonX has done something good.----Conclusion: True
+--------------False. PersonX would need to enter the summands into the calculator before computing the sum.
+--------------True. It is likely that PersonX's love for the dog would result in PersonY feeling happy, which in turn would make PersonX feel happy.
+--------------Step 1: Does PersonX need to intend to help someone work out in order for the event to occur?----Yes.----Step 2: Is it likely that PersonX intends to help someone work out by arching their back?----It depends on the context.----Conclusion: True or False?----False
+----Step 1: What is PersonX setting to rights?----Step 2: What is the result on PersonY's emotion?----Step 3: Does PersonX figure it out?----False. Without more information, it is impossible to determine if PersonX figures it out.
+--------------False. PersonX cannot rain on their own parade unless they are conniving.
+--------------Step 1: PersonX called PersonY this morning.--True----Step 2: PersonX's attribute is that PersonX is caring.--True----Conclusion: True
+--------------False. It is not likely that PersonX can determine PersonY's intention just by hearing the phone ring.
+--------------Step 1: PersonX improves their appearance.--Step 2: PersonX intended to feel better about themselves.----Conclusion: True
+----False. It is unlikely that someone would feel pain and unhappy simply because someone else is looking at them.
+--------------True. PersonX's decision to order pizza was likely motivated by the emotion of not wanting to be hungry.
+--------------False. PersonX turning the tables is dependent on PersonX being fair, so unless PersonX is fair, the event will not occur.
+--------------True
+--------------True
+----True. It is likely that PersonX brings something to their eyes that causes them to feel an emotion that leads them to cry.
+--------------False. The event will not occur because PersonX does not have any hair to shave.
+--------------False. Skating around does not necessarily indicate an intention to explore. It could be for any number of reasons, such as exercise, recreation, or simply for fun.
+--------------Step 1: PersonX becomes a pilot.--True----Step 2: PersonX studied hard.--True----Step 3: PersonX's intention was to study hard.--True----Conclusion: True
+--------------False. Unless PersonX hires a sharp secretary, the event remember will not happen.
+----False. PersonX does not need to bring food and drink for the event to take place.
+--------------True. PersonX changing PersonY's life is likely to occur if PersonX intended to ease difficulty.
+--------------True. It is likely that PersonX reads his own diary and is reminded of his past, which could affect his emotions.
+--------------Step 1: PersonX visits PersonY's daughter.--True----Step 2: As a result of PersonY's emotion, PersonX is caring.--True
+--------------False. PersonX does not need to be overweight for the event of losing weight to occur.
+----False. It is not possible to make a conclusion about PersonX's attribute based on the statement alone. More information is needed to make a judgement.
+--------------False. PersonX cannot dye their own hair red without the help of a professional at a salon.
+--------------False. PersonX does not need to be a passenger in a vehicle for the event to happen.
+--------------False. PersonX's emotions would likely be more complex than simply being helpful after finding their father. Depending on the circumstances, PersonX could feel a range of emotions such as joy, relief, anger, confusion, or sadness.
+--------------False. PersonX cannot buy their own pair of shoes.
+----False. Unless PersonX communicates with PersonY, the event will not occur.
+--------------Step 1: PersonX knows PersonY's opinion. True----Step 2: PersonX's attribute can be seen as articulate. False (This statement does not necessarily follow from the first statement.)----Conclusion: False
+--------------True. Driving to work can have a positive effect on a person's emotions, and it is likely that they would put their car keys in their pocket as a result.
+--------------False. Going down the tubes is not a direct cause of PersonX's emotion, and therefore it is unlikely that PersonX would drink as a result.
+--------------True
+----False. Paying someone well does not necessarily mean that the person is caring. It could mean that the person is generous, or that they value the work of the other person, but it does not necessarily mean that they are caring.
+--------------True. It is likely that PersonX would check the bus schedule after catching the bus, as they may want to know when the next bus is coming or when they need to catch the bus to get to their destination.
+--------------True
+--------------Step 1: Did PersonX wait all day?----Answer: Unknown.----Step 2: Did PersonX intend to have his car fixed?----Answer: Unknown.----Conclusion: False
+--------------False. Without more information, it is impossible to conclude that PersonX intended to spy.
+----False. Starving someone into submission is an act of violence and coercion, and it is unlikely to occur if PersonX loves people.
+--------------Step 1: PersonX catches some rays.--Step 2: PersonX's intention is to go in the sun.--Conclusion: True
+--------------False. Unless PersonX talks to PersonY, the event will not happen.
+--------------False. PersonX feeling unhappy does not necessarily mean they are depressed. It is possible for PersonX to feel unhappy without being depressed.
+--------------False. It is not likely that PersonX would get on a ship based on the statement given.
+----True. If PersonX does not express his needs, then PersonY will not know what they are and the event will not happen.
+--------------True. If PersonX is generous, then the event will likely occur.
+--------------False. Keeping one's fingers crossed does not necessarily lead to being faithful. It is more likely to be a superstitious gesture that has no direct correlation to one's emotions or behavior.
+--------------Step 1: What is the statement saying?--PersonX grants women a certain something, thus it can be seen that PersonX intended to empower them.----Step 2: Is this statement true?--True
+--------------Step 1: PersonX grants PersonY's request.--True----Step 2: As a result, PersonY's emotion changes.--True----Step 3: PersonX intended for PersonY to be happy.--True----Conclusion: True
+----False. PersonX would need to jump very high and have enough momentum to propel them across the room in order for the event to occur.
+--------------False. Taking someone else's toll does not necessarily mean that PersonX is going to work. It could mean that PersonX is taking a shortcut or trying to avoid paying the toll.
+--------------Step 1: PersonX skateboards with PersonY's friends.--Step 2: This implies that PersonX intended to skateboard with people.----Conclusion: True
+--------------Step 1: Is PersonX likely to tell my mother something?--True----Step 2: Is PersonX likely to do this with the intention of getting me in trouble?--False----Conclusion: False
+--------------Step 1: PersonX conveys PersonY impression.--Step 2: It can be seen about PersonX's attribute that PersonX knows what PersonY is trying to convey.----Conclusion: True
+----False. Unless PersonX is in a rush, the event of crossing the ___ will not happen.
+--------------False. The event will not happen unless PersonX learns how to make something, so it is unlikely to occur.
+--------------False. PersonX cannot win any money unless they gamble.
+--------------Step 1: Is PersonX sitting at PersonY's feet?--Yes----Step 2: Is PersonX likely to be sorry?--Yes----Conclusion: True
+--------------False. The statement does not make sense as it is not clear what PersonX's opinion is or what PersonX intended to notice.
+----True. If PersonX gets the item to put in PersonY's purse, then the event will likely occur.
+--------------True
+--------------Step 1: PersonX hurts like hell. True----Step 2: As a result of PersonX's emotion, PersonX feels achy. True----Conclusion: True
+--------------True. PersonX must go to sleep in order for the dream to occur.
+--------------True
+----True. Returning to one's state can be seen as an indication of wanting to be back.
+--------------False. Smelling terrible does not necessarily mean that PersonX is sweaty. It could be caused by a number of other factors, such as poor hygiene, certain medical conditions, or even certain foods.
+--------------Step 1: PersonX asks PersonX's dad for help.--Step 2: Asking for help can be seen as an emotional attribute.----Conclusion: True
+--------------False. PersonX must go to the fence in order for the event to occur.
+--------------True. Having a say in something can make a person feel like they mean something, so this statement is likely to occur.
+----True. If PersonX is feeling better, it is likely that they will be more hopeful.
+--------------False. The statement does not provide enough information to make a judgement about PersonX's intention.
+--------------False. PersonX earning PersonY income is not dependent on PersonX feeling happy. It is dependent on PersonX taking the necessary steps to earn the income.
+--------------False. This statement does not make sense.
+--------------True
+----True. PersonX must be clear-sighted in order for the event to occur.
+--------------False. Shaking someone's foundations is not necessarily an indication of being mad at them. It could be an indication of surprise, shock, or even admiration.
+--------------False. Wrapping someone's hand does not usually result in the wrapper getting a bandage.
+--------------True. If PersonX delivers PersonY's address, it can be seen that PersonX is dutiful.
+--------------False. Copying someone does not necessarily mean that the person is happy. It could mean that the person is trying to emulate the other person, or it could mean that the person is feeling insecure or jealous.
+----False. PersonX feeling excited is not a necessary condition for the event to occur.
+--------------True. PersonX will need to gather cleaning materials in order for the event to occur.
+--------------Step 1: PersonX is going on vacation.--Step 2: PersonX did not intend to get everything ready.----Conclusion: False
+--------------Step 1: PersonX buys PersonY a car.--True----Step 2: PersonX takes PersonY to pick out a car.--True----Conclusion: True
+--------------True. Losing track of time can lead to feeling lost, as it can be difficult to orient oneself without a sense of time.
+----Step 1: What did PersonX put in the oven?----Step 2: Did PersonX intend to cook the item they put in the oven?----Conclusion: True/False
+--------------False. PersonX may fail all of their classes due to a variety of factors, such as lack of understanding of the material, lack of access to resources, or lack of time to devote to studying. Lazy behavior may be one factor, but it is not the only factor that could lead to PersonX failing their classes.
+--------------False. If PersonX falls into the wrong hands, it is unlikely that PersonX's emotions would cause them to be cautious. Instead, it is more likely that PersonX would feel fear or anxiety.
+--------------False. It is unlikely that a person would bring something into disrepute and then tell lies as a result of another person's emotions.
+--------------False. The event stand up will happen regardless of whether PersonX is sitting down or not.
+----False. PersonX does not need a map to get close; they could use other methods such as asking for directions or using a GPS.
+--------------True. If PersonX feels determined, then the event will likely occur.
+--------------Step 1: PersonX cuts the crap.--Step 2: PersonX intended to directly come to the point.--Conclusion: True
+--------------False. Entering someone else's car does not necessarily indicate that the person is attentive.
+--------------Step 1: PersonX invites people over. True----Step 2: As a result, PersonX's emotion is affected. True----Step 3: PersonX intended to be around friends. True----Conclusion: True
+----True. If PersonX pumps themselves up, they will be more likely to take the necessary steps to ensure that the event they fear will not happen.
+--------------False. Taking a step forward does not necessarily indicate an intention to claim that they are Spartacus.
+--------------Step 1: PersonX must intend to feel guilt free.--Step 2: PersonX must take action to set things right.--Step 3: The event PersonX sets things right will occur.----Conclusion: True
+--------------False. This statement does not make sense. PersonX providing PersonY analysis does not necessarily mean that PersonX is invested.
+--------------False. It is not likely to occur because it does not make sense for a person to replace themselves.
+----Step 1: Did PersonX leave the table?--Yes----Step 2: Was PersonX frustrated with colleagues?--Unknown----Step 3: Did PersonX intend to show their frustrations with colleagues?--Unknown----Conclusion: False
+--------------True. PersonX will need to practice with a team in order for the event to happen.
+--------------False. PersonX may want to learn a new language, but unless they take action to do so, the event will not happen.
+--------------Step 1: PersonX leaves PersonY's ___ alone.--True----Step 2: Thus it can be seen about PersonX's intention that PersonX feel good.--False
+--------------False. Biting the dust is an expression that means to fail or to be defeated. It does not necessarily mean that PersonX is sad.
+----False. PersonX practicing hard does not directly affect PersonY's emotions, so it is unlikely that PersonX would get the instrument ready as a result.
+--------------False. It is unlikely that PersonX's friendliness is a result of seeing PersonY every ___, as there could be other factors influencing PersonX's behavior.
+--------------False. This statement does not provide enough information to make a judgement about PersonX's attribute.
+--------------Step 1: PersonX pierces PersonY's ears.--Step 2: Piercing ears requires skill.--Step 3: Therefore, PersonX is skilled.----Conclusion: True
+--------------Step 1: PersonX is barefoot.--Step 2: PersonX intends to find shoes.--Step 3: PersonX finds shoes.----Conclusion: True
+----False. Ordering delivery food does not necessarily mean that PersonX intended to be hungry. It could mean that PersonX was too busy to cook or simply wanted a change of pace.
+--------------False. The statement is incomplete and does not provide enough information to judge its accuracy.
+--------------Step 1: PersonX must be compassionate for the event to occur.--Step 2: PersonX weeping like PersonY is dependent on PersonX being compassionate.--Conclusion: True
+--------------False. Unless PersonX is hopeful, the event will not happen.
+--------------True
+----True. PersonX catching their own bus indicates that they have the intention of feeling relief, as they have taken the necessary steps to get to their destination.
+--------------False. Wearing someone else's boots does not necessarily indicate that PersonX is thoughtful. It could mean that PersonX is simply borrowing the boots, or that PersonX is not thoughtful at all.
+--------------False. Without more information, it is impossible to determine PersonX's intention.
+--------------Step 1: PersonX makes contact with PersonY.--Step 2: PersonX's attribute can be seen as friendly.----Conclusion: True
+--------------False. PersonX realizing that PersonY is lost will not happen unless PersonX has watched PersonY.
+----False. PersonX's good mood does not necessarily result in PersonY feeling happy. PersonY's emotion is determined by their own thoughts and feelings, not by PersonX's mood.
+--------------False. PersonX going to the store does not necessarily mean that PersonX will pull PersonY's hand.
+--------------True. Eating blueberries can make a person feel full, so it is likely that PersonX would feel full after picking blueberries.
+--------------True. The statement is likely to occur, as it is saying that PersonX is kind because they would not hurt a fly.
+--------------False. PersonX exercising has no bearing on the event of PersonX pissing up a rope.
+----False. It is impossible to know PersonX's intentions without further information.
+--------------False. Without knowing what PersonX offered to God, it is impossible to make a judgement about PersonX's attribute.
+--------------True
+--------------True. If PersonX starts walking, it can be assumed that PersonX intended to exercise.
+--------------Step 1: Does PersonX rest on PersonY's shoulder?--Yes----Step 2: Does this action indicate that PersonX feels relaxed?--Yes----Conclusion: True
+----True. PersonX must login in order for PersonY to receive the account.
+--------------Step 1: PersonX gets the shoes.--True----Step 2: PersonX's intention is to feel good.--True----Conclusion: True
+--------------False. It is unlikely that PersonX would pour their heart out and then open their mouth in response to PersonY's emotion.
+--------------Step 1: PersonX exercises every day.--True----Step 2: PersonX wakes up early.--Unknown----Conclusion: False
+--------------False. It is not possible to determine PersonX's attributes based on their actions towards PersonY. It is possible that PersonX already had the skills before they acted upon PersonY, or that they acquired the skills in some other way.
+----Step 1: PersonX does not like PersonY.--Step 2: PersonX intended to hold opposing views.----Conclusion: True
+--------------False. Working someone else's way up does not necessarily mean that PersonX will be knowledgeable. It is possible that PersonX may gain knowledge from the experience, but it is not guaranteed.
+--------------True
+--------------False. Unless PersonX is sloppy, the event of PersonX getting the stain is unlikely to occur.
+--------------True. PersonX must be prepared in order for the event to occur.
+----False. It is not possible to make a conclusion about a person's attribute based on one feeling they are experiencing.
+--------------True. PersonX will only take things as they come if they feel satisfied, so the statement is likely to occur.
+--------------True. PersonX will need to read a cookbook in order to learn to cook, so the statement is likely to occur.
+--------------False. The statement does not provide enough information to make a conclusion about PersonX's attribute.
+--------------False. It is not necessarily true that PersonX bought a cage just because they bought a parrot.
+----False. Unless PersonX is caring, the event PersonX produces PersonY results will not happen.
+--------------False. Losing sight of someone does not necessarily mean that the person is forgetful. It could be due to a variety of reasons, such as being distracted or not paying attention.
+--------------False. Unless PersonX sits and watches the dance, they will not know the ___ from the dance, so the event will not occur.
+--------------False. Swinging a bat does not necessarily indicate strength. It could indicate coordination, agility, or even just familiarity with the sport.
+--------------False. PersonX would need to be close enough to PersonY to shield their eyes, which would require PersonX to creep up behind PersonY.
+----Step 1: PersonX loves riding PersonY's bike. True----Step 2: PersonX intended to go fast on a bike. True----Conclusion: True
+--------------True. PersonX must prioritize many decisions and actions in order for the event survival to happen.
+--------------False. This statement does not make sense because PersonX cannot meet their own standards.
+--------------Step 1: Is PersonX intending to tickle the dragon's tail?----Answer: Unknown.----Step 2: Will the dragon giggle if PersonX tickles its tail?----Answer: Unknown.----Conclusion: False.
+--------------Step 1: PersonX saw something happen.--Step 2: PersonX thinks it's worth finding out what happened.----Conclusion: True
+----Step 1: PersonX cooked spaghetti.--Step 2: PersonX intended to make dinner.----Conclusion: True
+--------------True. PersonX's intention to eat mom's cooking can be inferred from the fact that PersonX began to eat.
+--------------Step 1: Is PersonX likely to repel someone by force?--Step 2: Is PersonX likely to do this with the intention of making a point?----Conclusion: True
+--------------True. Putting something in a box is a common way to keep it safe, so it is likely that PersonX intended to keep it safe by putting it in a box.
+--------------False. It is unlikely that PersonX's feeling of unoriginality is a result of PersonY's emotion.
+----Step 1: What does it mean to 'put the moves on' someone?--Answer: To make a romantic or sexual advance towards someone.----Step 2: Does the statement suggest that PersonX has made a romantic or sexual advance towards someone?--Answer: Yes.----Conclusion: True
+--------------True. PersonX must first notice an emergency before they can call an ambulance, so the statement is likely to occur.
+--------------Step 1: PersonX must leave his room in order for the event to occur.----Step 2: PersonX leaving his room is likely to occur.----Conclusion: True
+--------------False. It is not likely that a person would open their own legs in order to demonstrate that they are relaxed.
+--------------False. Becoming scared does not necessarily mean that a person is confused. It could mean that the person is anxious, startled, or overwhelmed.
+----False. Drawing a sword usually implies an intention to use it, so it is unlikely that PersonX would draw their sword without a reason.
+--------------True
+--------------False. Sending someone home does not necessarily mean that PersonX loves their parents.
+--------------False. PersonX finding PersonY at home does not necessarily result in PersonX getting dressed.
+--------------Step 1: Does PersonX need to get a job at a diner in order for the event to occur?----Yes.----Step 2: Is it likely that PersonX will get a job at a diner?----That depends on PersonX's qualifications and the availability of jobs at the diner.----Conclusion: True or False?----It is possible that the event will occur, so the statement is True.
+----False. Unless PersonX plans a trip, the event will not happen.
+--------------False. PersonX wearing a cast is not likely to occur unless PersonX goes for a bike ride.
+--------------False. This statement does not make sense as written.
+--------------True. It is likely that PersonX would feel the need to prove themselves after making the team, as they would want to show that they deserved the spot.
+--------------False. The statement is incomplete and does not provide enough information to judge PersonX's intention.
+----False. It is impossible to judge PersonX's intention based on the statement alone.
+--------------False. The statement does not provide enough information to accurately judge PersonX's intention.
+--------------True
+--------------False. Unless PersonX is driving near PersonY's car, the event of PersonX leaving something in PersonX's car will not happen.
+--------------False. It is not necessarily true that PersonX is slothful just because they would not work. There could be other reasons why PersonX would not work, such as lack of qualifications or lack of interest in the job.
+----False. The statement does not provide enough information to accurately judge PersonX's attribute.
+--------------True. Making a mistake can lead to feeling dumb, so this statement is likely to occur.
+--------------Step 1: PersonX must feel glad for having done a wonderful job.--Step 2: PersonX must dye PersonY's hair blue.----Conclusion: True
+--------------False. PersonX does not need to be social in order for the event to occur.
+--------------True. If PersonX wants to kiss PersonY, it is likely that PersonX will flirt with PersonY in order to express their emotions.
+----Step 1: PersonX goes to PersonY.--True----Step 2: PersonX gets in the car.--Unknown----Conclusion: False
+--------------False. It is not possible to make a conclusion about PersonX's attribute based on the statement given.
+--------------True. If PersonX sees PersonY in PersonX's office, it is likely that PersonX intended to meet PersonY.
+--------------Step 1: PersonX gets the part.--Step 2: It can be seen about PersonX's attribute that PersonX is talented.--True
+--------------True. If PersonX flies to PersonY, it is likely that PersonX's emotion will be affected and they may intend to communicate.
+----False. Putting upon someone is not a good way to build a close relationship.
+--------------False. Generally, in order for PersonX to get custody of PersonY's children, PersonY would need to give up their parental rights or have them taken away by a court. Rearing the children alone would not be enough to grant PersonX custody.
+--------------False. PersonX joining for protection will likely occur regardless of how they feel.
+--------------Step 1: Does PersonX have the qualifications to teach in schools?--Step 2: Is PersonX actively looking for a job at a school?--Step 3: Is there a school that is willing to hire PersonX?----Answer: False
+--------------False. Shaking someone's head is not usually seen as a friendly gesture.
+----True. It is likely that PersonX's hard work and dedication will have a positive effect on PersonY's emotions, and that PersonX intends to excel as a result.
+--------------False. PersonX's age is not determined by their experience or emotions.
+--------------True. It is likely to occur that a person who is hit by lightning will feel shocked.
+--------------True. It is likely that PersonX providing something for the poor would result in PersonY feeling thankful.
+--------------False. Talent is not a requirement for the event to occur.
+----True. PersonX starts early in the morning, so setting an alarm is a logical consequence of their desire to wake up on time.
+--------------Step 1: PersonX makes friendship bracelets.--Step 2: Making friendship bracelets requires creativity and artistic ability.--Step 3: Therefore, it can be seen that PersonX is artistic.----Conclusion: True
+--------------Step 1: PersonX builds muscle.--Step 2: PersonX intended to be strong.----Conclusion: True
+--------------False. It is not likely that PersonX's getting on their feet would have an effect on PersonY's emotions.
+--------------Step 1: PersonX visits PersonY's friend.--Step 2: PersonX intended to be sociable.----Conclusion: True
+----True. PersonX needs to be working in order to get to work on time.
+--------------Step 1: Is PersonX researching something online?--Yes----Step 2: Is PersonX's intention to make a good grade?--Unknown----Conclusion: False
+--------------Step 1: PersonX advertises PersonY's business.--Step 2: PersonX has a place to advertise it.----Conclusion: True
+--------------True. PersonX must compete in order for the event of them getting second place to occur.
+--------------False. PersonX must make a call in order for the event to occur.
+----False. It is impossible to judge PersonX's attribute based on one single event.
+--------------False. Raining cats and dogs is an expression used to describe heavy rain, not an indication of someone's anger.
+--------------False. PersonX learning how to bake a cake does not necessarily mean that PersonX will go to culinary school. It is possible that PersonX may decide to continue baking as a hobby, or may decide to pursue a different career path.
+--------------False. The statement does not provide enough information to determine whether PersonX read Chomsky or not.
+--------------Step 1: PersonX replaced PersonY's old one.--True----Step 2: PersonX intended to express gratitude for the past.--True----Conclusion: True
+----Step 1: Does PersonX see PersonY every day?----Answer: True----Step 2: Does PersonX's intention involve being disciplined?----Answer: Unknown----Conclusion: False
+--------------Step 1: Is PersonX arguing with PersonY's boyfriend?--Yes----Step 2: Is PersonX being hard-headed?--It is possible, but we don't have enough information to make a conclusion.----Conclusion: False
+--------------True. PersonX's intention is clear from the statement, and it can be seen that PersonX intended to make every test.
+--------------False. While it is possible that a person with anger problems may act immaturely, it is not necessarily the case. There are many other factors that can contribute to a person's emotional maturity.
+--------------Step 1: PersonX needs to get dressed for work.--Step 2: PersonX needs to intend to earn money.----Conclusion: True
+----False. Providing an estimate does not necessarily indicate that a person is consistent.
+--------------Step 1: PersonX sits down next to PersonY. True----Step 2: As a result of PersonX's emotion, PersonX is social. False (PersonX's emotion is not necessarily the cause of PersonX being social)
+--------------Step 1: PersonX pulls PersonY out.--Step 2: This action shows that PersonX is helpful.----Conclusion: True
+--------------False. Taking a step does not necessarily indicate aggression. It could be interpreted as a sign of confidence or assertiveness, but not necessarily aggression.
+--------------False. PersonX cannot be informative as a result of their own emotion.
+----True. If PersonX leaves their car, it can be assumed that they are going somewhere.
+--------------Step 1: PersonX shared PersonY's experience.--Step 2: PersonX intended to tell a story.----Conclusion: True
+--------------True. PersonX can catch PersonY's attention by talking to PersonY's friend, as this will likely draw PersonY's attention to PersonX.
+--------------False. Shoving someone is not an attribute of keeping someone at arms length away.
+--------------True. PersonX must prepare himself in order for the event to occur.
+----False. The statement does not provide enough information to judge whether PersonX is artistic or not.
+--------------Step 1: What is the statement saying?--PersonX lit another ___, thus it can be seen about PersonX's intention that PersonX intended to relationship.----Step 2: Is this statement likely to occur?--True
+--------------False. Reading someone's diary without their permission is an invasion of privacy, and it does not necessarily mean that the person intended to be nosey.
+--------------False. It is not likely that having a physical exam would indicate a person's intention to kill themselves.
+--------------Step 1: PersonX camps with PersonY's family.--True----Step 2: PersonX packs camping gear in car.--True----Conclusion: True
+----True. It is likely that PersonX intended to be affectionate if they love PersonY more than anything.
+--------------False. Taking liberties does not necessarily indicate a person's intention to be strong.
+--------------False. Winning awards does not necessarily indicate that PersonX practices. It could be that PersonX is naturally talented or has other advantages that led to the awards.
+--------------True
+--------------Step 1: Is PersonX likely to have an injury?----Step 2: If PersonX has an injury, is it likely that the event will not happen?----Conclusion: True
+----Step 1: PersonX must be thirsty for the event to occur.--Step 2: If PersonX is thirsty, then the event will occur.----Conclusion: True
+--------------True. PersonX must ask permission before taking part in the campaign, otherwise the event will not happen.
+--------------True. When a person gets hurt, it is likely to cause them to feel pain due to the emotional response to the physical pain.
+--------------Step 1: PersonX kissed PersonY on the cheek.--Step 2: Kissing someone on the cheek can be seen as a sign of affection.--Step 3: Therefore, it can be concluded that PersonX intended to show affection to PersonY.----Answer: True
+--------------False. It is impossible to determine PersonX's intention from the statement alone.
+----Step 1: Loose weight - True--Step 2: Result on PersonX's emotion - True--Step 3: PersonX not put butter on popcorn - True----Conclusion: True
+--------------Step 1: PersonX gets there early.--Step 2: PersonX's attribute can be seen from getting there early.--Step 3: PersonX's attribute is curiosity.----Conclusion: True
+--------------False. Seeing a rabbit does not necessarily mean that PersonX looks around.
+--------------False. It is unlikely that a person would put themselves to death unless they feel hateful.
+--------------Step 1: PersonX is excited and nervous.--True----Step 2: As a result of PersonX's emotion, PersonX hears some good news.--False
+----True. PersonX needs to get music in order for the event to happen.
+--------------False. PersonX becoming a web developer does not depend on their feeling of productivity. It depends on their knowledge, skills, and experience.
+--------------False. It is not likely to occur because it is impossible for a person to bite their own lip.
+--------------Step 1: Is PersonX likely to intend to save money?----Answer: True/False (depending on the context)----Step 2: Is it likely that the event PersonX is much cheaper will occur if PersonX intends to save money?----Answer: True----Conclusion: True
+--------------True
+----Step 1: PersonX works really hard.--True----Step 2: PersonX intends to do good.--True----Step 3: The event will occur.--True----Answer: True
+--------------False. PersonX may not necessarily be talkative just because they told PersonY a little. It could be that PersonX is simply being polite or friendly.
+--------------True. PersonX giving PersonY the courage is likely to occur, regardless of whether PersonX is influential or not.
+--------------True. Meeting customers is a good way to learn about their tastes and preferences. Therefore, it can be concluded that PersonX has the intention of learning about their customers' tastes.
+--------------False.
+----Step 1: Is PersonX going to a doctor's appointment?--Yes----Step 2: Does PersonX feel scared?--Unknown----Conclusion: False
+--------------True. If PersonX feels curious, then the event will likely occur.
+--------------Step 1: PersonX does a wonderful job.--True----Step 2: It can be seen about PersonX's intention.--True----Step 3: PersonX intended to want to be a good employee.--True----Conclusion: True
+--------------False. Unless PersonX takes action, the event will not occur.
+--------------False. Making something instead of eating does not necessarily mean that PersonX is hungry.
+----Step 1: PersonX has a dinner party.--Step 2: Having a dinner party is an indication of being social.--Conclusion: True
+--------------Step 1: PersonX appoints a ___ to investigate.--True----Step 2: Thus it can be seen about PersonX's attribute that PersonX have the responsibility.--True----Conclusion: True
+--------------True. If PersonX works with a co-worker, it is likely that the event of PersonX sharing the ___ equally will occur.
+--------------Step 1: PersonX owes PersonY.--Step 2: PersonX borrowed from PersonY.--Conclusion: True
+--------------False. Playing hockey does not necessarily mean that PersonX is friendly. It could mean that PersonX is competitive, enjoys physical activity, or simply likes the game.
+----False. The statement is incomplete and does not provide enough information to make a judgment.
+--------------Step 1: PersonX lands the job. True----Step 2: As a result of PersonX's emotion, PersonX is dedicated. True----Conclusion: True
+--------------False. Dropping the phone would likely cause PersonX to feel frustrated or angry, not to call someone.
+--------------True
+--------------Step 1: PersonX visits PersonX's cousin.--True----Step 2: PersonX's intention is to know where cousin lives.--True----Conclusion: True
+----False. PersonX does not need to become intimate with a woman in order for the event to occur.
+--------------Step 1: PersonX notices a wallet.--True----Step 2: PersonX feels hopeful.--True----Conclusion: True
+--------------True
+--------------True. If PersonX is brave, then the event will likely occur.
+--------------True. It is likely that PersonX will feel relieved after convincing their parents.
+----True
+--------------False. PersonX cannot set the Thames on fire without being present.
+--------------Step 1: Is PersonX offering something on this book?--Yes----Step 2: Is PersonX offering this something when the book is ordered?--Yes----Step 3: Will this offer happen unless PersonX paper?--No----Conclusion: False
+--------------False. Drawing attention to a need does not necessarily lead to a person putting up big posters.
+--------------Step 1: PersonX practices all day.--Step 2: PersonX's intention is to be good at it.--Conclusion: True
+----False. The event will happen regardless of how PersonX feels about it.
+--------------False. It is not likely that PersonX would provide a description of PersonY without any other context, which would be necessary to determine PersonX's intention.
+--------------Step 1: What did PersonX spend?----Step 2: What is the relationship between PersonX and PersonY?----Step 3: Does spending the item indicate that PersonX intended to be a good friend?----Answer: False
+--------------True. It is likely that a person who spends a long period of time working will feel exhausted and tired.
+--------------False. The statement is incomplete and does not provide enough information to judge PersonX's attribute.
+----True. Making a plan is a necessary step in order for the event to occur. Without a plan, the event will not happen.
+--------------Step 1: PersonX goes from zero to hero.--True----Step 2: Thus it can be seen about PersonX's attribute that PersonX be capable.--True----Conclusion: True
+--------------False. PersonX watching for PersonY opportunity will happen regardless of whether PersonX feels eager or not.
+--------------False. Even if PersonX is not athletic, it is still possible for PersonX to sprain their leg.
+--------------False. Taking something to the grave does not necessarily indicate that a person is being stubborn. It could mean that the person is keeping a secret or simply that they are not willing to share something.
+----Step 1: PersonX makes PersonY concessions.--Step 2: It can be seen about PersonX's attribute that PersonX be helpful.--True
+--------------True. The statement is likely to occur as it is describing a logical action taken by PersonX.
+--------------True
+--------------True. Wearing gloves is a common way to protect hands from dirt, germs, and other hazards. Therefore, it is likely that PersonX intended to protect their hands by wearing gloves.
+--------------Step 1: PersonX talks to PersonY again.--Step 2: This can be seen as an attribute of PersonX.--Step 3: The attribute is that PersonX is social.----Conclusion: True
+----True
+--------------False. This statement does not provide enough information to judge PersonX's attribute.
+--------------Step 1: PersonX must tell a funny story for the event to occur.--Step 2: If PersonX tells a funny story, the event will occur.----Conclusion: True
+--------------True
+--------------Step 1: PersonX meets friends.--Step 2: PersonX's intention is to be friendly.----Conclusion: True
+----Step 1: Is PersonX increasing women's something?--Yes----Step 2: Is PersonX's intention to be helpful?--Yes----Conclusion: True
+--------------Step 1: PersonX gets PersonX's makeup done.--True----Step 2: PersonX intended to be noticed.--True----Conclusion: True
+--------------True. Going downhill can be a difficult experience, and it is likely to result in a person feeling bad.
+--------------True. If PersonX is determined, then they will pull out all the stops and the event will occur.
+--------------False. The statement does not make sense as it does not provide enough information to determine whether PersonX has done something as a result of their emotion.
+----True. It is likely that PersonX would feel happy if they saw PersonY's crush, as it would indicate that PersonY is happy.
+--------------False. The statement does not make sense as it is incomplete. It is missing information about what PersonX fits the best.
+--------------True. If PersonX wants to learn how to play the guitar, it is likely that PersonX will buy a guitar in order to do so.
+--------------True
+--------------False. Spilling coffee does not necessarily mean that PersonX is feeling angry. It could be an accident or a mistake, and PersonX may not be feeling any emotion at all.
+----True
+--------------False. Visiting someone's mother does not necessarily mean that the person travels. It could mean that the person lives close by or is able to visit often.
+--------------True. PersonX's intention of running errands is to have free time later, so the statement is likely to occur.
+--------------False. PersonX cannot decide to wait based on PersonY's emotion. PersonX's decision to wait should be based on their own assessment of the situation.
+--------------True. PersonX will not be able to finish the job unless they get the necessary equipment, so the statement is likely to occur.
+----False. It is unlikely that PersonX would make sure he is alone when buying a gift for his wife.
+--------------False. PersonX's action of looking in the cupboard would not necessarily have an effect on PersonY's emotion.
+--------------True. If PersonX is watchful, then the event of PersonX watching PersonY is likely to occur.
+--------------True
+--------------False. The event will still happen even if PersonX is not well known.
+----False. The statement is incomplete and does not provide enough information to judge PersonX's intention.
+--------------True. If PersonX gets what they want right away, it is likely that they will feel fulfilled.
+--------------False. PersonX feeling happy is not a requirement for the event to occur.
+--------------True. Knowing someone's name can evoke a range of emotions, including curiosity, which could lead to looking them up.
+--------------Step 1: PersonX protects PersonY from harm.--True----Step 2: It can be seen about PersonX's intention that PersonX intended to keep him safe from danger.--True----Conclusion: True

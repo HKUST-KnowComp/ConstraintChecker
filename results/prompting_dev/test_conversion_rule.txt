@@ -1,0 +1,102 @@
+PersonX ejaculate, thus, PersonX want PersonX orgasm,0
+PersonX go to fridge, thus, PersonX want to get a glass of wine,1
+PersonX work tirelessly, thus, PersonX want to die,1
+PersonX set off, thus, PersonX want to leave,1
+PersonX enlist, thus, PersonX want to fight for country,1
+PersonX fall into pool, thus, PersonX want to mother enrol PersonX in school,0
+PersonX shit, thus, PersonX want to have to put down some toilet paper in toilet,0
+PersonX come, thus, PersonX want to be paranoid,0
+PersonX look back at footage, thus, PersonX want PersonX will bet,0
+PersonX give PersonY a substantial amount, thus, PersonX want PersonX could not pay it back,0
+PersonX withdraw money, thus, PersonX want to pay bill,1
+PersonX have cavity, thus, PersonX want to have a toothache,0
+PersonX wire PersonY, thus, PersonX want to get a telegram,0
+PersonX escape, thus, PersonY want to escape,0
+PersonX be work from home, thus, PersonY want to be a remote worker,0
+PersonX loan succeed, thus, PersonY want to prefer,0
+PersonX look at PersonY, thus, PersonY want PersonY wasn t look,0
+PersonX be not use PersonX ability, thus, PersonY want to mean,0
+PersonX leave food, thus as an result, PersonX be only ask,0
+PersonX collapse in courthouse, thus as an result, PersonX body reject the transplant liver,0
+PersonX get really paranoid, thus as an result, PersonX be nervous,1
+PersonX have food poisoning, thus as an result, PersonX throw up,1
+PersonX earn more money, thus as an result, PersonX want to stay there,1
+PersonX feel very sick, thus as an result, PersonX have medicine,1
+PersonX decide, thus as an result, PersonX be indecisive,0
+PersonX see a dead body, thus as an result, PersonX just will not cry,0
+PersonX go to fill up, thus as an result, PersonX need gas,0
+PersonX be a baby, thus as an result, PersonX could not be,0
+PersonX move out to live on own, thus as an result, PersonX wont be able,0
+PersonX join, thus as an result, PersonX fill out paperwork,0
+PersonX get in shape, thus as an result, PersonY bet,0
+PersonX cause PersonZ death, thus as an result, PersonY do not actually cause the harm,0
+PersonX steal PersonZ boyfriend, thus as an result, PersonY have a boyfriend,0
+PersonX pull off, thus as a result on PersonX's emotion, PersonX wait,0
+PersonX prevent PersonY, thus as a result on PersonX's emotion, PersonX never reach out to anyone,0
+PersonX go to sleep on hollow, thus as a result on PersonX's emotion, PersonX feel PersonX be tired,0
+PersonX prepare it, thus as a result on PersonX's emotion, PersonX always win,0
+PersonX read non fiction, thus as a result on PersonX's emotion, PersonX feel PersonX be curious,0
+PersonX ruin PersonX own marriage, thus as a result on PersonX's emotion, PersonX feel PersonX be selfish,1
+PersonX hair be gray, thus as a result on PersonX's emotion, PersonX feel PersonX be elderly,1
+PersonX eat the sub, thus as a result on PersonX's emotion, PersonX feel PersonX be full,1
+PersonX go PersonX separate way, thus as a result on PersonX's emotion, PersonX don t,0
+PersonX create that, thus as a result on PersonX's emotion, PersonX love to do that,0
+PersonX put PersonY in mind, thus as a result on PersonX's emotion, PersonX feel PersonX be nostalgic,1
+PersonX bear PersonY, thus as a result on PersonY's emotion, PersonY feel PersonY be here,0
+PersonX take liberty, thus as a result on PersonY's emotion, PersonY feel PersonY be kind,0
+PersonX gaze at PersonY, thus as a result on PersonY's emotion, PersonY blush,1
+PersonX play ana, thus as a result on PersonY's emotion, PersonY feel PersonY be fun,0
+PersonX baby brother die, thus it can be seen about PersonX's attribute that PersonX be babysit,0
+PersonX walk PersonY through process, thus it can be seen about PersonX's attribute that PersonX be professional,1
+PersonX preorder, thus it can be seen about PersonX's attribute that PersonX get,0
+PersonX stay happy, thus it can be seen about PersonX's attribute that PersonX be well pay,1
+PersonX hand slip, thus it can be seen about PersonX's attribute that PersonX fall,0
+PersonX first start this job, thus it can be seen about PersonX's attribute that PersonX be work,0
+PersonX readily believe so, thus it can be seen about PersonX's attribute that PersonX be convinced,1
+PersonX have nothing else, thus it can be seen about PersonX's attribute that PersonX see PersonY,0
+PersonX have not hear a car drive up, thus it can be seen about PersonX's attribute that PersonX be startle,0
+PersonX miss, thus it can be seen about PersonX's attribute that PersonX be promise,0
+PersonX relate, thus it can be seen about PersonX's attribute that PersonX feel,0
+PersonX mistakenly shave PersonY head, thus it can be seen about PersonX's attribute that PersonX be upset,1
+PersonX believe thing, thus it can be seen about PersonX's intention that PersonX belief be true,0
+PersonX ride the light rail, thus it can be seen about PersonX's intention that PersonX do not need a car,0
+PersonX would at have one person, thus it can be seen about PersonX's intention that PersonX wish,0
+PersonX can form a opinion, thus it can be seen about PersonX's intention that PersonX have a opinion,1
+PersonX wake up late for work, thus it can be seen about PersonX's intention that PersonX almost die,0
+The event PersonX get even happier will not happen unless PersonX be happy,1
+The event PersonX make wedding cake will not happen unless PersonX make PeopleX for everyone,0
+The event PersonX just activate it will not happen unless PersonX use it,0
+The event PersonX go lady at counter will not happen unless PersonX be intolerant,0
+The event PersonX pay by card will not happen unless PersonX can use PersonX debit card,1
+The event PersonX want to be a actor will not happen unless PersonX make plan,1
+The event PersonX make a speech will not happen unless PersonX start,0
+The event PersonX get sick of that will not happen unless PersonX breathe,0
+Because PersonX break PersonX hip, PersonX have begin to recover,1
+Because PeopleX go faster, PeopleX be fast,0
+Because harvey have a secret, PersonY ask,0
+Because PeopleX retire, PeopleX be older,0
+Because PersonX do that well, it be so crazy,0
+After PeopleX be not home, PersonX live a married life,0
+After PersonX do something to PersonY, PersonY do something,0
+After PersonX love this soup, PersonX be a soup fan,0
+Before PersonX lock the door, no one could intrude,0
+Before PersonX have a break, PersonX totally get it,1
+Before PersonX wouldnt, PersonX have faith,0
+Before PersonX be write a play, PersonX use a corny pick up line,0
+The event PersonX watch one will not happen if PersonX be interested,0
+The event PersonX show % certainty in claim will not happen if there be certainty,0
+The event PersonX clean PersonY bathroom will not happen if PersonX run out of supplies,1
+The event PersonY play by herself will not happen if PersonY be happier,0
+The event PersonX achieve that will not happen if PersonX could have,0
+The event PersonX run away will not happen if PersonY would better hurry,0
+The event PersonX know PersonY will not happen if y don,0
+The event PeopleX be gon na take pete there will not happen if PeopleY do not call PersonX bitch,0
+The event PersonX send PersonY home will not happen if now it be up,0
+The event PersonX be misbehave will not happen if PeopleX be misbehave,0
+The event PersonX do not think PersonY will not happen if there be actually something,0
+The event PersonX get this job will not happen if PersonX have little experience,1
+The event that be deep will not happen if PersonX probably deserve it,0
+The event PersonX look pale will not happen if PersonY grow pale,0
+The event PersonX see a opening will not happen if PersonX just have to be careful,0
+The event PersonX wish for it will not happen if it be desirable,0
+The event PersonX see includes the event/action that some see,0

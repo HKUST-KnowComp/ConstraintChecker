@@ -1,0 +1,102 @@
+1 xWant PersonX orgasm
+1 xWant PersonX want to get a glass of wine
+1 xWant PersonX die
+1 xWant PersonX leave
+1 xWant PersonX want to fight for country
+1 xWant PersonX mother enrol PersonX in school
+1 xWant PersonX have to put down some toilet paper in toilet
+1 xWant PersonX be paranoid
+1 xWant PersonX will bet
+1 xWant PersonX could not pay it back
+1 xWant PersonX pay bill
+1 xWant PersonX have a toothache
+1 xWant PersonX get a telegram
+1 oWant PersonY escape
+1 oWant PersonY be a remote worker
+1 oWant PersonY prefer
+1 oWant PersonY wasn t look
+1 oWant PersonY mean
+1 xEffect PersonX be only ask
+1 xEffect PersonX body reject the transplant liver
+3 xEffect PersonX be nervous
+1 xEffect PersonX throw up
+1 xEffect PersonX want to stay there
+1 xEffect PersonX have medicine
+3 xEffect PersonX be indecisive
+1 xEffect PersonX just will not cry
+1 xEffect PersonX need gas
+1 xEffect PersonX could not be
+1 xEffect PersonX wont be able
+1 xEffect PersonX fill out paperwork
+1 oEffect PersonY bet
+1 oEffect PersonY do not actually cause the harm
+1 oEffect PersonY have a boyfriend
+1 xReact PersonX wait
+1 xReact PersonX never reach out to anyone
+3 xReact PersonX be tired
+1 xReact PersonX always win
+3 xReact PersonX be curious
+2 xReact PersonX be selfish
+3 xReact PersonX be elderly
+3 xReact PersonX be full
+1 xReact PersonX don t
+1 xReact PersonX love to do that
+3 xReact PersonX be nostalgic
+1 oReact PersonY be here
+3 oReact PersonY be kind
+3 oReact PersonY blush
+2 oReact PersonY be fun
+1 xAttr PersonX be babysit
+2 xAttr PersonX be professional
+1 xAttr PersonX get
+1 xAttr PersonX be well pay
+1 xAttr PersonX fall
+1 xAttr PersonX be work
+3 xAttr PersonX be convinced
+1 xAttr PersonX see PersonY
+3 xAttr PersonX be startle
+1 xAttr PersonX be promise
+1 xAttr PersonX feel
+3 xAttr PersonX be upset
+1 xIntent PersonX belief be true
+1 xIntent PersonX do not need a car
+1 xIntent PersonX wish
+1 xIntent PersonX have a opinion
+1 xIntent PersonX almost die
+3 xNeed PersonX be happy
+1 xNeed PersonX have to make PeopleX for everyone
+1 xNeed PersonX use it
+3 xNeed PersonX be intolerant
+1 xNeed PersonX can use PersonX debit card
+1 xNeed PersonX need to make plan
+1 xNeed PersonX start
+1 xNeed PersonX breathe
+1 Causes PersonX have begin to recover
+1 Causes PeopleX be fast
+1 Causes PersonY ask
+1 Causes PeopleX be older
+1 Causes it be so crazy
+1 isBefore PersonX live a married life
+1 isBefore PersonY do something
+2 isBefore PersonX be a soup fan
+1 isAfter no one could intrude
+1 isAfter PersonX totally get it
+2 isAfter PersonX have faith
+1 isAfter PersonX use a corny pick up line
+1 HinderedBy PersonX be interested
+1 HinderedBy there be certainty
+1 HinderedBy PersonX run out of supplies
+3 HinderedBy PersonY be happier
+1 HinderedBy PersonX could have
+1 HinderedBy PersonY would better hurry
+1 HinderedBy y don
+1 HinderedBy PeopleY do not call PersonX bitch
+1 HinderedBy now it be up
+1 HinderedBy PeopleX be misbehave
+1 HinderedBy there be actually something
+1 HinderedBy PersonX have little experience
+1 HinderedBy PersonX probably deserve it
+1 HinderedBy PersonY grow pale
+1 HinderedBy PersonX just have to be careful
+1 HinderedBy it be desirable
+1 HasSubEvent some see

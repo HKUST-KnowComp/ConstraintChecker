@@ -1,0 +1,510 @@
+PersonX ejaculate, thus, PersonX want PersonX orgasm
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = Yes
+3. No (T is unclear about whether it expresses a mental state or an event)
+4. False. Because result of 3 is No.
+PersonX go to fridge, thus, PersonX want to get a glass of wine
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = No
+3. Yes
+4. False. Because result of 2 is No.
+PersonX work tirelessly, thus, PersonX want to die
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = Yes
+3. No (T is unclear about whether 'PersonX die' is a desire or an outcome of working tirelessly)
+4. False. Because result of 3 is No.
+PersonX set off, thus, PersonX want to leave
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because 'set off' implies the intention to leave.
+PersonX enlist, thus, PersonX want to fight for country
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = No
+3. Yes
+4. False. Because result of 2 is No.
+PersonX fall into pool, thus, PersonX want to mother enrol PersonX in school
+1. D_c = 'persona'
+2. R(D_c, D_i) = R('persona', 'event') = Yes
+3. Yes
+4. False. Because there is no clear connection between falling into a pool and enrolling in school.
+PersonX shit, thus, PersonX want to have to put down some toilet paper in toilet
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because it is a common practice to put down toilet paper before using the toilet, especially when defecating.
+PersonX come, thus, PersonX want to be paranoid
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = Yes
+3. No (T is unclear about why 'PersonX want to be paranoid')
+4. False. Because result of 3 is No.
+PersonX look back at footage, thus, PersonX want PersonX will bet
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = No
+3. No (T is unclear about what 'PersonX will bet' means)
+4. False. Because result of either 2 or 3 is No.
+PersonX give PersonY a substantial amount, thus, PersonX want PersonX could not pay it back
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = No
+3. Yes
+4. False. Because result of 2 is No.
+PersonX withdraw money, thus, PersonX want to pay bill
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because withdrawing money is usually done to pay for something, and paying bills is a common reason for withdrawing money.
+PersonX have cavity, thus, PersonX want to have a toothache
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = No
+3. Yes
+4. False. Because result of 2 is No.
+PersonX wire PersonY, thus, PersonX want to get a telegram
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because wiring someone is usually done with the intention of communicating with them, and getting a telegram is a form of communication.
+PersonX escape, thus, PersonY want to escape
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because when PersonX escapes, it is natural for PersonY to also want to escape to avoid danger or follow PersonX's lead.
+PersonX be work from home, thus, PersonY want to be a remote worker
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because working from home is a type of remote work, and it is common for people to want to work remotely if they see others doing it successfully.
+PersonX loan succeed, thus, PersonY want to prefer
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = No
+3. No (T is unclear about what 'PersonY prefer')
+4. False. Because result of 2 is No.
+PersonX look at PersonY, thus, PersonY want PersonY wasn t look
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = No
+3. No (T is unclear about what 'PersonY want PersonY wasn t look' means)
+4. False. Because result of 2 is No.
+PersonX be not use PersonX ability, thus, PersonY want to mean
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = No
+3. Yes
+4. False. Because result of 2 is No.
+PersonX leave food, thus as an result, PersonX be only ask
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = No
+3. No (T is unclear about what 'PersonX be only ask' means)
+4. False. Because result of 2 is No.
+PersonX collapse in courthouse, thus as an result, PersonX body reject the transplant liver
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = Yes
+3. Yes
+4. False. Because the collapse in courthouse and the body rejecting the transplant liver are not necessarily causally related.
+PersonX get really paranoid, thus as an result, PersonX be nervous
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = Yes
+3. Yes
+4. True. Because being paranoid can lead to nervousness.
+PersonX have food poisoning, thus as an result, PersonX throw up
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because having food poisoning can cause vomiting as a common symptom.
+PersonX earn more money, thus as an result, PersonX want to stay there
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = No
+3. Yes
+4. False. Because result of 2 is No.
+PersonX feel very sick, thus as an result, PersonX have medicine
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'mental state') = No
+3. Yes
+4. False. Because result of 2 is No.
+PersonX decide, thus as an result, PersonX be indecisive
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = Yes
+3. No (T is unclear about the relationship between decision and indecisiveness)
+4. False. Because result of 3 is No.
+PersonX see a dead body, thus as an result, PersonX just will not cry
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = Yes
+3. Yes
+4. True. Because seeing a dead body may cause sadness or shock, but it does not necessarily lead to crying. Some people may choose to express their emotions in other ways.
+PersonX go to fill up, thus as an result, PersonX need gas
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because going to fill up usually means getting gas for the vehicle.
+PersonX be a baby, thus as an result, PersonX could not be
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = Yes
+3. No (T is unclear about what 'PersonX could not be' means)
+4. False. Because result of 3 is No.
+PersonX move out to live on own, thus as an result, PersonX wont be able
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. No (T is unclear about what 'PersonX wont be able')
+4. False. Because result of 3 is No.
+PersonX join, thus as an result, PersonX fill out paperwork
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because joining often requires filling out paperwork as a necessary step.
+PersonX get in shape, thus as an result, PersonY bet
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because getting in shape implies that PersonX has put in effort and dedication towards fitness, which can be seen as a positive attribute. Betting can be a way for PersonY to show support or confidence in PersonX's progress.
+PersonX cause PersonZ death, thus as an result, PersonY do not actually cause the harm
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = No
+3. Yes
+4. False. Because result of 2 is No.
+PersonX steal PersonZ boyfriend, thus as an result, PersonY have a boyfriend
+1. D_c = 'persona'
+2. R(D_c, D_i) = R('persona', 'event') = Yes
+3. No (T is unclear about the relationship between PersonY and the boyfriend)
+4. False. Because result of 3 is No.
+PersonX pull off, thus as a result on PersonX's emotion, PersonX wait
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'mental state') = No
+3. Yes
+4. False. Because result of 2 is No.
+PersonX prevent PersonY, thus as a result on PersonX's emotion, PersonX never reach out to anyone
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'mental state') = Yes
+3. Yes
+4. True. Because preventing someone may cause guilt and isolation, leading to not reaching out to anyone.
+PersonX go to sleep on hollow, thus as a result on PersonX's emotion, PersonX feel PersonX be tired
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'mental state') = Yes
+3. Yes
+4. True. Because going to sleep on a hollow can result in discomfort and lack of quality sleep, leading to feeling tired the next day.
+PersonX prepare it, thus as a result on PersonX's emotion, PersonX always win
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'mental state') = No
+3. Yes
+4. False. Because result of 2 is No.
+PersonX read non fiction, thus as a result on PersonX's emotion, PersonX feel PersonX be curious
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'mental state') = Yes
+3. Yes
+4. True. Because reading non fiction can increase one's knowledge and curiosity, which can lead to a positive emotional state of feeling curious.
+PersonX ruin PersonX own marriage, thus as a result on PersonX's emotion, PersonX feel PersonX be selfish
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'mental state') = Yes
+3. Yes
+4. True. Because 1) "PersonX ruin PersonX own marriage" implies that PersonX did something wrong and hurtful to their spouse, which can lead to feelings of guilt and selfishness, and 2) "PersonX be selfish" directly expresses PersonX's mental state.
+PersonX hair be gray, thus as a result on PersonX's emotion, PersonX feel PersonX be elderly
+1. D_c = 'persona'
+2. R(D_c, D_i) = R('persona', 'mental state') = Yes
+3. No (T is unclear about what 'PersonX be elderly' means in terms of mental state)
+4. False. Because result of 3 is No.
+PersonX eat the sub, thus as a result on PersonX's emotion, PersonX feel PersonX be full
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'mental state') = Yes
+3. Yes
+4. True. Because when a person eats, they usually feel full as a result of their physical state, which is a mental state.
+PersonX go PersonX separate way, thus as a result on PersonX's emotion, PersonX don t
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'mental state') = Yes
+3. No (T is unclear about what 'PersonX don't' refers to)
+4. False. Because result of 3 is No.
+PersonX create that, thus as a result on PersonX's emotion, PersonX love to do that
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'mental state') = Yes
+3. Yes
+4. True. Because creating something can bring a sense of accomplishment and satisfaction, which can lead to a positive emotional state and a love for doing it.
+PersonX put PersonY in mind, thus as a result on PersonX's emotion, PersonX feel PersonX be nostalgic
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'mental state') = Yes
+3. Yes
+4. True. Because when PersonX puts PersonY in mind, it may trigger memories and emotions associated with nostalgia.
+PersonX bear PersonY, thus as a result on PersonY's emotion, PersonY feel PersonY be here
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'mental state') = Yes
+3. No (T is unclear about what 'PersonY be here' means)
+4. False. Because result of 3 is No.
+PersonX take liberty, thus as a result on PersonY's emotion, PersonY feel PersonY be kind
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'mental state') = Yes
+3. No (T is unclear about how 'PersonY be kind' relates to 'PersonX take liberty')
+4. False. Because result of 3 is No.
+PersonX gaze at PersonY, thus as a result on PersonY's emotion, PersonY blush
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'mental state') = Yes
+3. Yes
+4. True. Because it is common for people to blush when they are being stared at, especially by someone they are attracted to.
+PersonX play ana, thus as a result on PersonY's emotion, PersonY feel PersonY be fun
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'mental state') = Yes
+3. No (T is unclear about what 'PersonY be fun' means)
+4. False. Because result of 3 is No.
+PersonX baby brother die, thus it can be seen about PersonX's attribute that PersonX be babysit
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'persona') = No
+3. Yes
+4. False. Because result of 2 is No.
+PersonX walk PersonY through process, thus it can be seen about PersonX's attribute that PersonX be professional
+1. D_c = 'persona'
+2. R(D_c, D_i) = R('persona', 'persona') = Yes
+3. Yes
+4. True. Because walking someone through a process implies that PersonX has knowledge and expertise in the field, which is a characteristic of a professional.
+PersonX preorder, thus it can be seen about PersonX's attribute that PersonX get
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'persona') = No
+3. No (T is unclear about what 'PersonX get')
+4. False. Because result of 2 is No.
+PersonX stay happy, thus it can be seen about PersonX's attribute that PersonX be well pay
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'persona') = Yes
+3. No (T is unclear about the relationship between being happy and being well pay)
+4. False. Because result of 3 is No.
+PersonX hand slip, thus it can be seen about PersonX's attribute that PersonX fall
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'persona') = No
+3. Yes
+4. False. Because result of 2 is No.
+PersonX first start this job, thus it can be seen about PersonX's attribute that PersonX be work
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'persona') = Yes
+3. No (T is unclear about what 'PersonX be work' means)
+4. False. Because result of 3 is No.
+PersonX readily believe so, thus it can be seen about PersonX's attribute that PersonX be convinced
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'persona') = Yes
+3. Yes
+4. True. Because being convinced is a mental state that can result from readily believing something.
+PersonX have nothing else, thus it can be seen about PersonX's attribute that PersonX see PersonY
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'persona') = Yes
+3. Yes
+4. True. Because when a person has nothing else, they may seek comfort or companionship from others, which can lead to seeing PersonY.
+PersonX have not hear a car drive up, thus it can be seen about PersonX's attribute that PersonX be startle
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'persona') = Yes
+3. Yes
+4. True. Because not hearing a car drive up can startle a person.
+PersonX miss, thus it can be seen about PersonX's attribute that PersonX be promise
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'persona') = Yes
+3. No (T is unclear about what 'PersonX be promise' means)
+4. False. Because result of 3 is No.
+PersonX relate, thus it can be seen about PersonX's attribute that PersonX feel
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'persona') = Yes
+3. Yes
+4. True. Because 'relate' implies that PersonX is able to connect with others on an emotional level, which suggests that PersonX is likely to have feelings.
+PersonX mistakenly shave PersonY head, thus it can be seen about PersonX's attribute that PersonX be upset
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'persona') = Yes
+3. Yes
+4. True. Because mistakenly shaving someone's head is likely to cause upset or distress.
+PersonX believe thing, thus it can be seen about PersonX's intention that PersonX belief be true
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'mental state') = Yes
+3. Yes
+4. True. Because the inference suggests that PersonX intends for their belief to be true, which is a common motivation for holding a belief.
+PersonX ride the light rail, thus it can be seen about PersonX's intention that PersonX do not need a car
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = Yes
+3. Yes
+4. True. Because riding the light rail implies that PersonX prefers public transportation over owning a car, indicating that PersonX does not need a car.
+PersonX would at have one person, thus it can be seen about PersonX's intention that PersonX wish
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'mental state') = Yes
+3. No (T is unclear about what PersonX wishes for)
+4. False. Because result of 3 is No.
+PersonX can form a opinion, thus it can be seen about PersonX's intention that PersonX have a opinion
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'mental state') = Yes
+3. Yes
+4. True. Because the ability to form an opinion implies having an opinion.
+PersonX wake up late for work, thus it can be seen about PersonX's intention that PersonX almost die
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'mental state') = Yes
+3. No (T is unclear about the relationship between waking up late and almost dying)
+4. False. Because result of 3 is No.
+The event PersonX get even happier will not happen unless PersonX be happy
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = Yes
+3. Yes
+4. True. Because the inference suggests that being happy is a necessary condition for getting even happier, which is a reasonable assumption.
+The event PersonX make wedding cake will not happen unless PersonX make PeopleX for everyone
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because the inference suggests that making PeopleX for everyone is a necessary condition for the event of making wedding cake to happen.
+The event PersonX just activate it will not happen unless PersonX use it
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because the inference suggests that the event will only happen if PersonX uses it, which implies a causal relationship between the activation and usage of the event.
+The event PersonX go lady at counter will not happen unless PersonX be intolerant
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = Yes
+3. Yes
+4. True. Because the inference suggests that PersonX's intolerance is a necessary condition for the event to happen, implying a causal relationship between the two.
+The event PersonX pay by card will not happen unless PersonX can use PersonX debit card
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = No
+3. Yes
+4. False. Because result of 2 is No.
+The event PersonX want to be a actor will not happen unless PersonX make plan
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because the inference suggests that in order for PersonX's desire to become an actor to happen, they need to take action and make a plan. This is a logical and reasonable assumption.
+The event PersonX make a speech will not happen unless PersonX start
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because the inference implies that the event of PersonX making a speech is dependent on PersonX starting, which is a logical and reasonable assumption.
+The event PersonX get sick of that will not happen unless PersonX breathe
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because getting sick is often related to physical health, which is affected by breathing. Therefore, it is likely that if PersonX stops breathing, they will get sick.
+Because PersonX break PersonX hip, PersonX have begin to recover
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because breaking a hip is a significant event that requires recovery, and it is likely that PersonX is recovering after the event.
+Because PeopleX go faster, PeopleX be fast
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = No
+3. Yes
+4. False. Because result of 2 is No.
+Because harvey have a secret, PersonY ask
+1. D_c = 'persona'
+2. R(D_c, D_i) = R('persona', 'event') = Yes
+3. No (T is unclear about what PersonY is asking)
+4. False. Because result of 3 is No.
+Because PeopleX retire, PeopleX be older
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = No
+3. Yes
+4. False. Because result of 2 is No.
+Because PersonX do that well, it be so crazy
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = Yes
+3. No (T is unclear about what 'it be so crazy' means)
+4. False. Because result of 3 is No.
+After PeopleX be not home, PersonX live a married life
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because the inference suggests that PersonX is living a married life only when PeopleX is not home, implying that PersonX is having an affair.
+After PersonX do something to PersonY, PersonY do something
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because the inference suggests a cause-and-effect relationship between PersonX's action and PersonY's subsequent action.
+After PersonX love this soup, PersonX be a soup fan
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = Yes
+3. Yes
+4. True. Because loving a particular soup can lead to a preference for soup in general, making PersonX a soup fan.
+Before PersonX lock the door, no one could intrude
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because locking the door is a preventive action to avoid intrusion.
+Before PersonX have a break, PersonX totally get it
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = No
+3. Yes
+4. False. Because result of 2 is No.
+Before PersonX wouldnt, PersonX have faith
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = Yes
+3. No (T is unclear about what 'PersonX have faith' means)
+4. False. Because result of 3 is No.
+Before PersonX be write a play, PersonX use a corny pick up line
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because the use of a corny pick up line is an event that happened before the event of writing a play, and there is no ambiguity in the meaning of the clauses.
+The event PersonX watch one will not happen, if PersonX be interested
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = No
+3. Yes
+4. False. Because result of 2 is No.
+The event PersonX show % certainty in claim will not happen, if there be certainty
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = Yes
+3. No (T is unclear about what 'there be certainty' means)
+4. False. Because result of 3 is No.
+The event PersonX clean PersonY bathroom will not happen, if PersonX run out of supplies
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because if PersonX runs out of supplies, they cannot clean PersonY's bathroom, which means the event of cleaning the bathroom will not happen.
+The event PersonY play by herself will not happen, if PersonY be happier
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = No
+3. Yes
+4. False. Because result of 2 is No.
+The event PersonX achieve that will not happen, if PersonX could have
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = No
+3. No (T is unclear about what 'PersonX could have')
+4. False. Because result of 2 is No.
+The event PersonX run away will not happen, if PersonY would better hurry
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because if PersonY hurries, it can prevent PersonX from running away, which means the event of PersonX running away will not happen.
+The event PersonX know PersonY will not happen, if y don
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = Yes
+3. No (T is unclear about what 'y don' means)
+4. False. Because result of 3 is No.
+The event PeopleX be gon na take pete there will not happen, if PeopleY do not call PersonX bitch
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. No (T is unclear about the relationship between PeopleY's action and the event)
+4. False. Because result of 3 is No.
+The event PersonX send PersonY home will not happen, if now it be up
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. No (T is unclear about what 'now it be up' means)
+4. False. Because result of 3 is No.
+The event PersonX be misbehave will not happen, if PeopleX be misbehave
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. False. Because the inference is not logically sound and does not make sense. The occurrence of one person misbehaving does not necessarily prevent another person from misbehaving.
+The event PersonX do not think PersonY will not happen, if there be actually something
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. No (T is unclear about what 'there be actually something' means)
+4. False. Because result of 3 is No.
+The event PersonX get this job will not happen, if PersonX have little experience
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = No
+3. Yes
+4. False. Because result of 2 is No.
+The event that be deep will not happen, if PersonX probably deserve it
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = Yes
+3. No (T is unclear about what 'PersonX probably deserve it' means)
+4. False. Because result of 3 is No.
+The event PersonX look pale will not happen, if PersonY grow pale
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. Yes
+4. True. Because if PersonY grows pale, it is likely that PersonX will not look pale as the attention will be on PersonY's paleness.
+The event PersonX see a opening will not happen, if PersonX just have to be careful
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = Yes
+3. Yes
+4. True. Because the inference suggests that if PersonX is careful, the event of seeing an opening will not happen, implying that PersonX's mental state of being careful affects the likelihood of the event happening.
+The event PersonX wish for it will not happen, if it be desirable
+1. D_c = 'mental state'
+2. R(D_c, D_i) = R('mental state', 'event') = Yes
+3. Yes
+4. True. Because the inference suggests that if something is desirable, then it is unlikely to happen even if PersonX wishes for it. This is a common belief and does not have any ambiguity in its meaning.
+The event PersonX see includes the event/action that some see
+1. D_c = 'event'
+2. R(D_c, D_i) = R('event', 'event') = Yes
+3. No (T is unclear about who or what is being referred to by 'some')
+4. False. Because result of 3 is No.

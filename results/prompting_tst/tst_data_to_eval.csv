@@ -1,0 +1,980 @@
+head,relation,tail,class,split,label,dim
+PersonX argue with PersonY,oEffect,PersonY be not a PersonZ,cs_head,tst,0,event
+PersonX steal PersonY,oEffect,PersonY would ever know,cs_head,tst,0,event
+PersonX be act weird,oEffect,PersonY do not go with PersonX,cs_head,tst,1,event
+PersonX arch PersonY 's back,oEffect,PersonY want to produce the item,test_set,tst,0,event
+PersonY pick up phone,oEffect,PersonY must respond to the,test_set,tst,0,event
+PersonX ask PersonY do that,oEffect,PersonY volunteer to do something,test_set,tst,1,event
+PersonX be at work,oEffect,PersonY be go,cs_head,tst,0,event
+PersonX drop PersonY 's head,oEffect,PersonY look back at PersonX,test_set,tst,0,event
+PersonX find out,oEffect,PersonY do not make that trip,cs_head,tst,0,event
+PersonX come gw2 from wow,oEffect,PersonY run back,all_head,tst,0,event
+PersonX train,oEffect,PersonY be not sure,cs_head,tst,0,event
+PersonX would have sell PersonZ for rate,oEffect,PersonY wife have survive,all_head,tst,0,event
+PersonX read it at first,oEffect,PersonY reply to PersonX,all_head,tst,1,event
+PersonX go to work day,xEffect,PersonX be stick on one,cs_head,tst,0,event
+PersonX do not want to give up much,xEffect,PersonX highly suggest watch,all_head,tst,0,event
+PersonX do not practice it,xEffect,PersonX have a time,cs_head,tst,1,event
+PersonX never own PersonX love,xEffect,PersonX eye should manifest PersonX love,all_head,tst,0,event
+PersonX can change PersonX leader,xEffect,PersonX have unit,all_head,tst,0,event
+PersonX go home time,xEffect,PersonX have get to understand something,all_head,tst,0,event
+PersonX order a salad,xEffect,PersonX give a three star,cs_head,tst,0,event
+PersonX want,xEffect,PersonX can disable in bio,cs_head,tst,0,event
+PersonX be in a good mood,xEffect,PersonX smile,test_set,tst,1,event
+PersonX start early,xEffect,PersonX go home early,test_set,tst,1,event
+PersonX wipe PersonX forehead,xEffect,PersonX study it,cs_head,tst,0,event
+PersonX do not have to work,xEffect,PersonX wife do,cs_head,tst,0,event
+PersonX be in the car,xEffect,PersonX do not check PersonX sandwich,cs_head,tst,0,event
+PersonX dining experience be ruin,xEffect,PersonX even get PersonX meal,all_head,tst,0,event
+PersonX can make a appt,xEffect,PersonX leave message,all_head,tst,1,event
+PersonX would like,xEffect,PersonX could reach out to PeopleX,cs_head,tst,0,event
+PersonX be lose,xEffect,PersonX use something,test_set,tst,0,event
+PersonX lose the lottery,xEffect,PersonX leave that,test_set,tst,0,event
+PersonX give PeopleX each,xEffect,PersonX know about gambling,all_head,tst,0,event
+PersonX get to destination,xEffect,PersonY see,test_set,tst,0,event
+PersonX dump PersonY,xEffect,PersonX realize,cs_head,tst,0,event
+PersonX break the rule,xEffect,PersonX be off for a 24-hour shift at hospital,cs_head,tst,0,event
+PersonX can blend,xEffect,PersonX use a solvent,all_head,tst,0,event
+PersonX ask PersonY,xEffect,PersonX will go,cs_head,tst,0,event
+PersonX bolt out restaurant,xEffect,PersonX speak PersonY for minute,all_head,tst,0,event
+PersonX walk into flame,xEffect,PersonX be call the unburnt,all_head,tst,1,event
+PersonX be expect something,xEffect,PersonX see something outside,test_set,tst,0,event
+PersonX have not do,xEffect,PersonX can not comment on it,cs_head,tst,1,event
+PersonX get sick of that,xEffect,PersonX let,test_set,tst,0,event
+PersonX tremble,xEffect,what PeopleX do,test_set,tst,0,event
+PersonX make some cookie,xEffect,PersonX get dirty,test_set,tst,1,event
+PersonX catch fly,xEffect,PersonX use insect poison,test_set,tst,0,event
+PersonX husband come to PersonX,xEffect,PersonX would be sympathetic,all_head,tst,1,event
+PersonX pee in bed,xEffect,PersonX be old,cs_head,tst,0,event
+PersonX take a step forward,xEffect,PersonX demand,cs_head,tst,0,event
+PersonX stand still,xEffect,PersonX would starve,cs_head,tst,1,event
+PersonX make a change,xEffect,PersonX want to make a change,cs_head,tst,0,event
+PersonX have a fit,xEffect,PersonX go to sleep,test_set,tst,0,event
+PersonX can not think straight,xEffect,PersonX can not help yourself,cs_head,tst,1,event
+PersonX have a paper,xEffect,PersonX could not take PersonY to convention,cs_head,tst,1,event
+PersonX be now pretty sure,xEffect,PersonX guess,all_head,tst,0,event
+PersonX rise to challenge,xEffect,PersonX scream bloody murder,test_set,tst,0,event
+PersonX conceal PersonX identity,xEffect,PersonX do not get recognize,test_set,tst,1,event
+PersonX pry open,xEffect,PersonX wander around,test_set,tst,0,event
+PersonX can make 225,xEffect,PersonX be at,all_head,tst,0,event
+PersonX get into that,xEffect,PersonX just notice it,cs_head,tst,0,event
+PersonX change PersonX behavior,xEffect,PersonX never go back to prison,cs_head,tst,1,event
+PersonX go beg,xEffect,PersonX be jobless,cs_head,tst,0,event
+PersonX turn to reascend,xEffect,PersonX lay full in moonlight,all_head,tst,0,event
+PersonX could not tell mayor koch at time,xEffect,PersonX office be participate in investigation,all_head,tst,0,event
+PersonX take PersonY example,xEffect,PersonX succeed,test_set,tst,0,event
+PersonX purchase mine,xEffect,PersonX turn around,all_head,tst,0,event
+PersonX be on the ground,xEffect,PersonX do not find out,cs_head,tst,0,event
+PersonX eat everything,xEffect,PersonX gain weight,test_set,tst,1,event
+PersonX tremble,xEffect,PersonX read about online,test_set,tst,0,event
+PersonX convince PersonX parent,oWant,PersonY want to follow PersonX with tracker,test_set,tst,0,event
+PersonX ask PersonX sister,oWant,PersonY say yes,cs_head,tst,0,event
+PersonX would have marry PersonY ago,oWant,PersonY would have have PersonX,all_head,tst,1,event
+PersonY want to admire PersonX,oWant,PersonY want to cooperate with PersonX,test_set,tst,0,event
+PersonX could not get a good one at price,oWant,PersonY will open this door,all_head,tst,0,event
+PersonX shall take PersonY case,oWant,PersonY answer one last question,all_head,tst,0,event
+PersonX draw those four jack,oWant,PersonY would talk to PersonZ,all_head,tst,0,event
+PersonX give PersonY a sign,oWant,PersonY lose PersonY mind,cs_head,tst,0,event
+PersonX raise PersonY 's glass,oWant,PersonY get a refill,test_set,tst,1,event
+PersonY want to ignore PersonX,oWant,PersonX throw a ball,test_set,tst,0,event
+PersonX stand in shadow,oWant,PersonY lay PersonY hand gently,all_head,tst,0,event
+PersonX have nothing to give PersonY in return,oWant,PersonY be kind,all_head,tst,0,event
+PersonX grab PersonY gun,oWant,PersonY do not move,cs_head,tst,1,event
+PersonX sit next to PersonY,oWant,PersonY seem very emotional,cs_head,tst,0,event
+PersonX alter PersonY 's course,oWant,PersonY want to thank PersonX,test_set,tst,1,event
+PersonX buy that,oWant,PersonY be more of positivist,cs_head,tst,0,event
+PersonX make contact with PersonY,oWant,whatever PeopleX be sell,test_set,tst,0,event
+PersonX papa be not the same,oWant,PersonY stop racetrack business,all_head,tst,0,event
+PersonX harass PersonY for it,oWant,PersonY to stop,test_set,tst,1,event
+PersonX do not make the cut,oWant,PersonY want to try out themselves,test_set,tst,0,event
+PersonX advertise PersonX 's business,xWant,PersonX want to have a successful business,test_set,tst,1,event
+PersonX be fire from job,xWant,PersonX want to cry,test_set,tst,1,event
+PersonX have fantasize about all,xWant,PersonX leave,all_head,tst,0,event
+PersonX meet PersonY for lunch,xWant,PersonX want to go for walk,test_set,tst,0,event
+PersonX be at the gym,xWant,PersonX have to rush through it,cs_head,tst,0,event
+PersonX create PersonY structure,xWant,PersonX stack stone,test_set,tst,0,event
+PersonX owe PersonY money,xWant,PersonX avoid PersonY,cs_head,tst,1,event
+PersonX miss PersonX stop,xWant,PersonX should be here,cs_head,tst,0,event
+PersonX have a new home,xWant,PersonX can longer enter its border,cs_head,tst,0,event
+PersonX can not even drink a sip of alcohol,xWant,PersonX be too afraid,all_head,tst,0,event
+PersonX win,xWant,PersonX would shop everyday,cs_head,tst,0,event
+PersonX sometimes have sex,xWant,PersonX do not like to make a habit,all_head,tst,0,event
+PersonX like brooklyn 99,xWant,PersonX do not really have one,all_head,tst,0,event
+PersonX get the finger,xWant,PersonX would feel worse,all_head,tst,0,event
+PersonX would gladly pay PersonY,xWant,PersonX lick PersonY nipple,all_head,tst,1,event
+PersonX get in pack,xWant,PersonX just start play ago,all_head,tst,0,event
+PersonX scroll farther farther,xWant,PersonX be a fetus,all_head,tst,0,event
+PersonX expectation be pretty high,xWant,PersonX be,all_head,tst,0,event
+PersonX make bad choice,xWant,PersonX get higher,cs_head,tst,0,event
+PersonX pull face,xWant,PersonX feel successful,test_set,tst,0,event
+PersonX move PersonY car,xWant,PersonX lock the car,test_set,tst,0,event
+PersonX be in to get there,xWant,PersonX didn,all_head,tst,0,event
+PersonX werert sure about that,xWant,PersonX would tell PersonY,all_head,tst,0,event
+PersonX feel something,xWant,PersonX have say,cs_head,tst,0,event
+PersonX want to avoid total disaster,xWant,PersonX be a heavy sleeper,test_set,tst,0,event
+PersonX lend PersonY money,xWant,PersonX demand PersonY signature at bottom,cs_head,tst,1,event
+PersonX find none,xWant,PersonX feel bad,cs_head,tst,0,event
+PersonX feel trap,xWant,PersonX could not leave,cs_head,tst,0,event
+PersonX put it in room,xWant,PersonX want to have a house warm party,test_set,tst,0,event
+PersonX join PersonX,xWant,PersonX be something,test_set,tst,0,event
+PersonX find a pay phone,xWant,PersonX want to grab PeopleX quarter,test_set,tst,1,event
+PersonX feel so nervous,xWant,PersonX be so skinny,cs_head,tst,0,event
+PersonX still want attention,xWant,PersonX complain on reddit,all_head,tst,0,event
+PersonX go to door,xWant,PersonX open it,cs_head,tst,1,event
+PersonX see PersonY girlfriend,xWant,PersonX hang out with girlfriend,test_set,tst,1,event
+PersonX have go on vacation,xWant,PersonX believe,all_head,tst,0,event
+PersonX give PersonY the slip,xWant,PersonX prefer,cs_head,tst,0,event
+PersonX lose PersonX appetite,xWant,PersonX even finish PersonX meal,cs_head,tst,0,event
+PersonX read PersonY diary,xWant,PersonX can refresh PersonX memory,cs_head,tst,1,event
+PersonX be miss out on experience,xWant,PersonX let,all_head,tst,0,event
+PersonX be say PersonY name,xWant,PersonX take down stone,all_head,tst,0,event
+PersonX will be see PersonY,xWant,PersonX will be see PersonY,all_head,tst,0,event
+PersonX do not know it,xWant,PersonX be nothing,cs_head,tst,0,event
+PersonX visit PersonX daughter,xWant,PersonX want to talk to daughter,test_set,tst,1,event
+PersonX hate sweetener,xWant,PersonX recommend it,all_head,tst,0,event
+PersonX have always want it,xWant,PersonX be so pump,cs_head,tst,0,event
+PersonX save PersonY 's people,xWant,PersonX calm everyone down,test_set,tst,1,event
+PersonX need to replace something,xWant,PersonX turn PersonY back,test_set,tst,0,event
+PersonX want to be cautious,xWant,PersonX reluctantly agree,test_set,tst,0,event
+PersonX be hungover,xWant,PersonX have see,cs_head,tst,0,event
+PersonX be shock at response,xWant,PersonX inform PersonY,all_head,tst,1,event
+PersonX do not want to miss that,oReact,PersonY hear,cs_head,tst,0,mental state
+PersonX msg,oReact,PersonY follow back,all_head,tst,0,mental state
+PersonX be very skinny,oReact,PersonY wake PersonX,cs_head,tst,0,mental state
+PersonX be not there,oReact,PersonY get so scared,all_head,tst,0,mental state
+PersonX grab PersonY hair,oReact,PersonY be hurt,test_set,tst,1,mental state
+PersonX want to hurt PersonY,oReact,PersonY be feel betray,test_set,tst,1,mental state
+PersonX have a golf course,oReact,PersonY hit it,all_head,tst,0,mental state
+PersonX sign up for class,oReact,PersonY can tell PersonX,cs_head,tst,0,mental state
+PersonX want a cat,oReact,PersonX be affectionate,test_set,tst,0,mental state
+PersonY be happily surprised,oReact,PersonX catch PersonY 's attention,test_set,tst,0,mental state
+PersonX donate plasma,oReact,PersonY be glad,test_set,tst,1,mental state
+PersonX make food,oReact,PersonY will have to wait,cs_head,tst,0,mental state
+PersonX grant PersonZ request,oReact,PersonY will try it,cs_head,tst,0,mental state
+PersonX meet PersonX father,oReact,PersonX get the part,test_set,tst,0,mental state
+PersonX give PersonY PersonX name,oReact,PersonY be influential,test_set,tst,0,mental state
+PersonX love makeup,oReact,PersonY get PersonX,cs_head,tst,0,mental state
+PersonX explain everything thoroughly,oReact,PersonY be get,all_head,tst,0,mental state
+PersonX love hear,xReact,PersonX be still wait for sale,cs_head,tst,0,mental state
+PersonX have get to hook,xReact,PersonX run the chance,all_head,tst,0,mental state
+PersonX can lead PeopleX right,xReact,PersonX know the trick,all_head,tst,0,mental state
+PersonX improve yourself,xReact,PersonX be really worried,cs_head,tst,0,mental state
+PersonX feel sad,xReact,PersonX be down blue,test_set,tst,1,mental state
+PersonX be secure in masculinity,xReact,PersonX can answer a hypothetical,all_head,tst,0,mental state
+PersonX want to hurt PersonY,xReact,PersonX just bail on tonight,cs_head,tst,0,mental state
+PersonX could live on side,xReact,PersonX move here,all_head,tst,0,mental state
+PersonX be send back,xReact,PersonX father demand,all_head,tst,0,mental state
+PersonX be walk along beach,xReact,PersonX be satisfied,test_set,tst,1,mental state
+PersonX just want to play with sr1mp,xReact,PersonX can buy it,all_head,tst,0,mental state
+PersonX follow the recipe exactly,xReact,PersonX be satisfied,test_set,tst,1,mental state
+PersonX should try it especially,xReact,PersonX have several hour,all_head,tst,0,mental state
+PersonX divorce PersonX wife,xReact,PersonX love june,cs_head,tst,0,mental state
+PersonX find PersonY channel,xReact,PersonX understand better,all_head,tst,0,mental state
+PersonX quit day,xReact,PersonX should pick up smoking,cs_head,tst,0,mental state
+PersonX decide to order a pizza,xReact,PersonX have just move,cs_head,tst,0,mental state
+PersonX be not,xReact,PersonX just get sick,cs_head,tst,0,mental state
+PersonX mock PersonY,xReact,PersonX be in earnest,cs_head,tst,0,mental state
+PersonX can take PersonY back,xReact,PersonX will have a place of own,all_head,tst,0,mental state
+PersonX give PersonY the courage,xReact,PersonX be good,test_set,tst,1,mental state
+PersonX be embolden,xReact,PeopleX be party,test_set,tst,0,mental state
+PersonX meet PersonX father,xReact,PersonX get out prison,cs_head,tst,0,mental state
+PersonX borrow some money,xReact,PersonX could not pay it back,cs_head,tst,0,mental state
+PersonX put it in purse,xReact,PersonX get back something,test_set,tst,0,mental state
+PersonX visit usa,xReact,PersonX move,all_head,tst,0,mental state
+PersonX want dinner,xReact,PersonX be hungry,cs_head,tst,0,mental state
+PersonX be not do a job properly,xReact,PersonX be sack,all_head,tst,0,mental state
+PersonX be all stay,xReact,PersonX be go,all_head,tst,0,mental state
+PersonX be go to get that,xReact,PersonX deserve everything,cs_head,tst,1,mental state
+PersonX be sick again,xReact,PersonX be,cs_head,tst,0,mental state
+PersonX be good at it,xReact,PersonX say yeah,cs_head,tst,0,mental state
+PersonX gae awa to bed,xReact,PersonX sit up,all_head,tst,0,mental state
+PersonX play PersonY 's favorite song,xReact,PersonX be good,test_set,tst,1,mental state
+PersonX pay the bill,xReact,PersonX leave,cs_head,tst,0,mental state
+PersonX work PersonY way up,xReact,PersonX be happy,test_set,tst,1,mental state
+PersonX like spending time with PersonY,xReact,PersonX be more happy,cs_head,tst,1,mental state
+PersonX wake up feeling,xReact,PersonX be a heavy sleeper,cs_head,tst,0,mental state
+PersonX never occur to PersonY,xReact,PersonX be unaware,test_set,tst,0,mental state
+PersonX could not bring PersonX mouth to negative,xReact,PersonX assent,all_head,tst,0,mental state
+PersonX move PersonX car,xReact,PersonX be sneaky,test_set,tst,0,mental state
+PersonX give PersonY a ring,xReact,PersonX think of anything,cs_head,tst,0,mental state
+PersonX need to use something,xReact,PersonX will need,cs_head,tst,0,mental state
+PersonX save PersonY 's people,xReact,PersonX look PersonY in face,test_set,tst,0,mental state
+PersonX would have miss PersonY,xReact,PersonX be careless,all_head,tst,0,mental state
+PersonX find another gear,xReact,PersonX start,test_set,tst,0,mental state
+PersonX get a new pet,xReact,PersonX feel happy,test_set,tst,1,mental state
+PersonX be on any kind of insurance,xReact,PersonX save,all_head,tst,1,mental state
+PersonX go to city,xReact,PersonX get PersonX breakfast,cs_head,tst,0,mental state
+PersonX would have be stop,xReact,PersonX have do anything,all_head,tst,0,mental state
+PersonX be go to do that,xReact,PersonX have the option,cs_head,tst,0,mental state
+PersonX be kind,xReact,PersonX put everything together,test_set,tst,0,mental state
+PersonX have be wait for something,xReact,PersonX sit down next to PersonY,test_set,tst,0,mental state
+PersonX feel nervous,xReact,PersonX can not move,cs_head,tst,0,mental state
+PersonX could realise it,xReact,PersonX lose PersonX composure,all_head,tst,0,mental state
+PersonX start to date,xReact,PersonX be optimistic,test_set,tst,1,mental state
+PersonX need to pee,xReact,PersonX realize,cs_head,tst,0,mental state
+PersonX want to lose weight,xReact,PersonX should reconsider,cs_head,tst,0,mental state
+PersonX put pen to paper,xReact,PersonX must write,all_head,tst,0,mental state
+PersonX be efficient,xReact,PersonX make arrangement,test_set,tst,0,mental state
+PersonX practice again,xAttr,PersonX shall be glad,cs_head,tst,0,persona
+PersonX see PersonY alone,xAttr,PersonX confess,test_set,tst,0,persona
+PersonX have tomorrow,xAttr,PersonX stand up to PersonY,test_set,tst,0,persona
+PersonX be vigilent,xAttr,PersonX be consciencious,test_set,tst,1,persona
+PersonX get large,xAttr,PersonX be grow,cs_head,tst,1,persona
+PersonX get to patch,xAttr,PersonX get there,all_head,tst,0,persona
+PersonX feel emotionally happy,xAttr,PersonX be a dreamer,all_head,tst,0,persona
+PersonX sell PersonX jewelry,xAttr,PersonX fall into poverty,cs_head,tst,0,persona
+PersonX be a heavy sleeper,xAttr,PersonX would pick up,cs_head,tst,0,persona
+PersonX visit PersonY cousin,xAttr,PersonX be friendly,test_set,tst,1,persona
+PersonX be at grandma 's house,xAttr,PersonX eat here,cs_head,tst,0,persona
+PersonX break free,xAttr,PersonX be reach for it,cs_head,tst,0,persona
+PersonX do not mind make a appointment,xAttr,PersonX car be in great hand,all_head,tst,0,persona
+PersonX delete PersonY number,xAttr,PersonX wouldn,cs_head,tst,0,persona
+PersonX form PersonX acquaintance PeopleX at theatre,xAttr,PersonX be not easily disgust by vulgarity,all_head,tst,0,persona
+PersonX be brave,xAttr,PersonX watch scary movie,test_set,tst,0,persona
+PersonX have a couch,xAttr,PersonX be,cs_head,tst,0,persona
+PersonX face be downcast,xAttr,PersonX breast rise,all_head,tst,0,persona
+PersonX be to have a heaven of own hereafter,xAttr,PersonX will be its god,all_head,tst,0,persona
+PersonX have get yourself into hole,xAttr,PersonX will not let,all_head,tst,0,persona
+PersonX will provide link,xAttr,PersonX be back home,all_head,tst,0,persona
+PersonX mission here be end,xAttr,PersonX will go back to america,all_head,tst,0,persona
+PersonX have grocery,xAttr,PersonX get older,cs_head,tst,0,persona
+PersonX want to have fun,xAttr,PersonX be sit there,cs_head,tst,0,persona
+PersonX be at grandmother 's house,xAttr,PersonX be respectful,test_set,tst,1,persona
+PersonX avoid that,xAttr,PersonX avoid that,cs_head,tst,0,persona
+PersonX have a new toy,xAttr,PersonX be content,test_set,tst,1,persona
+PersonX be just like a whine little girl,xAttr,PersonX be a liar,all_head,tst,0,persona
+PersonX do not even wear,xAttr,PersonX guess,all_head,tst,0,persona
+PersonX like the rest of theory,xAttr,PersonX agree with observation,all_head,tst,0,persona
+PersonX find a piece of hair in soup,xAttr,PersonX first time eat here,all_head,tst,0,persona
+PersonX do not get it,xAttr,PersonX be a teenager,cs_head,tst,0,persona
+PersonX love to play with it,xAttr,PersonX be a kid,cs_head,tst,0,persona
+PersonX be on school 's basketball team,xAttr,PersonX wear something everyday,test_set,tst,0,persona
+PersonX mom be in bad shape,xAttr,PersonX need PersonY,all_head,tst,0,persona
+PersonX get a call back,xAttr,PersonX order be correct,cs_head,tst,0,persona
+PersonX share,xAttr,PersonX be social,test_set,tst,1,persona
+PersonX be on a stage,xAttr,PersonX can experience,cs_head,tst,0,persona
+PersonX be obidient,xAttr,PersonX be accomplish,test_set,tst,0,persona
+PersonX be peaceful,xAttr,PersonX be happy,cs_head,tst,1,persona
+PersonX could scarcely pronounce the word,xAttr,PersonX lip begin to quiver,all_head,tst,0,persona
+PersonX go simply,xAttr,PersonX should do so,all_head,tst,0,persona
+PersonX post it,xAttr,PersonX comment be at the top,cs_head,tst,0,persona
+PersonX hear the news,xAttr,PersonX so move,cs_head,tst,0,persona
+PersonX heart seem to jump up into throat,xAttr,PersonX have not know,all_head,tst,0,persona
+PersonX will much watch anything,xAttr,PersonX do not care it at all,all_head,tst,0,persona
+PersonX be clever,xAttr,PersonX be assist,test_set,tst,0,persona
+PersonX would be in super big trouble,xAttr,PersonX mom know,all_head,tst,0,persona
+PersonX would not give PersonY pain,xAttr,PersonX love PersonZ,all_head,tst,0,persona
+PersonX could play PeopleX,xAttr,PersonX get lucky,cs_head,tst,0,persona
+PersonX can see 'em,xNeed,PersonX can smell 'em,all_head,tst,0,event
+PersonX make PersonY assault,xNeed,PersonX give PersonY a weapon,test_set,tst,0,event
+PersonX wife be in the city,xNeed,PersonX bring home a lady friend,all_head,tst,0,event
+PersonX go to office,xNeed,PersonX need to money,test_set,tst,0,event
+PersonX rest on shoulder,xNeed,PersonX come to PersonY,test_set,tst,1,event
+PersonX share,xNeed,PersonX make a agreement,test_set,tst,0,event
+PersonX go to do something,xNeed,PersonX look back,cs_head,tst,0,event
+PersonX will be bite to death,xNeed,PersonX meet PeopleX,all_head,tst,0,event
+PersonX need to reach out to customer,xNeed,PersonX need to get money for account,test_set,tst,0,event
+PersonX credit,xNeed,PersonX take up cycling,cs_head,tst,0,event
+PersonX lose PersonX sight,xNeed,PersonX father collect book,cs_head,tst,0,event
+PersonX make much money,xNeed,PersonX play the lottery,test_set,tst,1,event
+PersonX decide to play,xNeed,PersonX love,cs_head,tst,0,event
+PersonX bow PersonX head,xNeed,PersonX get dresss,test_set,tst,0,event
+PersonX use to think about it,xNeed,PersonX make the deal,all_head,tst,0,event
+PersonX assume something,xNeed,PersonX need to work on skill,cs_head,tst,0,event
+PersonX devise a plan,xNeed,PersonX consolidate PersonX position,test_set,tst,0,event
+PersonX be not interested in it,xNeed,PersonX see,cs_head,tst,0,event
+PersonX need to put it into player,xNeed,PersonX put PersonX phone away,test_set,tst,0,event
+PersonX will take a photograph of PersonY,xNeed,PersonX locate PersonY,all_head,tst,1,event
+PersonX need to confront PersonY 's friend,xNeed,PersonX challenge PersonY 's friend,test_set,tst,1,event
+PersonX choke the chicken,xNeed,PersonX need to find a chicken,test_set,tst,1,event
+PersonX send a letter,xNeed,PersonX need to write a letter,test_set,tst,1,event
+PersonX get lose,xNeed,PersonX try to explain it,cs_head,tst,0,event
+PersonX hang PersonX clothes,xNeed,PersonX pick out a game,test_set,tst,0,event
+PersonX jump into race,xNeed,PersonX have a idea,all_head,tst,0,event
+PersonX open door,xNeed,PersonX need to walk,test_set,tst,1,event
+PersonX demand PersonY attention,xNeed,PersonX send PersonY dozen letter,cs_head,tst,0,event
+PersonX be near the goal,xIntent,PersonX have not,all_head,tst,0,mental state
+PersonX want to try it,xIntent,PersonX notice,cs_head,tst,0,mental state
+PersonX take some artistic liberty,xIntent,PersonX do not remember,all_head,tst,0,mental state
+PersonX want to make art,xIntent,PersonX make a decision,test_set,tst,0,mental state
+PersonX be at the party,xIntent,PersonX be there,cs_head,tst,1,mental state
+PersonX go to work day,xIntent,PersonX feel great,cs_head,tst,0,mental state
+PersonX get super spook,xIntent,PersonX be very young,all_head,tst,0,mental state
+PersonX wear PersonY boot,xIntent,PersonX show off the boot,test_set,tst,1,mental state
+PersonX seek,xIntent,PersonX love PersonY more,cs_head,tst,0,mental state
+PersonX never lose,xIntent,PersonX win everything,test_set,tst,1,mental state
+PersonX usually do that,xIntent,PersonX like to do that,test_set,tst,0,mental state
+PersonX should share some the burden,xIntent,PersonX be marry to cody,all_head,tst,0,mental state
+PersonX hit the headline,xIntent,PersonX be not a know celebrity,test_set,tst,0,mental state
+PersonX like gift,xIntent,PersonX say sorry,test_set,tst,0,mental state
+PersonX understand the question right,xIntent,PersonX be not quite sure,all_head,tst,0,mental state
+PersonX never drink,xIntent,PersonX recognize,cs_head,tst,0,mental state
+PersonX have only try a few thing on menu,xIntent,PersonX be a creature of habit,all_head,tst,0,mental state
+PersonX throw a ball,xIntent,PersonX play,test_set,tst,1,mental state
+PersonX better wait about hour,xIntent,PersonX want answer,all_head,tst,0,mental state
+PersonX can print letter,xIntent,PersonX try,all_head,tst,0,mental state
+PersonX be first in line,isBefore,PersonX lead the group hall,test_set,tst,0,event
+PersonX find a good deal,isBefore,PersonX buy a painting,test_set,tst,1,event
+PersonX have jean,isBefore,PersonX be use PersonY,cs_head,tst,0,event
+other thing console,isBefore,it be a shame,all_head,tst,0,event
+PersonX forget something,isBefore,PersonX have no time,test_set,tst,0,event
+PersonX tell PersonY wife,isBefore,PersonX offer a place,test_set,tst,0,event
+PersonY defeat the joker,isBefore,PersonY be need,all_head,tst,0,event
+PersonX come look for PersonY,isBefore,PersonX be lonely,cs_head,tst,0,event
+PersonX have a dad,isBefore,PersonY mean,cs_head,tst,0,event
+PersonX buy a computer,isBefore,PersonY interest,test_set,tst,0,event
+PersonX make PersonY acquaintance,isBefore,PersonX invite PersonY for coffee,test_set,tst,1,event
+PersonX raise the roof,isBefore,PersonX wait for shoe to drop,test_set,tst,0,event
+PersonX fall,isBefore,PersonX be dance for second,cs_head,tst,0,event
+PersonX examine closely the fossil,isBefore,PersonX take a shot,test_set,tst,0,event
+PersonX invite PersonY to dinner,isBefore,PersonX wait at home,test_set,tst,1,event
+PersonY be just date this PersonX,isBefore,that be PersonZ story,all_head,tst,0,event
+PersonX break PeopleX laptop,isAfter,PersonX be attend school,test_set,tst,1,event
+texas wake up,isAfter,PersonY will get some answer,all_head,tst,0,event
+PersonX take the exam,isAfter,PersonX study for test,test_set,tst,1,event
+PersonX go to do something,isAfter,PersonX explain,cs_head,tst,0,event
+PersonX can not find PersonX key,isAfter,PersonY be cry,cs_head,tst,0,event
+PersonX could look through glass,isAfter,tovey order the captain of v bring that battleship,all_head,tst,0,event
+PersonX make PersonX speech,isAfter,PeopleX appear in print,cs_head,tst,0,event
+PersonX actually already be,isAfter,michael be,all_head,tst,0,event
+PersonY parent would let PersonY,isAfter,PeopleX don,all_head,tst,0,event
+PersonX quickly fall in love,isAfter,PersonY work,cs_head,tst,0,event
+PersonX like hike,isAfter,PersonX live in mountain,test_set,tst,1,event
+PersonX eat everything,isAfter,PersonX go to buffet,test_set,tst,1,event
+PersonX have eyesight,isAfter,that be a different story,cs_head,tst,0,event
+PersonX see PersonX daughter,isAfter,PersonX see a cool car,test_set,tst,0,event
+PersonY uncle have give PersonY,isAfter,PersonY be order,all_head,tst,0,event
+PersonX do not get along,isAfter,PersonX can not work,test_set,tst,0,event
+PersonX help PersonY in way,isAfter,PersonY be try to help PersonX,cs_head,tst,1,event
+mother say nothing,isAfter,anna have to write it down,all_head,tst,0,event
+PersonX end thing,isAfter,PersonX prepare for school,test_set,tst,0,event
+PersonX look right at PersonY,isAfter,PersonX go into club,test_set,tst,0,event
+PersonX buy PersonY,isAfter,PersonX hope,cs_head,tst,0,event
+PeopleX bar be well stock,isAfter,PeopleX have a great tap selection,all_head,tst,1,event
+person x lose the instruction,HinderedBy,PersonX read the instruction,test_set,tst,1,event
+PersonX have to finish it in month,HinderedBy,silvia will leave,all_head,tst,1,event
+PersonX joke,HinderedBy,PeopleX have know each other for year,cs_head,tst,0,event
+PersonX have a terminal disease,HinderedBy,PersonX decide to be a vegetarian,test_set,tst,0,event
+PersonX have friend,HinderedBy,this happen,cs_head,tst,0,event
+PersonX develop web presence,HinderedBy,PersonX 's professor do not teach PersonY program,test_set,tst,0,event
+PersonX keep,HinderedBy,PersonX be very sick,test_set,tst,0,event
+PersonX stand up to PersonY,HinderedBy,larry 's go,cs_head,tst,0,event
+PersonX sew up,HinderedBy,PeopleX have get ta start think,all_head,tst,0,event
+PersonX have wear PersonX veil up,HinderedBy,mrs. falchion be sit very,all_head,tst,0,event
+PersonX drop it on floor,HinderedBy,PersonX be be watch by other,test_set,tst,0,event
+be PersonX in here,HinderedBy,king clown be cry the while,all_head,tst,0,event
+PersonX be not loud enough,HinderedBy,PersonX have a hurt leg,test_set,tst,0,event
+PersonX 's friend command PersonY be inconspicuous,HinderedBy,PersonY 's watch clasp be stick,test_set,tst,0,event
+PeopleX be bad at math,HinderedBy,it seem,all_head,tst,0,event
+PersonX get distract,HinderedBy,PersonY ask a question,cs_head,tst,0,event
+PersonX do not listen to PersonY,HinderedBy,PersonX be garbage,cs_head,tst,0,event
+that be silly,HinderedBy,PersonY hope so,cs_head,tst,0,event
+PersonX have a beard,HinderedBy,PersonY be not afeard,cs_head,tst,0,event
+s invite,HinderedBy,PersonX watch PersonX mouth,test_set,tst,0,event
+something do not make,HinderedBy,source do not mean,cs_head,tst,0,event
+it would make a difference,HinderedBy,PersonY sit down,all_head,tst,0,event
+PersonX call the ambulance,HinderedBy,PeopleX have fall unconscious,test_set,tst,1,event
+PersonY will fire PeopleX for hospitality,HinderedBy,the pea have break,test_set,tst,0,event
+the audience do not like PeopleX,HinderedBy,personx can not leave the house,test_set,tst,0,event
+PersonX grab,HinderedBy,PeopleX will bring PersonY PersonY food,cs_head,tst,0,event
+personx do not have good enough grip,HinderedBy,PersonX be none of business,test_set,tst,0,event
+person x be under age,HinderedBy,PersonY leave in way,test_set,tst,0,event
+PersonX do not have the piece,HinderedBy,PersonX have a sore arm,test_set,tst,0,event
+PersonY make much of misfortune,HinderedBy,PersonY son be but extravagant,all_head,tst,0,event
+person x have wrong direction,HinderedBy,PersonX see the show,test_set,tst,0,event
+PersonX stand on head,HinderedBy,PersonX shake PersonY hand,cs_head,tst,0,event
+PersonX have lose a shilling,HinderedBy,afternoon PersonX come into shop look,cs_head,tst,0,event
+PersonX refuse to pay,HinderedBy,the thing exist,cs_head,tst,0,event
+PersonY have nobody,HinderedBy,the result be,all_head,tst,0,event
+PersonX start hurt,HinderedBy,PeopleX do not have a gun,test_set,tst,0,event
+PersonX see,HinderedBy,person x can not see over crowd,test_set,tst,1,event
+PersonX be on a table,HinderedBy,PersonX be creepy,cs_head,tst,0,event
+PersonX now cast a timid glance at table,HinderedBy,PersonY do not know well,all_head,tst,0,event
+superstition have lavish,HinderedBy,policy have bestow,all_head,tst,0,event
+it be for this reason,HinderedBy,perhaps PersonX know it,all_head,tst,0,event
+PersonY be wear noise,HinderedBy,PersonX be bore by reading,test_set,tst,0,event
+PersonX be lock room by father,HinderedBy,PersonY be take a test,test_set,tst,0,event
+PersonX have day,HinderedBy,PersonX have a headache,cs_head,tst,0,event
+PersonX get dress for work,HinderedBy,PersonX be not at home,test_set,tst,0,event
+PersonX be bad at math,HinderedBy,when PersonX play,test_set,tst,0,event
+PersonX buy something,HinderedBy,PersonY will not give PersonX the key,cs_head,tst,0,event
+PersonX have decline,HinderedBy,PersonX show PersonY the receipt,all_head,tst,0,event
+one be not adventurous,HinderedBy,PersonY be a huge fan of place,all_head,tst,0,event
+PersonX get some work do,HinderedBy,it be too loud,test_set,tst,0,event
+PersonX fall from tree,HinderedBy,a tree fall on PersonX,cs_head,tst,1,event
+PersonY just miss the feeling,HinderedBy,PersonY intention be good,all_head,tst,0,event
+PersonX can not find PeopleX cd,HinderedBy,PersonX burn PeopleX mouth,test_set,tst,0,event
+PersonY have try it time,HinderedBy,that be harsh,all_head,tst,0,event
+PeopleX eat it,HinderedBy,PersonX be play dumb,cs_head,tst,0,event
+PersonX give PersonY a,HinderedBy,PersonX already have a kid,cs_head,tst,0,event
+PersonX be explain,HinderedBy,PersonX can hear,all_head,tst,0,event
+it be absolute truth,HinderedBy,it be really annoying,all_head,tst,0,event
+PersonY actually have finding of fact,HinderedBy,PersonX commit a obstruction,all_head,tst,0,event
+PersonX move the car,HinderedBy,PeopleX be toy,cs_head,tst,0,event
+PersonX have a cat name,HinderedBy,PersonY say,test_set,tst,0,event
+person x do not have a computer,HinderedBy,PersonX can not find the umbrella,test_set,tst,0,event
+PersonX draw PersonX last breath,HinderedBy,PersonX do not have the gut,test_set,tst,0,event
+PersonX get a bill,HinderedBy,PersonX get,cs_head,tst,0,event
+person y have hide PeopleX key,HinderedBy,personx do not have social media,test_set,tst,0,event
+the picture be bold,HinderedBy,life be busy about it,all_head,tst,0,event
+denzel washington play PersonY,HinderedBy,PersonY be not sell mine,all_head,tst,0,event
+PersonY will see the difference,HinderedBy,PeopleX look similar,all_head,tst,0,event
+PersonX have a new car,HinderedBy,PersonX do not have the money,test_set,tst,1,event
+PersonX express some doubt,HinderedBy,PersonX have the kid,all_head,tst,0,event
+PersonX almost wish,HinderedBy,PersonX see,all_head,tst,0,event
+PersonX have get to hit PersonY,HinderedBy,PersonY be go to keep,all_head,tst,0,event
+PersonX hold in hand,HinderedBy,PersonX run out of time,test_set,tst,0,event
+PersonX say uncle,HinderedBy,a baby be sleep in room,test_set,tst,0,event
+PersonX lose PersonX appetite,HinderedBy,PersonX love food,test_set,tst,1,event
+have PersonY see PersonX again,HinderedBy,madam be alone,all_head,tst,0,event
+PersonX have no shoe,HinderedBy,PersonX be live in country,test_set,tst,0,event
+PersonX love football,HinderedBy,PersonX do not know enough about football,test_set,tst,1,event
+PersonX be frightened,HinderedBy,PersonX behave well,cs_head,tst,0,event
+PersonX schedule,HinderedBy,not include,cs_head,tst,0,event
+PersonY be already marry,HinderedBy,PersonX decide to get a new haircut,test_set,tst,0,event
+men will go on way,HinderedBy,the kingdom of heaven be at hand,all_head,tst,0,event
+PeopleX be be restrain,HinderedBy,PersonX agree to disagree,test_set,tst,0,event
+the oil from hand can damage the patina,HinderedBy,one should always handle a antique vase from inside,all_head,tst,0,event
+PersonY could not have unbent to PersonX,HinderedBy,necessarily PersonY must have,all_head,tst,0,event
+everyone be ignore personx,HinderedBy,PersonX can not feel joy,test_set,tst,0,event
+PersonY have not air PersonY story on center,HinderedBy,PersonX be a reporter,all_head,tst,0,event
+PersonX come to term,HinderedBy,no money 's gon na get PersonX out,cs_head,tst,0,event
+PersonX still care for persony,HinderedBy,PersonY keep change seat,test_set,tst,0,event
+PersonX break the news to PersonY,HinderedBy,PersonY be not answer PeopleX phone,test_set,tst,1,event
+PersonY son will rule england,HinderedBy,PersonY win,all_head,tst,0,event
+PersonY have nowhere to go,HinderedBy,PersonX dad say,test_set,tst,0,event
+dream come true,HinderedBy,PersonX be such a goddamn martyr,cs_head,tst,0,event
+PersonX still have not hear any thanks,HinderedBy,PersonY be not,all_head,tst,0,event
+PersonX buy one,HinderedBy,PersonX be tell,test_set,tst,0,event
+PersonY have no money to share,HinderedBy,the job never offer the job,test_set,tst,0,event
+it be hot,HinderedBy,the m be hit PersonY,cs_head,tst,0,event
+PersonX get second place,Causes,PersonY mean yeah,cs_head,tst,0,event
+there be not any proof,Causes,nobody want to talk about it,all_head,tst,1,event
+PersonX do that for time,Causes,PersonX continue record music by myself,cs_head,tst,0,event
+PersonX be best friend,Causes,PersonX trade it,cs_head,tst,0,event
+PersonX know PersonY opinion,Causes,PersonX be tell PersonY,cs_head,tst,1,event
+PersonX just come from mass,Causes,PersonX have to be nice,all_head,tst,0,event
+PersonX have that,Causes,something be tight,test_set,tst,0,event
+PersonX remove something from there,Causes,that be lucky,test_set,tst,0,event
+PersonX follow PersonY instruction,Causes,it be simple,cs_head,tst,1,event
+PeopleX be in PersonX,Causes,PersonY say a PersonX,cs_head,tst,0,event
+PersonX will really enjoy this show,Causes,PersonX be a beatles fan,all_head,tst,0,event
+PersonX run down to bottom,Causes,PersonY cool,cs_head,tst,0,event
+PersonX double-check it,Causes,PersonY get killer 's dna,cs_head,tst,1,event
+PersonX have a quiz,Causes,PersonX have pen,test_set,tst,0,event
+PersonX study hard,Causes,PersonX can forget it,cs_head,tst,0,event
+PersonX have always want it,Causes,PersonX be so pump,cs_head,tst,0,event
+PersonX reproduce,Causes,PersonX be a republican,cs_head,tst,0,event
+PersonX meet PersonX mom,Causes,PersonY answer PersonX,cs_head,tst,0,event
+PersonX call for PersonY,Causes,PersonY tell PersonX,cs_head,tst,1,event
+that be aim at PersonX,Causes,PersonX be not sure,cs_head,tst,0,event
+PersonX get fit,Causes,PersonX be down,cs_head,tst,0,event
+PersonY like the food for part,Causes,PersonY be give this a 2 star,all_head,tst,0,event
+PersonX meet PersonY father,Causes,PersonY mother be marry,cs_head,tst,0,event
+PersonY child be baptize,Causes,the story go,all_head,tst,0,event
+PersonY gaze in face,Causes,PersonY say archly,all_head,tst,0,event
+PersonX be hardwork,Causes,PersonY seem to have nothing,cs_head,tst,0,event
+something be not right,Causes,PersonX talk about PeopleX,cs_head,tst,0,event
+PersonX visit PersonX mother,HasSubEvent,PersonY be watch nesbitt 's house,cs_head,tst,1,event
+PersonX steal anything,HasSubEvent,PersonX would not have,cs_head,tst,0,event
+PersonY be more forgiving about nature,HasSubEvent,PersonY do not tolerate it,all_head,tst,0,event
+PersonX have food,HasSubEvent,PersonX chew,test_set,tst,1,event
+PersonX have eyesight,HasSubEvent,the sun be not even shine,cs_head,tst,0,event
+the car will not start,HasSubEvent,it be slippery on drive,cs_head,tst,0,event
+PeopleX have examine in chapter,HasSubEvent,the difference be such,all_head,tst,0,event
+PersonX accuse anybody,xWant,PersonX need evidence,adv,tst,0,event
+PersonX sew,xWant,PersonX be handy with needle,adv,tst,0,event
+PersonX doubt everything,xWant,PersonX be a skeptical person,adv,tst,0,event
+PersonX leave PersonX ex,xWant,PersonX feel unhappy,adv,tst,0,event
+PersonX get time off,xWant,PersonX husband be off work,adv,tst,0,event
+PersonX put PeopleX there,xWant,PersonX want people,adv,tst,0,event
+PersonX be a pastry chef,xWant,PersonX skill be in pastry,adv,tst,0,event
+PersonX have sensitive skin,xWant,PersonX have to be careful,adv,tst,0,event
+PersonX despise myself,xWant,PersonX be ashamed,adv,tst,0,event
+PersonX see PersonY character,oWant,PersonY see PersonX,adv,tst,0,event
+PersonX yell it,oWant,PersonY can not hear PersonX,adv,tst,0,event
+PersonX can run fast,oWant,PersonY can run,adv,tst,0,event
+PersonX meet PersonY parent,oWant,PersonY meet,adv,tst,0,event
+PersonX have crow,xEffect,PersonX eat crow,adv,tst,1,event
+PersonX go to harrow,xEffect,PersonX be at harrow,adv,tst,1,event
+PersonX have good seat,xEffect,PersonX sit in row,adv,tst,0,event
+PersonX come back from lunch,xEffect,PersonX stop for take-out,adv,tst,0,event
+PersonX open the outer door,xEffect,PersonX wait,adv,tst,0,event
+PersonX extend PersonX hospitality to PersonY,xEffect,PersonX be the host,adv,tst,0,event
+PersonX be come,xEffect,PersonX to turn up,adv,tst,0,event
+PersonX could not breathe,xEffect,PersonX have to stop,adv,tst,1,event
+PersonX eye meet PersonY own,xEffect,PersonX do not look directly at PersonY,adv,tst,0,event
+PersonX be a natural night owl,xEffect,PersonX be up,adv,tst,0,event
+PersonX have love PersonY,oEffect,PersonY too might have love PersonX,adv,tst,1,event
+PersonX run three mile,xReact,PersonX be in shape,adv,tst,1,mental state
+PersonX follow PersonY,xReact,PersonX get curious,adv,tst,1,mental state
+PersonX ask,xReact,PersonX be needy,adv,tst,0,mental state
+PersonX have wait over hour,xReact,PersonX be disappointed,adv,tst,0,mental state
+PersonX always wonder,xReact,PersonX be just curious,adv,tst,1,mental state
+PersonX order,xReact,PersonX be pretty hungry,adv,tst,1,mental state
+PersonX have a gift certificate,xAttr,PersonX be glad,adv,tst,0,persona
+PersonX be patiently wait,xAttr,PersonX be hope,adv,tst,1,persona
+PersonX do little research,xAttr,PersonX be naive,adv,tst,0,persona
+PersonX often do,xAttr,PersonX feel cheerful,adv,tst,0,persona
+PersonX smile through tear,xAttr,PersonX cry,adv,tst,0,persona
+PersonX lose the money in trading,xAttr,PersonX be broke,adv,tst,0,persona
+PersonX run about house,xAttr,PersonX be tired,adv,tst,0,persona
+PersonX run on errand,xAttr,PersonX be happy,adv,tst,1,persona
+PersonX be go through,xAttr,PersonX feel stressed,adv,tst,0,persona
+PersonX marry PersonY,xIntent,PersonX love ya,adv,tst,0,mental state
+PersonX make home alive,xIntent,PersonX survive,adv,tst,0,mental state
+PersonX close PersonX mouth firmly,xIntent,PersonX stifle,adv,tst,0,mental state
+PersonX order the classic burger,xIntent,PersonX love a great burger,adv,tst,1,mental state
+PersonX contradict yourself,xIntent,PersonX be in disagreement,adv,tst,0,mental state
+PersonX eat anyway,xNeed,PersonX body need food,adv,tst,0,event
+PersonX join the church,xNeed,PersonX get religion,adv,tst,1,event
+PersonX iove PersonY,xNeed,PersonX want PersonY,adv,tst,0,event
+PersonX mistake,xNeed,PersonX be mistaken,adv,tst,0,event
+PersonX have it on hand,xNeed,PersonX use it,adv,tst,0,event
+PersonX perceive PersonY,Causes,PersonY be near,adv,tst,0,event
+PersonX marry PersonY,isBefore,PersonY be the love of life,adv,tst,0,event
+PersonX take this car,isBefore,there be no other car,adv,tst,1,event
+PeopleX deliver,isBefore,PeopleY get delivery,adv,tst,1,event
+PersonX obey PersonY,isAfter,PersonY must be obey,adv,tst,1,event
+PersonX know PersonX neighbor,isAfter,PersonX be friendly,adv,tst,1,event
+PersonX go there,isAfter,it be a safe choice,adv,tst,0,event
+PersonX take the tram,HinderedBy,PersonX will miss the train,adv,tst,1,event
+PersonX stay at hotel,HinderedBy,the stay be below average,adv,tst,0,event
+PersonX have run a long distance,HinderedBy,PersonX be breathless,adv,tst,0,event
+PersonX kill a monster,HinderedBy,it stay dead,adv,tst,1,event
+PersonX fail,HinderedBy,PersonY succeed,adv,tst,0,event
+PersonX walk away in direction,HinderedBy,the subway be in the direction,adv,tst,0,event
+PersonX be not fat,HinderedBy,PersonY be fat,adv,tst,0,event
+PersonX highly recommend PersonY company,HasSubEvent,PersonY be great,adv,tst,0,event
+PersonX welcome,xWant,PersonX be welcome,adv,tst,0,event
+PersonX beat dc,xWant,PersonX be stronger,adv,tst,0,event
+PersonX look unstable,xWant,PersonX be unstable,adv,tst,0,event
+PersonX give PersonY PersonX opinion,xWant,PersonX opinion be wrong,adv,tst,0,event
+PersonX know other,xWant,PersonX do not know any other,adv,tst,0,event
+PersonX make million,xWant,PersonX need to manage that money,adv,tst,0,event
+PersonX get marry,xWant,PersonX friend get marry,adv,tst,0,event
+PersonX work in fashion,xWant,PersonX be presentable,adv,tst,1,event
+PersonX take PersonY name,xWant,PersonX need a false identity,adv,tst,1,event
+PersonX run hot,xWant,PersonX run cold,adv,tst,1,event
+PersonX bring PersonY slowly to floor,xWant,PersonX be careful with PersonY,adv,tst,1,event
+PersonX love thai food,xWant,PersonX need to eat here,adv,tst,0,event
+PersonX have a nervous tick,xWant,PersonX get nervous,adv,tst,0,event
+PersonX dad die young,xWant,PersonX be worried,adv,tst,0,event
+PersonX cry,xWant,PersonX feel loss,adv,tst,0,event
+PersonX have PersonX monitor,xWant,PersonX have the monitor,adv,tst,0,event
+PersonX take all that happiness,xWant,PersonX be happy,adv,tst,1,event
+PersonX rely on transportation,xWant,PersonX do not drive,adv,tst,1,event
+PersonX sleep 6 hour,xWant,PersonX be lazy,adv,tst,1,event
+PersonX have PersonX toy,xWant,PersonX be satisfied,adv,tst,0,event
+PersonX have a fight with friend,xWant,PersonX be sad,adv,tst,0,event
+PersonX upgrade,xWant,PersonX need a new one,adv,tst,1,event
+PersonX do not remember anything,xWant,PersonX have amnesia,adv,tst,0,event
+PersonX explain this to PersonY,xWant,PersonX want to explain,adv,tst,1,event
+PersonX look around meetup,xWant,PersonX be curious,adv,tst,0,event
+PersonX love hotdog,xWant,PersonX order a hot dog,adv,tst,1,event
+PersonX calculate,xWant,PersonX guess,adv,tst,0,event
+PersonX get reject,xWant,PersonX be sad,adv,tst,0,event
+PersonX give claire a ride home,xWant,PersonX be late,adv,tst,0,event
+PersonX continue in office,xWant,PersonX term have expire,adv,tst,0,event
+PersonX believe in existence,xWant,PersonX believe,adv,tst,0,event
+PersonX respond negatively,xWant,PersonX be emotionally immature,adv,tst,0,event
+PersonX arrive late,xWant,PersonX appointment will be cancel,adv,tst,0,event
+PersonX order a biscuit,xWant,PersonX be craving carb,adv,tst,0,event
+PersonX like black people,xWant,PersonX be racist,adv,tst,0,event
+PersonX enter the restaurant,xWant,PersonX exit the restaurant,adv,tst,0,event
+PersonX issue,xWant,PersonX feel,adv,tst,0,event
+PersonX have PersonX peace of mind,xWant,PersonX feel at peace,adv,tst,1,event
+PersonX refuse to sign it,xWant,PersonX be angry,adv,tst,0,event
+PersonX make it through class,xWant,PersonX be interested,adv,tst,0,event
+PersonX harass PersonY on media,xWant,PersonX want attention,adv,tst,1,event
+PersonX beat PersonY,xWant,PersonX out-play PersonY,adv,tst,0,event
+PersonX purchase a groupon,xWant,PersonX can not use the groupon,adv,tst,0,event
+PersonX squeeze,xWant,PersonX let,adv,tst,0,event
+PersonX describe,xWant,PersonX be a good story teller,adv,tst,0,event
+PersonX live PersonX life on wagon,xWant,PersonX have to drive it,adv,tst,0,event
+PersonX belly up to bar,xWant,PersonX want to order something,adv,tst,0,event
+PersonX cross the bridge,xWant,PersonX must go north,adv,tst,0,event
+PersonX kill this innocent PersonY,xWant,PersonX be afraid,adv,tst,0,event
+PersonX stick with burger,xWant,PersonX be veg,adv,tst,0,event
+PersonX be in the er,xWant,PersonX doctor be out town,adv,tst,0,event
+PersonX complete PersonX investigation,xWant,PersonX do not have proof,adv,tst,0,event
+PersonX be gain muscle,xWant,PersonX be build strength,adv,tst,1,event
+PersonX encounter it,xWant,PersonX do not look for it,adv,tst,0,event
+PersonX win t step over threshold,xWant,PersonX be scared,adv,tst,0,event
+PersonX be feel horny,xWant,PersonX want,adv,tst,0,event
+PersonX go to galley,xWant,PersonX want water,adv,tst,0,event
+PersonX get PersonX eyebrow do,xWant,PersonX be look good,adv,tst,1,event
+PersonX walk,xWant,PersonX little foot ache,adv,tst,0,event
+PersonX step forward,xWant,PersonX see,adv,tst,1,event
+PersonX ii follow PersonY,oWant,PersonY go ahead,adv,tst,1,event
+PersonX call 911,oWant,PersonY call 911,adv,tst,1,event
+PersonX like it,oWant,PersonY like it too,adv,tst,1,event
+PersonX keep PersonZ for PersonY,oWant,PersonY want PersonZ,adv,tst,1,event
+PersonX ask PersonY,oWant,PersonY plead ignorance,adv,tst,0,event
+PersonX scratch PersonY back,oWant,PersonY will scratch yours,adv,tst,0,event
+PersonX get hers,oWant,PersonY get,adv,tst,0,event
+PersonX have snack,oWant,PersonY be hungry,adv,tst,0,event
+PersonX stop,oWant,PersonY will stop,adv,tst,0,event
+PersonX ask PersonY,oWant,PersonY know more of matter,adv,tst,0,event
+PersonX be enjoy duck,oWant,PersonY request duck,adv,tst,1,event
+PersonX have PersonY,oWant,PersonY say hello,adv,tst,0,event
+PersonX be run PersonX business,oWant,PersonY be a owner of business,adv,tst,0,event
+PersonX see a blond girl in alley,oWant,PersonY see another blond girl in alley,adv,tst,0,event
+PersonX take PersonY offer,oWant,PersonY would not grant it,adv,tst,0,event
+PersonX could write,oWant,PersonY could read,adv,tst,0,event
+PersonX weep,oWant,PersonY be unhappy,adv,tst,0,event
+PersonX love PersonY,oWant,PersonY face grow tender,adv,tst,1,event
+PersonX fire PersonY,oWant,PersonY fire PeopleX,adv,tst,0,event
+PersonX trouble PersonZ,oWant,PersonY be sorry,adv,tst,0,event
+PersonX ring the doorbell,oWant,PersonY open it,adv,tst,1,event
+PersonX want PersonZ,oWant,PersonY be not sell PersonZ,adv,tst,0,event
+PersonX be able,oWant,PersonY be,adv,tst,0,event
+PersonX dress for occasion,xEffect,PersonX be presentable,adv,tst,1,event
+PersonX wait,xEffect,PersonX have patience,adv,tst,0,event
+PersonX overreact,xEffect,PersonX be upset,adv,tst,1,event
+PersonX recoil,xEffect,PersonX be afraid,adv,tst,0,event
+PersonX be PersonX own truth,xEffect,PersonX be truth,adv,tst,0,event
+PersonX have a mental disability,xEffect,PersonX be defective,adv,tst,1,event
+PersonX go into form,xEffect,PersonX stay in form,adv,tst,0,event
+PersonX get PersonX ass beat,xEffect,PersonX be a victim,adv,tst,1,event
+PersonX say goodnight,xEffect,PersonX need to sleep,adv,tst,1,event
+PersonX flunk out college,xEffect,PersonX fail,adv,tst,0,event
+PersonX put one in mouth,xEffect,PersonX taste it,adv,tst,1,event
+PersonX ask the question mainly,xEffect,PersonX want to know,adv,tst,0,event
+PersonX have a weak stomach,xEffect,PersonX need to puke,adv,tst,1,event
+PersonX have the gold,xEffect,PersonX have gold,adv,tst,0,event
+PersonX kill anybody,xEffect,PersonX do not kill anybody,adv,tst,0,event
+PersonX marry PersonY,xEffect,PersonX honor,adv,tst,0,event
+PersonX rub,xEffect,PersonX finger be numb,adv,tst,1,event
+PersonX ll eat,xEffect,PersonX be hungry enough,adv,tst,0,event
+PersonX buy PersonX ticket,xEffect,PersonX get a discount,adv,tst,0,event
+PersonX get gear,xEffect,PersonX can not get the gear,adv,tst,0,event
+PersonX dislike it,xEffect,PersonX feel,adv,tst,0,event
+PersonX cum,xEffect,PersonX must stop,adv,tst,0,event
+PersonX work in healthcare,xEffect,PersonX be a nurse,adv,tst,0,event
+PersonX drink it,xEffect,PersonX be in need of caffeine,adv,tst,0,event
+PersonX make a choice,xEffect,PersonX have consciously make one,adv,tst,0,event
+PersonX can overcome it,xEffect,PersonX be strong enough,adv,tst,0,event
+PersonX fail in test,xEffect,PersonX didn t study,adv,tst,0,event
+PersonX wake up naturally,xEffect,PersonX need to wake up,adv,tst,0,event
+PersonX be prone to depression,xEffect,PersonX be depress,adv,tst,0,event
+PersonX commit this crime,xEffect,PersonX get into trouble,adv,tst,1,event
+PersonX read PeopleX,xEffect,PersonX have read PeopleX,adv,tst,1,event
+PersonX go,xEffect,PersonX flush the toilet,adv,tst,0,event
+PersonX take the afternoon train,xEffect,PersonX can not possibly catch the night train,adv,tst,1,event
+PersonX behavior offend PersonY,xEffect,PersonX be sorry,adv,tst,1,event
+PersonX say drunk,xEffect,PersonX mean drunk,adv,tst,0,event
+PersonX car have break down,xEffect,PersonX call for tow,adv,tst,1,event
+PersonX be get rich,xEffect,PersonX do not play the lottery,adv,tst,0,event
+PersonX be jewish,xEffect,PersonX mother be jewish,adv,tst,0,event
+PersonX look this up,xEffect,PersonX be interested,adv,tst,0,event
+PersonX avoid PersonY,xEffect,PersonX be scared of PersonY,adv,tst,0,event
+PersonX park there,xEffect,PersonX can park,adv,tst,0,event
+PersonX hate PersonY,xEffect,PersonX just hate PersonY,adv,tst,0,event
+PersonX start laugh,xEffect,PersonX start laugh,adv,tst,0,event
+PersonX be enchant,xEffect,PersonX want to enchant,adv,tst,0,event
+PersonX explore,xEffect,PersonX be passionate,adv,tst,0,event
+PersonX plant it,xEffect,PersonX dig,adv,tst,1,event
+PersonX come back to palace,xEffect,PersonX be tired,adv,tst,1,event
+PersonX look right at it,xEffect,PersonX see it,adv,tst,1,event
+PersonX get sick at work,xEffect,PersonX leave work,adv,tst,1,event
+PersonX have a y chromosome,xEffect,PersonX have it,adv,tst,0,event
+PersonX use hair remover,xEffect,PersonX be bald,adv,tst,1,event
+PersonX remain stand,xEffect,PersonX stand helpless,adv,tst,0,event
+PersonX take off PersonX glove,xEffect,PersonX do not want to get blood on it,adv,tst,0,event
+PersonX want one,xEffect,PersonX have to rent one,adv,tst,1,event
+PersonX leave the plane,xEffect,PersonX parachute fail to fully open,adv,tst,0,event
+PersonX stop now,xEffect,PersonX will have to stop in future,adv,tst,0,event
+PersonX go,oEffect,PersonY should come,adv,tst,0,event
+PersonX secretly love PersonY,oEffect,PersonY see,adv,tst,0,event
+PersonX be the master,oEffect,PersonY be PersonX master,adv,tst,0,event
+PersonX spot PersonY,oEffect,PersonY wait,adv,tst,0,event
+PersonX go,oEffect,PersonY have companion,adv,tst,0,event
+PersonX be dearest to PersonY,oEffect,PersonY love PersonX,adv,tst,1,event
+PersonX make,oEffect,PersonY must make,adv,tst,0,event
+PersonX have mount,oEffect,PersonY hold the horse,adv,tst,0,event
+PersonX have a abortion,oEffect,PersonY do not want one,adv,tst,0,event
+PersonX remember,oEffect,PersonY will remember,adv,tst,0,event
+PersonX eat turkey stuffing,oEffect,PersonY eat,adv,tst,0,event
+PersonX expire,oEffect,PersonY die,adv,tst,0,event
+PersonX tell PersonZ,oEffect,PersonY tear up,adv,tst,0,event
+PersonX know myself,oEffect,PersonY feel,adv,tst,0,event
+PersonX tell PersonY,oEffect,PersonY want bill be PersonY friend,adv,tst,0,event
+PersonX get PersonX tea,oEffect,PersonY could drink a cup,adv,tst,1,event
+PersonX do this on table,oEffect,PersonY do not have a table,adv,tst,0,event
+PersonX do much talking,oEffect,PersonY can talk a lot,adv,tst,0,event
+PersonX insist,oEffect,PersonY want,adv,tst,0,event
+PersonX smite PersonY,oEffect,PersonY be afraid,adv,tst,1,event
+PersonX pay cash,xReact,PersonX credit card do not work,adv,tst,0,mental state
+PersonX belong here,xReact,PersonX be here,adv,tst,0,mental state
+PersonX go eat,xReact,PersonX be hungry,adv,tst,0,mental state
+PersonX eat a good portion of it,xReact,PersonX be hungry,adv,tst,0,mental state
+PersonX forget PersonX password,xReact,PersonX can not log,adv,tst,0,mental state
+PersonX do not have diabetes,xReact,PersonX be healthy,adv,tst,1,mental state
+PersonX put on suit,xReact,PersonX wear,adv,tst,0,mental state
+PersonX be a cancer survivor,xReact,PersonX be hopeful,adv,tst,1,mental state
+PersonX have a nervous breakdown,xReact,PersonX need help,adv,tst,0,mental state
+PersonX have the fried chicken,xReact,PersonX taste,adv,tst,0,mental state
+PersonX dance,xReact,PersonX must practice,adv,tst,0,mental state
+PersonX do well,xReact,PersonX cheer,adv,tst,0,mental state
+PersonX suppose,xReact,PersonX be imagine,adv,tst,0,mental state
+PersonX be run,xReact,PersonX be slow,adv,tst,0,mental state
+PersonX land,xReact,PersonX have land,adv,tst,0,mental state
+PersonX snack a bit,xReact,PersonX get hungry,adv,tst,0,mental state
+PersonX go up,xReact,PersonX be go up,adv,tst,0,mental state
+PersonX explain PersonX situation,xReact,PersonX speak,adv,tst,0,mental state
+PersonX plan on overclocking,xReact,PersonX want to overclock,adv,tst,0,mental state
+PersonX get full price,xReact,PersonX be glad,adv,tst,1,mental state
+PersonX imprison PersonY,xReact,PersonX be savage,adv,tst,0,mental state
+PersonX hear sound,xReact,PersonX hear,adv,tst,0,mental state
+PersonX resign,xReact,PersonX be sack,adv,tst,0,mental state
+PersonX never join the military,xReact,PersonX be a civilian,adv,tst,0,mental state
+PersonX disapprove of PersonY,xReact,PersonX be sorry,adv,tst,1,mental state
+PersonX earnestly pray,xReact,PersonX hope,adv,tst,0,mental state
+PersonX can guess the rest,xReact,PersonX be not stupid,adv,tst,0,mental state
+PersonX go back to school,xReact,PersonX drop out of school,adv,tst,0,mental state
+PersonX could fly,xReact,PersonX have wing,adv,tst,0,mental state
+PersonX dont,xReact,PersonX be hopeless,adv,tst,0,mental state
+PersonX sleep through day,xReact,PersonX wake up,adv,tst,0,mental state
+PersonX die,xReact,PersonX ventilator fail,adv,tst,0,mental state
+PersonX be book,xReact,PersonX be book,adv,tst,0,mental state
+PersonX be home,xReact,PersonX be not home yet,adv,tst,0,mental state
+PersonX lay the fire,xReact,PersonX be so warm,adv,tst,1,mental state
+PersonX be not online,xReact,PersonX disconnect,adv,tst,0,mental state
+PersonX hitch,xReact,PersonX can not have get far,adv,tst,0,mental state
+PersonX pursue PersonX inquiry,xReact,PersonX learn,adv,tst,0,mental state
+PersonX fall back on bed,xReact,PersonX be too dizzy,adv,tst,1,mental state
+PersonX must have see something scary,xReact,PersonX be scare,adv,tst,1,mental state
+PersonX share PersonX blanket,oReact,PersonY be cold,adv,tst,0,mental state
+PersonX praise PersonZ virtue,oReact,PersonY show kindly,adv,tst,0,mental state
+PersonX stay,oReact,PersonY will stay too,adv,tst,0,mental state
+PersonX start on trip,oReact,PersonY must go,adv,tst,0,mental state
+PersonX get PersonX supper,oReact,PersonY have,adv,tst,0,mental state
+PersonX think of family,oReact,PersonY think about family,adv,tst,0,mental state
+PersonX advise PersonY,oReact,PersonY ask,adv,tst,0,mental state
+PersonX break PersonY spirit at age,oReact,PersonY be weak,adv,tst,1,mental state
+PersonX run away,oReact,PersonY scare,adv,tst,0,mental state
+PersonX let PersonZ wake up,oReact,PersonY will let,adv,tst,0,mental state
+PersonX hear the shot,oReact,PersonY turn,adv,tst,0,mental state
+PersonX need PersonZ,oReact,PersonY need PersonX,adv,tst,0,mental state
+PersonX see PersonZ do,oReact,PersonY want,adv,tst,0,mental state
+PersonX pm PersonY,oReact,PersonY do not know,adv,tst,0,mental state
+PersonX be taller than PersonY,oReact,PersonY be so tall,adv,tst,0,mental state
+PersonX be diagnose,oReact,PersonY be diagnose,adv,tst,0,mental state
+PersonX read PersonZ comment,oReact,PersonY be be sarcastic,adv,tst,0,mental state
+PersonX hold PersonY,oReact,PersonY become breathless,adv,tst,0,mental state
+PersonX understand PersonY sympathy,xAttr,PersonX be sympathetic to people,adv,tst,1,persona
+PersonX like golf,xAttr,PersonX play,adv,tst,0,persona
+PersonX dress be stunning,xAttr,PersonX be pretty,adv,tst,0,persona
+PersonX conclude,xAttr,PersonX be sensible,adv,tst,0,persona
+PersonX rob,xAttr,PersonX steal,adv,tst,0,persona
+PersonX get night 's sleep,xAttr,PersonX wake up,adv,tst,0,persona
+PersonX scan,xAttr,PersonX see,adv,tst,0,persona
+PersonX twist PersonX lip,xAttr,PersonX be frustrated,adv,tst,0,persona
+PersonX stop yesterday for lunch,xAttr,PersonX be glad,adv,tst,0,persona
+PersonX tear burst forth,xAttr,PersonX cry,adv,tst,0,persona
+PersonX deny this,xAttr,PersonX be disingenuous,adv,tst,0,persona
+PersonX pull a nighter,xAttr,PersonX be pretty tired,adv,tst,0,persona
+PersonX miss curfew,xAttr,PersonX be sorry,adv,tst,0,persona
+PersonX applaud PersonY effort,xAttr,PersonX be genuinely impressed,adv,tst,1,persona
+PersonX have eczema,xAttr,PersonX skin be very sensitive,adv,tst,1,persona
+PersonX love green tea,xAttr,PersonX be use to flavor,adv,tst,0,persona
+PersonX fall into doze,xAttr,PersonX feel tired,adv,tst,1,persona
+PersonX graduate in 2007,xAttr,PersonX be glad,adv,tst,0,persona
+PersonX wear mine out,xAttr,PersonX need more,adv,tst,0,persona
+PersonX flash a boob,xAttr,PersonX be pretty,adv,tst,0,persona
+PersonX wear a black bonnet,xAttr,PersonX be dress in black,adv,tst,1,persona
+PersonX go bed at night,xAttr,PersonX sleep,adv,tst,0,persona
+PersonX break into laugh,xAttr,PersonX laugh,adv,tst,0,persona
+PersonX seriously love this place,xAttr,PersonX be glad,adv,tst,0,persona
+PersonX get a good angle,xAttr,PersonX see,adv,tst,0,persona
+PersonX have a uterus,xAttr,PersonX be a female,adv,tst,1,persona
+PersonX give PersonY some good advice,xAttr,PersonX be right,adv,tst,1,persona
+PersonX go scot free,xAttr,PersonX be innocent,adv,tst,0,persona
+PersonX make lot mistake,xAttr,PersonX be sorry,adv,tst,0,persona
+PersonX husband enjoy PersonY cocktail,xAttr,PersonX enjoy,adv,tst,1,persona
+PersonX comfort PersonY,xAttr,PersonX be good,adv,tst,0,persona
+PersonX go into forest,xAttr,PersonX must be careful,adv,tst,0,persona
+PersonX have a pair,xAttr,PersonX have,adv,tst,0,persona
+PersonX doze off,xAttr,PersonX be tire,adv,tst,1,persona
+PersonX apply for scholarship,xAttr,PersonX be accept to college,adv,tst,1,persona
+PersonX heel strike ground,xAttr,PersonX stagger,adv,tst,1,persona
+PersonX beauty fill PersonY heart love song,xAttr,PersonX be beautiful,adv,tst,1,persona
+PersonX do jazz,xAttr,PersonX dance,adv,tst,0,persona
+PersonX be never convict of anything,xAttr,PersonX be innocent,adv,tst,0,persona
+PersonX arrive,xAttr,PersonX be greet pleasantly,adv,tst,0,persona
+PersonX be in charge,xAttr,PersonX charge,adv,tst,0,persona
+PersonX live a long life,xAttr,PersonX die,adv,tst,0,persona
+PersonX look up in sky,xAttr,PersonX can not see clear,adv,tst,0,persona
+PersonX provide excellent service,xAttr,PersonX be appreciate,adv,tst,1,persona
+PersonX hear a noise,xAttr,PersonX be wake up,adv,tst,1,persona
+PersonX turn 19,xAttr,PersonX mature,adv,tst,0,persona
+PersonX fail a drug test,xAttr,PersonX be clean,adv,tst,0,persona
+PersonX work be translate into german,xAttr,PersonX work have be translate,adv,tst,0,persona
+PersonX have select,xAttr,PersonX be please with choice,adv,tst,1,persona
+PersonX have a big brain,xAttr,PersonX be very clever,adv,tst,1,persona
+PersonX calmly tell PersonY,xAttr,PersonX understand,adv,tst,0,persona
+PersonX make no move,xAttr,PersonX be very shy,adv,tst,1,persona
+PersonX kiss PersonY white forehead,xAttr,PersonX hold,adv,tst,0,persona
+PersonX feel warm,xAttr,PersonX feel cold,adv,tst,0,persona
+PersonX just move to area,xAttr,PersonX be new to area,adv,tst,0,persona
+PersonX would probably go back,xAttr,PersonX be back,adv,tst,0,persona
+PersonX come down stair,xAttr,PersonX fall,adv,tst,0,persona
+PersonX step down from bridge,xAttr,PersonX stagger,adv,tst,0,persona
+PersonX don,xAttr,PersonX give,adv,tst,0,persona
+PersonX will mourn,xAttr,PersonX be bereaved,adv,tst,1,persona
+PersonX take off PersonX sweater,xIntent,PersonX be hot,adv,tst,0,mental state
+PersonX drink,xIntent,PersonX be fill,adv,tst,1,mental state
+PersonX go by it,xIntent,PersonX can not avoid it,adv,tst,0,mental state
+PersonX move to county,xIntent,PersonX live in county,adv,tst,1,mental state
+PersonX love corn tortilla,xIntent,PersonX be happy,adv,tst,0,mental state
+PersonX be fat,xIntent,PersonX hate be fat,adv,tst,0,mental state
+PersonX wait for table,xIntent,PersonX table be ready,adv,tst,1,mental state
+PersonX add air,xIntent,PersonX tire pressure be low,adv,tst,0,mental state
+PersonX can get anywhere,xIntent,PersonX have ability,adv,tst,0,mental state
+PersonX suck at cooking,xIntent,PersonX be a terrible cook,adv,tst,0,mental state
+PersonX come,xIntent,PersonX be active,adv,tst,0,mental state
+PersonX prefer,xIntent,PersonX be happy,adv,tst,0,mental state
+PersonX wreck ball,xIntent,PersonX be a ball,adv,tst,0,mental state
+PersonX thank PersonY,xIntent,PersonX truly care,adv,tst,0,mental state
+PersonX reach the age of 90,xIntent,PersonX be retire,adv,tst,0,mental state
+PersonX ask PersonX question,xIntent,PersonX have be formulate the perfect question,adv,tst,0,mental state
+PersonX get to appointment early,xIntent,PersonX stylist be there,adv,tst,0,mental state
+PersonX fly free,xIntent,PersonX can fly,adv,tst,0,mental state
+PersonX get job,xIntent,PersonX be fire,adv,tst,0,mental state
+PersonX have no hair,xIntent,PersonX buzz it off,adv,tst,0,mental state
+PersonX grow up in minneapolis,xIntent,PersonX family move to town,adv,tst,0,mental state
+PersonX get a puncture,xIntent,PersonX be not careful,adv,tst,0,mental state
+PersonX do judge,xNeed,PersonX judgment be true,adv,tst,0,event
+PersonX like to poop,xNeed,PersonX want to poop,adv,tst,0,event
+PersonX bring solution for problem,xNeed,PersonX be a problem solver,adv,tst,1,event
+PersonX ask a straightforward question,xNeed,PersonX be curious,adv,tst,1,event
+PersonX eat,xNeed,PersonX gulp,adv,tst,0,event
+PersonX say spicy,xNeed,PersonX mean spicy,adv,tst,0,event
+PersonX play in championship,xNeed,PersonX be not select for championship,adv,tst,0,event
+PersonX get to front,xNeed,PersonX be close,adv,tst,1,event
+PersonX feed PersonX cat,xNeed,PersonX take out its litter box,adv,tst,0,event
+PersonX hurt your feeling,xNeed,PersonX be sorry,adv,tst,0,event
+PersonX be particularly concerned,xNeed,PersonX worry,adv,tst,1,event
+PersonX take pain,xNeed,PersonX do take pain,adv,tst,0,event
+PersonX scarf down,xNeed,PersonX be famish,adv,tst,0,event
+PersonX question one side,xNeed,PersonX have to question the other as,adv,tst,1,event
+PersonX be perform,xNeed,PersonX aren t perform,adv,tst,0,event
+PersonX spoil PersonY wedding plan,xNeed,PersonX be sorry,adv,tst,0,event
+PersonX literally feel,xNeed,PersonX feel,adv,tst,0,event
+PersonX read the novel,xNeed,PersonX love it,adv,tst,1,event
+PersonX work in hospital,xNeed,PersonX wear scrub,adv,tst,0,event
+PersonX ask PersonY partner,xNeed,PersonX have a question for partner,adv,tst,1,event
+PersonX comprehend,xNeed,PersonX be aware,adv,tst,1,event
+PersonX go get martin weir,xNeed,PersonX want martin weir,adv,tst,0,event
+PersonX roll over,xNeed,PersonX fall on ass,adv,tst,0,event
+PersonX have the flu,xNeed,PersonX lay down on bed,adv,tst,0,event
+PersonX click accept,xNeed,PersonX accept,adv,tst,1,event
+PersonX hurt PersonY feeliss,xNeed,PersonX be sorry,adv,tst,0,event
+PersonX leave PersonX room,xNeed,PersonX shut the window,adv,tst,0,event
+PersonX pop PersonX top,xNeed,PersonX want a cup,adv,tst,0,event
+PersonX have the lobster spaghetti,xNeed,PersonX love spaghetti,adv,tst,1,event
+PersonX have curly hair,xNeed,PersonX do not,adv,tst,0,event
+PersonX accept it,xNeed,PersonX have to accept it,adv,tst,0,event
+PersonX work PersonY magic,xNeed,PersonX be thrill,adv,tst,0,event
+PersonX deal with problem,xNeed,PersonX want to get counselling,adv,tst,0,event
+PersonX date PersonY,xNeed,PersonX have never date anyone,adv,tst,0,event
+PersonX be a gentleman,xNeed,PersonX must be gentleman,adv,tst,0,event
+PersonX survive,xNeed,PersonX be revive,adv,tst,0,event
+PersonX can not bear it,xNeed,PersonX be nervous,adv,tst,0,event
+PersonX dig,xNeed,PersonX bury,adv,tst,0,event
+PersonX have strength,xNeed,PersonX choose to exert it,adv,tst,0,event
+PersonX tell PersonY,Causes,the receptionist tell PersonY,adv,tst,0,event
+PersonX get a erection,Causes,PersonX have to jerk off,adv,tst,0,event
+PersonX make the best decision,Causes,it be the best option,adv,tst,0,event
+this video give PersonX anxiety,Causes,PersonX be afraid,adv,tst,1,event
+the bell ring,Causes,the class get up,adv,tst,1,event
+PersonX put PersonY in prison,Causes,PersonY want revenge,adv,tst,1,event
+PersonX be sick,Causes,be PersonY sick,adv,tst,0,event
+PersonX try a new place,Causes,PersonX enjoy try new place,adv,tst,0,event
+PersonX die,Causes,PersonY have no more choice,adv,tst,0,event
+PersonX leave,Causes,do PersonY stay,adv,tst,0,event
+PersonX teach PersonY,Causes,PeopleX understand,adv,tst,0,event
+it be a costume party,Causes,PersonX have to wear a costume,adv,tst,1,event
+PersonX ask PersonY,Causes,PersonY want to continue the relationship,adv,tst,0,event
+PeopleX explore,Causes,PeopleX be explore,adv,tst,0,event
+PersonX be a coward by nature,Causes,PersonY be nervous,adv,tst,0,event
+PersonX shower,Causes,PersonX double cleanse,adv,tst,0,event
+the PersonX be room,Causes,the PersonY be room,adv,tst,0,event
+PeopleX enjoy,isBefore,PeopleX be happy,adv,tst,1,event
+PeopleX take PersonY insurance,isBefore,PeopleY do not take PersonX insurance,adv,tst,0,event
+PersonX ask,isBefore,PersonY enquire,adv,tst,0,event
+PersonX cry harder,isBefore,PersonY cry,adv,tst,0,event
+PersonX look close,isBefore,PersonY see,adv,tst,0,event
+PeopleX assist PersonY,isBefore,PersonY need help,adv,tst,0,event
+PersonX call,isBefore,no one call,adv,tst,0,event
+PersonX make reservation,isBefore,there be long line,adv,tst,0,event
+PersonX get here,isBefore,PersonY coordinate,adv,tst,0,event
+PersonX work,isBefore,PersonX be salaried,adv,tst,1,event
+PersonX sip PersonX coffee,isAfter,the drink be delicious,adv,tst,0,event
+PersonX do fail,isAfter,PersonY must fail,adv,tst,1,event
+PersonX sing along anyway,isAfter,PersonX be singing,adv,tst,0,event
+PersonX bring PersonX own food,isAfter,PersonY suggest eat,adv,tst,0,event
+PersonX computer break,isAfter,PersonX be sad,adv,tst,0,event
+PersonX tip,isAfter,PeopleX be nice,adv,tst,0,event
+PersonX be really surprised,isAfter,PersonY surprise,adv,tst,0,event
+PersonX fix it,isAfter,it fix,adv,tst,0,event
+PersonX make music,isAfter,people listen to it,adv,tst,0,event
+something terrible would happen,isAfter,PersonX be afraid,adv,tst,0,event
+PersonX love the show,HinderedBy,the show be cute,adv,tst,0,event
+it physically hurt,HinderedBy,PersonX feel pain,adv,tst,0,event
+PersonX take PersonX concern seriously,HinderedBy,PersonY listen to PersonX,adv,tst,0,event
+PersonX watch the finale,HinderedBy,PersonX be happy,adv,tst,0,event
+PersonX find don,HinderedBy,don find PersonX,adv,tst,0,event
+PersonX feel PersonX poverty,HinderedBy,PersonX be unfortunate,adv,tst,0,event
+PersonX see,HinderedBy,PersonY perceive,adv,tst,0,event
+PersonX hold PersonX fart,HinderedBy,PersonX have to fart,adv,tst,1,event
+PersonX hesitate a moment,HinderedBy,PersonX be think,adv,tst,0,event
+PersonX learn something new,HinderedBy,PersonX relearn,adv,tst,1,event
+PersonX address be PersonY address,HinderedBy,PersonY use PersonZ address,adv,tst,0,event
+PersonX be the light of world,HinderedBy,ye be the light of world,adv,tst,0,event
+PersonX lay PersonY on couch,HinderedBy,PersonY could enjoy PeopleX softness,adv,tst,0,event
+PeopleX have surprise PeopleY,HinderedBy,PeopleY have surprise,adv,tst,0,event
+PersonX now see,HinderedBy,PersonX look,adv,tst,0,event
+doesn t know anything,HinderedBy,PersonX do not know anything,adv,tst,0,event
+PersonX call customer care,HinderedBy,PersonX wait,adv,tst,0,event
+PersonX learn parisian french in school,HinderedBy,PersonX be fairly bilingual,adv,tst,0,event
+PersonX be there,HinderedBy,staff be friendly,adv,tst,0,event
+PersonX comprehend,HinderedBy,PersonY understand well,adv,tst,0,event
+PersonX feel a pleasure,HinderedBy,PersonX feel,adv,tst,0,event
+PersonX have it,HinderedBy,its have,adv,tst,0,event
+PersonX plan it,HinderedBy,PersonY will plan it,adv,tst,0,event
+PersonX love PersonX life,HinderedBy,PersonX life feel,adv,tst,0,event
+PersonX stand outside,HinderedBy,it be too cold,adv,tst,1,event
+PersonX run away,HinderedBy,there be no escape,adv,tst,1,event
+PersonX foresee,HinderedBy,PersonX do not foresee,adv,tst,1,event
+PersonX be diagnose with disease,HinderedBy,PersonX be sick,adv,tst,0,event
+PersonX blame PeopleX,HinderedBy,PeopleX be the problem,adv,tst,0,event
+t feel anything,HinderedBy,PersonX feel,adv,tst,0,event
+PersonX be among friend,HinderedBy,PeopleX be friend,adv,tst,0,event
+PersonX hang around evan much,HinderedBy,PersonX need to get out more,adv,tst,0,event
+PersonX term expire,HinderedBy,PersonX resign,adv,tst,0,event
+PeopleX have this,HinderedBy,PeopleX feel this,adv,tst,0,event
+PersonX own a company,HinderedBy,PersonX have investment,adv,tst,0,event
+PersonX know the lyric,HinderedBy,PersonX do not know the lyric,adv,tst,1,event
+PersonX be capable,HinderedBy,PersonX have the capability,adv,tst,0,event
+it wasnt PersonX fault,HinderedBy,PersonX do not feel bad,adv,tst,0,event
+PersonX profit,HinderedBy,PersonX make a loss,adv,tst,1,event
+it really ruin evening,HinderedBy,PersonX be unhappy,adv,tst,0,event
+PersonX make a mistake,HinderedBy,the machine make a mistake,adv,tst,0,event
+PersonX use drug,HinderedBy,PersonX be hopelessly addict,adv,tst,0,event
+PersonX buy one,HinderedBy,it be more expensive,adv,tst,1,event
+PersonX know really,HinderedBy,PersonY need to know,adv,tst,0,event
+PersonX offer PeopleX free drink,HinderedBy,PeopleX be happy with water,adv,tst,0,event
+PersonX really mean that,HinderedBy,PersonX mean,adv,tst,0,event
+PersonX beat boss,HinderedBy,PersonX be result orient,adv,tst,0,event
+PersonX split,HinderedBy,PersonY choose,adv,tst,0,event
+PersonX dislike the album,HinderedBy,PersonX be bias,adv,tst,0,event
+PersonX will forgive PersonY,HinderedBy,PersonY forgive PersonX,adv,tst,0,event
+PersonX call PersonY supporter,HinderedBy,PeopleX be PersonY supporter,adv,tst,0,event
+PersonX idolize PersonY,HasSubEvent,PersonX be jealous,adv,tst,0,event
+PersonX droop PersonX head,HasSubEvent,PersonX face be expressionless,adv,tst,0,event
+PersonX wail,HasSubEvent,PersonX cry,adv,tst,1,event
+PersonX colour,HasSubEvent,PersonY feel,adv,tst,0,event
+PersonX put PersonY at ease,HasSubEvent,PersonX be very nice,adv,tst,0,event
+PersonX have pasta carbonara,HasSubEvent,it be good,adv,tst,0,event

@@ -1,0 +1,102 @@
+3. True. Because ejaculation is a physical response that often leads to the desire for orgasm.
+3. True. Because it is likely that if someone goes to the fridge, they have a specific item in mind that they want to retrieve, such as a glass of wine.
+3. False. Because it's unlikely that someone who works tirelessly would want to die as a result.
+3. True. Because 'PersonX set off' implies that PersonX is leaving, so it is likely that PersonX wants to leave.
+3. True. Because enlisting in the military is often associated with a desire to serve and fight for one's country.
+3. False. Because there is no clear connection between falling into a pool and enrolling in school.
+3. True. Because it is a common practice to put down toilet paper in the toilet after defecating for hygiene purposes.
+3. False. Because it's unlikely that someone would want to be paranoid after coming somewhere.
+3. False. Because result of 1 is No.
+3. False. Because it's unlikely that PersonX would give a substantial amount with the intention of not being paid back.
+3. True. Because withdrawing money is usually done to pay for something, and paying bills is a common reason for withdrawing money.
+3. False. Because it's unlikely that PersonX wants to have a toothache after having a cavity.
+3. True. Because wiring someone is usually done with the intention of receiving a response or message in return, such as a telegram.
+3. True. Because it is likely that PersonY wants to escape if they see PersonX escaping, as it may indicate danger or a need to flee.
+3. True. Because working from home can be seen as a desirable work arrangement, and it is likely that PersonY wants to have the same arrangement.
+3. False. Because result of 1 is No.
+3. False. Because result of 1 is No.
+3. False. Because result of 1 is No.
+3. False. Because it's unlikely that leaving food would result in being only asked.
+3. True. Because collapsing in a courthouse may indicate a serious health issue, and the body rejecting a transplant organ is a possible complication in such cases.
+3. True. Because getting paranoid can lead to nervousness and anxiety.
+3. True. Because having food poisoning can result in throwing up as a natural bodily response to expel the harmful substance.
+3. True. Because earning more money is often a motivation for people to stay in their current job or position.
+3. True. Because when someone feels very sick, it is likely that they will take medicine to alleviate their symptoms.
+3. False. Because it's unlikely that a person who decides becomes indecisive as a result.
+3. True. Because seeing a dead body can be a traumatic experience that may cause a person to be emotionally numb and unable to cry.
+3. True. Because when someone goes to fill up their car, it is likely that they need gas.
+3. False. Because it's unclear what 'PersonX could not be' refers to, and it's unlikely that being a baby would prevent PersonX from doing everything.
+3. False. Because the meaning of 'PersonX wont be able' is unclear/ambiguous.
+3. True. Because when someone joins an organization or group, it is common for them to fill out paperwork as part of the process.
+3. False. Because there is no clear connection between PersonX getting in shape and PersonY betting.
+3. False. Because result of 1 is No.
+3. False. Because it's unlikely that PersonY suddenly gets a boyfriend just because PersonX stole PersonZ's boyfriend.
+3. False. Because result of 1 is No.
+3. True. Because preventing PersonY may cause PersonX to feel isolated and not reach out to anyone.
+3. True. Because going to sleep on a hollow surface is likely to result in discomfort and poor quality of sleep, leading to feeling tired the next day.
+3. False. Because it's unlikely that PersonX always win just because they prepare, there are other factors that can affect the outcome.
+3. True. Because reading non-fiction often leads to gaining knowledge and curiosity about the world.
+3. True. Because the inference suggests that PersonX's actions led to the ruin of their own marriage, which could result in feelings of guilt and selfishness.
+3. True. Because gray hair is often associated with old age, and feeling elderly is a common emotional response to physical signs of aging.
+3. True. Because when a person eats, they usually feel full as a result of the food intake.
+3. False. Because result of 2 is No.
+3. False. Because result of 1 is No.
+3. True. Because when PersonX thinks of PersonY, it may trigger memories and emotions associated with the past, leading to a feeling of nostalgia.
+3. False. Because result of 1 is No.
+3. False. Because it's unlikely that PersonY would feel kind after PersonX takes liberty.
+3. True. Because it is a common reaction for people to blush when they are being stared at or gazed upon.
+3. False. Because it's unlikely that playing ana would result in someone feeling that they themselves are fun.
+3. False. Because the death of a baby brother is not necessarily related to the attribute of being a babysitter.
+3. True. Because walking someone through a process requires knowledge and expertise, which are characteristics of a professional.
+3. False. Because result of 2 is No.
+3. False. Because staying happy doesn't necessarily mean that a person is well paid.
+3. True. Because if PersonX's hand slips, it is likely that they will fall.
+3. False. Because result of 1 or 2 is No.
+3. True. Because if PersonX readily believes something, it is likely that they are convinced by it.
+3. False. Because there is no clear connection between having nothing else and seeing PersonY as a personality trait.
+3. True. Because not hearing a car drive up can startle someone, and it is likely that PersonX would be startled in this situation.
+3. False. Because the inference doesn't make sense. Missing something doesn't necessarily mean that a person is promising.
+3. False. Because the result of either 1 or 2 is No.
+3. True. Because mistakenly shaving someone's head is a mistake that can cause guilt and upset, and it is likely that PersonX would feel upset about it.
+3. False. Because the belief being true or not doesn't necessarily reflect the intention behind the belief.
+3. True. Because riding the light rail suggests that PersonX prefers public transportation over owning a car, indicating that they do not need a car.
+3. False. Because result of 1 is No and result of 2 is No.
+3. True. Because if PersonX can form an opinion, it is likely that they have formed one.
+3. False. Because it's unlikely that waking up late for work would lead to the intention of almost dying.
+3. True. Because it is logical that in order for PersonX to get even happier, they must already be happy to some extent.
+3. False. Because the inference doesn't make logical sense. Making a wedding cake and making PeopleX for everyone are not necessarily related.
+3. True. Because the inference suggests that the event will only happen if PersonX uses it, which implies a cause-and-effect relationship between the activation and usage.
+3. False. Because the inference is based on a negative condition ("will not happen unless"), which makes it difficult to judge the likelihood of the inference being true or false.
+3. True. Because the inference suggests that the event of PersonX paying by card is dependent on PersonX being able to use their debit card. If PersonX cannot use their debit card, then the event of paying by card 
+3. True. Because it is likely that in order for PersonX to achieve their goal of becoming an actor, they need to make a plan and take action towards it.
+3. True. Because it is logical that the event of making a speech cannot happen unless the person starts speaking.
+3. True. Because getting sick often happens when a person's immune system is weakened, and breathing is necessary for the body to function properly and maintain a strong immune system.
+3. False. Because the recovery process after breaking a hip can vary and it's not always guaranteed that the person will recover fully or quickly.
+3. True. Because going faster is a characteristic of being fast.
+3. False. Because result of 1 or 2 is No.
+3. True. Because retirement is often associated with old age.
+3. False. Because result of 1 or 2 is No.
+3. False. Because result of 1 is No.
+3. False. Because result of 2 is No.
+3. True. Because if PersonX loves this soup, it's likely that they will become a fan of soup in general.
+3. True. Because if PersonX locks the door, it is likely that no one can intrude.
+3. False. Because result of 1 is No.
+3. False. Because result of 2 is No.
+3. True. Because it's possible that before writing a play, PersonX used a corny pick up line. The two events are not necessarily related, but the inference is not contradictory or impossible.
+3. True. Because if PersonX is interested in the event, then they will likely watch it. If they are not interested, then they will not watch it.
+3. False. Because result of 1 or 2 is No.
+3. True. Because if PersonX runs out of supplies, they won't be able to clean PersonY's bathroom.
+3. False. Because the inference is not logically sound. Being happier doesn't necessarily mean that PersonY won't play by herself.
+3. False. Because result of 1 is No.
+3. False. Because result of 1 is No.
+3. False. Because result of 2 is No.
+3. False. Because the inference seems to be based on an unrelated and inappropriate reason.
+3. False. Because the meaning of the inference is unclear/ambiguous.
+3. False. Because result of 1 is No.
+3. False. Because the result of either 1 or 2 is 'No'.
+3. True. Because it's likely that having little experience will hinder PersonX from getting the job.
+3. False. Because result of 1 is No and result of 2 is No.
+3. False. Because result of 1 is No.
+3. True. Because being careful can prevent accidents or mistakes that may lead to missing the opportunity to see the opening.
+3. False. Because result of 1 is No.
+3. False. Because result of 2 is No.

@@ -1,0 +1,312 @@
+0/52
+ Based on the sentence "PersonY hear," the clause expresses the aspect of "action." Therefore, the answer is (1) action.
+ The clause "PersonY follows back" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonY wake PersonX" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonY get so scared" expresses the mental state of the person, specifically their fear. Therefore, the answer is (3) mental state.
+ The clause "PersonY be hurt" expresses the aspect of mental state. Therefore, the answer is (3) mental state.
+1/52
+ Based on the given sentence, the clause "PersonY be feel betray" expresses the mental state of the person, specifically the feeling of betrayal. Therefore, the answer is (3) mental state.
+ Based on the context of the sentence, the clause "PersonY hit it" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonY can tell PersonX" expresses the aspect of "action". Therefore, the answer is (1) action.
+ The clause "PersonX be affectionate" expresses the mental state of the person, specifically their emotional state of being affectionate. Therefore, the answer is (3) mental state.
+ The clause "PersonX catches PersonY's attention" expresses the aspect of action. Therefore, the answer is (1) action.
+2/52
+ The clause "PersonY be glad" expresses the mental state of the person being referred to, specifically their emotional state of happiness or pleasure. Therefore, the answer is (3) mental state.
+ The clause "PersonY will have to wait" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonY will try it" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX gets the part" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonY be influential" expresses the aspect of "action". Therefore, the answer is (1) action.
+3/52
+ The clause "PersonY get PersonX" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonY be get" does not express any of the aspects you listed.--1. Action: The clause does not express any action or activity.--2. Persona: The clause does not refer to a specific persona or
+ The clause "PersonX be still wait for sale" expresses the mental state of the subject, specifically the act of waiting. Therefore, the answer is (3) mental state.
+ The clause "PersonX runs the chance" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX know the trick" expresses the aspect of "action". Therefore, the answer is (1) action.
+4/52
+ The clause "PersonX be really worried" expresses the mental state of the subject, specifically the emotion of worry. Therefore, the answer is (3) mental state.
+ The clause "PersonX be down blue" expresses the mental state of the person, specifically their emotional state. Therefore, the answer is (3) mental state.
+ The clause "PersonX can answer a hypothetical" expresses the aspect of "mental state". It indicates that PersonX is capable of thinking and reasoning about hypothetical situations, and can provide answers to hypothetical questions based
+ The clause "PersonX just bail on tonight" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX move here" expresses the aspect of action. Therefore, the answer is (1) action.
+5/52
+ The clause "PersonX father demand" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX be satisfied" expresses the mental state of the subject, specifically the state of being satisfied. Therefore, the answer is (3) mental state.
+ The clause "PersonX can buy it" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX be satisfied" expresses the mental state of the subject, specifically the state of being satisfied. Therefore, the answer is (3) mental state.
+ The clause "PersonX have several hours" expresses the aspect of time, specifically the duration or amount of time that PersonX has. Therefore, the correct answer is (3) mental state.
+6/52
+ The clause "PersonX loves June" expresses the mental state of the subject, specifically their emotional feeling or affection towards the month of June. Therefore, the answer is (3) mental state.
+ The clause "PersonX understands better" expresses the aspect of mental state. Therefore, the answer is (3) mental state.
+ The clause "PersonX should pick up smoking" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX have just moved" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX just get sick" expresses the aspect of "mental state" because it describes the emotional state of the person, specifically that they are feeling unwell or sick. Therefore, the answer is (3) mental
+7/52
+ The clause "PersonX be in earnest" expresses the aspect of mental state. It implies that PersonX is genuine, sincere, or serious about something. Therefore, the answer is (3) mental state.
+ The clause "PersonX will have a place of their own" expresses the aspect of "persona". It describes the personal characteristic or identity of the subject, in this case, PersonX, and their possession or ownership of a specific place
+ The clause "PersonX be good" expresses the aspect of "persona" (3). It describes the personality or character of PersonX, indicating that they are good or have good qualities.
+ The clause "PeopleX be party" expresses the aspect of persona.--Explanation:--In this clause, "PeopleX" is a pronoun that refers to a group of people, and "be party" is
+ The clause "PersonX get out of prison" expresses the aspect of action. Therefore, the answer is (1) action.
+8/52
+ The clause "PersonX could not pay it back" expresses the aspect of "mental state" (3). It implies that PersonX was unable to repay the debt due to some mental or emotional limitation, such as financial
+ The clause "PersonX get back something" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX move" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX be hungry" expresses the mental state of the person, specifically the feeling of hunger. Therefore, the answer is (3) mental state.
+ The clause "PersonX be sack" expresses the aspect of "action" (1).
+9/52
+ The clause "PersonX be go" expresses the aspect of "persona" (3).
+ The clause "PersonX deserves everything" expresses the aspect of "mental state". It implies that the speaker has a positive opinion of PersonX and believes that they deserve good things to happen to them.
+ The clause "PersonX be" expresses the aspect of "persona" in the subject. Therefore, the answer is (2) persona.
+ The clause "PersonX say yeah" expresses the aspect of mental state. It indicates the attitude or feeling of the person being referred to, specifically their agreement or confirmation. Therefore, the answer is (3) mental state.
+ The clause "PersonX sit up" expresses the aspect of action. Therefore, the answer is (1) action.
+10/52
+ The clause "PersonX be good" expresses the aspect of "persona" (3). It describes the personality or character of PersonX, indicating that they are good or have good qualities.
+ The clause "PersonX leaves" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX be happy" expresses the mental state of the subject, specifically the emotional state of happiness. Therefore, the answer is (3) mental state.
+ The clause "PersonX be more happy" expresses the aspect of mental state. Therefore, the answer is (3) mental state.
+ The clause "PersonX be a heavy sleeper" expresses the aspect of "mental state" (3). It describes the sleeping pattern of PersonX, indicating that they tend to sleep for a long time or have a tendency
+11/52
+ The clause "PersonX be unaware" expresses the mental state of the subject, specifically the state of being unaware. Therefore, the answer is (3) mental state.
+ The clause "PersonX assent" expresses the aspect of mental state. Therefore, the answer is (3) mental state.
+ The clause "PersonX be sneaky" expresses the aspect of "action" in the subject. Therefore, the answer is (1) action.
+ The clause "PersonX think of anything" expresses the aspect of mental state. Therefore, the answer is (3) mental state.
+ The clause "PersonX will need" expresses the aspect of action. Therefore, the answer is (1) action.
+12/52
+ The clause "PersonX looks PersonY in the face" expresses the aspect of "action". It describes an action or behavior of one person (PersonX) looking at another person (PersonY) in the face. Therefore, the answer
+ The clause "PersonX be careless" expresses the mental state of the subject, specifically the idea of being careless. Therefore, the answer is (3) mental state.
+ The clause "PersonX starts" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX feel happy" expresses the mental state of the subject, specifically the emotion of happiness. Therefore, the answer is (3) mental state.
+ The clause "PersonX save" expresses the aspect of action. Therefore, the answer is (1) action.
+13/52
+ The clause "PersonX get PersonX breakfast" expresses the action aspect of the subject. Therefore, the answer is (1) action.
+ The clause "PersonX have to do anything" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX have the option" expresses the aspect of "action". Therefore, the answer is (1) action.
+ The clause "PersonX put everything together" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX sit down next to PersonY" expresses the aspect of action. Therefore, the answer is (1) action.
+14/52
+ The clause "PersonX can not move" expresses the aspect of "mental state" (3). It indicates that PersonX is unable to perform the action of moving.
+ The clause "PersonX lose PersonX composure" expresses the aspect of mental state. Therefore, the answer is (3) mental state.
+ The clause "PersonX be optimistic" expresses the mental state of the person, specifically their optimism. Therefore, the answer is (3) mental state.
+ The clause "PersonX realize" expresses the aspect of mental state. Therefore, the answer is (3) mental state.
+ The clause "PersonX should reconsider" expresses the aspect of action. Therefore, the answer is (1) action.
+15/52
+ The clause "PersonX must write" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX make arrangement" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX shall be glad" expresses the mental state of the subject, specifically the emotion of gladness. Therefore, the answer is (3) mental state.
+ The clause "PersonX confesses" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX stands up to PersonY" expresses the aspect of action. Therefore, the answer is (1) action.
+16/52
+ The clause "PersonX be conscientious" expresses the mental state of the person, specifically their level of consciousness or awareness. Therefore, the answer is (3) mental state.
+ The clause "PersonX be grow" expresses the aspect of action. Therefore, the answer is (1) action.
+ Based on the information provided in the sentence, the clause "PersonX get there" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX be a dreamer" expresses the mental state of the person, specifically their ability to dream. Therefore, the answer is (3) mental state.
+ The clause "PersonX falls into poverty" expresses the aspect of "action". Therefore, the answer is (1) action.
+17/52
+ The clause "PersonX would pick up" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX be friendly" expresses the mental state of the person, specifically their friendliness. Therefore, the answer is (3) mental state.
+ The clause "PersonX eat here" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX be reach for it" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX can be in great hand" expresses the aspect of "mental state". Therefore, the answer is (3) mental state.
+18/52
+ The clause "PersonX doesn't like Y" expresses the aspect of mental state, specifically the negative emotion of dislike. Therefore, the answer is (3) mental state.
+ The clause "PersonX be not easily disgusted by vulgarity" expresses the person's mental state. Therefore, the answer is (3) mental state.
+ The clause "PersonX watch scary movie" expresses the aspect of "mental state". It describes the emotional state of the person, specifically their willingness to watch a scary movie. Therefore, the answer is (3)
+ The clause "PersonX be" expresses the aspect of "persona" in the subject. Therefore, the answer is (2) persona.
+ The clause "PersonX breast rise" expresses the aspect of "action". Therefore, the answer is (1) action.
+19/52
+ The clause "PersonX will be its god" expresses the aspect of persona.--Explanation:--In this clause, "PersonX" is a noun referring to a specific individual, and "its god" is a n
+ The clause "PersonX will not let" expresses the aspect of "mental state" (3). It indicates that PersonX has a certain mental state or attitude towards something, specifically, they are unwilling or resistant to allowing something
+ The clause "PersonX be back home" expresses the aspect of "action". Therefore, the answer is (1) action.
+ The clause "PersonX will go back to America" expresses the action aspect of the subject. Therefore, the answer is (1) action.
+ The clause "PersonX gets older" expresses the aspect of action. Therefore, the answer is (1) action.
+20/52
+ The clause "PersonX be sit there" expresses the aspect of "action". Therefore, the answer is (1) action.
+ The clause "PersonX be respectful" expresses the aspect of "mental state" (3). It describes the mental state or attitude of the person being referred to, specifically their level of respectfulness towards someone or something.
+ Based on the sentence "PersonX avoids that," the clause expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX be content" expresses the mental state of the subject, specifically the state of being content. Therefore, the answer is (3) mental state.
+ The clause "PersonX be a liar" expresses the mental state of the person being described, specifically their state of lying. Therefore, the answer is (3) mental state.
+21/52
+ The clause "PersonX guesses" expresses the mental state of the subject, specifically the act of making a mental prediction or inference. Therefore, the answer is (3) mental state.
+ The clause "PersonX agrees with observation" expresses the aspect of mental state. Therefore, the answer is (3) mental state.
+ The clause "PersonX first time eat here" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX be a teenager" expresses the aspect of persona.
+ The clause "PersonX be a kid" expresses the aspect of persona. Therefore, the answer is (2) persona.
+22/52
+ The clause "PersonX wear something everyday" expresses the aspect of "action". It describes an action that PersonX performs regularly, which is to wear something every day. Therefore, the answer is (1) action.
+ The clause "PersonX needs PersonY" expresses the aspect of "mental state" (3). It indicates that PersonX has a specific need or requirement that can only be fulfilled by PersonY.
+ The clause "PersonX orders be correct" expresses the aspect of "action". Therefore, the answer is (1) action.
+ The clause "PersonX be social" expresses the aspect of "persona" (3).
+ The clause "PersonX can experience" expresses the aspect of "mental state". Therefore, the answer is (3) mental state.
+23/52
+ The clause "PersonX be accomplish" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX be happy" expresses the mental state of the subject, specifically the emotional state of happiness. Therefore, the answer is (3) mental state.
+ The clause "PersonX lip begin to quiver" expresses the mental state of the person, specifically the onset of emotion or nervousness. Therefore, the answer is (3) mental state.
+ The clause "PersonX should do so" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX comments be at the top" expresses the aspect of "mental state" (3). It implies that PersonX has a particular mental state or feeling, in this case, being at the top.
+24/52
+ The clause "PersonX so move" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX have not know" expresses the aspect of mental state. Therefore, the answer is (3) mental state.
+ The clause "PersonX do not care it at all" expresses the mental state of the subject, specifically the idea that PersonX does not have any interest or concern in the thing being referred to. Therefore, the answer is (3)
+ The clause "PersonX be assist" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX mom know" expresses the aspect of mental state.--Therefore, the answer is (3) mental state.
+25/52
+ The clause "PersonX loves PersonZ" expresses the mental state of PersonX, specifically their emotional feeling of love towards PersonZ. Therefore, the answer is (3) mental state.
+ The clause "PersonX gets lucky" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX be in shape" expresses the aspect of "mental state". It implies that PersonX is in a good mental condition, physically fit, or healthy. Therefore, the answer is (3) mental state
+ The clause "PersonX gets curious" expresses the mental state of the subject, specifically the emotion of curiosity. Therefore, the answer is (3) mental state.
+ The clause "PersonX be needy" expresses the mental state of the person, specifically the idea that they are in need of something. Therefore, the answer is (3) mental state.
+26/52
+ The clause "PersonX be disappointed" expresses the mental state of the subject, specifically the emotion of disappointment. Therefore, the answer is (3) mental state.
+ The clause "PersonX be just curious" expresses the mental state of the subject, specifically their curiosity. Therefore, the answer is (3) mental state.
+ The clause "PersonX be pretty hungry" expresses the mental state of the subject, specifically the feeling of hunger. Therefore, the answer is (3) mental state.
+ The clause "PersonX be glad" expresses the mental state of the subject, specifically the emotion of gladness. Therefore, the answer is (3) mental state.
+ The clause "PersonX be hope" expresses the mental state of the subject, specifically the emotion of hope. Therefore, the answer is (3) mental state.
+27/52
+ The clause "PersonX be naive" expresses the mental state of the person, specifically their level of knowledge or awareness about something. Therefore, the answer is (3) mental state.
+ The clause "PersonX feel cheerful" expresses the mental state of the subject, specifically the emotion of cheerfulness. Therefore, the answer is (3) mental state.
+ The clause "PersonX cry" expresses the mental state of the subject, specifically the emotion of crying. Therefore, the answer is (3) mental state.
+ The clause "PersonX be broke" expresses the mental state of the subject, specifically the state of being broke. Therefore, the answer is (3) mental state.
+ The clause "PersonX be tired" expresses the mental state of the subject, specifically the state of being tired. Therefore, the answer is (3) mental state.
+28/52
+ The clause "PersonX be happy" expresses the mental state of the subject, specifically the emotional state of happiness. Therefore, the answer is (3) mental state.
+ The clause "PersonX feels stressed" expresses the mental state of the subject, specifically the emotional state of feeling stressed. Therefore, the answer is (3) mental state.
+ The clause "PersonX credit card does not work" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX be here" expresses the aspect of persona. Therefore, the answer is (2) persona.
+ The clause "PersonX be hungry" expresses the mental state of the person, specifically the feeling of hunger. Therefore, the answer is (3) mental state.
+29/52
+ The clause "PersonX be hungry" expresses the mental state of the person, specifically the feeling of hunger. Therefore, the answer is (3) mental state.
+ The clause "PersonX can not log" expresses the aspect of "mental state" (3). It implies that PersonX is unable to perform the action of logging, which is a cognitive or mental ability.
+ The clause "PersonX be healthy" expresses the aspect of "mental state".
+ The clause "PersonX wear" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX be hopeful" expresses the mental state of the subject, specifically the emotion of hope. Therefore, the answer is (3) mental state.
+30/52
+ The clause "PersonX needs help" expresses the aspect of "mental state". It implies that PersonX is in a state of needing assistance or support, rather than performing an action or having a specific persona.
+ The clause "PersonX taste" expresses the aspect of persona. Therefore, the answer is (2) persona.
+ The clause "PersonX must practice" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX cheer" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX be imagine" expresses the aspect of mental state. Therefore, the answer is (3) mental state.
+31/52
+ The clause "PersonX be slow" expresses the aspect of "mental state" (3). It describes the state of being slow, which is a mental or cognitive process.
+ The clause "PersonX have land" expresses the aspect of "possession" or "ownership", so the correct answer is (3) mental state.
+ The clause "PersonX gets hungry" expresses the mental state of the subject, specifically the feeling of hunger. Therefore, the answer is (3) mental state.
+ The clause "PersonX be go up" does not express any aspect of the subject. It is a grammatically incomplete sentence and does not convey any meaningful information. Therefore, the correct answer is (3) mental state.
+ The clause "PersonX speak" expresses the aspect of action. Therefore, the answer is (1) action.
+32/52
+ The clause "PersonX wants to overclock" expresses the action aspect of the subject. Therefore, the answer is (1) action.
+ The clause "PersonX be glad" expresses the mental state of the subject, specifically the emotion of gladness. Therefore, the answer is (3) mental state.
+ The clause "PersonX be savage" expresses the aspect of persona.--Therefore, the answer is (2) persona.
+ The clause "PersonX hear" expresses the aspect of "action". Therefore, the answer is (1) action.
+ The clause "PersonX be sack" expresses the aspect of "action" (1).
+33/52
+ The clause "PersonX be a civilian" expresses the aspect of "persona" (3). It specifies the identity of the person being referred to, indicating that they are a civilian, rather than a military personnel or a
+ The clause "PersonX be sorry" expresses the mental state of the subject, specifically the emotion of sorrow or regret. Therefore, the answer is (3) mental state.
+ The clause "PersonX hopes" expresses the mental state of the subject, specifically the hope of the person. Therefore, the answer is (3) mental state.
+ The clause "PersonX be not stupid" expresses the mental state of the person being described, specifically the absence of stupidity. Therefore, the answer is (3) mental state.
+ The clause "PersonX drop out of school" expresses the action aspect of the subject. Therefore, the answer is (1) action.
+34/52
+ The clause "PersonX have wing" expresses the aspect of "persona" (3). It describes the characteristic or trait of PersonX having wings, which is not a realistic or possible physical attribute for a human or any other living
+ The clause "PersonX be hopeless" expresses the mental state of the subject, specifically the feeling of hopelessness. Therefore, the answer is (3) mental state.
+ The clause "PersonX wake up" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX ventilator fail" expresses the action aspect of the subject. Therefore, the answer is (1) action.
+ The clause "PersonX be book" expresses the aspect of persona. Therefore, the answer is (2) persona.
+35/52
+ The clause "PersonX be not home yet" expresses the aspect of "mental state" because it describes the state of being not home, which is a mental or emotional state of a person. Therefore, the answer is (3
+ The clause "PersonX be so warm" expresses the mental state of the person, specifically their emotional state, so the answer is (3) mental state.
+ Based on the sentence "PersonX disconnect," the clause expresses the action aspect of the subject. Therefore, the answer is (1) action.
+ The clause "PersonX can not have got far" expresses the aspect of "mental state" (3). It implies that PersonX is unable to progress or make progress in a particular situation or endeavor.
+ The clause "PersonX learn" expresses the aspect of action. Therefore, the answer is (1) action.
+36/52
+ The clause "PersonX be too dizzy" expresses the mental state of the subject, specifically the state of being dizzy. Therefore, the answer is (3) mental state.
+ The clause "PersonX be scared" expresses the mental state of the subject, specifically the emotion of fear. Therefore, the answer is (3) mental state.
+ The clause "PersonY be cold" expresses the mental state of the person, so the answer is (3) mental state.
+ The clause "PersonY shows kindly" expresses the aspect of mental state.--Therefore, the answer is (3) mental state.
+ The clause "PersonY will stay too" expresses the aspect of "mental state". Therefore, the answer is (3) mental state.
+37/52
+ Based on the given sentence "PersonY must go," the clause expresses the aspect of action. Therefore, the answer is (1) action.
+ Based on the information provided in the sentence, the clause "PersonY have" expresses the aspect of "persona". Therefore, the answer is (2) persona.
+ Based on the information provided in the sentence, the clause "PersonY thinks about family" expresses the aspect of mental state. Therefore, the answer is (3) mental state.
+ The clause "PersonY ask" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonY be weak" expresses the aspect of mental state. Therefore, the answer is (3) mental state.
+38/52
+ Based on the sentence "PersonY scares me," the clause "scares" expresses the mental state of the speaker, specifically the emotion of fear. Therefore, the answer is (3) mental state.
+ The clause "PersonY will let" expresses the aspect of action. Therefore, the answer is (1) action.
+ Based on the context of the sentence, the clause "PersonY turns" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonY needs PersonX" expresses the aspect of "action" (1). It indicates that PersonY requires the help or assistance of PersonX to perform a specific task or action.
+ Based on the information provided in the sentence, the clause "PersonY want" expresses the aspect of "mental state". Therefore, the answer is (3) mental state.
+39/52
+ The clause "PersonY does not know" expresses the aspect of mental state. Therefore, the answer is (3) mental state.
+ The clause "PersonY be so tall" expresses the aspect of "mental state" (3). It describes the height of a person, which is a characteristic or quality of that person's mental state or identity.
+ The clause "PersonY be diagnosed" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonY be be sarcastic" expresses the mental state of the person, specifically their sarcasm. Therefore, the answer is (3) mental state.
+ The clause "PersonY become breathless" expresses the mental state of the person, specifically their emotional state. Therefore, the answer is (3) mental state.
+40/52
+ The clause "PersonX be sympathetic to people" expresses the aspect of "mental state". It describes the emotional state of PersonX, specifically their ability to understand and share the feelings of others.
+ Based on the sentence "PersonX plays the guitar," the clause "PersonX play" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX be pretty" expresses the aspect of "persona" (3). It describes the personality or character of PersonX, specifically their physical appearance.
+ The clause "PersonX be sensible" expresses the aspect of mental state. Therefore, the answer is (3) mental state.
+ The clause "PersonX steal" expresses the aspect of action. Therefore, the answer is (1) action.
+41/52
+ The clause "PersonX wake up" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX sees" expresses the aspect of "mental state" (3). It indicates that PersonX is perceiving or observing something, rather than performing an action (1) or having a particular persona (2).
+ The clause "PersonX be frustrated" expresses the mental state of the subject, specifically the emotion of frustration. Therefore, the answer is (3) mental state.
+ The clause "PersonX be glad" expresses the mental state of the subject, specifically the emotion of gladness. Therefore, the answer is (3) mental state.
+ The clause "PersonX cry" expresses the mental state of the subject, specifically the emotion of crying. Therefore, the answer is (3) mental state.
+42/52
+ The clause "PersonX be disingenuous" expresses the mental state of the person, specifically their intentions or sincerity. Therefore, the answer is (3) mental state.
+ The clause "PersonX be pretty tired" expresses the mental state of the subject, specifically the state of being tired. Therefore, the answer is (3) mental state.
+ The clause "PersonX be sorry" expresses the mental state of the subject, specifically the emotion of sorrow or regret. Therefore, the answer is (3) mental state.
+ The clause "PersonX be genuinely impressed" expresses the mental state of the person being described, specifically their level of impressions or surprise. Therefore, the answer is (3) mental state.
+ The clause "PersonX's skin be very sensitive" expresses the aspect of "mental state" (3). It describes the sensitivity of PersonX's skin, indicating that they are more sensitive than usual or more prone
+43/52
+ The clause "PersonX be used to flavor" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX feel tired" expresses the mental state of the subject, specifically the feeling of tiredness. Therefore, the answer is (3) mental state.
+ The clause "PersonX be glad" expresses the mental state of the subject, specifically the emotion of gladness. Therefore, the answer is (3) mental state.
+ The clause "PersonX needs more" expresses the aspect of "mental state". Therefore, the answer is (3) mental state.
+ The clause "PersonX be pretty" expresses the aspect of "persona" (3). It describes the personality or character of PersonX, specifically their physical appearance.
+44/52
+ The clause "PersonX be dress in black" expresses the aspect of "persona" as it describes the person's appearance or clothing. Therefore, the answer is (2) persona.
+ The clause "PersonX sleep" expresses the aspect of "mental state". Therefore, the answer is (3) mental state.
+ The clause "PersonX laughs" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX be glad" expresses the mental state of the subject, specifically the emotion of gladness. Therefore, the answer is (3) mental state.
+ The clause "PersonX sees" expresses the aspect of "mental state" (3). It indicates that PersonX is perceiving or observing something, rather than performing an action (1) or having a particular persona (2).
+45/52
+ The clause "PersonX be a female" expresses the aspect of persona. Therefore, the answer is (2) persona.
+ The clause "PersonX be right" expresses the aspect of mental state. Therefore, the answer is (3) mental state.
+ The clause "PersonX be innocent" expresses the aspect of mental state. It describes the state of mind of PersonX, specifically their innocence or lack of guilt. Therefore, the answer is (3) mental state.
+ The clause "PersonX be sorry" expresses the mental state of the subject, specifically the emotion of sorrow or regret. Therefore, the answer is (3) mental state.
+ The clause "PersonX enjoys" expresses the mental state or emotion of the subject, specifically the pleasure or enjoyment that PersonX experiences. Therefore, the answer is (3) mental state.
+46/52
+ The clause "PersonX be good" expresses the aspect of "persona" (3). It describes the personality or character of PersonX, indicating that they are good or have good qualities.
+ The clause "PersonX must be careful" expresses the aspect of "action". Therefore, the answer is (1) action.
+ The clause "PersonX have" expresses the aspect of "persona" in the following sentence:--"PersonX have a pet dog."--In this sentence, "PersonX" refers to a specific individual, and the clause "
+ The clause "PersonX be tire" expresses the mental state of the subject, specifically the state of being tired. Therefore, the answer is (3) mental state.
+ The clause "PersonX be accepted to college" expresses the aspect of "action". Therefore, the answer is (1) action.
+47/52
+ The clause "PersonX stagger" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX be beautiful" expresses the aspect of "persona" (3). It describes the personality or character of PersonX, focusing on their appearance or attractiveness.
+ The clause "PersonX dance" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX be innocent" expresses the aspect of mental state. It describes the state of mind of PersonX, specifically their innocence or lack of guilt. Therefore, the answer is (3) mental state.
+ The clause "PersonX be greet pleasantly" expresses the mental state of the person being described. Therefore, the answer is (3) mental state.
+48/52
+ The clause "PersonX charge" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX die" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX can not see clear" expresses the aspect of mental state. Therefore, the answer is (3) mental state.
+ The clause "PersonX be appreciate" expresses the aspect of mental state. Therefore, the answer is (3) mental state.
+ The clause "PersonX be wake up" expresses the aspect of "action" (1). It describes an action that PersonX is performing, specifically, waking up.
+49/52
+ The clause "PersonX mature" expresses the aspect of "persona" (3).
+ The clause "PersonX be clean" expresses the aspect of "mental state" (3). It describes the mental state or condition of PersonX, specifically that they are clean or free from dirt or impurities.
+ The clause "PersonX works have to translate" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX be please with choice" expresses the mental state of the person, specifically their satisfaction or pleasure, so the answer is (3) mental state.
+ The clause "PersonX be very clever" expresses the mental state of the person being described, specifically their intelligence or cleverness. Therefore, the answer is (3) mental state.
+50/52
+ The clause "PersonX understands" expresses the aspect of mental state. Therefore, the answer is (3) mental state.
+ The clause "PersonX be very shy" expresses the mental state of the person, specifically their shyness. Therefore, the answer is (3) mental state.
+ The clause "PersonX hold" expresses the aspect of "persona". Therefore, the answer is (2) persona.
+ The clause "PersonX feels cold" expresses the mental state of the subject, specifically the emotional state of feeling cold. Therefore, the answer is (3) mental state.
+ The clause "PersonX be new to area" expresses the aspect of "action" (1). It describes an action or a state of being that PersonX is in, which is moving to a new area.
+51/52
+ The clause "PersonX be back" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX falls" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX stagger" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX give" expresses the aspect of action. Therefore, the answer is (1) action.
+ The clause "PersonX be bereaved" expresses the mental state of the person, specifically their emotional suffering or grief, so the answer is (3) mental state.

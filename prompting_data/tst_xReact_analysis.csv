@@ -1,0 +1,107 @@
+head,relation,tail,label,do_satisfy_typing_constraint_gold_label,davinci_naive_prompt3,davinci_moe_q1_prompt1,randomcot_chatgpt_prompt3
+PersonX love hear,xReact,PersonX be still wait for sale,0,0,0,1,0
+PersonX have get to hook,xReact,PersonX run the chance,0,0,0,0,0
+PersonX can lead PeopleX right,xReact,PersonX know the trick,0,0,1,1,0
+PersonX improve yourself,xReact,PersonX be really worried,0,1,1,1,0
+PersonX feel sad,xReact,PersonX be down blue,1,1,0,1,0
+PersonX be secure in masculinity,xReact,PersonX can answer a hypothetical,0,0,0,0,0
+PersonX want to hurt PersonY,xReact,PersonX just bail on tonight,0,0,0,0,0
+PersonX could live on side,xReact,PersonX move here,0,0,0,0,0
+PersonX be send back,xReact,PersonX father demand,0,0,0,1,0
+PersonX be walk along beach,xReact,PersonX be satisfied,1,1,1,1,1
+PersonX just want to play with sr1mp,xReact,PersonX can buy it,0,0,0,0,0
+PersonX follow the recipe exactly,xReact,PersonX be satisfied,1,1,1,1,1
+PersonX should try it especially,xReact,PersonX have several hour,0,0,0,0,0
+PersonX divorce PersonX wife,xReact,PersonX love june,0,1,0,0,0
+PersonX find PersonY channel,xReact,PersonX understand better,0,0,1,1,1
+PersonX quit day,xReact,PersonX should pick up smoking,0,1,0,1,0
+PersonX decide to order a pizza,xReact,PersonX have just move,0,0,0,0,0
+PersonX be not,xReact,PersonX just get sick,0,0,0,1,0
+PersonX mock PersonY,xReact,PersonX be in earnest,0,0,0,1,0
+PersonX can take PersonY back,xReact,PersonX will have a place of own,0,0,1,1,0
+PersonX give PersonY the courage,xReact,PersonX be good,1,1,1,1,0
+PersonX be embolden,xReact,PeopleX be party,0,0,0,0,0
+PersonX meet PersonX father,xReact,PersonX get out prison,0,0,0,0,0
+PersonX borrow some money,xReact,PersonX could not pay it back,0,0,0,1,0
+PersonX put it in purse,xReact,PersonX get back something,0,0,0,0,0
+PersonX visit usa,xReact,PersonX move,0,0,0,0,0
+PersonX want dinner,xReact,PersonX be hungry,0,1,1,1,0
+PersonX be not do a job properly,xReact,PersonX be sack,0,0,0,1,0
+PersonX be all stay,xReact,PersonX be go,0,0,0,0,0
+PersonX be go to get that,xReact,PersonX deserve everything,1,0,0,1,0
+PersonX be sick again,xReact,PersonX be,0,0,0,1,0
+PersonX be good at it,xReact,PersonX say yeah,0,0,0,1,0
+PersonX gae awa to bed,xReact,PersonX sit up,0,0,0,1,0
+PersonX play PersonY 's favorite song,xReact,PersonX be good,1,1,1,1,0
+PersonX pay the bill,xReact,PersonX leave,0,0,0,0,0
+PersonX work PersonY way up,xReact,PersonX be happy,1,1,1,1,1
+PersonX like spending time with PersonY,xReact,PersonX be more happy,1,1,1,1,1
+PersonX wake up feeling,xReact,PersonX be a heavy sleeper,0,0,0,1,0
+PersonX never occur to PersonY,xReact,PersonX be unaware,0,1,0,1,0
+PersonX could not bring PersonX mouth to negative,xReact,PersonX assent,0,0,0,1,0
+PersonX move PersonX car,xReact,PersonX be sneaky,0,0,0,1,0
+PersonX give PersonY a ring,xReact,PersonX think of anything,0,0,0,1,0
+PersonX need to use something,xReact,PersonX will need,0,0,0,1,0
+PersonX save PersonY 's people,xReact,PersonX look PersonY in face,0,0,1,1,0
+PersonX would have miss PersonY,xReact,PersonX be careless,0,1,0,1,0
+PersonX find another gear,xReact,PersonX start,0,0,0,0,0
+PersonX get a new pet,xReact,PersonX feel happy,1,1,1,1,1
+PersonX be on any kind of insurance,xReact,PersonX save,1,0,0,0,1
+PersonX go to city,xReact,PersonX get PersonX breakfast,0,0,0,0,0
+PersonX would have be stop,xReact,PersonX have do anything,0,0,0,1,0
+PersonX be go to do that,xReact,PersonX have the option,0,0,0,0,0
+PersonX be kind,xReact,PersonX put everything together,0,0,0,0,0
+PersonX have be wait for something,xReact,PersonX sit down next to PersonY,0,0,0,0,0
+PersonX feel nervous,xReact,PersonX can not move,0,0,1,1,0
+PersonX could realise it,xReact,PersonX lose PersonX composure,0,0,1,1,0
+PersonX start to date,xReact,PersonX be optimistic,1,1,1,1,1
+PersonX need to pee,xReact,PersonX realize,0,0,0,1,0
+PersonX want to lose weight,xReact,PersonX should reconsider,0,0,1,1,0
+PersonX put pen to paper,xReact,PersonX must write,0,0,1,0,0
+PersonX be efficient,xReact,PersonX make arrangement,0,0,1,0,1
+PersonX run three mile,xReact,PersonX be in shape,1,1,1,1,0
+PersonX follow PersonY,xReact,PersonX get curious,1,1,1,1,1
+PersonX ask,xReact,PersonX be needy,0,1,0,1,0
+PersonX have wait over hour,xReact,PersonX be disappointed,0,0,1,1,1
+PersonX always wonder,xReact,PersonX be just curious,1,1,1,1,1
+PersonX order,xReact,PersonX be pretty hungry,1,1,1,1,0
+PersonX pay cash,xReact,PersonX credit card do not work,0,0,0,1,0
+PersonX belong here,xReact,PersonX be here,0,0,1,1,1
+PersonX go eat,xReact,PersonX be hungry,0,1,1,1,0
+PersonX eat a good portion of it,xReact,PersonX be hungry,0,1,1,1,0
+PersonX forget PersonX password,xReact,PersonX can not log,0,0,1,1,0
+PersonX do not have diabetes,xReact,PersonX be healthy,1,1,1,1,1
+PersonX put on suit,xReact,PersonX wear,0,0,1,1,0
+PersonX be a cancer survivor,xReact,PersonX be hopeful,1,1,1,1,1
+PersonX have a nervous breakdown,xReact,PersonX need help,0,0,1,1,1
+PersonX have the fried chicken,xReact,PersonX taste,0,0,1,1,0
+PersonX dance,xReact,PersonX must practice,0,0,1,0,1
+PersonX do well,xReact,PersonX cheer,0,0,1,0,1
+PersonX suppose,xReact,PersonX be imagine,0,0,1,1,0
+PersonX be run,xReact,PersonX be slow,0,1,0,1,0
+PersonX land,xReact,PersonX have land,0,0,0,0,0
+PersonX snack a bit,xReact,PersonX get hungry,0,1,0,1,0
+PersonX go up,xReact,PersonX be go up,0,0,0,0,0
+PersonX explain PersonX situation,xReact,PersonX speak,0,0,1,1,0
+PersonX plan on overclocking,xReact,PersonX want to overclock,0,0,1,0,0
+PersonX get full price,xReact,PersonX be glad,1,1,1,1,0
+PersonX imprison PersonY,xReact,PersonX be savage,0,1,0,1,0
+PersonX hear sound,xReact,PersonX hear,0,0,1,1,0
+PersonX resign,xReact,PersonX be sack,0,0,1,1,0
+PersonX never join the military,xReact,PersonX be a civilian,0,0,1,1,0
+PersonX disapprove of PersonY,xReact,PersonX be sorry,1,1,1,1,0
+PersonX earnestly pray,xReact,PersonX hope,0,0,1,1,1
+PersonX can guess the rest,xReact,PersonX be not stupid,0,1,1,1,0
+PersonX go back to school,xReact,PersonX drop out of school,0,0,0,0,0
+PersonX could fly,xReact,PersonX have wing,0,0,0,1,0
+PersonX dont,xReact,PersonX be hopeless,0,1,0,1,0
+PersonX sleep through day,xReact,PersonX wake up,0,0,1,0,1
+PersonX die,xReact,PersonX ventilator fail,0,0,0,0,0
+PersonX be book,xReact,PersonX be book,0,0,0,1,0
+PersonX be home,xReact,PersonX be not home yet,0,0,0,1,0
+PersonX lay the fire,xReact,PersonX be so warm,1,1,0,1,1
+PersonX be not online,xReact,PersonX disconnect,0,0,0,1,0
+PersonX hitch,xReact,PersonX can not have get far,0,0,0,1,0
+PersonX pursue PersonX inquiry,xReact,PersonX learn,0,0,1,0,0
+PersonX fall back on bed,xReact,PersonX be too dizzy,1,1,0,1,1
+PersonX must have see something scary,xReact,PersonX be scare,1,1,1,1,1

@@ -1,0 +1,523 @@
+1. ejaculate
+2. release
+3. PersonX release, thus PersonX want PersonX orgasm
+4. True. Because ejaculation is often associated with the desire for orgasm.
+
+1. get a glass of wine
+2. drink wine
+3. PersonX go to fridge, thus, PersonX want to drink wine
+4. True. Because going to the fridge to get something usually implies a desire to consume it.
+
+1. work tirelessly
+2. work hard
+3. PersonX work hard, thus, PersonX want to die
+4. False. Working hard does not necessarily lead to wanting to die.
+
+1. set off
+2. leave
+3. PersonX leave, thus PersonX want to leave
+4. True. Because setting off is a clear indication of wanting to leave.
+
+1. enlist
+2. join military
+3. PersonX join military, thus PersonX want to fight for country
+4. True. Because enlisting in the military often involves a desire to serve and protect one's country.
+
+Statement: PersonX fall into pool
+1. fall into pool
+2. accident
+3. PersonX have an accident, thus PersonX want mother to enrol PersonX in school
+4. False. There is no clear connection between falling into a pool and wanting to be enrolled in school.
+
+1. put down some toilet paper in toilet
+2. prepare toilet
+3. PersonX shit, thus, PersonX want to prepare toilet
+4. True. Because it's common to prepare the toilet before using it.
+
+1. want to be paranoid
+2. feel anxious
+3. PersonX come, thus, PersonX feel anxious
+4. False. There is no clear reason why PersonX would feel anxious just because they came.
+
+1. look back at footage
+2. review
+3. PersonX reviews footage, thus PersonX wants to bet
+4. False. There is no clear connection between reviewing footage and wanting to bet.
+
+Statement: PersonX receives a promotion, thus, PersonX's salary increases
+1. salary increases
+2. pay raise
+3. PersonX receives a promotion, thus, PersonX gets a pay raise
+4. True. Because promotions often come with a pay raise.
+
+1. withdraw money
+2. get cash
+3. PersonX get cash, thus PersonX want to pay bill
+4. True. Because getting cash is usually done to pay for something.
+
+1. have a cavity
+2. dental problem
+3. PersonX have dental problem, thus PersonX want to have a toothache
+4. False. Because having a toothache is usually unpleasant and painful, so it is unlikely that someone would want to have one.
+
+1. wire PersonY
+2. send a message
+3. PersonX sends a message to PersonY, thus PersonX wants to receive a telegram
+4. False. Because sending a message does not necessarily mean wanting to receive a telegram.
+
+1. escape
+2. flee
+3. PersonX flees, thus PersonY wants to flee
+4. True. Because people tend to follow the actions of others in dangerous situations.
+
+1. work from home
+2. remote work
+3. PersonX does remote work, thus PersonY wants to do remote work
+4. True. Because working from home can be convenient and desirable for many people.
+
+1. loan succeed
+2. successful loan
+3. PersonX has a successful loan, thus PersonY wants to prefer
+4. False. The relationship between a successful loan and someone wanting to prefer is unclear and unlikely.
+
+Statement: PersonX receives a promotion, thus, PersonX's salary increases
+1. receives a promotion
+2. job advancement
+3. PersonX's job advances, thus PersonX's salary increases
+4. True. Because promotions often come with salary increases.
+
+Statement: PersonX eats a lot of junk food, thus, PersonX gains weight
+1. eats a lot of junk food
+2. unhealthy eating habits
+3. PersonX has unhealthy eating habits, thus PersonX gains
+
+1. not use PersonX ability
+2. underutilize talent
+3. PersonX underutilizes talent, thus PersonY wants to mean
+4. True. Because it's frustrating to see someone not using their full potential.
+
+1. leave food
+2. waste food
+3. PersonX waste food, thus as a result, PersonX be only ask
+4. False. The conceptualized statement doesn't make sense and the original statement is unclear.
+
+1. collapse in courthouse
+2. medical emergency
+3. PersonX has a medical emergency, thus as a result, PersonX body reject the transplant liver
+4. False. The two events seem unrelated and it is unlikely that a collapse in a courthouse would directly cause the rejection of a transplant liver.
+
+1. get really paranoid
+2. become anxious
+3. PersonX becomes anxious, thus as a result, PersonX be nervous
+4. True. Because paranoia can lead to anxiety and nervousness.
+
+1. throw up
+2. vomit
+3. PersonX have food poisoning, thus as a result, PersonX vomit
+4. True. Because vomiting is a common symptom of food poisoning.
+
+1. earn more money
+2. financial gain
+3. PersonX experiences financial gain, thus as a result, PersonX wants to stay there
+4. True. Because people tend to stay in a job that provides them with financial stability.
+
+1. feel very sick
+2. ill
+3. PersonX is ill, thus as a result, PersonX have medicine
+4. True. Because when someone is ill, they usually take medicine to feel better.
+
+1. be indecisive
+2. unsure
+3. PersonX decide, thus as a result, PersonX be unsure
+4. False. Because making a decision usually leads to being more decisive, not less.
+
+1. see a dead body
+2. witness death
+3. PersonX witness death, thus as a result, PersonX just will not cry
+4. True. Because some people may not cry when they witness death due to shock or other reasons.
+
+1. fill up
+2. refuel
+3. PersonX go to refuel, thus as a result, PersonX need gas
+4. True. Because refueling means needing gas.
+
+evaluated on their academic performance
+1. be a baby
+2. infancy
+3. PersonX is in infancy, thus as a result, PersonX could not be evaluated on their academic performance
+4. True. Because babies are not yet capable of academic performance evaluation.
+
+to rely on parents for financial support
+1. rely on parents for financial support
+2. financial dependence
+3. PersonX move out to live on own, thus as a result, PersonX will have financial independence
+4. True. Because when someone moves out to live on their own, they usually become financially independent and don't rely on their parents for support.
+
+1. fill out paperwork
+2. administrative task
+3. PersonX join, thus as a result, PersonX need to do administrative task
+4. True. Because joining usually requires administrative tasks such as filling out paperwork.
+
+1. get in shape
+2. fitness
+3. PersonX improves fitness, thus as a result, PersonY bet
+4. True. Because people often bet on others' fitness progress.
+
+1. cause PersonZ death
+2. fatal action
+3. PersonX takes fatal action, thus as a result, PersonY do not actually cause the harm
+4. True. Because if PersonX caused the death, then PersonY did not actually cause harm.
+
+1. steal PersonZ boyfriend
+2. take someone's partner
+3. PersonX takes PersonZ's partner, thus as a result, PersonY has a partner
+4. False. Because stealing someone's partner is not a morally acceptable behavior and it is unlikely that PersonY would want to be with someone who engages in such behavior.
+
+1. pull off
+2. succeed
+3. PersonX succeed, thus as a result on PersonX's emotion, PersonX wait
+4. True. Because after succeeding, PersonX may need to wait for the next step or instruction.
+
+1. prevent PersonY
+2. stop
+3. PersonX stops PersonY, thus as a result on PersonX's emotion, PersonX never reach out to anyone
+4. True. Because if PersonX is preventing PersonY, it may indicate that PersonX is feeling defensive or guarded, which could lead to a reluctance to reach out to others.
+
+1. go to sleep on hollow
+2. sleep
+3. PersonX sleeps, thus as a result on PersonX's emotion, PersonX feels tired
+4. True. Because sleeping usually makes people feel rested and less tired.
+
+1. always win
+2. success
+3. PersonX prepare it, thus as a result on PersonX's emotion, PersonX always achieve success
+4. False. Because preparation does not always guarantee success.
+
+1. read non fiction
+2. gain knowledge
+3. PersonX gain knowledge, thus as a result on PersonX's emotion, PersonX feel curious
+4. True. Because reading non fiction often leads to gaining knowledge and curiosity.
+
+1. ruin PersonX own marriage
+2. destroy relationship
+3. PersonX destroy relationship, thus as a result on PersonX's emotion, PersonX feel PersonX be selfish
+4. True. Because destroying a marriage can be seen as a selfish act.
+
+1. PersonX hair be gray
+2. gray hair
+3. PersonX has gray hair, thus as a result on PersonX's emotion, PersonX feel elderly
+4. True. Because gray hair is often associated with old age.
+
+1. eat the sub
+2. consume food
+3. PersonX consume food, thus as a result on PersonX's emotion, PersonX feel PersonX be full
+4. True. Because consuming food usually leads to feeling full.
+
+1. go PersonX separate way
+2. separate from someone
+3. PersonX separate from someone, thus as a result on PersonX's emotion, PersonX don't
+4. False. The statement is incomplete and does not provide enough information to determine the likelihood of PersonX not doing something.
+
+1. create that
+2. creativity
+3. PersonX's creativity leads to enjoyment in doing that
+4. True. Because people tend to enjoy doing things they create.
+
+1. put PersonY in mind
+2. remember
+3. PersonX remembers PersonY, thus as a result on PersonX's emotion, PersonX feels nostalgic
+4. True. Because remembering someone can trigger feelings of nostalgia.
+
+1. bear PersonY
+2. carry
+3. PersonX carry PersonY, thus as a result on PersonY's emotion, PersonY feel present
+4. True. Because being carried by someone can make a person feel present and included.
+
+1. take liberty
+2. act without permission
+3. PersonX acts without permission, thus as a result on PersonY's emotion, PersonY feels PersonY was kind
+4. False. Because acting without permission does not necessarily lead to the feeling of kindness in others.
+
+1. gaze at PersonY
+2. look at
+3. PersonX look at PersonY, thus as a result on PersonY's emotion, PersonY blush
+4. True. Because looking at someone can make them blush.
+
+1. play ana
+2. play a game
+3. PersonX play a game, thus as a result on PersonY's emotion, PersonY feel it's fun
+4. True. Because playing games can be fun and enjoyable for some people.
+
+1. be babysit
+2. responsible for taking care of children
+3. PersonX's baby brother dies, thus it can be seen about PersonX's attribute that PersonX is responsible for taking care of children
+4. False. The death of PersonX's baby brother does not necessarily mean that PersonX will become a babysitter.
+
+1. walk PersonY through process
+2. guide
+3. PersonX guides PersonY, thus it can be seen about PersonX's attribute that PersonX is professional
+4. True. Because guiding someone through a process is a professional behavior.
+
+1. preorder
+2. early purchase
+3. PersonX makes an early purchase, thus it can be seen about PersonX's attribute that PersonX is proactive
+4. True. Making an early purchase shows that PersonX is proactive and takes initiative.
+
+1. stay happy
+2. positive emotion
+3. PersonX has positive emotion, thus it can be seen about PersonX's attribute that PersonX is well paid
+4. False. Being happy does not necessarily mean someone is well paid.
+
+1. hand slip
+2. mistake
+3. PersonX makes a mistake, thus it can be seen about PersonX's attribute that PersonX falls
+4. False. Making a mistake does not necessarily mean that a person will fall.
+
+1. start this job
+2. begin working
+3. PersonX begins working, thus it can be seen about PersonX's attribute that PersonX is a hard worker
+4. True. Starting a new job often requires hard work and dedication.
+
+1. readily believe so
+2. gullible
+3. PersonX is gullible, thus it can be seen about PersonX's attribute that PersonX be convinced
+4. True. Because being gullible means easily believing things, which leads to being convinced easily.
+
+1. see PersonY
+2. admire
+3. PersonX have nothing else, thus it can be seen about PersonX's attribute that PersonX admire PersonY
+4. False. The original statement is unclear and does not provide enough context to make a judgement.
+
+1. have not hear a car drive up
+2. unaware of car's arrival
+3. PersonX is unaware of car's arrival, thus it can be seen about PersonX's attribute that PersonX is easily startled
+4. True. Because being unaware of a car's arrival can make someone easily startled.
+
+1. be promise
+2. reliable
+3. PersonX miss, thus it can be seen about PersonX's attribute that PersonX is reliable
+4. False. Missing something does not necessarily mean someone is unreliable.
+
+1. PersonX's attribute
+2. characteristic
+3. PersonX relate, thus it can be seen about PersonX's characteristic that PersonX feel
+4. False. The statement is incomplete and does not provide enough information to make a judgment.
+
+1. mistakenly shave PersonY head
+2. accidental haircut
+3. PersonX accidentally gives PersonY a haircut, thus it can be seen about PersonX's attribute that PersonX is upset
+4. True. Because making a mistake that causes harm to someone can make a person upset.
+
+1. PersonX's intention that PersonX belief be true
+2. belief validation
+3. PersonX believes in order to validate their beliefs, thus it can be seen about PersonX's intention that their belief be true
+4. True. Because people tend to believe in things that they think are true and want to validate their beliefs.
+
+1. ride the light rail
+2. use public transportation
+3. PersonX use public transportation, thus it can be seen about PersonX's intention that PersonX do not need a car
+4. True. Because using public transportation implies that PersonX does not need a car.
+
+1. at least one person
+2. minimum requirement
+3. PersonX wishes to have at least one person, thus it can be seen about PersonX's intention
+4. True. Because PersonX's intention is to have at least one person, which is reflected in their actions.
+
+1. form an opinion
+2. have a viewpoint
+3. PersonX has a viewpoint, thus it can be seen about PersonX's intention that PersonX have a viewpoint
+4. True. Because having a viewpoint implies having an intention or preference.
+
+1. wake up late for work
+2. tardiness
+3. PersonX's tardiness almost caused death
+4. False. There is no logical connection between waking up late and almost dying.
+
+1. get even happier
+2. increase happiness
+3. The event PersonX increase happiness will not happen unless PersonX be happy
+4. True. Because it is logical that one cannot become even happier if they are not already happy.
+
+Statement: PersonX's presentation was well-received, thus PersonX feels confident.
+1. well-received
+2. successful
+3. PersonX's presentation was successful, thus PersonX feels confident.
+4. True. Because success often leads to confidence.
+
+1. activate it
+2. trigger
+3. The event will not happen unless PersonX triggers it.
+4. True. Because the event is dependent on PersonX's action of triggering it.
+
+1. be intolerant
+2. lack of patience
+3. The event PersonX go lady at counter will not happen unless PersonX lack of patience.
+4. True. Because if PersonX lacks patience, they are more likely to give up on waiting in line and not go to the lady at the counter.
+
+Statement: PersonX's garden is full of flowers, thus, PersonX enjoys spending time outside.
+1. full of flowers
+2. blooming
+3. PersonX's garden is blooming, thus, PersonX enjoys spending time outside.
+4. True. Because a blooming garden is a pleasant place to spend time in.
+
+1. make plan
+2. prepare
+3. The event PersonX want to be a actor will not happen unless PersonX prepare
+4. True. Because preparation is necessary for achieving goals.
+
+1. make a speech
+2. public speaking
+3. The event PersonX do public speaking will not happen unless PersonX start
+4. True. Because without starting to speak, there can be no speech event.
+
+1. breathe
+2. inhale/exhale
+3. The event PersonX get sick of that will not happen unless PersonX inhale/exhale
+4. True. Because breathing is necessary for survival and without it, sickness can occur.
+
+1. break PersonX hip
+2. injury
+3. Because PersonX have an injury, PersonX have begun to recover
+4. False. Because the statement is illogical - breaking a hip would not lead to recovery, but rather the need for medical attention and rehabilitation.
+
+1. go faster
+2. increase speed
+3. Because PeopleX increase speed, PeopleX be fast
+4. True. Because increasing speed leads to being fast.
+
+1. have a secret
+2. hiding something
+3. Because Harvey is hiding something, PersonY asks
+4. True. Because people tend to be curious about secrets and want to know more.
+
+1. retire
+2. stop working
+3. Because PeopleX stop working, PeopleX be older
+4. True. Because retirement usually happens at an older age.
+
+1. do that well
+2. succeed
+3. Because PersonX succeed, it be so crazy
+4. False. The statement is grammatically incorrect and does not make sense.
+
+1. live a married life
+2. be married
+3. After PeopleX be not home, PersonX be married
+4. False. The statement is unclear and grammatically incorrect, making it difficult to determine its likelihood of occurrence.
+
+1. do something to PersonY
+2. action towards PersonY
+3. After PersonX take action towards PersonY, PersonY take action
+4. True. Because there is a cause and effect relationship between the actions of PersonX and PersonY.
+
+1. love this soup
+2. enjoy
+3. After PersonX enjoy soup, PersonX becomes a soup fan
+4. True. Because if someone enjoys a particular food, they are likely to become a fan of it.
+
+1. lock the door
+2. secure
+3. Before PersonX secure the door, no one could intrude
+4. True. Because locking the door prevents unauthorized access.
+
+1. have a break
+2. rest
+3. Before PersonX rest, PersonX totally get it
+4. True. Because taking a break can help refresh one's mind and increase productivity.
+
+1. have faith
+2. believe
+3. Before PersonX wouldn't, PersonX believe
+4. True. Because having faith often leads to believing in something.
+
+1. corny pick up line
+2. cheesy phrase
+3. Before PersonX write a play, PersonX use a cheesy phrase
+4. True. Because it's common for people to use cheesy pick up lines before they become successful in other areas of their life.
+
+Statement: PersonX's presentation is well-prepared, thus, PersonX feels confident.
+1. well-prepared presentation
+2. preparedness
+3. PersonX's preparedness for presentation leads to confidence
+4. True. Because being well-prepared usually leads to confidence.
+
+in the opposite claim, thus PersonY will not attend the event.
+1. will not attend the event
+2. absence
+3. The event PersonX show % certainty in claim will not happen if there be certainty in the opposite claim, thus PersonY's absence is expected.
+4. True. Because if PersonX's claim is not certain, and there is certainty in the opposite claim, PersonY will not attend the event.
+
+1. run out of supplies
+2. insufficient resources
+3. The event PersonX clean PersonY bathroom will not happen if PersonX has insufficient resources.
+4. True. Because if PersonX doesn't have enough supplies, they won't be able to clean PersonY's bathroom.
+
+1. play by herself
+2. solo performance
+3. The event of PersonY's solo performance will not happen if PersonY is happier
+4. False. There is no direct correlation between happiness and solo performances.
+
+1. achieve that
+2. accomplishment
+3. The accomplishment that PersonX will not achieve if PersonX could have
+4. True. Because if PersonX could have achieved it, then it wouldn't be something that will not happen.
+
+1. better hurry
+2. move quickly
+3. The event PersonX run away will not happen if PersonY move quickly.
+4. True. Because if PersonY moves quickly, they can prevent PersonX from running away.
+
+'t show up
+1. know PersonY will not happen
+2. cancelled
+3. The event will be cancelled if PersonY doesn't show up
+4. True. Because if PersonY is a crucial part of the event, it cannot happen without them.
+
+Statement: PersonX's presentation was well-received, thus, PersonX feels confident.
+1. well-received presentation
+2. successful presentation
+3. PersonX's successful presentation leads to confidence
+4. True. Because success often leads to confidence.
+
+1. send PersonY home
+2. dismiss
+3. The event PersonX dismiss PersonY will not happen if now it be up
+4. True. Because if it's up to PersonX, they won't dismiss PersonY.
+
+1. be misbehave
+2. misbehavior
+3. The event PersonX's misbehavior will not happen if PeopleX misbehave
+4. False. Because if PeopleX misbehave, it may encourage PersonX to misbehave as well.
+
+1. do not think PersonY will not happen
+2. doubt
+3. PersonX doubts the occurrence of PersonY's event if there is something
+4. True. Because if PersonX has doubts about the occurrence of PersonY's event, the presence of something may further decrease the likelihood of it happening.
+
+1. little experience
+2. lack of qualifications
+3. The event PersonX get this job will not happen if PersonX lack qualifications.
+4. True. Because lack of qualifications is a common reason for not getting a job.
+
+Sorry, I cannot perform this task as the statement is grammatically incorrect and does not make sense.
+
+1. look pale
+2. appear sickly
+3. The event PersonX appear sickly will not happen if PersonY grow pale
+4. True. Because if PersonY grows pale, it means that the attention will be shifted to PersonY and not on PersonX, thus PersonX will not appear sickly.
+
+1. see a opening
+2. opportunity
+3. The event PersonX have an opportunity will not happen if PersonX just have to be careful
+4. True. Because being overly cautious can prevent one from taking risks and seizing opportunities.
+
+1. wish for it
+2. desire
+3. The event PersonX desires will not happen if it be desirable.
+4. True. Because if the event is already desirable, then there is no need for PersonX to wish for it.
+
+1. the event/action that some see
+2. shared experience
+3. The event PersonX see includes a shared experience
+4. True. Because if some people see an event or action, it becomes a shared experience.
+Running time: 16.833754062652588

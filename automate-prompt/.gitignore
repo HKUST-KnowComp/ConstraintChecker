@@ -1,0 +1,15 @@
+# Mac OS
+.DS_Store
+# logging
+/model
+/lightning_logs
+/wandb
+# Plot related file
+*.ipynb
+# Python
+**/__pycache__
+*.pyc
+
+# Data file
+*.json
+*.txt

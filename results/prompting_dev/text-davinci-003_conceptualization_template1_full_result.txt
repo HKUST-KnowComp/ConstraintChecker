@@ -1,0 +1,574 @@
+##0
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX ejaculate" means PersonX is sexually aroused and 2) people tend to want to orgasm when they are sexually aroused.
+##1
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX go to fridge" means PersonX is looking for something, and 2) people tend to get a glass of wine from the fridge.
+##2
+1. D_c = 'mental state'
+2. No (because the ordered pair (D_c, D_i) = ('mental state', 'event') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##3
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX set off" means PersonX is ready to leave, and 2) "PersonX want to leave" means PersonX is motivated to leave.
+##4
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX enlist" means PersonX is willing to fight for country, and 2) people tend to fight for their country when they enlist.
+##5
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. False. Because, falling into a pool does not necessarily mean that the person's mother will enrol them in school.
+##6
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX shit" means PersonX needs to clean up the mess, and 2) people tend to put down some toilet paper in toilet to clean up the mess.
+##7
+
+1. D_c = 'mental state'
+2. No (because the ordered pair (D_c, D_i) = ('mental state', 'event') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##8
+
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'event') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##9
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. False. Because, the semantics of the inference suggests that PersonX does not want to be in debt.
+##0
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX withdraw money" means PersonX has money to pay the bill, and 2) people tend to pay their bills when they have money.
+##1
+1. D_c = 'mental state'
+2. No (because the ordered pair (D_c, D_i) = ('mental state', 'event') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##2
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX wire PersonY" means PersonX is trying to communicate with PersonY, and 2) sending a telegram is a way to communicate with someone.
+##3
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX escape" means PersonX is able to escape, and 2) people tend to want to escape when they see someone else is able to do so.
+##4
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX be work from home" means PersonX is able to work remotely, and 2) people tend to want to do what other people are able to do.
+##5
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX loan succeed" means PersonX are successful in loan, and 2) people tend to prefer successful people.
+##6
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'event') is not valid)
+3. No
+4. No. Because, result of 2 and 3 are both No.
+##7
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'event') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##8
+
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'event') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##9
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'event') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##0
+1. D_c = 'mental state'
+2. No (because the ordered pair (D_c, D_i) = ('mental state', 'event') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##1
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX have food poisoning" means PersonX are likely to have symptoms of food poisoning, and 2) one of the symptoms of food poisoning is throwing up.
+##2
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX earn more money" means PersonX have a better financial situation, and 2) people tend to want to stay in a place where they have a better financial situation.
+##3
+
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'event') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##4
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'event') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##5
+1. D_c = 'mental state'
+2. No (because the ordered pair (D_c, D_i) = ('mental state', 'event') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##6
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX go to fill up" means PersonX need gas, and 2) it is a logical result that PersonX need gas if PersonX go to fill up.
+##7
+
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'event') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##8
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. False. Because, the inference implies that PersonX will not be able to do something due to the event of moving out to live on own.
+##9
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX join" means PersonX are willing to join the organization, and 2) people tend to fill out paperwork when they join an organization.
+##0
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX get in shape" means PersonX are making effort to improve their physical condition, and 2) people tend to bet on other people's effort and success.
+##1
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'event') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##2
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. False. Because, even though PersonX steal PersonZ boyfriend, it does not necessarily mean that PersonY will have a boyfriend.
+##3
+
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'mental state') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##4
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'mental state') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##5
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'mental state') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##6
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'mental state') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##7
+
+1. D_c = 'mental state'
+2. Yes (because the ordered pair (D_c, D_i) = ('mental state', 'mental state') is valid)
+3. Yes
+4. True. Because 1) "PersonX read non fiction" means PersonX is interested in learning new things, and 2) people tend to feel curious when they are interested in learning new things.
+##8
+1. D_c = 'mental state'
+2. No (because the ordered pair (D_c, D_i) = ('mental state', 'mental state') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##9
+
+1. D_c = 'mental state'
+2. No (because the ordered pair (D_c, D_i) = ('mental state', 'mental state') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##0
+
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'mental state') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##1
+
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'mental state') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##2
+
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'mental state') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##3
+1. D_c = 'mental state'
+2. Yes (because the ordered pair (D_c, D_i) = ('mental state', 'mental state') is valid)
+3. Yes
+4. True. Because 1) "PersonX put PersonY in mind" means PersonX has strong emotion towards PersonY, and 2) people tend to feel nostalgic when they think of someone they care about.
+##4
+
+1. D_c = 'mental state'
+2. Yes (because the ordered pair (D_c, D_i) = ('mental state', 'mental state') is valid)
+3. Yes
+4. True. Because 1) "PersonX bear PersonY" means PersonX is supportive and caring to PersonY, and 2) people tend to feel safe and secure when they are supported and cared for.
+##5
+
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'mental state') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##6
+
+1. D_c = 'mental state'
+2. Yes (because the ordered pair (D_c, D_i) = ('mental state', 'mental state') is valid)
+3. Yes
+4. True. Because 1) "PersonX gaze at PersonY" means PersonX is showing interest in PersonY, and 2) people tend to blush when they feel someone is interested in them.
+##7
+
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'mental state') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##8
+
+1. D_c = 'persona'
+2. Yes (because the ordered pair (D_c, D_i) = ('persona', 'persona') is valid)
+3. Yes
+4. True. Because 1) "PersonX baby brother die" means PersonX has experience in taking care of a baby, and 2) people with experience in taking care of a baby are likely to be asked to babysit.
+##9
+
+1. D_c = 'persona'
+2. Yes (because the ordered pair (D_c, D_i) = ('persona', 'persona') is valid)
+3. Yes
+4. True. Because 1) "PersonX walk PersonY through process" means PersonX is knowledgeable and experienced in the process, and 2) people tend to see knowledgeable and experienced people as professional.
+##0
+
+1. D_c = 'persona'
+2. Yes (because the ordered pair (D_c, D_i) = ('persona', 'persona') is valid)
+3. Yes
+4. True. Because 1) "PersonX preorder" means PersonX is proactive and organized, and 2) people tend to get what they preorder.
+##1
+
+1. D_c = 'persona'
+2. Yes (because the ordered pair (D_c, D_i) = ('persona', 'persona') is valid)
+3. Yes
+4. True. Because 1) "PersonX stay happy" means PersonX has a positive attitude and is likely to be successful, and 2) people who are successful tend to be well paid.
+##2
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'persona') is valid)
+3. Yes
+4. True. Because 1) "PersonX hand slip" means PersonX is not careful enough, and 2) people tend to fall when their hands slip.
+##3
+
+1. D_c = 'persona'
+2. Yes (because the ordered pair (D_c, D_i) = ('persona', 'persona') is valid)
+3. Yes
+4. True. Because 1) "PersonX first start this job" means PersonX is willing to work and has the ability to work, and 2) people tend to attribute the willingness and ability to work as a person's attribute.
+##4
+1. D_c = 'persona'
+2. Yes (because the ordered pair (D_c, D_i) = ('persona', 'persona') is valid)
+3. Yes
+4. True. Because 1) "PersonX readily believe so" means PersonX is easily convinced, and 2) it can be seen from PersonX's attribute that PersonX is convinced.
+##5
+
+1. D_c = 'persona'
+2. Yes (because the ordered pair (D_c, D_i) = ('persona', 'persona') is valid)
+3. Yes
+4. True. Because 1) "PersonX have nothing else" means PersonX is in a situation where PersonX have no other choice, and 2) PersonX may choose to see PersonY as the only option.
+##6
+
+1. D_c = 'persona'
+2. Yes (because the ordered pair (D_c, D_i) = ('persona', 'persona') is valid)
+3. Yes
+4. True. Because 1) "PersonX have not hear a car drive up" means PersonX is not aware of the car, and 2) people tend to be startle when they are not aware of something.
+##7
+
+1. D_c = 'persona'
+2. Yes (because the ordered pair (D_c, D_i) = ('persona', 'persona') is valid)
+3. Yes
+4. True. Because 1) "PersonX miss" means PersonX is reliable and trustworthy, and 2) people tend to trust and rely on people who are reliable and trustworthy.
+##8
+
+1. D_c = 'mental state'
+2. Yes (because the ordered pair (D_c, D_i) = ('mental state', 'persona') is valid)
+3. Yes
+4. True. Because 1) "PersonX relate" means PersonX is able to connect with others, and 2) people who are able to connect with others tend to feel positive emotions.
+##9
+1. D_c = 'mental state'
+2. No (because the ordered pair (D_c, D_i) = ('mental state', 'persona') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##0
+
+1. D_c = 'mental state'
+2. Yes (because the ordered pair (D_c, D_i) = ('mental state', 'mental state') is valid)
+3. Yes
+4. True. Because 1) "PersonX believe thing" means PersonX has an intention to believe something, and 2) it can be seen that PersonX's intention is to believe something that is true.
+##1
+
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'mental state') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##2
+
+1. D_c = 'mental state'
+2. Yes (because the ordered pair (D_c, D_i) = ('mental state', 'mental state') is valid)
+3. Yes
+4. True. Because 1) "PersonX would at have one person" means PersonX has intention to have one person, and 2) "PersonX wish" means PersonX has a desire to have one person.
+##3
+1. D_c = 'mental state'
+2. Yes (because the ordered pair (D_c, D_i) = ('mental state', 'mental state') is valid)
+3. Yes
+4. True. Because 1) "PersonX can form a opinion" means PersonX is capable of forming opinion, and 2) it can be seen from PersonX's intention that PersonX have a opinion.
+##4
+
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'mental state') is not valid)
+3. No (because the meaning of the main clause is ambiguous)
+4. False. Because, result of 2 and 3 are No.
+##5
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX get even happier" means PersonX will be in a better emotional state than before, and 2) PersonX must be in a happy state in order to get even happier.
+##6
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX make wedding cake" means PersonX are willing to make a cake for the wedding, and 2) people tend to make PeopleX for everyone when they are willing to make a cake for the wedding.
+##7
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX just activate it" means PersonX has the ability to use it, and 2) the event will not happen unless PersonX use it.
+##8
+1. D_c = 'mental state'
+2. No (because the ordered pair (D_c, D_i) = ('mental state', 'event') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##9
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX pay by card" means PersonX needs to use a debit card to pay, and 2) PersonX can only pay if PersonX can use PersonX debit card.
+##0
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX want to be a actor" means PersonX has the ambition to become an actor, and 2) it is necessary to make plan in order to achieve the ambition.
+##1
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX make a speech" means PersonX will make a speech if PersonX start, and 2) PersonX will not make a speech unless PersonX start.
+##2
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX get sick of that" means PersonX is exposed to something that can make them sick, and 2) breathing is a necessary action to prevent PersonX from getting sick.
+##3
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX break PersonX hip" means PersonX has suffered an injury, and 2) people tend to recover from injuries.
+##4
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PeopleX go faster" means PeopleX are able to move quickly, and 2) people who are able to move quickly are considered to be fast.
+##5
+
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'event') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##6
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PeopleX retire" means PeopleX are older, and 2) people tend to retire when they are older.
+##7
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX do that well" means PersonX are skillful and successful in doing that, and 2) people tend to be amazed by other people's success.
+##8
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PeopleX be not home" means PeopleX are away from home, and 2) people tend to live a married life when they are away from home.
+##9
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX do something to PersonY" implies that PersonX has taken some action, and 2) "PersonY do something" implies that PersonY has taken some action in response.
+##0
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX love this soup" means PersonX likes the soup, and 2) people tend to become fans of things they like.
+##1
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX lock the door" means PersonX has taken the necessary action to prevent intrusion, and 2) when the door is locked, no one can intrude.
+##2
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX have a break" means PersonX have a rest and 2) people tend to be more productive after a break.
+##3
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX wouldnt" means PersonX had no faith before, and 2) "PersonX have faith" means PersonX now has faith.
+##4
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX be write a play" means PersonX is creative and has a good imagination, and 2) people tend to use corny pick up lines when they are creative and have a good imagination.
+##5
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. False. Because, the inference implies that if PersonX is interested, the event PersonX watch one will happen.
+##6
+
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'event') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##7
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. False. Because, the event of PersonX cleaning PersonY's bathroom will not happen if PersonX runs out of supplies.
+##8
+
+1. D_c = 'mental state'
+2. No (because the ordered pair (D_c, D_i) = ('mental state', 'event') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##9
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. False. Because, the inference implies that PersonX could have achieved something, but did not, so the event did not happen.
+##0
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. False. Because, if PersonY would better hurry, then the event PersonX run away will not happen.
+##1
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'event') is not valid)
+3. No
+4. No. Because, result of 2 and 3 are both No.
+##2
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. False. Because, the event PeopleX be gon na take pete there will not happen if PeopleY do not call PersonX bitch.
+##3
+
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'event') is not valid)
+3. No
+4. No. Because, result of 2 and 3 are both No.
+##4
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. False. Because, the inference implies that if PersonX misbehaves, then the event of PersonX misbehaving will not happen.
+##5
+
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'event') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##6
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. False. Because, the event of PersonX getting the job will not happen if PersonX has little experience.
+##7
+
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'event') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##8
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. False. Because, the inference implies that if PersonY grow pale, then PersonX will not look pale.
+##9
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. False. Because, the inference implies that if PersonX is careful, the event PersonX see a opening will not happen.
+##0
+
+1. D_c = 'event'
+2. No (because the ordered pair (D_c, D_i) = ('event', 'event') is not valid)
+3. Yes
+4. False. Because, result of 2 is No.
+##1
+
+1. D_c = 'event'
+2. Yes (because the ordered pair (D_c, D_i) = ('event', 'event') is valid)
+3. Yes
+4. True. Because 1) "PersonX see" means PersonX is able to observe the event/action, and 2) "some see" means some people are able to observe the event/action.

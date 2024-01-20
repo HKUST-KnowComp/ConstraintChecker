@@ -1,0 +1,102 @@
+0. True. Because 'PersonX ejaculate' means PersonX is sexually aroused and likely to want to reach orgasm.
+1. True. Because 'PersonX go to fridge' implies that PersonX is likely to have the intention of getting something from the fridge, and 'want to get a glass of wine' is a reasonable assumption.
+2. False. Because 'want to die' expresses extreme despair, which is not necessarily related to 'work tirelessly'.
+3. True. Because 'PersonX set off' means PersonX is leaving, and 'PersonX want to leave' expresses PersonX's intention.
+4. True. Because enlisting is an act of patriotism and wanting to fight for the country is a sign of loyalty.
+5. False. Because result of 2 is No.
+6. False. Because 'PersonX have to put down some toilet paper in toilet' expresses a requirement rather than a want.
+7. False. Because 'come' does not necessarily mean 'want to be paranoid'.
+8. False. Because result of 2 is No.
+9. False. Because 'want PersonX could not pay it back' expresses PersonX's wish rather than intention.
+0. True. Because withdrawing money is usually done in order to pay bills.
+1. False. Because having a cavity does not necessarily mean that PersonX wants to have a toothache.
+2. False. Because wiring someone does not necessarily mean wanting to get a telegram.
+3. True. Because 1) "PersonX escape" means PersonX is able to escape, and 2) people tend to want to escape when they see someone else is able to do so.
+4. True. Because 1) "PersonX be work from home" means PersonX is successful in working remotely, and 2) people tend to want to be successful in the same field as others.
+5. True. Because 1) "PersonX loan succeed" means PersonX are successful in loan, and 2) people tend to prefer successful people.
+6. False. Because result of 2 and 3 are No.
+7. False. Because result of 3 is No.
+8. False. Because result of 2 and 3 are No.
+9. False. Because, result of 2 is No.
+0. True. Because 1) "PersonX get really paranoid" means PersonX are anxious and fearful, and 2) being nervous is a common reaction to anxiety and fear.
+1. True. Because having food poisoning usually results in throwing up.
+2. True. Because 1) "PersonX earn more money" means PersonX have a better financial situation, and 2) people tend to want to stay in a place where they have a better financial situation.
+3. True. Because 1) "PersonX feel very sick" means PersonX needs medical attention, and 2) having medicine is a common way to treat sickness.
+4. False. Because deciding does not necessarily mean being indecisive.
+5. False. Because seeing a dead body does not necessarily mean that PersonX will not cry.
+6. True. Because 'PersonX go to fill up' means PersonX need gas to fill up the tank.
+7. False. Because result of 2 is No.
+8. False. Because 'move out to live on own' does not necessarily mean 'PersonX wont be able'.
+9. True. Because joining usually requires paperwork to be filled out.
+0. False. Because result of 2 is No.
+1. False. Because PersonX has already caused the harm, so PersonY does not cause the harm.
+2. False. Because stealing someone's boyfriend does not necessarily result in another person having a boyfriend.
+3. False. Because, result of 2 is No.
+4. False. Because, result of 2 is No.
+5. False. Because, result of 2 is No.
+6. False. Because, result of 2 is No.
+7. True. Because 1) reading non fiction likely result in curiosity, and 2) feeling curious is an emotion.
+8. False. Because, result of 2 is No.
+9. False. Because, result of 2 is No.
+0. False. Because, result of 2 is No.
+1. False. Because, result of 2 is No.
+2. True. Because 1) "PersonX create that" means PersonX are effortful and creative in creating something, and 2) people tend to love to do something they are effortful and creative in.
+3. True. Because 1) "PersonX put PersonY in mind" means PersonX is thinking about PersonY, and 2) nostalgia is a feeling of longing for a past time or experience.
+4. True. Because 1) "PersonX bear PersonY" means PersonX is supportive and caring to PersonY, and 2) people tend to feel safe and secure when they are supported and cared by others.
+5. False. Because 'PersonY feel PersonY be kind' expresses PersonY's self-perception rather than emotion.
+6. True. Because 1) gazing at someone usually expresses admiration or affection, and 2) blushing is a common response to admiration or affection.
+7. True. Because 1) playing ana is likely to be fun, and 2) people tend to feel fun when they are playing.
+8. False. Because having a baby brother die is likely result from unfortune or carelessness, while being a babysitter is not relevant.
+9. True. Because walking someone through a process implies that PersonX is knowledgeable and experienced in the process, which is a professional attribute.
+0. False. Because result of 3 is No.
+1. False. Because staying happy does not necessarily mean that PersonX is well pay.
+2. False. Because result of 2 is No.
+3. False. Because starting a job does not necessarily mean that PersonX is a hard worker.
+4. True. Because 'readily believe so' expresses PersonX's willingness to accept something, and being convinced is relevant to this willingness.
+5. False. Because having nothing else does not necessarily mean that PersonX will see PersonY.
+6. True. Because not hearing a car drive up likely result from not being aware of the environment, while being startle is relevant.
+7. False. Because missing something does not necessarily mean that a person is a promise.
+8. True. Because 'relate' expresses the connection between two people, and feeling is a common response to such connection.
+9. True. Because mistakenly shaving someone's head is likely to make the person upset.
+0. True. Because 'believe thing' expresses PersonX's intention to believe something is true.
+1. False. Because, result of 2 is No.
+2. True. Because 1) "PersonX would at have one person" means PersonX desires to have one person, and 2) wishing is an expression of desire.
+3. True. Because 1) "PersonX can form a opinion" means PersonX is capable of forming opinion, and 2) people tend to have opinion when they are capable of forming one.
+4. False. Because result of either 2 or 3 is No.
+5. True. Because 1) "PersonX get even happier" means PersonX is already happy, and 2) it is impossible to get even happier unless PersonX is already happy.
+6. False. Because making PeopleX for everyone is not a necessary condition for the event of making wedding cake to happen.
+7. True. Because 1) "PersonX just activate it" means PersonX has the ability to use it, and 2) the event will not happen unless PersonX use it.
+8. False. Because being intolerant is not necessary for the event 'PersonX go lady at counter' to happen.
+9. False. Because the event of PersonX paying by card will not happen unless PersonX can use PersonX debit card, which means the event of PersonX paying by card is dependent on the event of PersonX using PersonX debit card.
+0. True. Because 1) "PersonX want to be a actor" means PersonX has the ambition to become an actor, and 2) making plan is necessary for achieving the ambition.
+1. True. Because 1) "PersonX make a speech" means PersonX will start speaking, and 2) the inference implies that PersonX must start in order for the event to happen.
+2. False. Because 'PersonX breathe' does not necessarily mean 'PersonX get sick of that' will happen.
+3. True. Because breaking one's hip is a serious injury, and it is reasonable to assume that PersonX has begun to recover from it.
+4. True. Because 'PeopleX go faster' implies that PeopleX have the ability to go fast, and 'PeopleX be fast' expresses the attribute of PeopleX.
+5. True. Because 1) "harvey have a secret" means harvey has something that he does not want to share, and 2) people tend to ask others when they have something to hide.
+6. True. Because retiring usually happens when people reach a certain age, and being older is a common attribute of people who have retired.
+7. False. Because result of 3 is No.
+8. False. Because 'not home' does not necessarily mean 'live a married life'.
+9. True. Because the inference implies that PersonY's action is a response to PersonX's action.
+0. True. Because 1) "PersonX love this soup" means PersonX has a positive attitude towards the soup, and 2) people tend to become fans of things they like.
+1. True. Because locking the door prevents people from intruding.
+2. True. Because 1) "PersonX have a break" means PersonX have a pause or rest, and 2) after a pause or rest, PersonX can totally get it.
+3. False. Because 'wouldnt' expresses a negative attitude, while 'have faith' expresses a positive attitude.
+4. False. Because using a corny pick up line is not relevant to writing a play.
+5. False. Because being interested does not necessarily mean the event will not happen.
+6. False. Because result of 3 is No.
+7. False. Because the event of PersonX cleaning PersonY's bathroom will not happen if PersonX runs out of supplies.
+8. False. Because being happier does not necessarily mean the event will not happen.
+9. False. Because 'PersonX could have' does not necessarily mean 'PersonX achieve that will not happen'.
+0. True. Because if PersonY hurry, then the event of PersonX running away will not happen.
+1. False. Because result of 2 and 3 are No.
+2. False. Because result of 2 is No.
+3. False. Because result of either 2 or 3 is No.
+4. False. Because the two main clauses are not related to each other.
+5. False. Because result of 2 is No.
+6. False. Because having little experience is likely to prevent PersonX from getting the job.
+7. False. Because result of 3 is No.
+8. False. Because 'PersonX look pale' and 'PersonY grow pale' are two different events, and the inference does not provide any evidence that one event will cause the other.
+9. False. Because 'just have to be careful' expresses PersonX's caution rather than the event of 'seeing a opening' not happening.
+0. False. Because 'it be desirable' expresses PersonX's preference rather than the event itself.
+1. False. Because result of 3 is No.
